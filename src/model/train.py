@@ -15,7 +15,9 @@ from tokenizers.pre_tokenizers import Whitespace
 
 from torch.utils.tensorboard import SummaryWriter
 
+import warnings
 
+from tqdm import tqdm
 from pathlib import Path
 
 def get_all_sentences(ds, lang):
@@ -108,7 +110,56 @@ def train_model(config):
     loss_fn = nn.CrossEntropy(ignore_index=tokenizer_src.token_to_id(['PAD']), label_smoothing=0.1).to(device)
 
     for epoch in range(initial_epoch, config['num_epochs']):
+
         model.train()
-        
-        # 
-        batch_iterator = tqdm(train_dataloader)
+        batch_iterator = tqdm(train_dataloader, desc=f'Processing epoch {epoch:02d}')
+
+        for batch in batch_iterator:
+
+            encoder_input = batch['encoder_input'].to(device) # (B, seq_len)
+            decoder_input = batch['decoder_input'].to(device) # (B, seq_len)
+            encoder_mask = batch['encoder_mask'].to(device) # (B, 1, 1, seq_len); only hiding the padding tokens
+            decoder_mask = batch['decoder_mask'].to(device) # (B, 1, seq_len, seq_len); hidding the subsequent words
+
+            # runs the tensors through the transformer
+            encoder_output = model.encode(encoder_input, encoder_mask) # (B, seq_len, d_model)
+            decoder_output = model.decode(encoder_output, encoder_mask, decoder_input, decoder_mask) # (B, seq_len, d_model)
+            # projection output, model output
+            projection_output = model.project(decoder_output) # (B, seq_len, target_vocab_size) 
+
+            label = batch['label'].to(device) # (B, seq_len) for each batch, we find the position in the vocabulary for a particular word label 
+
+            # compare output to the label
+            # turns (B, seq_len, target_vocab_size)  -> (B * seq_len, target_vocab_size) 
+            loss = loss_fn(projection_output.view(-1, tokenizer_tgt.get_vocab_size()), label.view(-1))
+            # shows loss on progress bar
+            batch_iterator.set_postfix({f'loss':f'{loss.item():6.3f}'})
+
+            # record the loss
+            writer.add_scalar('train loss', loss.item(), global_step)
+            writer.flush()
+
+            # backpropagate the loss
+            loss.backward()
+
+            # update the weights
+            optimizer.step()
+            optimizer.zero_grad()
+
+            global_step+=1
+        # save the model at the end of every epoch
+        model_filename = get_weights_file_path(config, f'{epoch:02d}')   
+        # good to store both model + optimizer since optimizer keeps track of stats 
+        # for each weight and how to move each weight independently
+        torch.save({
+            'epoch':epoch,
+            'model_state_dict':model.state_dict(),
+            'optimizer_state_dict':optimizer.state_dict(),
+            'global_step':global_step
+        }, model_filename)
+
+if __name__ == 'main':
+    warnings.filterwarnings('ignore')
+    config = get_config()
+    train_model(config)
+
