@@ -4,6 +4,7 @@ from torch.utils.data import Dataset, DataLoader, random_split
 
 
 from dataset.dataset import AAVE_SAE_Dataset, causal_mask
+from model import build_transformer
 from datasets import load_dataset
 from tokenizers import Tokenizer
 from tokenizers.models import WordLevel
@@ -44,4 +45,29 @@ def get_ds(config):
     train_dataset = AAVE_SAE_Dataset(train_dataset_raw, tokenizer_source, tokenizer_target, 
                                      config['lang_src'], config['lang_tgt'], config['seq_len'])
     val_dataset = AAVE_SAE_Dataset(val_dataset_raw, tokenizer_source, tokenizer_target, 
-                                   config['lang_src'], config['lang_tgt'], )
+                                   config['lang_src'], config['lang_tgt'], config['seq_len'])
+    
+    max_len_src = 0
+    max_len_target = 0
+
+    for item in dataset_raw:
+        source_ids = tokenizer_source.encode(item['translation'][ config['lang_src'] ]).ids
+        target_ids = tokenizer_source.encoder(item['translation'][ config['lang_tgt'] ]).ids
+        max_len_src = max(max_len_src, len(source_ids))
+        max_len_target = max(max_len_target, len(target_ids))
+
+    print(f'Max length of source ids: {max_len_src}')
+    print(f'Max length of target ids: {max_len_target}')
+
+    train_dataloader = DataLoader(train_dataset, batch_size=config['batch_size'], shuffle=True)
+    val_dataloader = DataLoader(val_dataset, batch_size=1, shuffle=True)
+
+    return train_dataloader, val_dataloader, tokenizer_source, tokenizer_target
+
+def get_model(config, vocab_source_len, vocab_target_len):
+
+    # builds a transformer model
+    model = build_transformer(vocab_source_len, vocab_target_len, 
+                              config['seq_len'], config['seq_len'], config['d_model'])
+    
+    return model
