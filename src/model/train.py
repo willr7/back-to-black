@@ -1,6 +1,9 @@
 import torch
 import torch.nn as nn
+from torch.utils.data import Dataset, DataLoader, random_split
 
+
+from dataset.dataset import AAVE_SAE_Dataset, causal_mask
 from datasets import load_dataset
 from tokenizers import Tokenizer
 from tokenizers.models import WordLevel
@@ -26,5 +29,19 @@ def get_or_build_tokenizer(config, ds, lang):
     return tokenizer
 
 def get_ds(config):
-    ...
-    return 
+    
+    dataset_raw = load_dataset('Insert dataset name', f'{config['lang_src']}-{config['lang_tgt']}', split="train")
+
+    # Build tokenizers
+    tokenizer_source = get_or_build_tokenizer(config, dataset_raw, config['lang_src'])
+    tokenizer_target = get_or_build_tokenizer(config, dataset_raw, config['lang_tgt']) 
+
+    # Keep 90% for training and 10% for validation
+    train_dataset_size = int(0.9 * len(dataset_raw))
+    val_dataset_size = int(dataset_raw) - train_dataset_size
+    train_dataset_raw, val_dataset_raw = random_split(dataset_raw, [train_dataset_size, val_dataset_size])
+
+    train_dataset = AAVE_SAE_Dataset(train_dataset_raw, tokenizer_source, tokenizer_target, 
+                                     config['lang_src'], config['lang_tgt'], config['seq_len'])
+    val_dataset = AAVE_SAE_Dataset(val_dataset_raw, tokenizer_source, tokenizer_target, 
+                                   config['lang_src'], config['lang_tgt'], )
