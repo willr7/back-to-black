@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Genius Scraper",
+  "description": "Scrape Lyrics From Genius",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["https://genius.com/artists/*/songs"],
+      "js": ["artist-scraper.js", "song-scraper.js"],
+      "type": "module"
+    },
+    {
+      "matches": ["https://genius.com/*-lyrics"],
+      "js": ["song-scraper.js"],
+      "type": "module"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["*.js"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
