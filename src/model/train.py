@@ -5,11 +5,16 @@ from torch.utils.data import Dataset, DataLoader, random_split
 
 from dataset.dataset import AAVE_SAE_Dataset, causal_mask
 from model import build_transformer
+from config import get_weights_file_path, get_config
+
 from datasets import load_dataset
 from tokenizers import Tokenizer
 from tokenizers.models import WordLevel
 from tokenizers.trainers import WordLevelTrainer
 from tokenizers.pre_tokenizers import Whitespace
+
+from torch.utils.tensorboard import SummaryWriter
+
 
 from pathlib import Path
 
@@ -71,3 +76,39 @@ def get_model(config, vocab_source_len, vocab_target_len):
                               config['seq_len'], config['seq_len'], config['d_model'])
     
     return model
+
+def train_model(config):
+    # define the device
+    device = torch.device("cuda" if torch.cuda_is_available() else 'cpu')
+    print(f"Using device {device}")
+
+    Path(config['model_folder']).mkdir(parents=True, exist_ok=True)
+
+    train_dataloader, val_dataloader, tokenizer_src, tokenizer_tgt = get_ds(config)
+    model = get_model(config, tokenizer_src.get_vocab_size(), tokenizer_tgt.get_vocab_size()).to(device)
+
+    # Tensorboard
+    writer = SummaryWriter(config['experiment_name'])
+
+    optimizer = torch.optim.Adam(model.parameters(), lr=config['lr'], eps=1e-9)
+
+    # restore the state of the model/optimizer if the model crashes
+    initial_epoch = 0
+    global_step = 0
+
+    if config['preload']:
+        model_filename = get_weights_file_path(config, config['preload'])
+        print(f'Preloading model: {model_filename}')
+        state = torch.load(model_filename)
+
+        initial_epoch = state['epoch'] + 1
+        optimizer.load_state_dict(state['optimizer_state_dict'])
+        global_step = state['global_step']
+
+    loss_fn = nn.CrossEntropy(ignore_index=tokenizer_src.token_to_id(['PAD']), label_smoothing=0.1).to(device)
+
+    for epoch in range(initial_epoch, config['num_epochs']):
+        model.train()
+        
+        # 
+        batch_iterator = tqdm(train_dataloader)
