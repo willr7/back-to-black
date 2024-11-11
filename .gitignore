@@ -1,0 +1,5 @@
+data
+*.json
+runs
+weights
+__pycache__

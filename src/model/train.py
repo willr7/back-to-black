@@ -2,8 +2,10 @@ import torch
 import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader, random_split
 
+from datasets import Dataset as HuggingFaceDataset
 
-from dataset.dataset import AAVE_SAE_Dataset, causal_mask
+
+from dataset import AAVE_SAE_Dataset, causal_mask
 from model import build_transformer
 from config import get_weights_file_path, get_config
 
@@ -123,23 +125,36 @@ def run_validation(model, validation_ds, tokenizer_src, tokenizer_tgt, max_len, 
 
 def get_all_sentences(ds, lang):
     for item in ds:
-        yield item['translation'][lang]
+        yield item[lang]
 
 def get_or_build_tokenizer(config, ds, lang):
-    tokenizer_path = Path(config["tokenizer_path".format(lang)])
+    tokenizer_path = Path(config["tokenizer_file"].format(lang))
     if not Path.exists(tokenizer_path):
         tokenizer = Tokenizer(WordLevel(unk_token="[UNK]"))
         tokenizer.pre_tokenizer = Whitespace()
-        trainer = WordLevelTrainer(special_tokens=["[UNK]", "[PAD]", "[BOS]", "[EOS]"], min_frequency=2)
+        trainer = WordLevelTrainer(special_tokens=["[UNK]", "[PAD]", "[SOS]", "[EOS]"], min_frequency=2)
         tokenizer.train_from_iterator(get_all_sentences(ds, lang), trainer=trainer)
         tokenizer.save(str(tokenizer_path))
     else:
         tokenizer = Tokenizer.from_file(str(tokenizer_path))
     return tokenizer
 
+def load_aave_sae_dataset(aave_path, sae_path):
+    with open(aave_path, 'r', encoding='utf-8') as f:
+        aave_texts = f.readlines()
+    with open(sae_path, 'r', encoding='utf-8') as f:
+        sae_texts = f.readlines()
+
+    # Check lengths match
+    assert len(aave_texts) == len(sae_texts), "Mismatch in line counts between files"
+
+    # Create dataset dictionary
+    return HuggingFaceDataset.from_dict({"AAVE": aave_texts, "SAE": sae_texts})
+
 def get_ds(config):
-    
-    dataset_raw = load_dataset('Insert dataset name', f'{config['lang_src']}-{config['lang_tgt']}', split="train")
+    # dataset_raw = load_dataset('Insert dataset name', f'{config["lang_src"]}-{config["lang_tgt"]}', split="train")
+
+    dataset_raw = load_aave_sae_dataset(aave_file_path, sae_file_path)
 
     # Build tokenizers
     tokenizer_source = get_or_build_tokenizer(config, dataset_raw, config['lang_src'])
@@ -147,7 +162,7 @@ def get_ds(config):
 
     # Keep 90% for training and 10% for validation
     train_dataset_size = int(0.9 * len(dataset_raw))
-    val_dataset_size = int(dataset_raw) - train_dataset_size
+    val_dataset_size = int(len(dataset_raw)) - train_dataset_size
     train_dataset_raw, val_dataset_raw = random_split(dataset_raw, [train_dataset_size, val_dataset_size])
 
     train_dataset = AAVE_SAE_Dataset(train_dataset_raw, tokenizer_source, tokenizer_target, 
@@ -159,8 +174,8 @@ def get_ds(config):
     max_len_target = 0
 
     for item in dataset_raw:
-        source_ids = tokenizer_source.encode(item['translation'][ config['lang_src'] ]).ids
-        target_ids = tokenizer_source.encoder(item['translation'][ config['lang_tgt'] ]).ids
+        source_ids = tokenizer_source.encode(item[ config['lang_src'] ]).ids
+        target_ids = tokenizer_source.encode(item[ config['lang_tgt'] ]).ids
         max_len_src = max(max_len_src, len(source_ids))
         max_len_target = max(max_len_target, len(target_ids))
 
@@ -181,8 +196,18 @@ def get_model(config, vocab_source_len, vocab_target_len):
 
 def train_model(config):
     # define the device
-    device = torch.device("cuda" if torch.cuda_is_available() else 'cpu')
-    print(f"Using device {device}")
+    device = "cuda" if torch.cuda.is_available() else "mps" if torch.has_mps or torch.backends.mps.is_available() else "cpu"
+    print("Using device:", device)
+    if (device == 'cuda'):
+        print(f"Device name: {torch.cuda.get_device_name(device.index)}")
+        print(f"Device memory: {torch.cuda.get_device_properties(device.index).total_memory / 1024 ** 3} GB")
+    elif (device == 'mps'):
+        print(f"Device name: <mps>")
+    else:
+        print("NOTE: If you have a GPU, consider using it for training.")
+        print("      On a Windows machine with NVidia GPU, check this video: https://www.youtube.com/watch?v=GMSjDTU8Zlc")
+        print("      On a Mac machine, run: pip3 install --pre torch torchvision torchaudio torchtext --index-url https://download.pytorch.org/whl/nightly/cpu")
+    device = torch.device(device)
 
     Path(config['model_folder']).mkdir(parents=True, exist_ok=True)
 
@@ -207,7 +232,7 @@ def train_model(config):
         optimizer.load_state_dict(state['optimizer_state_dict'])
         global_step = state['global_step']
 
-    loss_fn = nn.CrossEntropy(ignore_index=tokenizer_src.token_to_id(['PAD']), label_smoothing=0.1).to(device)
+    loss_fn = nn.CrossEntropyLoss(ignore_index=tokenizer_src.token_to_id('[PAD]'), label_smoothing=0.1).to(device)
 
     for epoch in range(initial_epoch, config['num_epochs']):
 
@@ -259,7 +284,80 @@ def train_model(config):
         }, model_filename)
 
 
-if __name__ == 'main':
-    warnings.filterwarnings('ignore')
+def translate(sentence: str):
+    # Define the device, tokenizers, and model
+    device = "cuda" if torch.cuda.is_available() else "mps" if torch.has_mps or torch.backends.mps.is_available() else "cpu"
+    print("Using device:", device)
+    if (device == 'cuda'):
+        print(f"Device name: {torch.cuda.get_device_name(device.index)}")
+        print(f"Device memory: {torch.cuda.get_device_properties(device.index).total_memory / 1024 ** 3} GB")
+    elif (device == 'mps'):
+        print(f"Device name: <mps>")
+    else:
+        print("NOTE: If you have a GPU, consider using it for training.")
+        print("      On a Windows machine with NVidia GPU, check this video: https://www.youtube.com/watch?v=GMSjDTU8Zlc")
+        print("      On a Mac machine, run: pip3 install --pre torch torchvision torchaudio torchtext --index-url https://download.pytorch.org/whl/nightly/cpu")
+    device = torch.device(device)
+    print("Using device:", device)
+    config = get_config()
+    tokenizer_src = Tokenizer.from_file(str(Path(config['tokenizer_file'].format(config['lang_src']))))
+    tokenizer_tgt = Tokenizer.from_file(str(Path(config['tokenizer_file'].format(config['lang_tgt']))))
+    model = build_transformer(tokenizer_src.get_vocab_size(), tokenizer_tgt.get_vocab_size(), config["seq_len"], config['seq_len'], d_model=config['d_model']).to(device)
+
+    # Load the pretrained weights
+    model_filename = ""
+    state = torch.load(model_filename)
+    model.load_state_dict(state['model_state_dict'])
+
+    label = ""
+    seq_len = config['seq_len']
+
+    # translate the sentence
+    model.eval()
+    with torch.no_grad():
+        # Precompute the encoder output and reuse it for every generation step
+        source = tokenizer_src.encode(sentence)
+        source = torch.cat([
+            torch.tensor([tokenizer_src.token_to_id('[SOS]')], dtype=torch.int64), 
+            torch.tensor(source.ids, dtype=torch.int64),
+            torch.tensor([tokenizer_src.token_to_id('[EOS]')], dtype=torch.int64),
+            torch.tensor([tokenizer_src.token_to_id('[PAD]')] * (seq_len - len(source.ids) - 2), dtype=torch.int64)
+        ], dim=0).to(device)
+        source_mask = (source != tokenizer_src.token_to_id('[PAD]')).unsqueeze(0).unsqueeze(0).int().to(device)
+        encoder_output = model.encode(source, source_mask)
+
+        # Initialize the decoder input with the sos token
+        decoder_input = torch.empty(1, 1).fill_(tokenizer_tgt.token_to_id('[SOS]')).type_as(source).to(device)
+
+        # Print the source sentence and target start prompt
+        print(f"{f'SOURCE: ':>12}{sentence}")
+        print(f"{f'PREDICTED: ':>12}", end='')
+
+        # Generate the translation word by word
+        while decoder_input.size(1) < seq_len:
+            # build mask for target and calculate output
+            decoder_mask = torch.triu(torch.ones((1, decoder_input.size(1), decoder_input.size(1))), diagonal=1).type(torch.int).type_as(source_mask).to(device)
+            out = model.decode(encoder_output, source_mask, decoder_input, decoder_mask)
+
+            # project next token
+            prob = model.project(out[:, -1])
+            _, next_word = torch.max(prob, dim=1)
+            decoder_input = torch.cat([decoder_input, torch.empty(1, 1).type_as(source).fill_(next_word.item()).to(device)], dim=1)
+
+            # print the translated word
+            print(f"{tokenizer_tgt.decode([next_word.item()])}", end=' ')
+
+            # break if we predict the end of sentence token
+            if next_word == tokenizer_tgt.token_to_id('[EOS]'):
+                break
+
+    # convert ids to tokens
+    return tokenizer_tgt.decode(decoder_input[0].tolist())
+
+if __name__ == '__main__':
+    # warnings.filterwarnings('ignore')
+    aave_file_path = "../data/aave_samples.txt"
+    sae_file_path = "../data/sae_samples.txt"
     config = get_config()
     train_model(config)
+    # translate("I'm going to the store.")
