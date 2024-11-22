@@ -2,7 +2,6 @@ import torch
 import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader, random_split
 
-
 from dataset.dataset import AAVE_SAE_Dataset, causal_mask
 from model import build_transformer
 from config import get_weights_file_path, get_config
@@ -16,7 +15,6 @@ from tokenizers.pre_tokenizers import Whitespace
 from torch.utils.tensorboard import SummaryWriter
 
 import warnings
-
 from tqdm import tqdm
 from pathlib import Path
 
