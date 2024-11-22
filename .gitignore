@@ -1,0 +1,6 @@
+data
+*.json
+runs
+weights
+__pycache__
+.DS_Store
