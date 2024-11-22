@@ -29,7 +29,7 @@ def greedy_decode(model, source, source_mask, tokenizer_src, tokenizer_tgt, max_
 
 def beam_search(model, beam_size, encoder_input, encoder_mask, tokenizer_source, tokenizer_target, max_len, device):
     """
-    Performs beam search on the encoder
+    Performs beam search on the encoder input
     
     Parameters:
     encoder_input: Torch.Tensor
