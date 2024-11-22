@@ -19,26 +19,23 @@ class AAVE_SAE_Dataset(Dataset):
         self.target_lang = target_lang
         self.seq_len = seq_len
 
-        # start of sentence token, converting token into a number 
-        self.sos_token = torch.Tensor([ tokenizer_src.token_to_id(['[SOS]']) ], dtype=torch.int64)
-        # end of sentence token
-        self.eos_token = torch.Tensor([ tokenizer_src.token_to_id(['[EOS]']) ], dtype=torch.int64)
-        # padding token
-        self.pad_token = torch.Tensor([ tokenizer_src.token_to_id(['[PAD]']) ], dtype=torch.int64)
+        self.sos_token = torch.tensor([ tokenizer_src.token_to_id('[SOS]') ], dtype=torch.int64)
+        self.eos_token = torch.tensor([ tokenizer_src.token_to_id('[EOS]') ], dtype=torch.int64)
+        self.pad_token = torch.tensor([ tokenizer_src.token_to_id('[PAD]') ], dtype=torch.int64)
 
     def __len__(self):
         return len(self.dataset)
     
-    def __getitem__(self, index:Any) -> Any:
+    def __getitem__(self, index:any) -> any:
 
         src_target_pair = self.dataset[index]
-        source_text = src_target_pair["translation"][self.source_lang]
-        target_text = src_target_pair["translation"][self.target_lang]
+        source_text = src_target_pair[self.source_lang]
+        target_text = src_target_pair[self.target_lang]
 
         # array of input ids, #'s that correspond to each word
         encoder_input_tokens = self.tokenizer_src.encode(source_text).ids
         # array of output ids
-        decoder_input_tokens = self.tokenizer_target.decode(target_text).ids
+        decoder_input_tokens = self.tokenizer_target.encode(target_text).ids
         
         encoder_num_pad_tokens = self.seq_len - len(encoder_input_tokens) - 2 # including EOS and SOS token
         decoder_num_pad_tokens = self.seq_len - len(decoder_input_tokens) - 1 # only adds either EOS or SOS token
@@ -60,7 +57,7 @@ class AAVE_SAE_Dataset(Dataset):
         decoder_input = torch.cat(
             [
                 self.sos_token,
-                torch.tensor(decoder_input, dtype=torch.int64),
+                torch.tensor(decoder_input_tokens, dtype=torch.int64),
                 torch.tensor([self.pad_token] * decoder_num_pad_tokens, dtype=torch.int64)
             ]
         )
@@ -92,5 +89,5 @@ class AAVE_SAE_Dataset(Dataset):
 
 def causal_mask(size):
     # gets the upper trianglar matrix above diagonal
-    mask = torch.triu( torch.ones(1, size, size), diagonal=1.).type(torch.int)
+    mask = torch.triu( torch.ones((1, size, size)), diagonal=1).type(torch.int)
     return mask == 0
