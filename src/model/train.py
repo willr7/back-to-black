@@ -6,15 +6,13 @@ import torch
 import torch.nn as nn
 import torchmetrics
 from config import get_config, get_weights_file_path
-from dataset import AAVE_SAE_Dataset, causal_mask
+from dataset import Source_Target_Dataset, causal_mask
 from datasets import Dataset as HuggingFaceDataset
 
 
-from dataset import AAVE_SAE_Dataset, causal_mask
 from model import build_transformer
 from config import get_weights_file_path, get_config
 
-from datasets import load_dataset
 from tokenizers import Tokenizer
 from tokenizers.models import BPE
 from tokenizers.pre_tokenizers import Whitespace
@@ -261,7 +259,7 @@ def get_or_build_tokenizer(config, ds, lang):
     if not Path.exists(tokenizer_path):
         tokenizer = Tokenizer(BPE(unk_token="[UNK]"))
         trainer = BpeTrainer(
-            vocab_size=500,
+            vocab_size=config["vocab_size"],
             special_tokens=["[UNK]", "[PAD]", "[SOS]", "[EOS]"],
         )
         tokenizer.train_from_iterator(get_all_sentences(ds, lang), trainer=trainer)
