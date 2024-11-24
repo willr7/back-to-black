@@ -1,0 +1,1880 @@
+Line	Spkr	StTime	Content	EnTime
+1	DCA_int_04	0.3745	Just say-	0.7662
+2	DCA_int_04	0.7662	(pause 0.13)	0.8921
+3	DCA_int_04	0.8921	Say your name.	1.3397
+4	DCA_int_04	1.3397	(pause 0.35)	1.6847
+5	DCA_int_04	1.6847	Your whole name.	2.1697
+6	DCA_se1_ag1_f_02	2.4355	/RD-NAME-5/.	4.1281
+7	DCA_int_04	4.5186	Uh-huh, and how old are you?	5.7403
+8	DCA_se1_ag1_f_02	6.1833	Eleven and a half.	7.4842
+9	DCA_int_04	7.6847	And where do you live?	8.9204
+10	DCA_se1_ag1_f_02	9.3774	/RD-ADDRESS-5/.	11.1213
+11	DCA_se1_ag1_f_02	11.1213	(pause 0.12)	11.2461
+12	DCA_se1_ag1_f_02	11.2461	[Northwest.]	11.9921
+13	DCA_int_04	11.2461	[Okay.]	11.9921
+14	DCA_int_04	12.4351	And um, what else can I ask you?	14.3888
+15	DCA_int_04	14.3888	(pause 1.10)	15.4846
+16	DCA_int_04	15.4846	Nothing? Okay.	16.1421
+17	DCA_int_04	16.1421	(pause 2.72)	18.8641
+18	DCA_int_04	18.8641	Do you play any games	20.2956
+19	DCA_int_04	20.2956	(pause 1.01)	21.3028
+20	DCA_int_04	21.3028	when you're out of-	21.7831
+21	DCA_int_04	21.7831	(pause 0.15)	21.9369
+22	DCA_int_04	21.9369	You know, when your-	22.6923
+23	DCA_int_04	22.6923	(pause 0.12)	22.8136
+24	DCA_int_04	22.8136	after school's over?	23.7508
+25	DCA_se1_ag1_f_02	23.9362	Yeah.	24.3232
+26	DCA_int_04	24.4351	Mm-hm. What kind of games do you play?	25.8293
+27	DCA_se1_ag1_f_02	26.7280	I play kickball, jump rope.	28.6270
+28	DCA_se1_ag1_f_02	28.6270	(pause 0.73)	29.3533
+29	DCA_se1_ag1_f_02	29.3533	Sometime I just be at home.	30.7662
+30	DCA_se1_ag1_f_02	30.7662	(pause 0.55)	31.3117
+31	DCA_se1_ag1_f_02	31.3117	That's all.	31.7081
+32	DCA_int_04	31.8433	Mm-hm.	32.3282
+33	DCA_int_04	32.3282	(pause 0.32)	32.6500
+34	DCA_int_04	32.6500	Well,	32.9624
+35	DCA_int_04	32.9624	(pause 0.17)	33.1302
+36	DCA_int_04	33.1302	how do you play kickball?	34.3426
+37	DCA_se1_ag1_f_02	35.7916	Uh,	36.2486
+38	DCA_se1_ag1_f_02	36.2486	(pause 0.22)	36.4677
+39	DCA_se1_ag1_f_02	36.4677	team-	37.0086
+40	DCA_se1_ag1_f_02	37.0086	(pause 0.46)	37.4703
+41	DCA_se1_ag1_f_02	37.4703	two team- You have to have two team.	39.1349
+42	DCA_int_04	39.2375	Mm.	39.5965
+43	DCA_se1_ag1_f_02	39.5126	Usually you have boys on one side, girls on other.	41.9641
+44	DCA_se1_ag1_f_02	42.2905	And then they roll the ball and then you kick it.	43.9132
+45	DCA_se1_ag1_f_02	43.9132	(pause 0.08)	43.9925
+46	DCA_se1_ag1_f_02	43.9925	And then you have to- you- you- a-	45.2142
+47	DCA_se1_ag1_f_02	45.2142	(pause 0.17)	45.3867
+48	DCA_se1_ag1_f_02	45.3867	And if they get three outs-	46.6970
+49	DCA_se1_ag1_f_02	46.6970	(pause 0.47)	47.1633
+50	DCA_se1_ag1_f_02	47.1633	If you kick the ball, and they catch it, that's one out.	49.2185
+51	DCA_se1_ag1_f_02	49.2185	(pause 0.40)	49.6148
+52	DCA_se1_ag1_f_02	49.6148	Then it's	50.0951
+53	DCA_se1_ag1_f_02	50.0951	(pause 0.15)	50.2490
+54	DCA_se1_ag1_f_02	50.2490	things called	50.9111
+55	DCA_se1_ag1_f_02	50.9111	(pause 0.11)	51.0183
+56	DCA_se1_ag1_f_02	51.0183	fouls,	51.5965
+57	DCA_se1_ag1_f_02	51.5965	(pause 0.26)	51.8530
+58	DCA_se1_ag1_f_02	51.8530	and that's when it roll over first base. You know, that don't mean nothing. [You have to kick] over.	55.8060
+59	DCA_int_04	54.8687	[Uh-huh.]	55.2744
+60	DCA_int_04	56.1557	Mm.	56.4355
+61	DCA_se1_ag1_f_02	56.5614	Yeah, if they get you out,	57.6245
+62	DCA_se1_ag1_f_02	57.6245	(pause 0.31)	57.9369
+63	DCA_se1_ag1_f_02	57.9369	if they tag you with the ball or touch the base, then you out.	60.5703
+64	DCA_int_04	60.7988	Mm-hm.	61.2558
+65	DCA_int_04	61.2558	(pause 0.86)	62.1137
+66	DCA_int_04	62.1137	And uh, you said jump rope. What kind of	64.2354
+67	DCA_int_04	64.2354	(pause 0.11)	64.3426
+68	DCA_int_04	64.3426	jump rope games do you play?	65.5783
+69	DCA_se1_ag1_f_02	65.6098	Double Dutch.	66.3372
+70	DCA_int_04	66.4631	Oh, what's that?	67.1345
+71	DCA_se1_ag1_f_02	67.9505	Uh-	68.1417
+72	DCA_se1_ag1_f_02	68.1417	(pause 0.11)	68.2490
+73	DCA_se1_ag1_f_02	68.2490	Two people be at each end, /carrying/ a rope like this.	70.7389
+74	DCA_se1_ag1_f_02	70.7389	(pause 0.45)	71.1866
+75	DCA_se1_ag1_f_02	71.1866	And a person or two- or how many people wanna be in,	74.1557
+76	DCA_se1_ag1_f_02	74.1557	(pause 0.25)	74.4075
+77	DCA_se1_ag1_f_02	74.4075	m- get in and them jump rope.	75.9463
+78	DCA_int_04	76.1281	Mm-hm.	76.5711
+79	DCA_int_04	76.5711	(pause 0.81)	77.3859
+80	DCA_int_04	77.3859	The- Eh- Are there any things that you say while you're jumping rope?	80.1417
+81	DCA_se1_ag1_f_02	81.6665	One, two, three, four. [Like that.]	83.7228
+82	DCA_int_04	83.3673	[Oh], uh-huh.	84.1540
+83	DCA_int_04	84.5750	You count.	85.0739
+84	DCA_se1_ag1_f_02	85.1905	[Mm-hm.]	85.7081
+85	DCA_int_04	85.1905	[/in other words/]	85.7081
+86	DCA_int_04	86.0578	Do you have any sort of rhymes or anything that you say?	88.5058
+87	DCA_int_04	88.5058	(pause 0.86)	89.3638
+88	DCA_int_04	89.3638	While you're doing it?	89.9500
+89	DCA_int_04	89.9500	(pause 0.30)	90.2532
+90	DCA_int_04	90.2532	Nothing at all?	90.9294
+91	DCA_int_04	90.9294	(pause 0.82)	91.7454
+92	DCA_int_04	91.7454	Okay.	92.2863
+93	DCA_int_04	92.2863	(pause 0.44)	92.7292
+94	DCA_int_04	92.7292	Um, can you think of any other games that you	94.5151
+95	DCA_int_04	94.5151	(pause 0.24)	94.7529
+96	DCA_int_04	94.7529	play now or used to play	96.2809
+97	DCA_int_04	96.2809	(pause 0.68)	96.9573
+98	DCA_int_04	96.9573	a long time ago?	97.7314
+99	DCA_int_04	97.7314	(pause 0.89)	98.6220
+100	DCA_int_04	98.6220	Never play very much?	99.7993
+101	DCA_int_04	99.7993	(pause 2.49)	102.2905
+102	DCA_int_04	102.2905	Hm?	102.5237
+103	DCA_se1_ag1_f_02	103.6754	Game that you buy.	104.7805
+104	DCA_se1_ag1_f_02	104.7805	(pause 0.41)	105.1909
+105	DCA_se1_ag1_f_02	105.1909	You know,	105.6572
+106	DCA_se1_ag1_f_02	105.6572	(pause 0.61)	106.2633
+107	DCA_se1_ag1_f_02	106.2633	like a game that you buy downtown, like that.	108.4631
+108	DCA_se1_ag1_f_02	108.4631	(pause 0.21)	108.6682
+109	DCA_se1_ag1_f_02	108.6682	Them kind of games.	109.6288
+110	DCA_int_04	109.8526	Like what?	110.2863
+111	DCA_se1_ag1_f_02	110.8971	Ha- I have a /??/. I have uh-	113.5316
+112	DCA_se1_ag1_f_02	113.5316	(pause 0.61)	114.1367
+113	DCA_se1_ag1_f_02	114.1367	Booby Trap, I have.	115.4050
+114	DCA_int_04	117.1582	Um,	117.5546
+115	DCA_int_04	117.5546	(pause 0.13)	117.6805
+116	DCA_int_04	117.6805	tell me about Booby Trap.	118.7763
+117	DCA_int_04	118.7763	(pause 3.74)	122.5194
+118	DCA_int_04	122.5194	[What's that?] I [never heard of] it.	123.8763
+119	DCA_se1_ag1_f_02	122.5287	[Um],	122.9204
+120	DCA_se1_ag1_f_02	122.9204	(pause 0.32)	123.2375
+121	DCA_se1_ag1_f_02	123.2375	[do you have-]	123.7318
+122	DCA_se1_ag1_f_02	125.0362	You have to- Um,	126.2206
+123	DCA_se1_ag1_f_02	126.2206	(pause 1.64)	127.8573
+124	DCA_se1_ag1_f_02	127.8573	H- You had a- You have a little board piece like this.	130.7389
+125	DCA_se1_ag1_f_02	130.7389	(pause 0.33)	131.0735
+126	DCA_se1_ag1_f_02	131.0735	Then you had this thing down here, and you um-	133.0692
+127	DCA_se1_ag1_f_02	133.0692	(pause 0.68)	133.7454
+128	DCA_se1_ag1_f_02	133.7454	um,	134.1744
+129	DCA_se1_ag1_f_02	134.1744	(pause 0.46)	134.6360
+130	DCA_se1_ag1_f_02	134.6360	have all these little balls like this.	136.3053
+131	DCA_se1_ag1_f_02	136.3053	(pause 0.34)	136.6457
+132	DCA_se1_ag1_f_02	136.6457	And you pull this	137.3032
+133	DCA_se1_ag1_f_02	137.3032	(pause 0.14)	137.4419
+134	DCA_se1_ag1_f_02	137.4419	thing out, and you can't let none of them balls jump out. If you do,	139.9878
+135	DCA_se1_ag1_f_02	139.9878	(pause 0.39)	140.3789
+136	DCA_se1_ag1_f_02	140.3789	somebody else get a turn. You can see how many	142.5524
+137	DCA_se1_ag1_f_02	142.5524	(pause 0.39)	142.9441
+138	DCA_se1_ag1_f_02	142.9441	them things you can pull out	144.2816
+139	DCA_se1_ag1_f_02	144.2816	(pause 0.39)	144.6729
+140	DCA_se1_ag1_f_02	144.6729	but um,	145.2418
+141	DCA_se1_ag1_f_02	145.2418	(pause 0.33)	145.5728
+142	DCA_se1_ag1_f_02	145.5728	keep in there without them things [falling out.]	147.6618
+143	DCA_int_04	147.3028	[Mm-hm.]	147.6618
+144	DCA_int_04	148.2354	Mm-hm.	148.6364
+145	DCA_se1_ag1_f_02	148.7844	Me and my sister had a Monopoly.	150.5843
+146	DCA_int_04	151.3723	A what?	151.7314
+147	DCA_se1_ag1_f_02	152.2256	Monopoly game.	153.4016
+148	DCA_int_04	153.4007	Mm-hm.	153.8204
+149	DCA_int_04	154.3426	Um,	154.8788
+150	DCA_int_04	154.8788	(pause 0.14)	155.0222
+151	DCA_int_04	155.0222	Monopoly? And gee I haven't played that in a long time.	157.3490
+152	DCA_int_04	157.3490	(pause 1.27)	158.6173
+153	DCA_int_04	158.6173	How- how do you uh-	159.7877
+154	DCA_int_04	159.7877	(pause 0.38)	160.1701
+155	DCA_int_04	160.1701	What's that about?	160.9395
+156	DCA_int_04	160.9395	(pause 0.59)	161.5258
+157	DCA_int_04	161.5258	I know I know about it, but I [can't-]	162.9698
+158	DCA_se1_ag1_f_02	162.7801	[It's a]	163.1765
+159	DCA_se1_ag1_f_02	163.6801	thing that has	164.5287
+160	DCA_se1_ag1_f_02	164.5287	(pause 0.14)	164.6640
+161	DCA_se1_ag1_f_02	164.6640	stuff on the end of it. It's a piece of card-	166.5897
+162	DCA_se1_ag1_f_02	166.5897	(pause 0.22)	166.8089
+163	DCA_se1_ag1_f_02	166.8089	cardboard thing	167.7329
+164	DCA_se1_ag1_f_02	167.7329	(pause 0.38)	168.1087
+165	DCA_se1_ag1_f_02	168.1087	that has stuff on the end of it, and you-	170.3142
+166	DCA_se1_ag1_f_02	170.3142	(pause 0.89)	171.2002
+167	DCA_se1_ag1_f_02	171.2002	and uh- Think you deal these dices.	173.4978
+168	DCA_se1_ag1_f_02	173.4978	(pause 1.09)	174.5890
+169	DCA_se1_ag1_f_02	174.5890	And um,	175.2464
+170	DCA_se1_ag1_f_02	175.2464	(pause 0.59)	175.8340
+171	DCA_se1_ag1_f_02	175.8340	you uh-	176.5707
+172	DCA_se1_ag1_f_02	176.5707	(pause 0.89)	177.4567
+173	DCA_se1_ag1_f_02	177.4567	uh- i- uh,	178.2354
+174	DCA_se1_ag1_f_02	178.2354	(pause 1.16)	179.3999
+175	DCA_se1_ag1_f_02	179.3999	has some kind of thing you put on over here-	181.4656
+176	DCA_se1_ag1_f_02	181.4656	(pause 1.24)	182.7013
+177	DCA_se1_ag1_f_02	182.7013	Or- Yeah, I think that's how you play.	184.3566
+178	DCA_se1_ag1_f_02	184.3566	(pause 0.89)	185.2425
+179	DCA_se1_ag1_f_02	185.2425	And then you have another one called uh,	186.8921
+180	DCA_se1_ag1_f_02	186.8921	(pause 1.75)	188.6406
+181	DCA_se1_ag1_f_02	188.6406	some	189.0836
+182	DCA_se1_ag1_f_02	189.0836	(pause 0.18)	189.2655
+183	DCA_se1_ag1_f_02	189.2655	k- sorts like money or something.	191.0700
+184	DCA_int_04	191.3253	Oh.	191.5352
+185	DCA_se1_ag1_f_02	191.4326	And you deal these dice, and then you try to get a house.	194.4401
+186	DCA_se1_ag1_f_02	194.9857	And you- you get to	195.8996
+187	DCA_se1_ag1_f_02	195.8996	(pause 0.10)	195.9975
+188	DCA_se1_ag1_f_02	195.9975	take your money from the bank, and then you receive money from the bank.	199.1672
+189	DCA_se1_ag1_f_02	199.1672	(pause 0.57)	199.7360
+190	DCA_se1_ag1_f_02	199.7360	Then you go the poor house.	201.2981
+191	DCA_int_04	201.6012	[<laugh>]	202.1701
+192	DCA_se1_ag1_f_02	201.6059	[And then you have to] uh,	202.6923
+193	DCA_se1_ag1_f_02	203.3918	put some money in the poor house every [time you go]	205.6801
+194	DCA_int_04	205.0879	[Mm-hm.]	205.6521
+195	DCA_se1_ag1_f_02	205.8340	past it.	206.4028
+196	DCA_int_04	208.1468	Um,	208.5711
+197	DCA_int_04	208.5711	(pause 1.16)	209.7357
+198	DCA_int_04	209.7357	what about- Have you ever played um,	211.7920
+199	DCA_int_04	211.7920	(pause 0.72)	212.5147
+200	DCA_int_04	212.5147	k- um-	213.1722
+201	DCA_int_04	213.1722	(pause 0.59)	213.7597
+202	DCA_int_04	213.7597	You said kickball.	214.8089
+203	DCA_int_04	214.8089	(pause 0.36)	215.1668
+204	DCA_int_04	215.1668	What was that thing? Oh, May I?	216.7848
+205	DCA_se1_ag1_f_02	217.9086	[Mother, May I? Goose.]	219.6338
+206	DCA_int_04	218.0205	[Mother, May I. Yes. <laugh>] [/I thought you knew/]	221.0887
+207	DCA_se1_ag1_f_02	219.9882	[M- Yeah. Mm-hm.]	221.0420
+208	DCA_int_04	221.1621	/You did/.	221.4372
+209	DCA_int_04	221.4372	(pause 0.44)	221.8802
+210	DCA_int_04	221.8802	Uh, how do you play that?	223.0599
+211	DCA_se1_ag1_f_02	223.5495	Uh,	223.8946
+212	DCA_se1_ag1_f_02	223.8946	(pause 0.59)	224.4868
+213	DCA_se1_ag1_f_02	224.4868	a girl be standing way far from away from me. And- and two people- a lot of people be standing back.	229.3863
+214	DCA_se1_ag1_f_02	229.3863	(pause 0.51)	229.8992
+215	DCA_se1_ag1_f_02	229.8992	And you say- And she say	231.4520
+216	DCA_se1_ag1_f_02	231.4520	(pause 0.18)	231.6292
+217	DCA_se1_ag1_f_02	231.6292	your name, and she say uh, how many steps you p-	234.1833
+218	DCA_se1_ag1_f_02	234.1833	(pause 0.09)	234.2719
+219	DCA_se1_ag1_f_02	234.2719	sposta take.	234.9387
+220	DCA_se1_ag1_f_02	234.9387	(pause 0.10)	235.0413
+221	DCA_se1_ag1_f_02	235.0413	And you sposta say,	235.8106
+222	DCA_se1_ag1_f_02	235.8106	(pause 0.48)	236.2909
+223	DCA_se1_ag1_f_02	236.2909	Mother, may I? And then she tell you yes, you can take it. She tell you no, you have to stay back.	240.3745
+224	DCA_int_04	240.6030	Mm-hm.	241.0832
+225	DCA_int_04	241.0832	(pause 0.84)	241.9272
+226	DCA_int_04	241.9272	Uh, what about- There's another one. It's almost like that	244.4732
+227	DCA_int_04	244.4732	(pause 0.22)	244.6923
+228	DCA_int_04	244.6923	called um,	245.4057
+229	DCA_int_04	245.4057	(pause 1.41)	246.8175
+230	DCA_int_04	246.8175	Simple Simon.	247.6801
+231	DCA_int_04	247.6801	(pause 0.91)	248.5940
+232	DCA_int_04	248.5940	You never played that one?	249.4753
+233	DCA_int_04	249.4753	(pause 0.14)	249.6199
+234	DCA_int_04	249.6199	Simple Simon?	250.3006
+235	DCA_int_04	250.3006	(pause 1.55)	251.8476
+236	DCA_int_04	251.8476	Hm?	252.0481
+237	DCA_int_04	252.0481	(pause 0.59)	252.6403
+238	DCA_int_04	252.6403	Have you ever played that one?	253.4703
+239	DCA_se1_ag1_f_02	253.9226	Yeah, vaguely.	255.0230
+240	DCA_se1_ag1_f_02	255.0230	(pause 0.64)	255.6665
+241	DCA_se1_ag1_f_02	255.6665	What do they say- Simon say, do this?	256.9161
+242	DCA_se1_ag1_f_02	256.9161	(pause 0.13)	257.0502
+243	DCA_se1_ag1_f_02	257.0502	[Simon-]	257.4512
+244	DCA_int_04	257.0502	[Oh] yeah! That's it. [That's it.] That's	258.8967
+245	DCA_se1_ag1_f_02	258.2159	[Yeah.]	258.6356
+246	DCA_int_04	258.9807	right.	259.3304
+247	DCA_se1_ag1_f_02	259.6381	[Yeah.]	260.0811
+248	DCA_int_04	259.6381	[I was wrong.]	260.1744
+249	DCA_int_04	260.7621	So tell me- tell me how to play that one.	262.3706
+250	DCA_se1_ag1_f_02	262.8182	Uh,	263.1773
+251	DCA_se1_ag1_f_02	263.1773	(pause 0.29)	263.4652
+252	DCA_se1_ag1_f_02	263.4652	you have- You pick a person.	265.1159
+253	DCA_se1_ag1_f_02	265.1159	(pause 0.33)	265.4420
+254	DCA_se1_ag1_f_02	265.4420	You can be in a circle, a line, /or like/.	267.1256
+255	DCA_se1_ag1_f_02	267.1256	(pause 0.66)	267.7831
+256	DCA_se1_ag1_f_02	267.7831	But you don't have to be in no kind of	269.1913
+257	DCA_se1_ag1_f_02	269.1913	(pause 0.36)	269.5538
+258	DCA_se1_ag1_f_02	269.5538	form or nothing like that.	270.7522
+259	DCA_se1_ag1_f_02	270.7522	(pause 0.35)	271.1065
+260	DCA_se1_ag1_f_02	271.1065	And then you s- And if she say, Simon say do this, then you have to do this every time he say Simon say.	276.2019
+261	DCA_int_04	276.4398	[Mm-hm.]	276.7895
+262	DCA_se1_ag1_f_02	276.5517	[If he] say, I said I do this shit, and you do it, you out.	279.3867
+263	DCA_int_04	279.5338	Mm-hm.	279.9861
+264	DCA_int_04	279.9861	(pause 0.46)	280.4430
+265	DCA_int_04	280.4430	What's the difference between that one and Mother May I?	282.4248
+266	DCA_se1_ag1_f_02	284.7928	She call you to do s-	285.9115
+267	DCA_se1_ag1_f_02	285.9115	(pause 1.98)	287.8932
+268	DCA_se1_ag1_f_02	287.8932	I don't know.	288.7045
+269	DCA_se1_ag1_f_02	288.7045	(pause 1.31)	290.0183
+270	DCA_se1_ag1_f_02	290.0183	Almost like-	290.7457
+271	DCA_se1_ag1_f_02	290.7457	(pause 0.26)	291.0069
+272	DCA_se1_ag1_f_02	291.0069	They almost alike,	291.9861
+273	DCA_se1_ag1_f_02	291.9861	(pause 0.41)	292.4011
+274	DCA_se1_ag1_f_02	292.4011	except you have to be in a line of some sort. And then she call your name, but Simon Say you don't call your name.	297.3053
+275	DCA_se1_ag1_f_02	297.3053	(pause 0.41)	297.7110
+276	DCA_se1_ag1_f_02	297.7110	He [just say], /uh/ Simon say do this.	299.7207
+277	DCA_int_04	297.9161	[Mm-hm.]	298.2892
+278	DCA_se1_ag1_f_02	300.1495	It's like [that.]	300.8864
+279	DCA_int_04	300.4947	[Mm-hm.]	300.9097
+280	DCA_int_04	301.3702	Uh, in Simon Says,	302.6944
+281	DCA_int_04	302.6944	(pause 1.18)	303.8742
+282	DCA_int_04	303.8742	what do you have	304.6202
+283	DCA_int_04	304.6202	(pause 0.14)	304.7554
+284	DCA_int_04	304.7554	uh, everybody	305.6208
+285	DCA_int_04	305.6208	(pause 0.10)	305.7207
+286	DCA_int_04	305.7207	does it all at once or what?	307.0170
+287	DCA_se1_ag1_f_02	307.1883	Mm-hm.	307.6313
+288	DCA_int_04	307.9064	Uh-huh.	308.2561
+289	DCA_int_04	308.2561	(pause 0.19)	308.4427
+290	DCA_int_04	308.4427	Oh that- Yeah. I thought that was Simon Says.	310.3591
+291	DCA_int_04	310.3591	(pause 0.35)	310.7042
+292	DCA_int_04	310.7042	Did you ever play um-	311.8139
+293	DCA_int_04	311.8139	(pause 0.34)	312.1497
+294	DCA_int_04	312.1497	When you were little, did you ever play Hide and Seek?	313.9524
+295	DCA_se1_ag1_f_02	315.2027	No.	315.6503
+296	DCA_int_04	315.6457	You never played Hide and Go Seek?	316.7554
+297	DCA_se1_ag1_f_02	317.0352	No.	317.4642
+298	DCA_int_04	318.0051	Uh-huh.	318.5693
+299	DCA_int_04	318.5693	(pause 0.34)	318.9086
+300	DCA_int_04	318.9086	Um, let's see.	320.1489
+301	DCA_int_04	320.1489	(pause 0.69)	320.8390
+302	DCA_int_04	320.8390	Did you ever play in the boy's games?	322.2099
+303	DCA_int_04	322.2099	(pause 0.85)	323.0632
+304	DCA_int_04	323.0632	You know,	323.3663
+305	DCA_int_04	323.3663	(pause 0.07)	323.4316
+306	DCA_int_04	323.4316	[football]	323.9398
+307	DCA_se1_ag1_f_02	323.6694	[Foot-]	323.9538
+308	DCA_int_04	324.0331	[or /inaudible/]?	325.3515
+309	DCA_se1_ag1_f_02	324.1497	[Uh, yeah. <laugh>]	325.4226
+310	DCA_int_04	325.6639	Okay, tell me	326.5685
+311	DCA_int_04	326.5685	(pause 0.38)	326.9462
+312	DCA_int_04	326.9462	the girl's version of how football is played?	329.1658
+313	DCA_se1_ag1_f_02	329.8279	Well,	330.4761
+314	DCA_se1_ag1_f_02	330.4761	(pause 0.47)	330.9505
+315	DCA_se1_ag1_f_02	330.9505	I can catch some boy-	332.0696
+316	DCA_se1_ag1_f_02	332.0696	(pause 0.10)	332.1675
+317	DCA_se1_ag1_f_02	332.1675	some balls.	333.0395
+318	DCA_se1_ag1_f_02	333.0395	(pause 0.29)	333.3333
+319	DCA_se1_ag1_f_02	333.3333	We play um,	334.2938
+320	DCA_se1_ag1_f_02	334.2938	(pause 1.76)	336.0517
+321	DCA_se1_ag1_f_02	336.0517	<ts>	336.1497
+322	DCA_se1_ag1_f_02	336.1497	(pause 0.18)	336.3268
+323	DCA_se1_ag1_f_02	336.3268	five	336.7931
+324	DCA_se1_ag1_f_02	336.7931	(pause 0.15)	336.9412
+325	DCA_se1_ag1_f_02	336.9412	step.	337.4215
+326	DCA_se1_ag1_f_02	337.4215	(pause 0.40)	337.8178
+327	DCA_se1_ag1_f_02	337.8178	Like um,	338.7411
+328	DCA_se1_ag1_f_02	338.7411	(pause 0.16)	338.8996
+329	DCA_se1_ag1_f_02	338.8996	I have few boys on my side,	340.6389
+330	DCA_se1_ag1_f_02	340.6389	(pause 0.10)	340.7415
+331	DCA_se1_ag1_f_02	340.7415	few other girls they have-	341.6461
+332	DCA_se1_ag1_f_02	341.6461	(pause 0.33)	341.9771
+333	DCA_se1_ag1_f_02	341.9771	But on the other side, they have	343.1289
+334	DCA_se1_ag1_f_02	343.1289	(pause 0.40)	343.5287
+335	DCA_se1_ag1_f_02	343.5287	few boys, few girl.	344.4986
+336	DCA_se1_ag1_f_02	344.4986	(pause 0.26)	344.7597
+337	DCA_se1_ag1_f_02	344.7597	And every time they throw a ball and we catch it, we take five big steps	347.8606
+338	DCA_se1_ag1_f_02	347.8606	(pause 0.21)	348.0704
+339	DCA_se1_ag1_f_02	348.0704	toward- back	348.5507
+340	DCA_se1_ag1_f_02	348.5507	(pause 0.08)	348.6299
+341	DCA_se1_ag1_f_02	348.6299	toward [them. We]	349.2874
+342	DCA_int_04	348.8806	[Mm-hm.]	349.2769
+343	DCA_se1_ag1_f_02	349.4961	move them back,	350.2468
+344	DCA_se1_ag1_f_02	350.2468	(pause 0.47)	350.7131
+345	DCA_se1_ag1_f_02	350.7131	th- th- they take- they catch the ball, they move us	352.5969
+346	DCA_se1_ag1_f_02	352.5969	(pause 0.14)	352.7321
+347	DCA_se1_ag1_f_02	352.7321	back like this. /And s-/ That's the only way I know how to play.	355.5066
+348	DCA_int_04	355.6220	Mm-hm.	356.0789
+349	DCA_int_04	356.0789	(pause 0.73)	356.8064
+350	DCA_int_04	356.8064	Well I bet that's a good way, you probably beat them, don't you? <laugh>	359.6461
+351	DCA_int_04	359.6461	(pause 1.11)	360.7605
+352	DCA_int_04	360.7605	Um,	361.2175
+353	DCA_int_04	361.2175	(pause 1.01)	362.2235
+354	DCA_int_04	362.2235	how do you	362.7457
+355	DCA_int_04	362.7457	(pause 0.16)	362.9089
+356	DCA_int_04	362.9089	decide when you're gonna um,	364.8953
+357	DCA_int_04	364.8953	(pause 0.34)	365.2357
+358	DCA_int_04	365.2357	play	365.7113
+359	DCA_int_04	365.7113	(pause 0.50)	366.2149
+360	DCA_int_04	366.2149	uh, a game with, you know, a whole bunch of	367.8738
+361	DCA_int_04	367.8738	(pause 0.25)	368.1209
+362	DCA_int_04	368.1209	kids,	368.4520
+363	DCA_int_04	368.4520	(pause 0.42)	368.8716
+364	DCA_int_04	368.8716	uh, how do you decide who's gonna be it?	370.7461
+365	DCA_int_04	370.7461	(pause 0.29)	371.0399
+366	DCA_int_04	371.0399	Or who's gonna be	372.1543
+367	DCA_int_04	372.1543	(pause 0.11)	372.2662
+368	DCA_int_04	372.2662	captain or something?	373.1316
+369	DCA_se1_ag1_f_02	373.2863	You have a	374.0836
+370	DCA_se1_ag1_f_02	374.0836	(pause 0.52)	374.6012
+371	DCA_se1_ag1_f_02	374.6012	first chooser and a second chooser.	376.3824
+372	DCA_se1_ag1_f_02	376.3824	(pause 0.57)	376.9513
+373	DCA_se1_ag1_f_02	376.9513	And like a whole- You have your-	378.3502
+374	DCA_se1_ag1_f_02	378.3502	(pause 0.15)	378.5029
+375	DCA_se1_ag1_f_02	378.5029	you- you have these people, /alright/ you say like- I say	380.6851
+376	DCA_se1_ag1_f_02	380.6851	(pause 0.25)	380.9323
+377	DCA_se1_ag1_f_02	380.9323	if I was first chooser, and you were second chooser, I say,	382.9793
+378	DCA_se1_ag1_f_02	382.9793	(pause 0.38)	383.3570
+379	DCA_se1_ag1_f_02	383.3570	Well I want	384.0331
+380	DCA_se1_ag1_f_02	384.0331	(pause 1.45)	385.4821
+381	DCA_se1_ag1_f_02	385.4821	uh-	385.9624
+382	DCA_se1_ag1_f_02	385.9624	(pause 0.60)	386.5592
+383	DCA_se1_ag1_f_02	386.5592	If there was a girl named Sheila, and a boy named John or something. I want Sheila!	390.0098
+384	DCA_se1_ag1_f_02	390.0098	(pause 0.35)	390.3641
+385	DCA_se1_ag1_f_02	390.3641	And he can say, I want John!	391.8505
+386	DCA_se1_ag1_f_02	391.8505	(pause 0.31)	392.1629
+387	DCA_se1_ag1_f_02	392.1629	And then I can say another person on my side like that	395.0958
+388	DCA_se1_ag1_f_02	395.0958	(pause 0.31)	395.4083
+389	DCA_se1_ag1_f_02	395.4083	til everybody, you know, gets onto either [side.]	397.9983
+390	DCA_int_04	397.5495	[Mm-hm.]	398.0158
+391	DCA_se1_ag1_f_02	398.1417	Then that's when we start play-	399.2935
+392	DCA_se1_ag1_f_02	399.2935	(pause 0.30)	399.5965
+393	DCA_se1_ag1_f_02	399.5965	or sometime you just say- or at school, we just say boys on one side; girls on the other.	403.9086
+394	DCA_int_04	404.4075	[Mm-hm.]	404.8132
+395	DCA_se1_ag1_f_02	404.4262	[Like that.]	404.9018
+396	DCA_int_04	404.9111	Mm-hm. Yeah, that's- that's a good way.	406.2540
+397	DCA_int_04	406.2540	(pause 0.29)	406.5431
+398	DCA_int_04	406.5431	Did you ever um,	407.4197
+399	DCA_int_04	407.4197	(pause 0.83)	408.2486
+400	DCA_int_04	408.2486	say uh-	409.1858
+401	DCA_int_04	409.1858	(pause 0.47)	409.6521
+402	DCA_int_04	409.6521	You know, when you're trying to pick one person,	411.6758
+403	DCA_int_04	411.6758	(pause 0.35)	412.0255
+404	DCA_int_04	412.0255	did you ever have a rhyme, you know, or	414.0483
+405	DCA_int_04	414.0483	(pause 0.06)	414.1087
+406	DCA_int_04	414.1087	something go around like this and say this one, that one and you wind up on [one /inaudible/.]	417.8017
+407	DCA_se1_ag1_f_02	417.1955	[Eenie meenie] miney-	418.4219
+408	DCA_se1_ag1_f_02	418.5105	[like- Yeah.]	419.3405
+409	DCA_int_04	418.5105	[Uh-huh.]	418.9768
+410	DCA_int_04	418.9768	(pause 0.24)	419.2146
+411	DCA_int_04	419.2146	[Yeah.]	419.4291
+412	DCA_se1_ag1_f_02	419.6471	[Mm-hm.]	420.0854
+413	DCA_int_04	419.8802	[Okay], give me that one. I wanna hear that.	421.3630
+414	DCA_se1_ag1_f_02	421.8946	Okay. Eenie meenie miney moe,	423.7504
+415	DCA_se1_ag1_f_02	423.7504	(pause 0.34)	424.0861
+416	DCA_se1_ag1_f_02	424.0861	catch a monkey by his toe. If he hollers let him go.	427.2791
+417	DCA_se1_ag1_f_02	427.2791	(pause 0.19)	427.4703
+418	DCA_se1_ag1_f_02	427.4703	Eenie meenie miney moe.	428.7945
+419	DCA_int_04	428.7899	Oh, uh-huh.	429.2608
+420	DCA_int_04	429.5686	What about	430.0069
+421	DCA_int_04	430.0069	(pause 0.11)	430.1141
+422	DCA_int_04	430.1141	uh is there another one that you do?	431.5928
+423	DCA_int_04	431.5928	(pause 0.86)	432.4491
+424	DCA_int_04	432.4491	Can you think of one?	433.1112
+425	DCA_se1_ag1_f_02	434.7386	Engine engine number [nine. Going] down /??/ line.	438.0574
+426	DCA_int_04	436.0045	[Mm-hm.]	436.6276
+427	DCA_se1_ag1_f_02	438.8175	Um,	439.2744
+428	DCA_se1_ag1_f_02	439.2744	(pause 0.69)	439.9645
+429	DCA_se1_ag1_f_02	439.9645	<ts>	440.0531
+430	DCA_se1_ag1_f_02	440.0531	(pause 0.70)	440.7526
+431	DCA_se1_ag1_f_02	440.7526	I forgotten that song.	441.9416
+432	DCA_se1_ag1_f_02	441.9416	(pause 1.59)	443.5352
+433	DCA_se1_ag1_f_02	443.5352	I forgot the [rest.]	444.4211
+434	DCA_int_04	444.2999	[What's-] What about some that you do when you jump rope?	446.3842
+435	DCA_int_04	447.0137	I used to hear the girls, you know, when they- while they're jumping rope, they [/have a rhyme/.]	450.1646
+436	DCA_se1_ag1_f_02	449.5352	[When we play] single, we say um-	451.4749
+437	DCA_se1_ag1_f_02	452.4401	um- We say a thing called Banana.	454.4872
+438	DCA_se1_ag1_f_02	454.4872	(pause 0.39)	454.8788
+439	DCA_se1_ag1_f_02	454.8788	Banana.	455.4337
+440	DCA_se1_ag1_f_02	455.4337	(pause 0.72)	456.1553
+441	DCA_se1_ag1_f_02	456.1553	Play the piano.	457.2884
+442	DCA_se1_ag1_f_02	457.2884	(pause 0.32)	457.6055
+443	DCA_se1_ag1_f_02	457.6055	Banana Anna, play the piano.	459.3634
+444	DCA_se1_ag1_f_02	459.3634	(pause 0.38)	459.7458
+445	DCA_se1_ag1_f_02	459.7458	All she can do is	461.2192
+446	DCA_se1_ag1_f_02	461.2192	(pause 0.26)	461.4839
+447	DCA_se1_ag1_f_02	461.4839	play-	461.8662
+448	DCA_se1_ag1_f_02	461.8662	(pause 0.30)	462.1693
+449	DCA_se1_ag1_f_02	462.1693	/flay/	462.7755
+450	DCA_se1_ag1_f_02	462.7755	(pause 0.56)	463.3350
+451	DCA_se1_ag1_f_02	463.3350	Star Spangled Banner.	464.6733
+452	DCA_se1_ag1_f_02	464.6733	(pause 0.34)	465.0090
+453	DCA_se1_ag1_f_02	465.0090	Banana. Banana split. And you have to get the rope between your leg.	467.9828
+454	DCA_int_04	468.0988	[Oh boy.]	468.6308
+455	DCA_se1_ag1_f_02	468.1600	[You have to jump] up	468.9946
+456	DCA_se1_ag1_f_02	469.7454	like [that.]	470.2350
+457	DCA_int_04	470.0485	[Mm-hm.]	470.5241
+458	DCA_se1_ag1_f_02	471.0463	Then we-	471.4054
+459	DCA_se1_ag1_f_02	471.4054	(pause 0.46)	471.8670
+460	DCA_se1_ag1_f_02	471.8670	Then we you uh, have a single or double, you s- we say-	474.5470
+461	DCA_se1_ag1_f_02	474.5470	(pause 0.30)	474.8454
+462	DCA_se1_ag1_f_02	474.8454	When we wanna play D-I-S, we say, D-I-S-H, /jumping on Smith/.	478.4403
+463	DCA_se1_ag1_f_02	478.4403	(pause 0.33)	478.7669
+464	DCA_se1_ag1_f_02	478.7669	And where they stop on that's what they gots	480.4351
+465	DCA_se1_ag1_f_02	480.4351	(pause 0.33)	480.7615
+466	DCA_se1_ag1_f_02	480.7615	s- um, do when they- when they s-	482.6500
+467	DCA_se1_ag1_f_02	482.6500	(pause 0.75)	483.3960
+468	DCA_se1_ag1_f_02	483.3960	go come- when they next go come.	485.2705
+469	DCA_int_04	485.5072	Wait a minute.	485.9035
+470	DCA_int_04	485.9035	(pause 0.07)	485.9735
+471	DCA_int_04	485.9735	Wait a minute.	486.2952
+472	DCA_int_04	486.2952	(pause 0.14)	486.4351
+473	DCA_int_04	486.4351	I don't understand that one at all.	487.6941
+474	DCA_se1_ag1_f_02	487.9505	See, you say-	488.6873
+475	DCA_se1_ag1_f_02	488.6873	(pause 0.83)	489.5173
+476	DCA_se1_ag1_f_02	489.5173	So like, they have one, two, three, and they have- first they- first they go- they have D-I-S-H, and they say, D-I-S-H, /double our Spanish/.	496.5105
+477	DCA_se1_ag1_f_02	496.5105	(pause 0.08)	496.5897
+478	DCA_se1_ag1_f_02	496.5897	D-I-S-H.	497.8616
+479	DCA_se1_ag1_f_02	497.8616	(pause 0.50)	498.3605
+480	DCA_se1_ag1_f_02	498.3605	And then you stop like if you- you miss on H	500.5520
+481	DCA_se1_ag1_f_02	500.5520	(pause 0.09)	500.6406
+482	DCA_se1_ag1_f_02	500.6406	[where you're] on your one two three.	502.1747
+483	DCA_int_04	500.6873	[Okay.]	501.0183
+484	DCA_se1_ag1_f_02	502.4918	You gotta hop on one foot, and I mean hop.	504.6962
+485	DCA_int_04	505.3444	Oh, I see. So	506.4635
+486	DCA_se1_ag1_f_02	506.4914	Like that.	506.7759
+487	DCA_int_04	506.7386	in other words, D means something?	508.0955
+488	DCA_int_04	508.5524	The [D?]	508.9115
+489	DCA_se1_ag1_f_02	508.7389	[Mm-hm.]	509.0514
+490	DCA_int_04	509.1073	What does that mean?	509.7606
+491	DCA_se1_ag1_f_02	510.1134	Double dutch.	510.8594
+492	DCA_se1_ag1_f_02	510.8594	(pause 0.10)	510.9620
+493	DCA_se1_ag1_f_02	510.9620	That mean you don't have to do nothing. You know, just jump like you jumping now.	514.1141
+494	DCA_int_04	514.1747	Uh-huh.	514.6504
+495	DCA_se1_ag1_f_02	515.3393	I means uh-	516.4771
+496	DCA_se1_ag1_f_02	516.4771	(pause 0.93)	517.4096
+497	DCA_se1_ag1_f_02	517.4096	uh-	517.8992
+498	DCA_se1_ag1_f_02	517.8992	(pause 2.03)	519.9323
+499	DCA_se1_ag1_f_02	519.9323	um-	520.4592
+500	DCA_se1_ag1_f_02	520.4592	(pause 0.58)	521.0420
+501	DCA_se1_ag1_f_02	521.0420	See, what the I mean?	522.0760
+502	DCA_se1_ag1_f_02	522.0760	(pause 0.15)	522.2253
+503	DCA_se1_ag1_f_02	522.2253	I don't know. I forgot what I mean.	523.5915
+504	DCA_se1_ag1_f_02	523.5915	(pause 0.70)	524.2909
+505	DCA_se1_ag1_f_02	524.2909	D-I-S-H.	525.6199
+506	DCA_se1_ag1_f_02	525.6199	(pause 0.13)	525.7458
+507	DCA_se1_ag1_f_02	525.7458	I-	525.9136
+508	DCA_se1_ag1_f_02	525.9136	(pause 0.09)	526.0022
+509	DCA_se1_ag1_f_02	526.0022	S mean um,	527.2192
+510	DCA_se1_ag1_f_02	527.2192	(pause 1.21)	528.4304
+511	DCA_se1_ag1_f_02	528.4304	hi it-	528.7195
+512	DCA_se1_ag1_f_02	528.7195	(pause 0.11)	528.8314
+513	DCA_se1_ag1_f_02	528.8314	uh,	529.4469
+514	DCA_se1_ag1_f_02	529.4469	(pause 0.88)	530.3282
+515	DCA_se1_ag1_f_02	530.3282	Whatcha call that thing- You have to take your rope, and you put it on one feet, and you take that one and swing,	534.4584
+516	DCA_se1_ag1_f_02	534.4584	(pause 0.38)	534.8361
+517	DCA_se1_ag1_f_02	534.8361	and they have to get it.	535.6708
+518	DCA_se1_ag1_f_02	535.6708	(pause 0.81)	536.4821
+519	DCA_se1_ag1_f_02	536.4821	S-H.	537.4240
+520	DCA_se1_ag1_f_02	537.4240	(pause 0.28)	537.6991
+521	DCA_se1_ag1_f_02	537.6991	Double /large/.	538.8089
+522	DCA_se1_ag1_f_02	538.8089	(pause 0.16)	538.9721
+523	DCA_se1_ag1_f_02	538.9721	Spanish (whispered)- Spanish-	540.1507
+524	DCA_se1_ag1_f_02	540.1507	(pause 0.34)	540.4864
+525	DCA_se1_ag1_f_02	540.4864	Spanish, you do	541.7687
+526	DCA_se1_ag1_f_02	541.7687	(pause 0.25)	542.0158
+527	DCA_se1_ag1_f_02	542.0158	the same thing, but you don't hold it. You just swing both in it,	544.9022
+528	DCA_int_04	544.9115	Mm-hm.	545.3171
+529	DCA_se1_ag1_f_02	545.2472	and then they got to- Then you have to turn the rope /inaudible/.	548.0997
+530	DCA_int_04	549.4380	Mm.	549.7458
+531	DCA_se1_ag1_f_02	549.7411	And then the	550.4219
+532	DCA_se1_ag1_f_02	550.5198	um-	551.0187
+533	DCA_se1_ag1_f_02	551.0187	(pause 0.33)	551.3498
+534	DCA_se1_ag1_f_02	551.3498	then-	551.7461
+535	DCA_se1_ag1_f_02	551.7461	(pause 0.55)	552.2952
+536	DCA_se1_ag1_f_02	552.2952	like you g- get on you.	553.5215
+537	DCA_se1_ag1_f_02	553.5215	(pause 0.20)	553.7221
+538	DCA_se1_ag1_f_02	553.7221	You have to take under large. That's when you turn back this a way.	556.9861
+539	DCA_se1_ag1_f_02	556.9861	(pause 0.41)	557.4011
+540	DCA_se1_ag1_f_02	557.4011	Turn [that a way, and then you have to] jump [that way.]	559.2837
+541	DCA_int_04	557.7310	[Oh, uh-huh.]	558.5050
+542	DCA_int_04	558.5050	(pause 0.28)	558.7848
+543	DCA_int_04	558.7848	[What do you call] that way?	559.6894
+544	DCA_se1_ag1_f_02	560.5567	Under large.	561.5173
+545	DCA_int_04	561.6012	Under large.	562.4265
+546	DCA_int_04	562.4265	(pause 0.06)	562.4872
+547	DCA_int_04	562.4872	Uh-huh.	562.9255
+548	DCA_int_04	562.9255	(pause 1.03)	563.9548
+549	DCA_int_04	563.9548	Wow, that's- <laugh>	564.8827
+550	DCA_se1_ag1_f_02	565.0040	Mm-hm.	565.4376
+551	DCA_int_04	565.6195	You all [do things] I never did! <laugh>	567.7084
+552	DCA_se1_ag1_f_02	566.1510	[<laugh>]	566.5614
+553	DCA_int_04	568.6550	Um,	569.0280
+554	DCA_int_04	569.0280	(pause 0.83)	569.8569
+555	DCA_int_04	569.8569	let's see.	570.2766
+556	DCA_int_04	570.2766	(pause 0.43)	570.7102
+557	DCA_int_04	570.7102	I- After school, if you don't uh,	572.9577
+558	DCA_int_04	572.9577	(pause 0.19)	573.1489
+559	DCA_int_04	573.1489	go, you know, out to play or something, what do you do?	575.3731
+560	DCA_se1_ag1_f_02	576.2299	I just watch TV.	577.6008
+561	DCA_int_04	577.6894	Oh TV.	578.6733
+562	DCA_int_04	578.6733	(pause 0.09)	578.7619
+563	DCA_int_04	578.7619	Good, I'm glad you watch television.	580.1328
+564	DCA_int_04	580.1328	(pause 0.27)	580.4032
+565	DCA_int_04	580.4032	What are some of your favorite shows?	581.6202
+566	DCA_se1_ag1_f_02	582.7428	Here's Lucy and I Love Lucy.	584.5287
+567	DCA_int_04	584.5567	Mm-hm.	585.3121
+568	DCA_int_04	585.3121	(pause 0.62)	585.9276
+569	DCA_int_04	585.9276	Can you tell me um-	586.9628
+570	DCA_int_04	586.9628	(pause 0.17)	587.1353
+571	DCA_int_04	587.1353	say,	587.3498
+572	DCA_int_04	587.3498	(pause 0.14)	587.4885
+573	DCA_int_04	587.4885	can you remember any w- of your favorite episodes on I Love Lucy.	591.2320
+574	DCA_se1_ag1_f_02	592.1141	Yeah, one	592.7052
+575	DCA_se1_ag1_f_02	592.7052	(pause 0.14)	592.8497
+576	DCA_se1_ag1_f_02	592.8497	/tee/ uh-	593.8429
+577	DCA_se1_ag1_f_02	593.8429	(pause 0.59)	594.4304
+578	DCA_se1_ag1_f_02	594.4304	Lucy was having a baby, and she-	596.5381
+579	DCA_se1_ag1_f_02	596.5381	(pause 0.24)	596.7805
+580	DCA_se1_ag1_f_02	596.7805	every time she wanted tell her husband,	598.7576
+581	DCA_se1_ag1_f_02	598.7576	(pause 0.38)	599.1353
+582	DCA_se1_ag1_f_02	599.1353	her-	599.2612
+583	DCA_se1_ag1_f_02	599.2612	(pause 0.36)	599.6202
+584	DCA_se1_ag1_f_02	599.6202	Ethel, her down neigh-	600.8268
+585	DCA_se1_ag1_f_02	600.8268	(pause 0.17)	600.9993
+586	DCA_se1_ag1_f_02	600.9993	s- her neighbors downstairs, they wanted-	603.0836
+587	DCA_se1_ag1_f_02	603.0836	(pause 0.40)	603.4800
+588	DCA_se1_ag1_f_02	603.4800	They kept on coming up, interrupting her, and the phones kept ringing like that.	607.0180
+589	DCA_se1_ag1_f_02	607.0180	(pause 0.43)	607.4469
+590	DCA_se1_ag1_f_02	607.4469	So then uh,	608.3842
+591	DCA_se1_ag1_f_02	608.3842	(pause 0.32)	608.7059
+592	DCA_se1_ag1_f_02	608.7059	phones kept on ringing, so she went down to his-	610.9616
+593	DCA_se1_ag1_f_02	610.9616	(pause 0.64)	611.6051
+594	DCA_se1_ag1_f_02	611.6051	this uh,	612.4537
+595	DCA_se1_ag1_f_02	612.4537	(pause 0.28)	612.7382
+596	DCA_se1_ag1_f_02	612.7382	show at the night time- He was doing this show for the- some people,	615.7458
+597	DCA_se1_ag1_f_02	615.7458	(pause 0.42)	616.1654
+598	DCA_se1_ag1_f_02	616.1654	and she went down there, and she told him. He was singing Rockabye Baby, and he was singing all them song.	621.0277
+599	DCA_int_04	621.3401	[Mm-hm.]	621.7970
+600	DCA_se1_ag1_f_02	621.4846	[He-]	621.6105
+601	DCA_se1_ag1_f_02	622.2120	He was happy when she said-	623.7321
+602	DCA_se1_ag1_f_02	623.7321	(pause 0.49)	624.2253
+603	DCA_se1_ag1_f_02	624.2253	When uh, she sent a message out by this man, say, I'm having a baby. Would you sing	628.3100
+604	DCA_se1_ag1_f_02	628.3100	(pause 0.35)	628.6597
+605	DCA_se1_ag1_f_02	628.6597	Rockabye Baby for me? And he-	630.1180
+606	DCA_se1_ag1_f_02	630.1180	(pause 0.14)	630.2579
+607	DCA_se1_ag1_f_02	630.2579	and he went around asking everybody.	631.6941
+608	DCA_se1_ag1_f_02	631.6941	(pause 0.34)	632.0298
+609	DCA_se1_ag1_f_02	632.0298	When he came to Lucy,	632.9717
+610	DCA_se1_ag1_f_02	632.9717	(pause 0.31)	633.2841
+611	DCA_se1_ag1_f_02	633.2841	Lucy said Yeah. He kept on singing, then he turned around. He said, mine. It's my baby. Like that.	637.9599
+612	DCA_int_04	637.9645	Mm-hm.	638.2816
+613	DCA_se1_ag1_f_02	638.4262	So then they started singing that like that.	640.3240
+614	DCA_se1_ag1_f_02	640.3240	(pause 0.12)	640.4452
+615	DCA_se1_ag1_f_02	640.4452	[And then it went] off.	641.3766
+616	DCA_int_04	640.5291	[Mm-hm.]	640.9628
+617	DCA_se1_ag1_f_02	641.5352	That's the [one I like.]	642.4491
+618	DCA_int_04	641.7730	[Mm-hm.]	642.3512
+619	DCA_int_04	642.7522	Well that's- that's	643.2977
+620	DCA_int_04	643.2977	(pause 0.14)	643.4330
+621	DCA_int_04	643.4330	one that comes on in the afternoon, isn't it?	645.1116
+622	DCA_se1_ag1_f_02	645.5313	[Yeah, six] o'clock.	646.5105
+623	DCA_int_04	645.5313	[Do you ever watch it-]	646.1514
+624	DCA_int_04	646.1514	(pause 0.35)	646.4965
+625	DCA_int_04	646.4965	Uh-huh. Do you ever watch uh,	647.7713
+626	DCA_int_04	647.8942	TV at night?	648.5237
+627	DCA_se1_ag1_f_02	648.8967	Mm-hm.	649.2418
+628	DCA_int_04	649.3257	Mm-hm. After homework?	650.3236
+629	DCA_se1_ag1_f_02	650.8458	Mm-hm.	651.2515
+630	DCA_int_04	651.1676	Mm-hm.	651.5825
+631	DCA_int_04	651.7224	What- what- what do you watch usually at night?	653.5736
+632	DCA_int_04	653.5736	(pause 0.57)	654.1413
+633	DCA_int_04	654.1413	What about your favorite /ones/?	655.6288
+634	DCA_se1_ag1_f_02	656.1557	My favorite Martian.	657.4240
+635	DCA_int_04	657.6385	Mm-hm.	658.1887
+636	DCA_int_04	658.1887	(pause 0.19)	658.3752
+637	DCA_int_04	658.3752	Anything else?	658.9954
+638	DCA_se1_ag1_f_02	659.4745	And um,	660.3512
+639	DCA_se1_ag1_f_02	660.3512	(pause 1.73)	662.0858
+640	DCA_se1_ag1_f_02	662.0858	I L-	662.5194
+641	DCA_se1_ag1_f_02	662.5194	(pause 0.47)	662.9857
+642	DCA_se1_ag1_f_02	662.9857	I Dream of Jeannie	664.1841
+643	DCA_int_04	665.0047	Mm-hm.	665.6797
+644	DCA_se1_ag1_f_02	666.1880	and	666.9480
+645	DCA_se1_ag1_f_02	666.9480	(pause 1.66)	668.6033
+646	DCA_se1_ag1_f_02	668.6033	um,	669.2235
+647	DCA_se1_ag1_f_02	669.2235	(pause 0.52)	669.7411
+648	DCA_se1_ag1_f_02	669.7411	/unintelligible/.	670.4685
+649	DCA_se1_ag1_f_02	670.4685	(pause 0.56)	671.0269
+650	DCA_se1_ag1_f_02	671.0269	The Monday night, Tuesday night [movies.] /Like if/ anything be on good.	674.4914
+651	DCA_int_04	672.5936	[Mm.]	672.8827
+652	DCA_int_04	674.7759	Mm-hm.	675.2468
+653	DCA_se1_ag1_f_02	676.8555	And I look at movie four.	678.3651
+654	DCA_int_04	678.8268	Mm-hm.	679.3770
+655	DCA_se1_ag1_f_02	679.7547	And I look at	680.8225
+656	DCA_se1_ag1_f_02	680.8225	(pause 1.05)	681.8763
+657	DCA_se1_ag1_f_02	681.8763	uh,	682.3146
+658	DCA_se1_ag1_f_02	682.3146	(pause 0.86)	683.1714
+659	DCA_se1_ag1_f_02	683.1714	Dark Shadow.	684.0061
+660	DCA_int_04	684.5004	Oh yeah.	685.3071
+661	DCA_se1_ag1_f_02	685.9272	And I look	686.5940
+662	DCA_se1_ag1_f_02	686.5940	(pause 0.20)	686.7945
+663	DCA_se1_ag1_f_02	686.7945	at	687.1069
+664	DCA_se1_ag1_f_02	687.1069	(pause 1.45)	688.5571
+665	DCA_se1_ag1_f_02	688.5571	um-	688.9814
+666	DCA_se1_ag1_f_02	688.9814	(pause 2.31)	691.2884
+667	DCA_se1_ag1_f_02	691.2884	/Well/ I forgot what other kind of shows I look at.	693.3447
+668	DCA_int_04	693.5313	You ever watch Julia?	694.4918
+669	DCA_se1_ag1_f_02	695.4046	Mm-mm.	695.8009
+670	DCA_int_04	696.0294	Never.	696.3745
+671	DCA_int_04	696.3745	(pause 0.48)	696.8501
+672	DCA_int_04	696.8501	Um,	697.3164
+673	DCA_int_04	697.3164	(pause 0.51)	697.8293
+674	DCA_int_04	697.8293	let's see. Back to Dark Shadows.	699.6476
+675	DCA_int_04	699.6476	(pause 0.63)	700.2820
+676	DCA_int_04	700.2820	What's going on? Now see I- I used to watch it a long time ago.	703.5915
+677	DCA_int_04	703.5915	(pause 0.62)	704.2163
+678	DCA_int_04	704.2163	But what's going on now on Dark [Shadows]?	706.5048
+679	DCA_se1_ag1_f_02	706.0722	[They made] a creation	707.3964
+680	DCA_se1_ag1_f_02	707.5491	and creation living.	708.8548
+681	DCA_se1_ag1_f_02	708.8548	(pause 0.78)	709.6381
+682	DCA_se1_ag1_f_02	709.6381	You know Anna one of the creations, so they made the creation.	712.6597
+683	DCA_int_04	712.8089	[Mm-hm.]	713.3125
+684	DCA_se1_ag1_f_02	713.1027	[The creation] living now. Her name was	714.9387
+685	DCA_se1_ag1_f_02	715.0692	Eve, and his name was Adam.	716.7292
+686	DCA_int_04	717.0147	[Mm-hm.]	717.3541
+687	DCA_se1_ag1_f_02	717.1629	[And he-] And th- that man named Peter,	719.2321
+688	DCA_se1_ag1_f_02	719.3673	Vicky's-	719.9548
+689	DCA_se1_ag1_f_02	719.9548	(pause 0.34)	720.2952
+690	DCA_se1_ag1_f_02	720.2952	the one she sposta be marrying-	721.6055
+691	DCA_se1_ag1_f_02	721.6055	(pause 0.60)	722.2023
+692	DCA_se1_ag1_f_02	722.2023	She like- She- She like him now, but he don't like her.	725.1353
+693	DCA_se1_ag1_f_02	725.1353	(pause 0.42)	725.5538
+694	DCA_se1_ag1_f_02	725.5538	And she said that Vicky	726.9573
+695	DCA_se1_ag1_f_02	726.9573	(pause 0.11)	727.0646
+696	DCA_se1_ag1_f_02	727.0646	and him, and they not gonna get married.	728.8598
+697	DCA_se1_ag1_f_02	728.8598	(pause 0.40)	729.2561
+698	DCA_se1_ag1_f_02	729.2561	And Angelique	730.1281
+699	DCA_se1_ag1_f_02	730.1281	(pause 0.42)	730.5478
+700	DCA_se1_ag1_f_02	730.5478	she bit Barnabus.	731.7869
+701	DCA_int_04	732.3418	Mm-hm.	732.6822
+702	DCA_se1_ag1_f_02	732.6449	And she bit Joe, and she-	734.0205
+703	DCA_se1_ag1_f_02	734.1650	and she called Barn- She saw him and Barnabus.	736.4545
+704	DCA_se1_ag1_f_02	736.4545	(pause 0.53)	736.9814
+705	DCA_se1_ag1_f_02	736.9814	She told Barns to come	738.2812
+706	DCA_se1_ag1_f_02	738.2812	(pause 0.71)	738.9900
+707	DCA_se1_ag1_f_02	738.9900	and-	739.3444
+708	DCA_se1_ag1_f_02	739.3444	(pause 0.10)	739.4469
+709	DCA_se1_ag1_f_02	739.4469	and get um-	740.2956
+710	DCA_se1_ag1_f_02	740.2956	(pause 0.99)	741.2888
+711	DCA_se1_ag1_f_02	741.2888	get	741.6432
+712	DCA_se1_ag1_f_02	741.6432	(pause 0.81)	742.4498
+713	DCA_se1_ag1_f_02	742.4498	uh-	742.9255
+714	DCA_se1_ag1_f_02	742.9255	(pause 2.96)	745.8899
+715	DCA_se1_ag1_f_02	745.8899	get him out of there- get him out of there. You know, he had stabbed his own self cause she didn't want him no more. She had got Barn.	751.5122
+716	DCA_se1_ag1_f_02	751.5122	(pause 0.72)	752.2303
+717	DCA_se1_ag1_f_02	752.2303	So she told him to carry him out in the woods. She told	754.4778
+718	DCA_se1_ag1_f_02	754.4778	(pause 0.22)	754.6970
+719	DCA_se1_ag1_f_02	754.6970	Barnabus to carry Joe out in the wood,	756.4398
+720	DCA_se1_ag1_f_02	756.4398	(pause 0.58)	757.0226
+721	DCA_se1_ag1_f_02	757.0226	so Joe- Barnabus didn't carry Joe out in the woods. He took him home,	760.0628
+722	DCA_se1_ag1_f_02	760.0628	(pause 0.11)	760.1747
+723	DCA_se1_ag1_f_02	760.1747	and you- you know, made him live.	761.5305
+724	DCA_int_04	761.8942	Mm-hm.	762.3605
+725	DCA_se1_ag1_f_02	762.9340	And so they discovered him two mark holes in his neck.	765.7458
+726	DCA_se1_ag1_f_02	765.7458	(pause 0.55)	766.2960
+727	DCA_se1_ag1_f_02	766.2960	And um,	766.7809
+728	DCA_se1_ag1_f_02	766.7809	(pause 0.30)	767.0782
+729	DCA_se1_ag1_f_02	767.0782	now he living now,	768.2579
+730	DCA_se1_ag1_f_02	768.2579	(pause 0.15)	768.4071
+731	DCA_se1_ag1_f_02	768.4071	but I don't know about today cause um,	770.2629
+732	DCA_se1_ag1_f_02	770.2629	(pause 0.57)	770.8365
+733	DCA_se1_ag1_f_02	770.8365	Nicholas,	771.4240
+734	DCA_se1_ag1_f_02	771.4240	(pause 0.45)	771.8716
+735	DCA_se1_ag1_f_02	771.8716	let's see.	772.3146
+736	DCA_se1_ag1_f_02	772.3146	(pause 0.28)	772.5897
+737	DCA_se1_ag1_f_02	772.5897	who i- she was going with was Maggie,	774.5330
+738	DCA_se1_ag1_f_02	774.5330	(pause 0.54)	775.0739
+739	DCA_se1_ag1_f_02	775.0739	and	775.2931
+740	DCA_se1_ag1_f_02	775.2931	(pause 0.17)	775.4656
+741	DCA_se1_ag1_f_02	775.4656	Nicholas asked,	776.3376
+742	DCA_se1_ag1_f_02	776.3376	(pause 0.08)	776.4215
+743	DCA_se1_ag1_f_02	776.4215	and she went and seen Joe in his bad condition, but they didn't tell him that the uh-	780.9853
+744	DCA_se1_ag1_f_02	780.9853	(pause 0.90)	781.8806
+745	DCA_se1_ag1_f_02	781.8806	that-	782.1697
+746	DCA_se1_ag1_f_02	782.1697	(pause 0.30)	782.4681
+747	DCA_se1_ag1_f_02	782.4681	that uh, Angelique had bit him.	784.1747
+748	DCA_se1_ag1_f_02	784.1747	(pause 0.71)	784.8835
+749	DCA_se1_ag1_f_02	784.8835	And s-	785.3778
+750	DCA_se1_ag1_f_02	785.3778	(pause 0.15)	785.5305
+751	DCA_se1_ag1_f_02	785.5305	And then he had- He w- n-	787.0553
+752	DCA_se1_ag1_f_02	787.0553	(pause 0.14)	787.1998
+753	DCA_se1_ag1_f_02	787.1998	/kept/-	787.4376
+754	DCA_se1_ag1_f_02	787.4376	(pause 0.15)	787.5868
+755	DCA_se1_ag1_f_02	787.5868	kept being bite by a vampire	789.3494
+756	DCA_se1_ag1_f_02	789.3494	(pause 0.61)	789.9602
+757	DCA_se1_ag1_f_02	789.9602	and so	790.6270
+758	DCA_se1_ag1_f_02	790.6270	(pause 0.31)	790.9395
+759	DCA_se1_ag1_f_02	790.9395	she said- so Nicholas asked her to marry him,	793.4528
+760	DCA_se1_ag1_f_02	793.4528	(pause 0.74)	794.1977
+761	DCA_se1_ag1_f_02	794.1977	and she said no because of the shape that Adam was-	796.7856
+762	DCA_se1_ag1_f_02	796.7856	(pause 0.18)	796.9674
+763	DCA_se1_ag1_f_02	796.9674	I mean that Joe was in,	798.3791
+764	DCA_se1_ag1_f_02	798.3791	(pause 0.85)	799.2278
+765	DCA_se1_ag1_f_02	799.2278	so she- And then so he get- he told this boy to take this poison	802.6550
+766	DCA_se1_ag1_f_02	802.6550	(pause 0.28)	802.9348
+767	DCA_se1_ag1_f_02	802.9348	and put it in Joe medicine. When he drink it, then he would die	806.0158
+768	DCA_se1_ag1_f_02	806.0158	(pause 0.41)	806.4224
+769	DCA_se1_ag1_f_02	806.4224	and so that um,	807.6572
+770	DCA_se1_ag1_f_02	807.6572	(pause 0.33)	807.9882
+771	DCA_se1_ag1_f_02	807.9882	Maggie could	808.6877
+772	DCA_se1_ag1_f_02	808.6877	(pause 0.18)	808.8695
+773	DCA_se1_ag1_f_02	808.8695	marry him [so he asked Mary-] she- Maggie, he marry her.	811.9925
+774	DCA_int_04	809.7263	[Mm.]	810.2812
+775	DCA_se1_ag1_f_02	812.3795	So that boy did. I don't- I ain't see it today cause I came down here.	815.5689
+776	DCA_int_04	816.1040	Mm-hm.	816.6776
+777	DCA_int_04	816.6776	(pause 0.68)	817.3537
+778	DCA_int_04	817.3537	Boy, that's really getting exciting. I wish I was home, you know, in time to see it.	820.9488
+779	DCA_int_04	820.9488	(pause 0.62)	821.5736
+780	DCA_int_04	821.5736	Um,	822.0603
+781	DCA_int_04	822.0603	(pause 1.56)	823.6195
+782	DCA_int_04	823.6195	have you seen any real good	824.8458
+783	DCA_int_04	824.8458	(pause 0.11)	824.9577
+784	DCA_int_04	824.9577	d- movies	825.5219
+785	DCA_int_04	825.5219	(pause 0.11)	825.6338
+786	DCA_int_04	825.6338	on um, you know, Monday Night Movie or	828.2579
+787	DCA_int_04	828.2579	(pause 0.35)	828.6076
+788	DCA_int_04	828.6076	Tuesday Night Movies?	829.8340
+789	DCA_int_04	829.8340	(pause 0.81)	830.6453
+790	DCA_int_04	830.6453	Nothing really interesting on?	832.0628
+791	DCA_int_04	832.0628	(pause 0.38)	832.4405
+792	DCA_int_04	832.4405	H- Have you ever seen any real good ones on? I mean,	834.7848
+793	DCA_int_04	834.7848	(pause 0.18)	834.9620
+794	DCA_int_04	834.9620	you know,	835.2324
+795	DCA_int_04	835.2324	(pause 0.13)	835.3630
+796	DCA_int_04	835.3630	past experiences?	836.3843
+797	DCA_int_04	836.3843	(pause 0.11)	836.4961
+798	DCA_int_04	836.4961	/??/	836.7805
+799	DCA_int_04	836.7805	(pause 0.16)	836.9391
+800	DCA_int_04	836.9391	/inaudible/	837.5406
+801	DCA_se1_ag1_f_02	838.4219	[Mm-hm.]	838.9255
+802	DCA_int_04	838.6865	[Anything /inaudible/?]	840.0387
+803	DCA_se1_ag1_f_02	839.2321	[I ain't really-]	840.0248
+804	DCA_se1_ag1_f_02	842.0251	Mm-mm. I mostly stay on with my /Friday/. No, I ain't [hardly look at that.]	845.9735
+805	DCA_int_04	845.1994	[Mm-hm.]	845.9875
+806	DCA_int_04	846.1507	Mm-hm.	846.6776
+807	DCA_int_04	846.6776	(pause 0.43)	847.1065
+808	DCA_int_04	847.1065	Um,	847.6008
+809	DCA_int_04	847.6008	(pause 0.61)	848.2070
+810	DCA_int_04	848.2070	do you go to the movies at all?	849.4193
+811	DCA_int_04	849.4193	(pause 0.89)	850.3053
+812	DCA_int_04	850.3053	You [go out to the movies?]	851.3314
+813	DCA_se1_ag1_f_02	850.5384	[Used to.]	851.2332
+814	DCA_int_04	851.7823	What was the last movie you saw?	852.8874
+815	DCA_se1_ag1_f_02	857.0700	N- Uh,	857.8580
+816	DCA_se1_ag1_f_02	857.8580	(pause 1.07)	858.9247
+817	DCA_se1_ag1_f_02	858.9247	Dean Martin.	859.8946
+818	DCA_se1_ag1_f_02	859.8946	(pause 0.28)	860.1697
+819	DCA_se1_ag1_f_02	860.1697	Mm-hm.	860.6593
+820	DCA_int_04	861.2422	[What did he play] in?	862.1421
+821	DCA_se1_ag1_f_02	861.2748	[Dean Martin.]	861.8810
+822	DCA_se1_ag1_f_02	863.0607	It was with a lot of these girls on this island.	865.4796
+823	DCA_se1_ag1_f_02	865.4796	(pause 1.42)	866.8971
+824	DCA_se1_ag1_f_02	866.8971	And I saw one about James Bond.	868.7063
+825	DCA_int_04	869.2938	[Oh.]	869.9327
+826	DCA_se1_ag1_f_02	869.5818	[Double oh] seven. That [was long] long time ago.	872.0453
+827	DCA_int_04	870.6169	[/Oh/.]	870.9433
+828	DCA_se1_ag1_f_02	872.7386	I don't hardly go there.	873.7271
+829	DCA_int_04	874.2493	Mm-hm.	874.7296
+830	DCA_se1_ag1_f_02	876.8035	Cause my money get scarce.	878.4315
+831	DCA_int_04	878.4308	Yeah, I know how [that is.]	879.7644
+832	DCA_se1_ag1_f_02	879.1815	[<laugh>]	879.8064
+833	DCA_int_04	879.9929	<laugh>	880.3006
+834	DCA_int_04	880.3006	(pause 0.91)	881.2146
+835	DCA_int_04	881.2146	Um,	881.7042
+836	DCA_int_04	881.7042	(pause 1.55)	883.2558
+837	DCA_int_04	883.2558	do you have uh,	884.1137
+838	DCA_int_04	884.1137	(pause 0.22)	884.3376
+839	DCA_int_04	884.3376	a dog or any kind of pet at home?	886.7949
+840	DCA_se1_ag1_f_02	886.9581	/??/	887.3327
+841	DCA_int_04	887.4058	 Have you ever had a dog?	888.3901
+842	DCA_int_04	888.3901	(pause 0.77)	889.1625
+843	DCA_int_04	889.1625	Never had a dog?	889.8013
+844	DCA_int_04	889.8013	(pause 0.77)	890.5707
+845	DCA_int_04	890.5707	Okay.	890.9018
+846	DCA_int_04	890.9018	(pause 0.36)	891.2655
+847	DCA_int_04	891.2655	Well, do you live- You said you live with your mother and your father and-	893.9315
+848	DCA_se1_ag1_f_02	894.8734	We had a cat.	895.5309
+849	DCA_int_04	896.0997	You had a cat?	896.8645
+850	DCA_int_04	896.8645	(pause 0.14)	896.9997
+851	DCA_int_04	896.9997	[Oh.]	897.5359
+852	DCA_se1_ag1_f_02	897.0044	[Yeah, but when] we moved down to nine thirteen- We used to live twelve thirty nine-	900.8575
+853	DCA_se1_ag1_f_02	901.2884	Moved on down on thirteenth, we left our cat there.	903.3727
+854	DCA_int_04	903.7271	Oh.	904.3146
+855	DCA_int_04	904.3146	(pause 1.01)	905.3218
+856	DCA_int_04	905.3218	<ts> Did you like your little cat?	906.6123
+857	DCA_se1_ag1_f_02	907.6335	He was my sister's.	908.8365
+858	DCA_int_04	909.1349	Uh-huh.	909.5499
+859	DCA_int_04	909.5499	(pause 0.80)	910.3473
+860	DCA_int_04	910.3473	What-	910.5245
+861	DCA_int_04	910.5245	(pause 0.15)	910.6783
+862	DCA_int_04	910.6783	um,	911.1679
+863	DCA_int_04	911.1679	(pause 0.25)	911.4186
+864	DCA_int_04	911.4186	it was a boy cat?	912.3418
+865	DCA_int_04	912.3418	(pause 0.11)	912.4491
+866	DCA_int_04	912.4491	<laugh>	912.7195
+867	DCA_se1_ag1_f_02	913.3677	[Yeah.]	913.9365
+868	DCA_int_04	913.6241	[What was] his name?	914.5147
+869	DCA_se1_ag1_f_02	915.4054	She called him Smith. That's her boyfriend name.	917.7543
+870	DCA_int_04	917.7916	Mm-hm.	918.3745
+871	DCA_int_04	918.3745	(pause 0.90)	919.2698
+872	DCA_int_04	919.2698	And	919.5589
+873	DCA_int_04	919.5589	(pause 0.40)	919.9599
+874	DCA_int_04	919.9599	did	920.1557
+875	DCA_int_04	920.1557	(pause 0.13)	920.2863
+876	DCA_int_04	920.2863	he do anything	921.4007
+877	DCA_int_04	921.4007	(pause 0.11)	921.5126
+878	DCA_int_04	921.5126	funny?	921.8250
+879	DCA_int_04	921.8250	(pause 0.50)	922.3286
+880	DCA_int_04	922.3286	Like most cats do. What kind of cat was he?	924.2102
+881	DCA_se1_ag1_f_02	925.0366	You know, a black and white cat.	926.2909
+882	DCA_int_04	926.4681	Mm-hm.	926.8971
+883	DCA_se1_ag1_f_02	926.8785	He was stupid. He let other cats	928.5524
+884	DCA_se1_ag1_f_02	928.9348	beat him up. Then he beat up his wife.	931.2651
+885	DCA_int_04	931.7454	Oh.	932.2117
+886	DCA_int_04	932.2117	(pause 0.48)	932.6966
+887	DCA_int_04	932.6966	Oh, he had a wife?	933.4706
+888	DCA_se1_ag1_f_02	934.1561	M-	934.3053
+889	DCA_se1_ag1_f_02	934.3053	(pause 0.36)	934.6643
+890	DCA_se1_ag1_f_02	934.6643	Yeah.	935.0374
+891	DCA_int_04	935.2985	Mm-hm.	935.6855
+892	DCA_int_04	935.6855	(pause 0.36)	936.0481
+893	DCA_int_04	936.0481	So where was his wife? Did you also have his wife living with you [too or-] <laugh>	939.6385
+894	DCA_se1_ag1_f_02	938.8831	[Yeah.]	939.4520
+895	DCA_se1_ag1_f_02	939.8577	Yeah.	940.3417
+896	DCA_int_04	940.5524	Mm-hm.	941.1073
+897	DCA_se1_ag1_f_02	941.2052	His wife was grey and white. She was a real skinny. She had some kittens.	944.6267
+898	DCA_int_04	944.8411	Mm-hm.	945.3681
+899	DCA_int_04	945.3681	(pause 1.13)	946.4965
+900	DCA_int_04	946.4965	What did you do with the kittens?	947.6321
+901	DCA_se1_ag1_f_02	948.1320	I don't know what she did with 'em.	949.6453
+902	DCA_se1_ag1_f_02	949.6453	(pause 2.23)	951.8716
+903	DCA_se1_ag1_f_02	951.8716	They were getting big though,	953.2565
+904	DCA_se1_ag1_f_02	953.2565	(pause 0.21)	953.4699
+905	DCA_se1_ag1_f_02	953.4699	and she- they, you know, I guess they	954.9807
+906	DCA_se1_ag1_f_02	954.9807	(pause 0.47)	955.4516
+907	DCA_se1_ag1_f_02	955.4516	ran away somewhere, and they were by theyself.	957.6012
+908	DCA_int_04	957.5592	Mm-hm.	958.1654
+909	DCA_int_04	959.1027	Well maybe they did.	959.9500
+910	DCA_int_04	959.9500	(pause 0.29)	960.2439
+911	DCA_int_04	960.2439	Did you ever wanna have a-	961.3117
+912	DCA_int_04	961.3117	(pause 0.16)	961.4749
+913	DCA_int_04	961.4749	a pet?	961.8433
+914	DCA_int_04	961.8433	(pause 0.24)	962.0858
+915	DCA_int_04	962.0858	/Did you ever want one?/	962.7479
+916	DCA_se1_ag1_f_02	962.7479	A puppy.	963.3447
+917	DCA_int_04	963.8950	Mm-hm.	964.4545
+918	DCA_se1_ag1_f_02	964.5804	And I ain't gonna have a big dog.	966.0807
+919	DCA_se1_ag1_f_02	966.0807	(pause 0.11)	966.1880
+920	DCA_se1_ag1_f_02	966.1880	When he got big, I was gonna give him away.	968.1137
+921	DCA_int_04	968.1510	Well, they have to grow up, just like children.	970.0302
+922	DCA_int_04	970.0302	(pause 0.51)	970.5431
+923	DCA_int_04	970.5431	<laugh>	971.3778
+924	DCA_int_04	971.3778	(pause 0.81)	972.1833
+925	DCA_int_04	972.1833	Um,	972.6729
+926	DCA_int_04	972.6729	(pause 1.34)	974.0158
+927	DCA_int_04	974.0158	tell me about your school.	975.2282
+928	DCA_int_04	975.2282	(pause 0.13)	975.3541
+929	DCA_int_04	975.3541	Which one did you go to? Now you were going to [/RD-SCHOOL-2/.]	977.7508
+930	DCA_se1_ag1_f_02	977.0980	[/RD-SCHOOL-2/.]	977.7415
+931	DCA_int_04	978.1880	Uh-huh. Y- I've been over /RD-SCHOOL-2/ before.	980.0345
+932	DCA_int_04	980.0345	(pause 0.32)	980.3515
+933	DCA_int_04	980.3515	Um,	980.7712
+934	DCA_int_04	980.7712	(pause 0.48)	981.2515
+935	DCA_int_04	981.2515	well what do you do, what do you s-	982.3939
+936	DCA_int_04	982.3939	(pause 0.18)	982.5711
+937	DCA_int_04	982.5711	uh, take	983.1959
+938	DCA_int_04	983.1959	(pause 0.06)	983.2600
+939	DCA_int_04	983.2600	in school?	983.9880
+940	DCA_se1_ag1_f_02	985.0413	We go to different classes.	986.4401
+941	DCA_int_04	987.3681	Oh you do?	988.1607
+942	DCA_se1_ag1_f_02	989.0887	I go to	989.9500
+943	DCA_se1_ag1_f_02	989.9500	(pause 0.41)	990.3558
+944	DCA_se1_ag1_f_02	990.3558	/??/ Miss /RD-NAME-1/. She come from Greek.	992.3236
+945	DCA_se1_ag1_f_02	992.3236	(pause 0.40)	992.7246
+946	DCA_se1_ag1_f_02	992.7246	She know Greek language like that.	994.3706
+947	DCA_int_04	994.5571	[Mm.]	994.9348
+948	DCA_se1_ag1_f_02	994.7156	[We- I] go to her too	995.8627
+949	DCA_se1_ag1_f_02	996.0201	for Health and Science and Social Studies,	999.2142
+950	DCA_se1_ag1_f_02	999.2142	(pause 0.53)	999.7411
+951	DCA_se1_ag1_f_02	999.7411	and I stay at my homeroom	1001.1854
+952	DCA_se1_ag1_f_02	1001.1854	(pause 0.09)	1001.2740
+953	DCA_se1_ag1_f_02	1001.2740	for everything else, /I [think/.]	1002.8827
+954	DCA_int_04	1002.4584	[Mm-hm.]	1002.9573
+955	DCA_se1_ag1_f_02	1003.9785	Take Music from Miss /RD-NAME-1/. I take /phys ed/ from	1007.3358
+956	DCA_se1_ag1_f_02	1007.3358	(pause 0.69)	1008.0248
+957	DCA_se1_ag1_f_02	1008.0248	man named Mister /RD-NAME-2/.	1009.3537
+958	DCA_int_04	1009.7034	Mm-hm.	1010.1464
+959	DCA_se1_ag1_f_02	1010.8878	And	1011.3541
+960	DCA_se1_ag1_f_02	1011.3541	(pause 2.29)	1013.6471
+961	DCA_se1_ag1_f_02	1013.6471	<ts>	1013.8476
+962	DCA_se1_ag1_f_02	1013.8476	(pause 0.18)	1014.0294
+963	DCA_se1_ag1_f_02	1014.0294	that's all.	1014.5050
+964	DCA_int_04	1014.7895	Mm-hm.	1015.2045
+965	DCA_int_04	1015.2045	(pause 0.16)	1015.3630
+966	DCA_int_04	1015.3630	Which one do you like the best?	1016.4270
+967	DCA_se1_ag1_f_02	1019.1819	None of 'em.	1019.7042
+968	DCA_int_04	1019.8522	N- <laugh>	1021.4749
+969	DCA_se1_ag1_f_02	1021.6754	[Mm-hm.]	1022.3515
+970	DCA_int_04	1021.9459	[That's a surprising] answer. <laugh>	1023.7691
+971	DCA_se1_ag1_f_02	1023.7504	Hm.	1024.0908
+972	DCA_int_04	1024.1887	You don't like any of 'em at all?	1025.7135
+973	DCA_int_04	1025.7135	(pause 2.33)	1028.0485
+974	DCA_int_04	1028.0485	/I can't a-/ Well which one do you	1029.3447
+975	DCA_int_04	1029.3447	(pause 0.38)	1029.7224
+976	DCA_int_04	1029.7224	dislike the most?	1030.7016
+977	DCA_se1_ag1_f_02	1033.7454	<ts>	1033.9179
+978	DCA_se1_ag1_f_02	1033.9179	(pause 0.60)	1034.5147
+979	DCA_se1_ag1_f_02	1034.5147	Miss /RD-NAME-2/.	1036.1141
+980	DCA_int_04	1037.2146	Which class is that?	1038.2905
+981	DCA_se1_ag1_f_02	1039.2744	It's my homeroom teacher.	1040.6406
+982	DCA_int_04	1040.7759	Homeroom. [What do you take] in there?	1042.2074
+983	DCA_se1_ag1_f_02	1041.2935	[Yeah.]	1041.8297
+984	DCA_se1_ag1_f_02	1043.7590	I'm [taking]	1044.5983
+985	DCA_int_04	1044.0014	[You take anything-]	1044.8594
+986	DCA_se1_ag1_f_02	1044.8827	Math.	1045.5589
+987	DCA_int_04	1045.6195	Math.	1045.9132
+988	DCA_se1_ag1_f_02	1046.4075	We take	1046.8831
+989	DCA_se1_ag1_f_02	1046.8831	(pause 0.66)	1047.5406
+990	DCA_se1_ag1_f_02	1047.5406	Language,	1048.5664
+991	DCA_se1_ag1_f_02	1048.5664	(pause 2.83)	1051.4003
+992	DCA_se1_ag1_f_02	1051.4003	and	1051.9972
+993	DCA_se1_ag1_f_02	1051.9972	(pause 1.14)	1053.1349
+994	DCA_se1_ag1_f_02	1053.1349	we take	1053.6199
+995	DCA_se1_ag1_f_02	1053.6199	(pause 1.07)	1054.6877
+996	DCA_se1_ag1_f_02	1054.6877	Handwriting.	1055.6762
+997	DCA_int_04	1056.5097	Mm-hm.	1056.9807
+998	DCA_se1_ag1_f_02	1057.4749	Like that.	1058.0531
+999	DCA_int_04	1058.7619	Oh.	1059.0650
+1000	DCA_int_04	1059.0650	(pause 0.21)	1059.2701
+1001	DCA_int_04	1059.2701	All of that stuff.	1060.2167
+1002	DCA_int_04	1060.2167	(pause 0.81)	1061.0234
+1003	DCA_int_04	1061.0234	And that's the one you like the best?	1062.2439
+1004	DCA_se1_ag1_f_02	1062.7755	No.	1063.1858
+1005	DCA_int_04	1063.3910	<laugh>	1065.0650
+1006	DCA_se1_ag1_f_02	1065.1300	[Mm-hm.]	1065.7635
+1007	DCA_int_04	1065.4753	[<laugh>]	1066.5757
+1008	DCA_se1_ag1_f_02	1066.3027	[Mm.]	1066.8347
+1009	DCA_int_04	1066.9488	That's the one you dislike the most! Right. That's the one I asked [you about.]	1070.1883
+1010	DCA_se1_ag1_f_02	1069.7454	[And my] Science teacher, she-	1071.4473
+1011	DCA_se1_ag1_f_02	1071.8577	I mean he-	1072.7623
+1012	DCA_se1_ag1_f_02	1072.7623	(pause 0.49)	1073.2507
+1013	DCA_se1_ag1_f_02	1073.2507	He-	1073.4605
+1014	DCA_se1_ag1_f_02	1073.4605	(pause 0.68)	1074.1367
+1015	DCA_se1_ag1_f_02	1074.1367	I c- He's fat,	1075.1765
+1016	DCA_se1_ag1_f_02	1075.1765	(pause 0.30)	1075.4796
+1017	DCA_se1_ag1_f_02	1075.4796	and he don't know how to write.	1076.5334
+1018	DCA_se1_ag1_f_02	1076.5334	(pause 0.97)	1077.5079
+1019	DCA_se1_ag1_f_02	1077.5079	He don't know how to /spelled/.	1078.8882
+1020	DCA_int_04	1079.1714	Mm-hm.	1079.7228
+1021	DCA_se1_ag1_f_02	1080.4864	You have to spell words for him.	1082.2070
+1022	DCA_int_04	1082.8038	You're kidding.	1083.5079
+1023	DCA_se1_ag1_f_02	1084.3146	Yeah, he didn't [know how to spell kangaroo.]	1086.1567
+1024	DCA_int_04	1084.7471	[And he's a teacher?]	1085.8616
+1025	DCA_se1_ag1_f_02	1086.6030	Mm-hm.	1087.0553
+1026	DCA_se1_ag1_f_02	1087.0553	(pause 0.09)	1087.1439
+1027	DCA_se1_ag1_f_02	1087.1439	He didn't know how to spell kangaroo,	1088.3282
+1028	DCA_se1_ag1_f_02	1088.3282	(pause 0.35)	1088.6779
+1029	DCA_se1_ag1_f_02	1088.6779	and he didn't know how to spell alligator.	1090.3473
+1030	DCA_int_04	1091.1493	Hm.	1091.3545
+1031	DCA_int_04	1091.3545	(pause 0.12)	1091.4792
+1032	DCA_int_04	1091.4792	Well what did he do?	1092.3045
+1033	DCA_se1_ag1_f_02	1092.8781	He asked my teacher. He looked it up in the dictionary. He	1095.5359
+1034	DCA_se1_ag1_f_02	1095.5359	(pause 0.14)	1095.6711
+1035	DCA_se1_ag1_f_02	1095.6711	found it.	1096.0302
+1036	DCA_int_04	1096.4872	<laugh>	1096.7669
+1037	DCA_int_04	1096.7669	(pause 0.45)	1097.2181
+1038	DCA_int_04	1097.2181	[Well how does he spell it?]	1098.2672
+1039	DCA_se1_ag1_f_02	1097.2227	[You know, Mrs. /RD-NAME-3/.]	1098.8128
+1040	DCA_se1_ag1_f_02	1099.6195	He didn't know how!	1100.4821
+1041	DCA_int_04	1101.1489	In any way?	1101.9229
+1042	DCA_int_04	1101.9229	(pause 0.22)	1102.1468
+1043	DCA_int_04	1102.1468	Oh that's something else.	1103.4241
+1044	DCA_int_04	1103.4241	(pause 0.12)	1103.5398
+1045	DCA_int_04	1103.5398	Teacher.	1104.1040
+1046	DCA_se1_ag1_f_02	1104.3092	Mm-hm.	1104.6589
+1047	DCA_int_04	1104.7941	Mm.	1105.0133
+1048	DCA_int_04	1105.0133	(pause 0.11)	1105.1252
+1049	DCA_int_04	1105.1252	Mm. Mm.	1105.5822
+1050	DCA_int_04	1105.5822	(pause 0.74)	1106.3189
+1051	DCA_int_04	1106.3189	Um,	1106.7759
+1052	DCA_int_04	1106.7759	(pause 1.40)	1108.1794
+1053	DCA_int_04	1108.1794	what do you do- What do you do after school?	1110.3647
+1054	DCA_int_04	1110.3647	(pause 1.22)	1111.5822
+1055	DCA_int_04	1111.5822	You know, after school is over,	1112.9204
+1056	DCA_int_04	1112.9204	(pause 0.60)	1113.5219
+1057	DCA_int_04	1113.5219	do you- I mean, anything other than you know, if- if you go out and play or	1117.4330
+1058	DCA_int_04	1117.4330	(pause 0.08)	1117.5169
+1059	DCA_int_04	1117.5169	[anything special that you have]?	1119.1023
+1060	DCA_se1_ag1_f_02	1117.5355	[Go home and go to bed.]	1119.0929
+1061	DCA_se1_ag1_f_02	1119.2935	Mm-mm.	1119.6805
+1062	DCA_int_04	1119.8716	Nothing [special]?	1120.6690
+1063	DCA_se1_ag1_f_02	1120.5291	[Oh], to- tomorrow night, I	1122.4351
+1064	DCA_se1_ag1_f_02	1122.6356	go to Study Hall	1123.6288
+1065	DCA_se1_ag1_f_02	1123.6288	(pause 0.15)	1123.7827
+1066	DCA_se1_ag1_f_02	1123.7827	tutoring.	1124.3003
+1067	DCA_se1_ag1_f_02	1124.3003	(pause 0.89)	1125.1862
+1068	DCA_se1_ag1_f_02	1125.1862	We go- I'm going- We have a t- Halloween party,	1127.4422
+1069	DCA_int_04	1127.5223	Oh!	1127.9500
+1070	DCA_se1_ag1_f_02	1127.9408	and I go and-	1128.5610
+1071	DCA_se1_ag1_f_02	1128.6496	after the-	1129.0786
+1072	DCA_se1_ag1_f_02	1129.0786	(pause 0.43)	1129.5122
+1073	DCA_se1_ag1_f_02	1129.5122	um, my teacher done-	1130.5894
+1074	DCA_se1_ag1_f_02	1130.5894	(pause 0.28)	1130.8691
+1075	DCA_se1_ag1_f_02	1130.8691	ch- uh, my tutor,	1131.9696
+1076	DCA_se1_ag1_f_02	1131.9696	(pause 0.33)	1132.2960
+1077	DCA_se1_ag1_f_02	1132.2960	she gonna take me and uh, two other girls over my- over her house tomorrow.	1136.1837
+1078	DCA_int_04	1136.3003	[Mm-hm.]	1136.9597
+1079	DCA_se1_ag1_f_02	1136.6313	[We gonna have] another party over her house.	1138.4638
+1080	DCA_int_04	1138.7389	Mm-hm.	1139.2565
+1081	DCA_int_04	1139.2565	(pause 1.48)	1140.7335
+1082	DCA_int_04	1140.7335	Uh, your tutor,	1142.0531
+1083	DCA_int_04	1142.0531	(pause 0.78)	1142.8318
+1084	DCA_int_04	1142.8318	what does she tutor?	1143.7084
+1085	DCA_int_04	1143.7084	(pause 0.40)	1144.1048
+1086	DCA_int_04	1144.1048	What does she-	1144.4685
+1087	DCA_int_04	1144.4685	(pause 0.69)	1145.1633
+1088	DCA_int_04	1145.1633	help you with?	1145.7135
+1089	DCA_se1_ag1_f_02	1148.3888	She help me with my work.	1149.4567
+1090	DCA_se1_ag1_f_02	1149.4567	(pause 0.50)	1149.9602
+1091	DCA_se1_ag1_f_02	1149.9602	Like that.	1150.4405
+1092	DCA_int_04	1150.8648	Which- I mean, everything? Or any spec-	1152.6636
+1093	DCA_int_04	1152.6636	(pause 0.19)	1152.8548
+1094	DCA_int_04	1152.8548	uh, specific	1153.6381
+1095	DCA_se1_ag1_f_02	1154.0298	Well we read. [We paint.] We do like that. We go out.	1156.6410
+1096	DCA_int_04	1154.6873	[subject]?	1155.0806
+1097	DCA_int_04	1156.6737	Mm-hm.	1157.1353
+1098	DCA_se1_ag1_f_02	1157.3953	And then she-	1157.8616
+1099	DCA_se1_ag1_f_02	1157.8616	(pause 0.34)	1158.1973
+1100	DCA_se1_ag1_f_02	1158.1973	This	1158.3791
+1101	DCA_se1_ag1_f_02	1158.3791	(pause 0.13)	1158.5097
+1102	DCA_se1_ag1_f_02	1158.5097	last- This Sunday past,	1159.9785
+1103	DCA_se1_ag1_f_02	1159.9785	(pause 0.29)	1160.2676
+1104	DCA_se1_ag1_f_02	1160.2676	she took me over her house, and we had dinner.	1161.9509
+1105	DCA_int_04	1162.3846	Mm-hm.	1162.8602
+1106	DCA_se1_ag1_f_02	1162.8229	She live across the street from /RD-NAME-2/.	1164.4351
+1107	DCA_int_04	1164.9433	Oh, well she sounds real nice.	1166.5520
+1108	DCA_int_04	1166.5520	(pause 0.95)	1167.4986
+1109	DCA_int_04	1167.4986	Well how did you happen to run across her?	1169.2933
+1110	DCA_se1_ag1_f_02	1169.8522	You see, he- when you come there, on the first day of September, we start back to school, s- you go every	1175.1773
+1111	DCA_se1_ag1_f_02	1175.1773	(pause 0.11)	1175.2892
+1112	DCA_se1_ag1_f_02	1175.2892	Thursday.	1175.8772
+1113	DCA_se1_ag1_f_02	1175.8772	(pause 0.35)	1176.2299
+1114	DCA_se1_ag1_f_02	1176.2299	But when you first come there, you- uh, there'll be a lot of teachers and you g-	1179.6199
+1115	DCA_se1_ag1_f_02	1179.6199	(pause 0.08)	1179.6991
+1116	DCA_se1_ag1_f_02	1179.6991	go out, and you grab a teacher. Me and a boy had a fight.	1182.5517
+1117	DCA_int_04	1182.8501	<laugh>	1183.1951
+1118	DCA_se1_ag1_f_02	1183.4469	[Over this teacher.] Over this teacher.	1185.4660
+1119	DCA_int_04	1183.4656	[About what?]	1184.2117
+1120	DCA_se1_ag1_f_02	1185.8390	He said, it's my teacher. I said, you ain't getting her.	1187.8989
+1121	DCA_se1_ag1_f_02	1187.8989	(pause 0.18)	1188.0760
+1122	DCA_se1_ag1_f_02	1188.0760	Like [that.]	1188.5563
+1123	DCA_int_04	1188.2672	[<laugh>]	1189.2278
+1124	DCA_se1_ag1_f_02	1189.3817	So he left her alone.	1190.6033
+1125	DCA_int_04	1192.4032	And you had a fight- a real fight?	1193.9500
+1126	DCA_se1_ag1_f_02	1194.3651	Yeah, I had a fight over it.	1195.5402
+1127	DCA_int_04	1195.9272	I guess you won.	1197.1909
+1128	DCA_int_04	1197.1909	(pause 2.24)	1199.4279
+1129	DCA_int_04	1199.4279	/Oh my/.	1200.0294
+1130	DCA_int_04	1200.0294	(pause 0.41)	1200.4351
+1131	DCA_int_04	1200.4351	Are you a real tough	1201.2185
+1132	DCA_int_04	1201.2185	(pause 0.33)	1201.5449
+1133	DCA_int_04	1201.5449	fighter?	1201.8946
+1134	DCA_int_04	1201.8946	(pause 0.72)	1202.6173
+1135	DCA_int_04	1202.6173	Hm?	1202.8178
+1136	DCA_int_04	1202.8178	(pause 0.31)	1203.1256
+1137	DCA_int_04	1203.1256	What [do you do] to defend yourself when you're fighting?	1205.4384
+1138	DCA_se1_ag1_f_02	1203.2608	[No.]	1203.6945
+1139	DCA_se1_ag1_f_02	1206.9340	Reach for the hair. Reach for anything. I don't know. As long as I get 'em scratched.	1211.1166
+1140	DCA_int_04	1211.1948	[<laugh>]	1211.7869
+1141	DCA_se1_ag1_f_02	1211.4057	[Bite.]	1211.8161
+1142	DCA_se1_ag1_f_02	1212.0900	Kick.	1212.4631
+1143	DCA_int_04	1213.4796	Hm.	1213.6941
+1144	DCA_int_04	1213.6941	(pause 0.22)	1213.9179
+1145	DCA_int_04	1213.9179	Where'd you learn to fight so good?	1215.3214
+1146	DCA_se1_ag1_f_02	1216.9441	I look at people.	1217.9500
+1147	DCA_int_04	1218.3791	Mm-hm.	1218.8408
+1148	DCA_int_04	1218.8408	(pause 1.27)	1220.1091
+1149	DCA_int_04	1220.1091	I guess when you're [really mad.]	1221.3304
+1150	DCA_se1_ag1_f_02	1220.7572	/[Man, they] worry/.	1221.6245
+1151	DCA_int_04	1221.9509	Mm.	1222.2400
+1152	DCA_int_04	1222.2400	(pause 0.83)	1223.0747
+1153	DCA_int_04	1223.0747	Hm.	1223.2705
+1154	DCA_int_04	1223.2705	(pause 0.55)	1223.8196
+1155	DCA_int_04	1223.8196	When were you ever the maddest?	1225.2278
+1156	DCA_se1_ag1_f_02	1228.0162	/When it's/ my sister wear something of mine,	1230.4864
+1157	DCA_se1_ag1_f_02	1230.4864	(pause 0.11)	1230.5983
+1158	DCA_se1_ag1_f_02	1230.5983	and then uh,	1231.4096
+1159	DCA_se1_ag1_f_02	1231.4096	(pause 0.60)	1232.0065
+1160	DCA_se1_ag1_f_02	1232.0065	when I get mad, I get starting to cry, and that's what makes me mad.	1234.8182
+1161	DCA_int_04	1234.9395	Mm-hm.	1235.4477
+1162	DCA_se1_ag1_f_02	1235.5818	Then somebody do something,	1236.9154
+1163	DCA_se1_ag1_f_02	1236.9154	(pause 1.06)	1237.9738
+1164	DCA_se1_ag1_f_02	1237.9738	I tell 'em to	1238.5660
+1165	DCA_se1_ag1_f_02	1238.5660	(pause 0.17)	1238.7339
+1166	DCA_se1_ag1_f_02	1238.7339	/throw/ me like a- this girl name /RD-NAME-2/,	1240.5431
+1167	DCA_se1_ag1_f_02	1240.5431	(pause 0.56)	1241.1081
+1168	DCA_se1_ag1_f_02	1241.1081	she'll take the ball and run with the ball. I said, throw me the ball, and she still be running. That made me mad.	1245.9136
+1169	DCA_se1_ag1_f_02	1245.9136	(pause 0.24)	1246.1561
+1170	DCA_se1_ag1_f_02	1246.1561	Like [that.]	1246.6270
+1171	DCA_int_04	1246.4125	[Mm-hm.]	1246.9768
+1172	DCA_se1_ag1_f_02	1247.5771	<ts>	1247.7450
+1173	DCA_se1_ag1_f_02	1247.7450	(pause 0.32)	1248.0667
+1174	DCA_se1_ag1_f_02	1248.0667	Get real mad.	1248.9900
+1175	DCA_int_04	1249.5915	What about teachers? Do they make you mad?	1251.2655
+1176	DCA_se1_ag1_f_02	1251.6432	Yeah, they make me mad. Like Miss /RD-NAME-2/.	1253.7135
+1177	DCA_se1_ag1_f_02	1253.7135	(pause 0.76)	1254.4724
+1178	DCA_se1_ag1_f_02	1254.4724	Teacher- My home te-	1255.6754
+1179	DCA_se1_ag1_f_02	1255.6754	(pause 0.48)	1256.1557
+1180	DCA_se1_ag1_f_02	1256.1557	She don't let you get out and put	1257.3774
+1181	DCA_se1_ag1_f_02	1257.3774	(pause 0.23)	1257.6105
+1182	DCA_se1_ag1_f_02	1257.6105	trash in the trash can. That make me mad right there.	1260.2439
+1183	DCA_int_04	1260.2346	Really?	1260.6542
+1184	DCA_se1_ag1_f_02	1261.3910	We had a accident outside our school.	1263.5919
+1185	DCA_int_04	1263.7504	[Mm-hm.]	1264.1887
+1186	DCA_se1_ag1_f_02	1264.0069	[She] pushed a boy down. He was- He had /unintelligible/. She pushed him right down. He bumped his head.	1269.3914
+1187	DCA_int_04	1269.9556	/Unintelligible/	1270.6131
+1188	DCA_se1_ag1_f_02	1270.6970	And he started crying.	1271.8068
+1189	DCA_int_04	1272.1553	[Hm.]	1272.5190
+1190	DCA_se1_ag1_f_02	1272.1693	[Say, you] pushed me again.	1273.6521
+1191	DCA_se1_ag1_f_02	1274.3842	Like that.	1274.8505
+1192	DCA_int_04	1275.9136	My goodness.	1276.6643
+1193	DCA_int_04	1276.6643	(pause 0.55)	1277.2181
+1194	DCA_int_04	1277.2181	She really does sound tough. Does she holler a lot?	1279.3956
+1195	DCA_se1_ag1_f_02	1280.7572	Mm-mm.	1281.2235
+1196	DCA_int_04	1281.9276	Have you ever had a teacher that hollered a lot?	1283.7275
+1197	DCA_se1_ag1_f_02	1284.0014	Mm-hm.	1284.5361
+1198	DCA_int_04	1286.1977	What did they [holler about]?	1287.1023
+1199	DCA_se1_ag1_f_02	1286.7386	[We had] one teacher that	1287.8670
+1200	DCA_se1_ag1_f_02	1288.4732	children /unintelligible/ made her so mad, she went outside and started crying.	1291.7920
+1201	DCA_int_04	1292.8272	<laugh>	1294.2493
+1202	DCA_int_04	1294.2493	(pause 1.43)	1295.6750
+1203	DCA_int_04	1295.6750	Well do-	1296.2719
+1204	DCA_int_04	1296.2719	(pause 0.09)	1296.3651
+1205	DCA_int_04	1296.3651	i- Was it fair? Or did she deserve it? Or what?	1298.7945
+1206	DCA_se1_ag1_f_02	1299.9183	No, it wasn't fair. We kept on acting out, and she just went right on outside and started cry-	1303.5775
+1207	DCA_se1_ag1_f_02	1303.5775	(pause 0.29)	1303.8713
+1208	DCA_se1_ag1_f_02	1303.8713	And we had a teacher that left that's now a probation officer.	1306.9286
+1209	DCA_int_04	1306.9954	[Mm-hm.]	1307.4104
+1210	DCA_se1_ag1_f_02	1307.0933	[Not at our] school, somewhere.	1308.2952
+1211	DCA_se1_ag1_f_02	1308.6263	Name Mister /RD-NAME-1/, and we- he was crying.	1310.4681
+1212	DCA_int_04	1311.7178	A man?	1312.4219
+1213	DCA_se1_ag1_f_02	1312.5851	Mm-hm.	1313.0327
+1214	DCA_int_04	1313.3160	What was [he crying] about?	1314.2905
+1215	DCA_se1_ag1_f_02	1313.5398	[He w-]	1314.0434
+1216	DCA_se1_ag1_f_02	1314.3931	See, him and his-	1315.0926
+1217	DCA_se1_ag1_f_02	1315.0926	(pause 0.35)	1315.4376
+1218	DCA_se1_ag1_f_02	1315.4376	See,	1315.7500
+1219	DCA_se1_ag1_f_02	1315.7500	(pause 0.34)	1316.0858
+1220	DCA_se1_ag1_f_02	1316.0858	he- he live where Miss /RD-NAME-2/ live, in that apartment /eleven eleven/, across the street from us.	1319.9393
+1221	DCA_int_04	1319.9968	Mm-hm.	1320.4304
+1222	DCA_se1_ag1_f_02	1320.5703	So he- he- him and his /?/, they went down to sign up for this thing, and they didn't know- he didn't know he was gonna get this job. He didn't want it. He was just fooling around.	1327.6101
+1223	DCA_int_04	1327.7920	Mm-hm.	1328.2023
+1224	DCA_se1_ag1_f_02	1328.1697	/Someone slide, and it slipped/ so then	1329.9836
+1225	DCA_se1_ag1_f_02	1330.0861	they call him- they send him a letter	1331.7555
+1226	DCA_se1_ag1_f_02	1331.7555	(pause 0.29)	1332.0434
+1227	DCA_se1_ag1_f_02	1332.0434	over the summer,	1332.7941
+1228	DCA_se1_ag1_f_02	1332.7941	(pause 0.39)	1333.1858
+1229	DCA_se1_ag1_f_02	1333.1858	and told him that they be writing back to him.	1335.2235
+1230	DCA_se1_ag1_f_02	1335.2235	(pause 0.90)	1336.1234
+1231	DCA_se1_ag1_f_02	1336.1234	So he said he didn't want the job then, but he had already signed up for it.	1339.5868
+1232	DCA_int_04	1339.7314	Hm.	1340.0531
+1233	DCA_se1_ag1_f_02	1340.4075	Probation off- He started crying.	1342.1281
+1234	DCA_se1_ag1_f_02	1342.1281	(pause 0.23)	1342.3613
+1235	DCA_se1_ag1_f_02	1342.3613	All us started crying.	1343.5352
+1236	DCA_se1_ag1_f_02	1343.5352	(pause 0.57)	1344.1087
+1237	DCA_se1_ag1_f_02	1344.1087	But them /Chinese/ people, they didn't want him to /unintelligible/.	1346.9997
+1238	DCA_int_04	1347.3447	Mm.	1347.6152
+1239	DCA_int_04	1347.6152	(pause 0.09)	1347.7038
+1240	DCA_int_04	1347.7038	Mm.	1347.8996
+1241	DCA_se1_ag1_f_02	1347.8716	He had a	1348.1934
+1242	DCA_se1_ag1_f_02	1348.6679	/mother sent/ away. He had about eight or nine cakes, and they all different kind.	1352.5381
+1243	DCA_int_04	1353.0230	[Really?]	1353.5546
+1244	DCA_se1_ag1_f_02	1353.0277	[I got me a] piece of one.	1354.3939
+1245	DCA_se1_ag1_f_02	1355.1621	Piece of one. And we coulda got all eight- We coulda got	1357.4749
+1246	DCA_se1_ag1_f_02	1357.4749	(pause 0.81)	1358.2863
+1247	DCA_se1_ag1_f_02	1358.2863	pieces of all eight of 'em, but I didn't want all eight of 'em [cause-]	1360.9161
+1248	DCA_int_04	1360.6224	[Mm-hm.]	1361.1679
+1249	DCA_int_04	1362.4398	Um,	1362.8641
+1250	DCA_int_04	1362.8641	(pause 1.12)	1363.9878
+1251	DCA_int_04	1363.9878	that could /unintelligible/ teachers that holler.	1366.7250
+1252	DCA_int_04	1366.7250	(pause 0.82)	1367.5491
+1253	DCA_int_04	1367.5491	What did you say that lady's name was? [/RD-NAME-2/?]	1369.6101
+1254	DCA_se1_ag1_f_02	1369.3863	[Miss] [/RD-NAME-2/.]	1370.2769
+1255	DCA_int_04	1369.9086	[Miss] /RD-NAME-2/.	1370.5567
+1256	DCA_int_04	1370.8785	Did she ever holler at you?	1372.0209
+1257	DCA_se1_ag1_f_02	1372.2633	No, she don't holler at me cause I holler at her back.	1374.5983
+1258	DCA_int_04	1374.7475	You do?	1375.3024
+1259	DCA_int_04	1375.3024	(pause 0.54)	1375.8433
+1260	DCA_int_04	1375.8433	Well when was the last time she hollered at you?	1377.4986
+1261	DCA_se1_ag1_f_02	1377.9183	She don't holler at [me.]	1379.0374
+1262	DCA_int_04	1378.8322	[<laugh>]	1379.4757
+1263	DCA_int_04	1379.9688	So how does she know not to holler at you?	1381.6754
+1264	DCA_se1_ag1_f_02	1382.3422	Cause I holler at her back.	1383.4893
+1265	DCA_se1_ag1_f_02	1383.4893	(pause 1.00)	1384.4918
+1266	DCA_se1_ag1_f_02	1384.4918	Cause	1384.7949
+1267	DCA_se1_ag1_f_02	1384.7949	(pause 1.12)	1385.9175
+1268	DCA_se1_ag1_f_02	1385.9175	<ts>	1386.0574
+1269	DCA_se1_ag1_f_02	1386.0574	(pause 0.64)	1386.7009
+1270	DCA_se1_ag1_f_02	1386.7009	uh-uh.	1387.1858
+1271	DCA_se1_ag1_f_02	1387.1858	(pause 0.09)	1387.2791
+1272	DCA_se1_ag1_f_02	1387.2791	She [doesn't holler] at me	1388.2536
+1273	DCA_int_04	1387.4516	[<laugh>]	1387.7314
+1274	DCA_se1_ag1_f_02	1388.5287	cause I done holler at her [back.]	1389.7737
+1275	DCA_int_04	1389.4846	[She] doesn't mess with you huh? <laugh>	1391.5316
+1276	DCA_se1_ag1_f_02	1391.5771	She don't mess with me. She tell me to sit down, and I sit down.	1394.2396
+1277	DCA_se1_ag1_f_02	1394.2396	(pause 1.05)	1395.2935
+1278	DCA_se1_ag1_f_02	1395.2935	And then like, you finish this work!	1396.7483
+1279	DCA_se1_ag1_f_02	1396.7483	(pause 0.28)	1397.0280
+1280	DCA_se1_ag1_f_02	1397.0280	She going all the way- I don't care how try- how hard you try you do, she gonna always tell you something wrong with it.	1401.2981
+1281	DCA_int_04	1401.5219	Mm-hm.	1401.9229
+1282	DCA_se1_ag1_f_02	1402.4312	Like you write your handwriting,	1403.8895
+1283	DCA_se1_ag1_f_02	1403.8895	(pause 0.84)	1404.7335
+1284	DCA_se1_ag1_f_02	1404.7335	and you make some letters, she gonna always tell you, you try to do it your best, she gonna always tell you something wrong now. That's the best you can do, and she gonna tell you that's wrong.	1412.2723
+1285	DCA_int_04	1412.6593	Yeah.	1413.0696
+1286	DCA_se1_ag1_f_02	1413.0696	And um,	1413.7364
+1287	DCA_se1_ag1_f_02	1414.1654	like um, Arithmetic,	1415.4151
+1288	DCA_se1_ag1_f_02	1415.4151	(pause 0.45)	1415.8616
+1289	DCA_se1_ag1_f_02	1415.8616	we had uh,	1416.8594
+1290	DCA_se1_ag1_f_02	1416.8594	(pause 1.45)	1418.3142
+1291	DCA_se1_ag1_f_02	1418.3142	this thing we had to do,	1419.5965
+1292	DCA_se1_ag1_f_02	1419.5965	(pause 0.62)	1420.2214
+1293	DCA_se1_ag1_f_02	1420.2214	in	1420.7063
+1294	DCA_se1_ag1_f_02	1420.7063	(pause 1.92)	1422.6263
+1295	DCA_se1_ag1_f_02	1422.6263	w- she-	1423.0832
+1296	DCA_se1_ag1_f_02	1423.0832	(pause 0.40)	1423.4796
+1297	DCA_se1_ag1_f_02	1423.4796	So I- I didn't write the way I found the answer, and she made me do it over. And I said	1428.1320
+1298	DCA_se1_ag1_f_02	1428.1320	(pause 0.26)	1428.3885
+1299	DCA_se1_ag1_f_02	1428.3885	I wasn't gonna do it over.	1429.3910
+1300	DCA_se1_ag1_f_02	1429.3910	(pause 0.70)	1430.0904
+1301	DCA_se1_ag1_f_02	1430.0904	So what she do- goes and do is go tell Mister /RD-NAME-1/.	1433.1027
+1302	DCA_se1_ag1_f_02	1433.1027	(pause 0.71)	1433.8149
+1303	DCA_se1_ag1_f_02	1433.8149	<ts>	1433.9502
+1304	DCA_se1_ag1_f_02	1433.9502	(pause 0.67)	1434.6216
+1305	DCA_se1_ag1_f_02	1434.6216	Mister /RD-NAME-1/ come in there,	1435.8806
+1306	DCA_int_04	1436.7013	He [the principal?]	1437.3263
+1307	DCA_se1_ag1_f_02	1437.0044	[started] talking- Yeah.	1438.5011
+1308	DCA_se1_ag1_f_02	1438.6270	I don't like him neither, cause he mean.	1440.4211
+1309	DCA_int_04	1440.7009	/<laugh>/	1441.1392
+1310	DCA_se1_ag1_f_02	1442.0438	But he scared though. Like you say- or you go and get your mother or father,	1445.3078
+1311	DCA_se1_ag1_f_02	1445.3078	(pause 0.54)	1445.8522
+1312	DCA_se1_ag1_f_02	1445.8522	he'll chicken out.	1446.7102
+1313	DCA_se1_ag1_f_02	1446.7102	(pause 0.48)	1447.1905
+1314	DCA_se1_ag1_f_02	1447.1905	Back up.	1447.7547
+1315	DCA_int_04	1449.4147	Mm.	1449.6105
+1316	DCA_se1_ag1_f_02	1449.5359	And what else? Let's see now.	1452.7447
+1317	DCA_se1_ag1_f_02	1453.8759	Like,	1454.1650
+1318	DCA_se1_ag1_f_02	1454.1650	(pause 0.42)	1454.5894
+1319	DCA_se1_ag1_f_02	1454.5894	uh,	1455.0277
+1320	DCA_se1_ag1_f_02	1455.0277	(pause 0.36)	1455.3914
+1321	DCA_se1_ag1_f_02	1455.3914	when you finish this work, she gonna give you a lot a more. She don't want you j- stop getting busy now.	1459.6847
+1322	DCA_se1_ag1_f_02	1459.6847	(pause 0.55)	1460.2396
+1323	DCA_se1_ag1_f_02	1460.2396	You done did all the work like you said. I did this. I did this. She won't let you read your library books or nothing.	1465.2791
+1324	DCA_int_04	1465.3723	Mm-hm.	1465.7780
+1325	DCA_se1_ag1_f_02	1465.7733	She tell you to keep on on something else.	1467.7411
+1326	DCA_se1_ag1_f_02	1468.2866	And then you finished all your work now, and she gonna tell you to keep on with something else.	1471.7407
+1327	DCA_se1_ag1_f_02	1471.7407	(pause 0.41)	1472.1510
+1328	DCA_se1_ag1_f_02	1472.1510	All them children get so mad at her. All except the Chinese. /I don't see how they can/ stand her. They love to do some work.	1477.2698
+1329	DCA_int_04	1477.6101	[<laugh>]	1478.2256
+1330	DCA_se1_ag1_f_02	1477.8106	[Boy named] Paul,	1478.8645
+1331	DCA_se1_ag1_f_02	1478.9531	[I just- I] just can't stand him. He wanna do every- work every second.	1482.5470
+1332	DCA_int_04	1479.0836	[Mm-hm.]	1479.4996
+1333	DCA_se1_ag1_f_02	1482.9340	And she- And she-	1483.9272
+1334	DCA_se1_ag1_f_02	1483.9272	(pause 0.25)	1484.1790
+1335	DCA_se1_ag1_f_02	1484.1790	<ts>	1484.2816
+1336	DCA_se1_ag1_f_02	1484.2816	(pause 0.24)	1484.5194
+1337	DCA_se1_ag1_f_02	1484.5194	She wants to do something, too, so she keep on doing it.	1487.1306
+1338	DCA_int_04	1487.2880	Mm-hm.	1487.8336
+1339	DCA_int_04	1487.8336	(pause 1.38)	1489.2138
+1340	DCA_int_04	1489.2138	Well,	1489.5215
+1341	DCA_int_04	1489.5215	(pause 0.33)	1489.8480
+1342	DCA_int_04	1489.8480	you know.	1490.2303
+1343	DCA_int_04	1490.2303	(pause 0.69)	1490.9251
+1344	DCA_int_04	1490.9251	It's just something we all have to live through, and I had to go to school too.	1494.6030
+1345	DCA_int_04	1494.6030	(pause 0.67)	1495.2698
+1346	DCA_int_04	1495.2698	It was a real trouble.	1496.3236
+1347	DCA_se1_ag1_f_02	1496.5894	You go to school?	1497.4520
+1348	DCA_int_04	1497.5499	I- I- shoot, I just got out of school um-	1499.8068
+1349	DCA_int_04	1499.8068	(pause 0.77)	1500.5796
+1350	DCA_int_04	1500.5796	uh, last summer.	1501.8526
+1351	DCA_int_04	1501.8526	(pause 0.47)	1502.3189
+1352	DCA_int_04	1502.3189	I've been going to school for um,	1504.1048
+1353	DCA_se1_ag1_f_02	1504.6504	<sigh>	1505.6715
+1354	DCA_int_04	1505.8522	seventeen-	1506.6309
+1355	DCA_int_04	1506.6309	(pause 0.82)	1507.4516
+1356	DCA_int_04	1507.4516	what, seventeen years I went to school. I went all [the way through high] school. Yep. And college.	1512.2066
+1357	DCA_se1_ag1_f_02	1509.9463	[You went to college?]	1510.7483
+1358	DCA_int_04	1512.9107	So, <laugh>	1513.6195
+1359	DCA_int_04	1513.6195	(pause 0.43)	1514.0485
+1360	DCA_int_04	1514.0485	d- you [got a long ways to go]! <laugh>	1516.2447
+1361	DCA_se1_ag1_f_02	1514.3329	[<laugh>]	1515.6758
+1362	DCA_int_04	1516.4685	[<laugh>]	1517.4897
+1363	DCA_se1_ag1_f_02	1516.4732	[<laugh>]	1516.9907
+1364	DCA_int_04	1518.0621	You have a long ways to go yet, kiddo. <laugh>	1520.5381
+1365	DCA_int_04	1520.5381	(pause 1.10)	1521.6338
+1366	DCA_int_04	1521.6338	Um,	1522.0349
+1367	DCA_int_04	1522.0349	(pause 0.75)	1522.7809
+1368	DCA_int_04	1522.7809	well let's see. You just talked about the teacher that you couldn't stand. Well, have you ever had one that you /??/	1527.3820
+1369	DCA_int_04	1527.3820	(pause 0.40)	1527.7784
+1370	DCA_int_04	1527.7784	you know, liked?	1528.4545
+1371	DCA_se1_ag1_f_02	1528.7902	Well [last year-] Yeah, [the one we] loved, Mister /RD-NAME-2/.	1531.6381
+1372	DCA_int_04	1528.9336	[/Ever in your life?/]	1529.7030
+1373	DCA_int_04	1529.7030	(pause 0.28)	1529.9781
+1374	DCA_int_04	1529.9781	[/inaudible/]	1530.4118
+1375	DCA_int_04	1532.0205	Mm-hm.	1532.4401
+1376	DCA_se1_ag1_f_02	1532.7199	Yeah, I like him.	1533.4986
+1377	DCA_se1_ag1_f_02	1533.4986	(pause 1.28)	1534.7809
+1378	DCA_se1_ag1_f_02	1534.7809	He jone on you.	1535.9875
+1379	DCA_int_04	1536.9014	Mm-hm.	1537.2511
+1380	DCA_se1_ag1_f_02	1537.2185	I'd say, I'm'a tell my mother you was /RD-NAME-1/. /RD-NAME-1/ say, yeah, tell your mom punch him in the face. Like that.	1541.4057
+1381	DCA_se1_ag1_f_02	1541.7823	He said, /RD-NAME-1/, how about that time you came to my house, you were hungry.	1544.5241
+1382	DCA_se1_ag1_f_02	1544.5241	(pause 0.53)	1545.0556
+1383	DCA_se1_ag1_f_02	1545.0556	And I fed you a hamburger. Like that. He- he jone on you like that.	1548.8454
+1384	DCA_int_04	1548.9154	[Mm-hm.]	1549.2754
+1385	DCA_se1_ag1_f_02	1549.1299	[He say], you bring back a dirty piece of paper, I'm'a jone on you.	1551.8952
+1386	DCA_int_04	1551.9836	<laugh>	1552.6317
+1387	DCA_se1_ag1_f_02	1553.1528	[He] jone on you. He make you embarrassed in front of all [/these people/.]	1556.9997
+1388	DCA_int_04	1553.1633	[Oh?]	1553.4337
+1389	DCA_int_04	1553.4337	(pause 2.60)	1556.0345
+1390	DCA_int_04	1556.0345	[Uh-huh.]	1556.6220
+1391	DCA_int_04	1557.0323	But you liked him anyway.	1558.2167
+1392	DCA_se1_ag1_f_02	1558.8975	Yeah, I- we had some fun with him.	1560.6356
+1393	DCA_int_04	1561.0599	Mm-hm.	1561.5215
+1394	DCA_se1_ag1_f_02	1561.7174	He wasn't so strict like she is.	1563.4940
+1395	DCA_int_04	1563.5499	Mm-hm.	1564.0539
+1396	DCA_int_04	1564.0539	(pause 0.84)	1564.8928
+1397	DCA_int_04	1564.8928	Do you think you learned form him?	1566.1040
+1398	DCA_se1_ag1_f_02	1566.3232	Yeah.	1566.8408
+1399	DCA_int_04	1566.9713	Mm-hm.	1567.4096
+1400	DCA_int_04	1567.4096	(pause 0.89)	1568.3003
+1401	DCA_int_04	1568.3003	That's good.	1568.9391
+1402	DCA_int_04	1568.9391	(pause 0.20)	1569.1349
+1403	DCA_int_04	1569.1349	Well maybe you need more-	1570.1934
+1404	DCA_int_04	1570.1934	(pause 0.18)	1570.3706
+1405	DCA_int_04	1570.3706	to have more teachers like that, huh?	1571.9500
+1406	DCA_int_04	1571.9500	(pause 1.34)	1573.2884
+1407	DCA_int_04	1573.2884	Hm?	1573.5355
+1408	DCA_se1_ag1_f_02	1573.8713	We want another man teacher.	1575.3914
+1409	DCA_int_04	1576.0675	You like man teachers better than women teachers?	1577.9500
+1410	DCA_se1_ag1_f_02	1578.6822	Some man teachers.	1579.9609
+1411	DCA_int_04	1580.0112	Mm-hm.	1580.4351
+1412	DCA_int_04	1580.4351	(pause 0.27)	1580.7059
+1413	DCA_int_04	1580.7059	Is he the only one you've ever had?	1582.0628
+1414	DCA_se1_ag1_f_02	1582.5384	Man [teachers]?	1583.3158
+1415	DCA_int_04	1582.9161	[The only man] teacher?	1583.7847
+1416	DCA_int_04	1584.4771	Mm-hm.	1584.9340
+1417	DCA_int_04	1584.9340	(pause 0.12)	1585.0553
+1418	DCA_int_04	1585.0553	And you liked him the best.	1586.0718
+1419	DCA_int_04	1586.0718	(pause 0.12)	1586.1930
+1420	DCA_int_04	1586.1930	That's cause he joned on you. <laugh>	1587.8390
+1421	DCA_int_04	1587.8390	(pause 0.94)	1588.7809
+1422	DCA_int_04	1588.7809	Well he did sound like a lot of fun.	1590.3558
+1423	DCA_int_04	1590.3558	(pause 0.50)	1590.8594
+1424	DCA_int_04	1590.8594	What do you think it takes	1591.8526
+1425	DCA_int_04	1591.8526	(pause 0.24)	1592.0904
+1426	DCA_int_04	1592.0904	to- to have a good	1593.0183
+1427	DCA_int_04	1593.0183	(pause 0.22)	1593.2422
+1428	DCA_int_04	1593.2422	uh, you know, a teacher that you really like?	1595.2705
+1429	DCA_se1_ag1_f_02	1595.9082	Don't be so strict,	1597.3770
+1430	DCA_se1_ag1_f_02	1597.3770	(pause 0.19)	1597.5635
+1431	DCA_se1_ag1_f_02	1597.5635	/Don't, you don't-/	1598.2583
+1432	DCA_se1_ag1_f_02	1598.2583	(pause 0.58)	1598.8365
+1433	DCA_se1_ag1_f_02	1598.8365	and um,	1599.3401
+1434	DCA_se1_ag1_f_02	1599.3401	(pause 0.75)	1600.0861
+1435	DCA_se1_ag1_f_02	1600.0861	holler at you all the time, and	1601.7042
+1436	DCA_se1_ag1_f_02	1601.7042	(pause 0.39)	1602.0900
+1437	DCA_se1_ag1_f_02	1602.0900	let you do something all the- our teacher we got now, she won't even let us play a game.	1606.0582
+1438	DCA_int_04	1606.4359	Hm.	1606.7203
+1439	DCA_int_04	1606.7203	(pause 0.88)	1607.6004
+1440	DCA_int_04	1607.6004	Wow.	1607.9315
+1441	DCA_se1_ag1_f_02	1608.0387	It's no one outside when it's	1609.4982
+1442	DCA_se1_ag1_f_02	1609.4982	(pause 0.17)	1609.6661
+1443	DCA_se1_ag1_f_02	1609.6661	time for us to go outside.	1611.1069
+1444	DCA_se1_ag1_f_02	1611.1069	(pause 0.42)	1611.5313
+1445	DCA_se1_ag1_f_02	1611.5313	She done make us-	1612.3146
+1446	DCA_se1_ag1_f_02	1612.3146	(pause 0.33)	1612.6410
+1447	DCA_se1_ag1_f_02	1612.6410	She'll make us f-	1613.3918
+1448	DCA_se1_ag1_f_02	1613.3918	(pause 0.14)	1613.5270
+1449	DCA_se1_ag1_f_02	1613.5270	ten minutes late.	1614.3558
+1450	DCA_se1_ag1_f_02	1614.3558	(pause 0.44)	1614.7941
+1451	DCA_se1_ag1_f_02	1614.7941	We sposta go in-	1615.7640
+1452	DCA_se1_ag1_f_02	1615.7640	(pause 0.37)	1616.1324
+1453	DCA_se1_ag1_f_02	1616.1324	sposta go out ten minutes til eleven, come back [five] after eleven. Now she wait til	1620.1180
+1454	DCA_int_04	1618.0022	[Uh-huh.]	1618.3752
+1455	DCA_se1_ag1_f_02	1620.2999	eleven o'clock, and then take us out. And we only have but	1622.4635
+1456	DCA_se1_ag1_f_02	1622.4635	(pause 0.06)	1622.5241
+1457	DCA_se1_ag1_f_02	1622.5241	five minutes to play.	1623.5359
+1458	DCA_se1_ag1_f_02	1623.5359	(pause 1.29)	1624.8229
+1459	DCA_se1_ag1_f_02	1624.8229	And we just stay on outside. We don't come in.	1626.9433
+1460	DCA_int_04	1627.3770	Hm.	1627.6195
+1461	DCA_int_04	1627.6195	(pause 1.21)	1628.8318
+1462	DCA_int_04	1628.8318	Oh, I see you're a patrol girl. What is-	1630.6457
+1463	DCA_se1_ag1_f_02	1631.1854	Lieutenant.	1631.9500
+1464	DCA_int_04	1632.0061	Oh, a lieutenant!	1633.1765
+1465	DCA_int_04	1633.1765	(pause 1.02)	1634.1977
+1466	DCA_int_04	1634.1977	Wow. Are you first lieutenant?	1635.8716
+1467	DCA_se1_ag1_f_02	1636.5711	Yeah, I- this my first time on	1638.4258
+1468	DCA_se1_ag1_f_02	1638.4258	(pause 0.88)	1639.3024
+1469	DCA_se1_ag1_f_02	1639.3024	this year.	1639.8106
+1470	DCA_int_04	1639.9785	Oh, really?	1640.6546
+1471	DCA_int_04	1640.6546	(pause 0.71)	1641.3634
+1472	DCA_int_04	1641.3634	Well that's good. How did you get to be first lieutenant?	1643.3964
+1473	DCA_se1_ag1_f_02	1644.3139	I had seven votes.	1645.8106
+1474	DCA_se1_ag1_f_02	1645.8106	(pause 0.56)	1646.3749
+1475	DCA_se1_ag1_f_02	1646.3749	We voted	1647.0556
+1476	DCA_int_04	1647.5126	[Mm-hm.]	1647.9975
+1477	DCA_se1_ag1_f_02	1647.5219	[at school], and I had seven and	1649.4186
+1478	DCA_se1_ag1_f_02	1649.6564	<ts>	1649.7450
+1479	DCA_se1_ag1_f_02	1649.7450	(pause 0.25)	1649.9921
+1480	DCA_se1_ag1_f_02	1649.9921	boy name /RD-NAME-3/,	1651.1532
+1481	DCA_int_04	1651.5915	Mm-hm.	1651.9552
+1482	DCA_se1_ag1_f_02	1652.1744	he had ten votes.	1653.4002
+1483	DCA_se1_ag1_f_02	1653.4002	(pause 1.85)	1655.2519
+1484	DCA_se1_ag1_f_02	1655.2519	And this girl- that girl that was outside that say she didn't want that /?/-	1658.6546
+1485	DCA_se1_ag1_f_02	1658.6546	(pause 0.48)	1659.1302
+1486	DCA_se1_ag1_f_02	1659.1302	she's a sergeant.	1660.0442
+1487	DCA_int_04	1660.9628	Oh wow.	1661.8347
+1488	DCA_int_04	1661.8347	(pause 0.34)	1662.1786
+1489	DCA_int_04	1662.1786	Boy-	1662.3978
+1490	DCA_int_04	1662.3978	(pause 0.23)	1662.6309
+1491	DCA_int_04	1662.6309	So, what-	1663.1112
+1492	DCA_int_04	1663.1112	(pause 0.14)	1663.2464
+1493	DCA_int_04	1663.2464	Does um, the clan-	1664.5754
+1494	DCA_int_04	1664.5754	(pause 0.21)	1664.7805
+1495	DCA_int_04	1664.7805	your	1665.0836
+1496	DCA_int_04	1665.0836	(pause 0.42)	1665.5079
+1497	DCA_int_04	1665.5079	class	1665.9975
+1498	DCA_int_04	1665.9975	(pause 0.21)	1666.2074
+1499	DCA_int_04	1666.2074	[vote or-]	1666.8882
+1500	DCA_se1_ag1_f_02	1666.2167	[All the patrols.] All the [patrol that wanna be chose] be in a room. We have meeting.	1670.4308
+1501	DCA_int_04	1667.5678	[Oh, all the patrols.]	1668.6449
+1502	DCA_int_04	1670.8085	[Mm-hm.]	1671.1632
+1503	DCA_se1_ag1_f_02	1671.0417	[Like] that, and they take and uh-	1672.7016
+1504	DCA_se1_ag1_f_02	1673.5223	uh, they-	1674.2905
+1505	DCA_se1_ag1_f_02	1674.2905	(pause 1.34)	1675.6288
+1506	DCA_se1_ag1_f_02	1675.6288	we vote.	1676.2816
+1507	DCA_se1_ag1_f_02	1676.2816	(pause 0.35)	1676.6313
+1508	DCA_se1_ag1_f_02	1676.6313	They write a- she give us a piece of paper, and you write down the name.	1680.1553
+1509	DCA_se1_ag1_f_02	1680.1553	(pause 0.12)	1680.2766
+1510	DCA_se1_ag1_f_02	1680.2766	I wrote down my own name.	1681.4003
+1511	DCA_se1_ag1_f_02	1681.4003	(pause 0.17)	1681.5728
+1512	DCA_se1_ag1_f_02	1681.5728	I voted for myself.	1682.6593
+1513	DCA_int_04	1682.6826	Mm-hm.	1683.1396
+1514	DCA_int_04	1683.1396	(pause 0.08)	1683.2235
+1515	DCA_int_04	1683.2235	<laugh>	1683.7877
+1516	DCA_int_04	1683.7877	(pause 0.60)	1684.3846
+1517	DCA_int_04	1684.3846	Cause you really wanted to be a lieutenant, huh?	1685.8895
+1518	DCA_se1_ag1_f_02	1686.3931	Y- I- Yeah, I wanted to be a captain, but	1688.6686
+1519	DCA_int_04	1688.7712	Mm-hm.	1689.3028
+1520	DCA_se1_ag1_f_02	1690.3799	long- just as long I wasn't the lowest thing there is. She the lowest thing that is.	1694.0112
+1521	DCA_se1_ag1_f_02	1694.0112	(pause 0.62)	1694.6267
+1522	DCA_se1_ag1_f_02	1694.6267	I can rule her-	1695.5406
+1523	DCA_se1_ag1_f_02	1695.5406	(pause 0.33)	1695.8716
+1524	DCA_se1_ag1_f_02	1695.8716	I can tell her what to do. She can't tell me.	1697.9222
+1525	DCA_se1_ag1_f_02	1697.9222	(pause 0.37)	1698.2952
+1526	DCA_se1_ag1_f_02	1698.2952	But the captain tell me what to do. I can't tell him- But I can tell everybody else	1701.3494
+1527	DCA_se1_ag1_f_02	1701.3494	(pause 0.14)	1701.4940
+1528	DCA_se1_ag1_f_02	1701.4940	under me.	1702.0442
+1529	DCA_int_04	1702.2727	Uh-huh.	1702.6970
+1530	DCA_int_04	1702.6970	(pause 0.32)	1703.0176
+1531	DCA_int_04	1703.0176	Well how many are under you?	1704.1320
+1532	DCA_se1_ag1_f_02	1705.0553	All of 'em except him.	1706.2583
+1533	DCA_se1_ag1_f_02	1706.2583	(pause 0.43)	1706.6873
+1534	DCA_se1_ag1_f_02	1706.6873	I can tell everybody [what to do] except the captain.	1708.6597
+1535	DCA_int_04	1707.6338	[Uh-huh.]	1708.0535
+1536	DCA_int_04	1708.9022	Do you have privates too?	1710.0714
+1537	DCA_int_04	1710.0714	(pause 1.20)	1711.2698
+1538	DCA_int_04	1711.2698	You got-	1711.5122
+1539	DCA_int_04	1711.5122	(pause 0.48)	1711.9925
+1540	DCA_int_04	1711.9925	so in another words, you have sargeants,	1713.5650
+1541	DCA_int_04	1713.5650	(pause 0.33)	1713.8950
+1542	DCA_int_04	1713.8950	lieutenants and captains.	1715.1493
+1543	DCA_int_04	1715.1493	(pause 0.28)	1715.4326
+1544	DCA_int_04	1715.4326	Uh-huh.	1715.8243
+1545	DCA_int_04	1715.8243	(pause 0.65)	1716.4771
+1546	DCA_int_04	1716.4771	Well how many lieutenants are there?	1717.7640
+1547	DCA_se1_ag1_f_02	1718.1371	Me.	1718.4868
+1548	DCA_int_04	1719.4193	Well you've got a lot of people under you then, huh?	1721.3591
+1549	DCA_int_04	1721.3591	(pause 0.79)	1722.1507
+1550	DCA_int_04	1722.1507	Gee, that's pretty good.	1723.1625
+1551	DCA_int_04	1723.1625	(pause 0.64)	1723.8060
+1552	DCA_int_04	1723.8060	That make- should make you feel kind of special.	1725.7551
+1553	DCA_int_04	1725.7551	(pause 1.67)	1727.4232
+1554	DCA_int_04	1727.4232	Yeah, that's good.	1728.3465
+1555	DCA_int_04	1728.3465	(pause 0.35)	1728.6916
+1556	DCA_int_04	1728.6916	Um,	1728.9807
+1557	DCA_int_04	1728.9807	(pause 0.78)	1729.7640
+1558	DCA_int_04	1729.7640	do you have a bunch of kids that you- you like to	1732.1281
+1559	DCA_int_04	1732.1281	(pause 0.22)	1732.3473
+1560	DCA_int_04	1732.3473	um,	1732.6177
+1561	DCA_int_04	1732.6177	(pause 0.46)	1733.0747
+1562	DCA_int_04	1733.0747	hang around with more than others?	1734.5796
+1563	DCA_se1_ag1_f_02	1734.8687	Mm-mm.	1735.2045
+1564	DCA_int_04	1735.5822	Mm?	1735.7780
+1565	DCA_int_04	1735.7780	(pause 0.28)	1736.0531
+1566	DCA_int_04	1736.0531	Do you play with the same ones every day?	1737.7038
+1567	DCA_int_04	1737.7038	(pause 0.35)	1738.0582
+1568	DCA_int_04	1738.0582	Or when you do play?	1739.0654
+1569	DCA_se1_ag1_f_02	1739.8942	Yeah.	1740.2952
+1570	DCA_int_04	1740.4258	You do?	1740.8268
+1571	DCA_se1_ag1_f_02	1740.9340	I have one /?/.	1742.0858
+1572	DCA_int_04	1742.4495	Uh-huh.	1742.8645
+1573	DCA_int_04	1742.8645	(pause 0.50)	1743.3634
+1574	DCA_int_04	1743.3634	Um,	1743.8343
+1575	DCA_int_04	1743.8343	(pause 1.36)	1745.1913
+1576	DCA_int_04	1745.1913	is- w-	1745.7170
+1577	DCA_int_04	1745.7170	(pause 0.12)	1745.8336
+1578	DCA_int_04	1745.8336	what does it take	1746.6309
+1579	DCA_int_04	1746.6309	(pause 0.21)	1746.8361
+1580	DCA_int_04	1746.8361	for um,	1747.5309
+1581	DCA_int_04	1747.5309	(pause 0.80)	1748.3282
+1582	DCA_int_04	1748.3282	a person to be your friend or a group of people to	1751.0514
+1583	DCA_int_04	1751.0514	(pause 0.35)	1751.4057
+1584	DCA_int_04	1751.4057	be the group that you wanna be with?	1753.0599
+1585	DCA_se1_ag1_f_02	1754.4122	They don't wanna fight.	1755.3494
+1586	DCA_se1_ag1_f_02	1755.3494	(pause 0.32)	1755.6711
+1587	DCA_se1_ag1_f_02	1755.6711	They don't wanna	1756.1981
+1588	DCA_se1_ag1_f_02	1756.1981	(pause 1.27)	1757.4664
+1589	DCA_se1_ag1_f_02	1757.4664	They don't say nasty word like that.	1759.5309
+1590	DCA_se1_ag1_f_02	1759.5309	(pause 0.53)	1760.0578
+1591	DCA_se1_ag1_f_02	1760.0578	<ts>	1760.2256
+1592	DCA_se1_ag1_f_02	1760.2256	(pause 0.19)	1760.4168
+1593	DCA_se1_ag1_f_02	1760.4168	I mean, you know, like somebody pick on you. You hit 'em back, but you know, they don't wanna fight everybody they see.	1764.9269
+1594	DCA_se1_ag1_f_02	1764.9269	(pause 0.39)	1765.3164
+1595	DCA_se1_ag1_f_02	1765.3164	I don't like the people that talk about people.	1767.2468
+1596	DCA_int_04	1767.3074	Mm-hm.	1767.6991
+1597	DCA_se1_ag1_f_02	1768.2773	Like that.	1768.7669
+1598	DCA_int_04	1768.8648	Mm-hm.	1769.3125
+1599	DCA_se1_ag1_f_02	1769.9315	And call people names like that.	1771.7127
+1600	DCA_int_04	1772.8318	Well that's good.	1773.7784
+1601	DCA_int_04	1773.7784	(pause 1.07)	1774.8462
+1602	DCA_int_04	1774.8462	That's good.	1775.3451
+1603	DCA_int_04	1775.3451	(pause 0.66)	1776.0061
+1604	DCA_int_04	1776.0061	You've got friends like that, that's- that's good.	1778.1790
+1605	DCA_int_04	1778.1790	(pause 0.41)	1778.5847
+1606	DCA_int_04	1778.5847	Do you uh, ever play with any	1780.1701
+1607	DCA_int_04	1780.1701	(pause 0.10)	1780.2680
+1608	DCA_int_04	1780.2680	Chinese kids at uh, /RD-SCHOOL-2/?	1781.8196
+1609	DCA_se1_ag1_f_02	1781.9315	Mm-hm.	1782.3698
+1610	DCA_int_04	1782.3698	You do?	1782.6542
+1611	DCA_int_04	1782.6542	(pause 0.42)	1783.0786
+1612	DCA_int_04	1783.0786	Are you very good friends with them?	1784.3749
+1613	DCA_se1_ag1_f_02	1784.4355	Mm-hm.	1784.9111
+1614	DCA_int_04	1787.0700	Do y'all get along?	1787.9500
+1615	DCA_int_04	1787.9500	(pause 0.52)	1788.4724
+1616	DCA_int_04	1788.4724	That's good.	1788.9433
+1617	DCA_int_04	1788.9433	(pause 0.85)	1789.7920
+1618	DCA_int_04	1789.7920	Um,	1790.2303
+1619	DCA_int_04	1790.2303	(pause 1.15)	1791.3820
+1620	DCA_int_04	1791.3820	is there anybody	1792.5478
+1621	DCA_int_04	1792.5478	(pause 1.04)	1793.5864
+1622	DCA_int_04	1793.5864	in the- in your group	1794.6589
+1623	DCA_int_04	1794.6589	(pause 0.25)	1794.9060
+1624	DCA_int_04	1794.9060	of friends,	1795.8060
+1625	DCA_int_04	1795.8060	(pause 0.40)	1796.2070
+1626	DCA_int_04	1796.2070	that is more or less the one that everybody else listens to?	1799.1446
+1627	DCA_se1_ag1_f_02	1800.1693	Me.	1800.5933
+1628	DCA_int_04	1800.9247	You.	1801.2371
+1629	DCA_int_04	1801.2371	(pause 0.17)	1801.4050
+1630	DCA_int_04	1801.4050	I thought so. <laugh>	1802.8645
+1631	DCA_int_04	1802.8645	(pause 0.78)	1803.6432
+1632	DCA_int_04	1803.6432	I thought so.	1804.3986
+1633	DCA_int_04	1804.3986	(pause 0.09)	1804.4872
+1634	DCA_int_04	1804.4872	Why do you think that you are the-	1806.1413
+1635	DCA_int_04	1806.1413	(pause 0.23)	1806.3745
+1636	DCA_int_04	1806.3745	the leader of	1807.1532
+1637	DCA_int_04	1807.1532	(pause 0.18)	1807.3304
+1638	DCA_int_04	1807.3304	the group?	1807.6661
+1639	DCA_se1_ag1_f_02	1809.3774	<ts> I don't know.	1810.1048
+1640	DCA_int_04	1810.5338	Hm?	1810.8415
+1641	DCA_se1_ag1_f_02	1812.8921	I don't know. They just listen to me.	1814.2536
+1642	DCA_se1_ag1_f_02	1814.2536	(pause 0.09)	1814.3422
+1643	DCA_se1_ag1_f_02	1814.3422	When I	1814.7572
+1644	DCA_se1_ag1_f_02	1814.7572	(pause 0.07)	1814.8272
+1645	DCA_se1_ag1_f_02	1814.8272	tell to do, they do it. When somebody else tell them, they don't do it.	1817.6109
+1646	DCA_se1_ag1_f_02	1817.6109	(pause 0.41)	1818.0248
+1647	DCA_se1_ag1_f_02	1818.0248	But if I say, go ahead-	1819.0506
+1648	DCA_int_04	1819.3490	Mm-hm.	1819.7170
+1649	DCA_se1_ag1_f_02	1819.6381	And if I'm not around-	1820.6733
+1650	DCA_se1_ag1_f_02	1820.7992	I don't know who it is when I'm not around.	1822.6410
+1651	DCA_int_04	1823.2705	Well do you make the decisions about what you wa- what, you know- what you gonna play	1827.5919
+1652	DCA_int_04	1827.5919	(pause 0.53)	1828.1188
+1653	DCA_int_04	1828.1188	now or where you [gonna go]?	1829.9500
+1654	DCA_se1_ag1_f_02	1829.2367	[No, I be-] I like- No, I let them	1831.4096
+1655	DCA_se1_ag1_f_02	1831.5449	play what they wanna play. You know I play with them.	1833.5639
+1656	DCA_se1_ag1_f_02	1833.5639	(pause 0.40)	1833.9602
+1657	DCA_se1_ag1_f_02	1833.9602	They-	1834.2027
+1658	DCA_se1_ag1_f_02	1834.2027	(pause 0.10)	1834.3006
+1659	DCA_se1_ag1_f_02	1834.3006	They select some games, then I select some games.	1836.7846
+1660	DCA_int_04	1836.7801	Mm-hm.	1837.3910
+1661	DCA_int_04	1838.5054	But everybody listens to you, huh?	1839.9574
+1662	DCA_int_04	1839.9574	(pause 1.11)	1841.0654
+1663	DCA_int_04	1841.0654	Why?	1841.5969
+1664	DCA_se1_ag1_f_02	1842.1833	Mm, I don't know.	1843.2604
+1665	DCA_int_04	1843.4516	Come on, be honest. You don't have to be modest with me.	1845.8763
+1666	DCA_int_04	1845.8763	(pause 0.60)	1846.4732
+1667	DCA_int_04	1846.4732	<laugh>	1847.1493
+1668	DCA_se1_ag1_f_02	1847.5398	I don't know.	1848.3372
+1669	DCA_se1_ag1_f_02	1848.3372	(pause 1.00)	1849.3350
+1670	DCA_se1_ag1_f_02	1849.3350	I can beat all of 'em.	1850.5894
+1671	DCA_int_04	1850.9158	Oh, now see, you hit a point on the-	1852.6877
+1672	DCA_int_04	1852.6877	(pause 0.68)	1853.3673
+1673	DCA_int_04	1853.3673	good point there.	1854.3185
+1674	DCA_int_04	1854.3185	(pause 2.40)	1856.7199
+1675	DCA_int_04	1856.7199	You can beat 'em all up. Have you ever fought them all?	1859.0607
+1676	DCA_se1_ag1_f_02	1859.2985	Mm-mm.	1859.7078
+1677	DCA_int_04	1860.1460	Hm?	1860.4724
+1678	DCA_int_04	1860.4724	(pause 0.84)	1861.3117
+1679	DCA_int_04	1861.3117	Now how do they know th- How do you-	1862.5427
+1680	DCA_int_04	1862.5427	(pause 0.27)	1862.8132
+1681	DCA_int_04	1862.8132	they know that [you can-]	1863.7644
+1682	DCA_se1_ag1_f_02	1863.3867	[Hey, /all them meant to/] chicken out. Alright? I don't get scared.	1866.1973
+1683	DCA_int_04	1866.4537	Mm-hm.	1867.1485
+1684	DCA_int_04	1867.1485	(pause 0.37)	1867.5215
+1685	DCA_int_04	1867.5215	How come you don't get scared?	1868.5802
+1686	DCA_se1_ag1_f_02	1868.7619	Cause, they wanna fight me, I wanna fight them.	1870.8182
+1687	DCA_int_04	1871.0840	<laugh>	1871.9500
+1688	DCA_se1_ag1_f_02	1872.1460	I don't [chicken out.]	1873.1858
+1689	DCA_int_04	1872.8035	[You a] bad /aren't you?/ <laugh>	1875.3214
+1690	DCA_int_04	1876.1374	Um,	1876.6597
+1691	DCA_int_04	1876.6597	(pause 1.02)	1877.6750
+1692	DCA_int_04	1877.6750	can-	1877.9735
+1693	DCA_int_04	1877.9735	(pause 0.18)	1878.1553
+1694	DCA_int_04	1878.1553	can you	1878.6496
+1695	DCA_int_04	1878.6496	(pause 0.10)	1878.7475
+1696	DCA_int_04	1878.7475	say, you know, have a new	1880.0578
+1697	DCA_int_04	1880.0578	(pause 0.14)	1880.1977
+1698	DCA_int_04	1880.1977	person to come into the school or anything like,	1882.6084
+1699	DCA_int_04	1882.6084	(pause 0.10)	1882.7110
+1700	DCA_int_04	1882.7110	in the neighborhood,	1883.5118
+1701	DCA_int_04	1883.5118	(pause 0.55)	1884.0621
+1702	DCA_int_04	1884.0621	and just	1884.7428
+1703	DCA_int_04	1884.7428	(pause 0.38)	1885.1252
+1704	DCA_int_04	1885.1252	come into your group?	1886.2465
+1705	DCA_int_04	1886.2465	(pause 1.41)	1887.6525
+1706	DCA_int_04	1887.6525	Your group of friends?	1888.6125
+1707	DCA_int_04	1888.6125	(pause 1.71)	1890.3185
+1708	DCA_int_04	1890.3185	Can anybody just be in that group or-	1892.3515
+1709	DCA_se1_ag1_f_02	1892.7106	Mm-hm.	1893.1676
+1710	DCA_int_04	1893.4893	Mm-hm.	1893.9929
+1711	DCA_se1_ag1_f_02	1894.6970	Not anybody. You know.	1896.2719
+1712	DCA_int_04	1898.3749	Well what do they have to do then in order to-	1899.9229
+1713	DCA_se1_ag1_f_02	1899.9183	Don't have to do nothing.	1901.1306
+1714	DCA_se1_ag1_f_02	1902.3372	I, just like I said, I don't like people talking about people. I don't like them kind of people.	1906.0582
+1715	DCA_int_04	1906.1841	Mm-hm.	1906.6410
+1716	DCA_int_04	1906.6410	(pause 0.69)	1907.3346
+1717	DCA_int_04	1907.3346	So they've gotta be good in order to be in the group?	1909.4376
+1718	DCA_int_04	1909.4376	(pause 0.20)	1909.6381
+1719	DCA_int_04	1909.6381	Mm-hm.	1910.1371
+1720	DCA_int_04	1910.1371	(pause 0.70)	1910.8411
+1721	DCA_int_04	1910.8411	Um,	1911.3691
+1722	DCA_int_04	1911.3691	(pause 3.42)	1914.7895
+1723	DCA_int_04	1914.7895	if um-	1915.6521
+1724	DCA_int_04	1915.6521	(pause 2.34)	1917.9882
+1725	DCA_int_04	1917.9882	when you get through with school-	1919.6797
+1726	DCA_int_04	1919.6797	(pause 0.18)	1919.8616
+1727	DCA_int_04	1919.8616	so you're going on to junior high school next year,	1922.1977
+1728	DCA_int_04	1922.1977	(pause 0.69)	1922.8831
+1729	DCA_int_04	1922.8831	and on to high school. What do you wanna do when you finish?	1925.0840
+1730	DCA_se1_ag1_f_02	1927.5775	I wanna be a teacher.	1928.7339
+1731	DCA_se1_ag1_f_02	1928.7339	(pause 2.89)	1931.6284
+1732	DCA_se1_ag1_f_02	1931.6284	Or a nurse.	1932.6822
+1733	DCA_int_04	1933.5495	Mm-hm.	1934.1215
+1734	DCA_int_04	1934.1215	(pause 1.88)	1936.0022
+1735	DCA_int_04	1936.0022	Um-	1936.3846
+1736	DCA_se1_ag1_f_02	1936.7483	Or work in a [restaurant.]	1938.0854
+1737	DCA_int_04	1937.3626	[Mm-hm.]	1937.9268
+1738	DCA_int_04	1939.7174	Well how long	1940.4541
+1739	DCA_int_04	1940.4541	(pause 0.23)	1940.6826
+1740	DCA_int_04	1940.6826	does it- do you think it's gonna take	1942.2587
+1741	DCA_int_04	1942.2587	(pause 0.62)	1942.8788
+1742	DCA_int_04	1942.8788	to be a teacher, for instance?	1944.2643
+1743	DCA_se1_ag1_f_02	1944.8035	Go to college.	1945.8153
+1744	DCA_se1_ag1_f_02	1945.8153	(pause 0.18)	1945.9972
+1745	DCA_se1_ag1_f_02	1945.9972	I don't wanna go.	1946.6406
+1746	DCA_int_04	1946.8505	Well what are you frowning up for?	1948.1934
+1747	DCA_se1_ag1_f_02	1948.9907	Cause they do too much work. /Ooh/.	1950.6682
+1748	DCA_int_04	1951.0226	<laugh>	1951.6266
+1749	DCA_int_04	1951.6266	(pause 0.44)	1952.0624
+1750	DCA_int_04	1952.0624	You aren't kidding.	1952.9577
+1751	DCA_int_04	1952.9577	(pause 0.54)	1953.4986
+1752	DCA_int_04	1953.4986	Well,	1953.8763
+1753	DCA_int_04	1953.8763	(pause 1.12)	1954.9954
+1754	DCA_int_04	1954.9954	/Cause/ I think they'll be one the best years of your life.	1957.2138
+1755	DCA_int_04	1957.2138	(pause 1.03)	1958.2396
+1756	DCA_int_04	1958.2396	Really.	1958.6303
+1757	DCA_int_04	1958.6303	(pause 1.50)	1960.1328
+1758	DCA_int_04	1960.1328	I had my most fun in college.	1961.8476
+1759	DCA_int_04	1961.8476	(pause 0.43)	1962.2812
+1760	DCA_int_04	1962.2812	And I worked the hardest, too.	1963.7733
+1761	DCA_int_04	1963.7733	(pause 2.34)	1966.1141
+1762	DCA_int_04	1966.1141	Um,	1966.5011
+1763	DCA_int_04	1966.5011	(pause 2.69)	1969.1905
+1764	DCA_int_04	1969.1905	what do you think a teacher does- Now you've	1971.5033
+1765	DCA_int_04	1971.5033	(pause 0.15)	1971.6572
+1766	DCA_int_04	1971.6572	had such bad times with teachers. Um, what kind of teacher are you gonna be?	1975.3164
+1767	DCA_se1_ag1_f_02	1976.4355	A good teacher.	1977.4986
+1768	DCA_int_04	1978.0815	And what does that mean?	1979.1166
+1769	DCA_int_04	1979.1166	(pause 1.35)	1980.4677
+1770	DCA_int_04	1980.4677	To be a [good teacher.]	1981.6101
+1771	DCA_se1_ag1_f_02	1980.9154	[Teacher.] I don't- I don't wanna holler.	1982.6220
+1772	DCA_se1_ag1_f_02	1984.4405	I don't want my children to be acting bad.	1986.3838
+1773	DCA_se1_ag1_f_02	1986.3838	(pause 0.51)	1986.8921
+1774	DCA_se1_ag1_f_02	1986.8921	I let them do something. I don't be strict like that. I don't- I let them do some things.	1991.0654
+1775	DCA_se1_ag1_f_02	1991.0654	(pause 0.75)	1991.8196
+1776	DCA_se1_ag1_f_02	1991.8196	But you know, it can't get out of hand.	1993.3071
+1777	DCA_int_04	1993.5495	Mm-hm.	1994.1184
+1778	DCA_int_04	1994.1184	(pause 1.38)	1995.4986
+1779	DCA_int_04	1995.4986	I think you probably would be a good teacher.	1997.1260
+1780	DCA_int_04	1997.1260	(pause 0.45)	1997.5771
+1781	DCA_int_04	1997.5771	Since you know what it's like. <laugh>	1999.1019
+1782	DCA_int_04	1999.1019	(pause 0.57)	1999.6708
+1783	DCA_int_04	1999.6708	Uh, if you had all the money you wanted-	2001.6478
+1784	DCA_int_04	2001.6478	(pause 0.93)	2002.5757
+1785	DCA_int_04	2002.5757	first of all, how much money,	2003.6669
+1786	DCA_int_04	2003.6669	(pause 0.59)	2004.2579
+1787	DCA_int_04	2004.2579	you know, if you had your choice of as much as there is in the world, how much of it would you want?	2008.3193
+1788	DCA_se1_ag1_f_02	2012.5194	Half.	2012.9064
+1789	DCA_se1_ag1_f_02	2012.9064	(pause 0.81)	2013.7131
+1790	DCA_se1_ag1_f_02	2013.7131	No, [one-]	2014.3752
+1791	DCA_int_04	2013.9975	[<laugh>]	2014.6690
+1792	DCA_se1_ag1_f_02	2015.0047	one-	2015.2694
+1793	DCA_se1_ag1_f_02	2015.2694	(pause 0.52)	2015.7916
+1794	DCA_se1_ag1_f_02	2015.7916	one fourth of it.	2016.9573
+1795	DCA_int_04	2017.2371	Okay.	2017.5682
+1796	DCA_int_04	2017.5682	(pause 0.37)	2017.9365
+1797	DCA_int_04	2017.9365	Give me a number.	2018.7992
+1798	DCA_int_04	2018.7992	(pause 0.17)	2018.9670
+1799	DCA_int_04	2018.9670	You know, one million?	2019.8437
+1800	DCA_int_04	2019.8437	(pause 0.78)	2020.6270
+1801	DCA_int_04	2020.6270	Two million? <laugh>	2021.5305
+1802	DCA_se1_ag1_f_02	2022.8314	Four million.	2023.6288
+1803	DCA_int_04	2023.7034	Four million dollars.	2024.7945
+1804	DCA_int_04	2024.7945	(pause 0.66)	2025.4560
+1805	DCA_int_04	2025.4560	If you had four million dollars, what would you do with it?	2027.9973
+1806	DCA_se1_ag1_f_02	2029.3344	Buy me a house,	2030.4162
+1807	DCA_se1_ag1_f_02	2030.4162	(pause 0.89)	2031.3068
+1808	DCA_se1_ag1_f_02	2031.3068	some clothes, some furniture, like that.	2033.7361
+1809	DCA_se1_ag1_f_02	2033.7361	(pause 0.22)	2033.9553
+1810	DCA_se1_ag1_f_02	2033.9553	And put it in the bank.	2035.1443
+1811	DCA_int_04	2036.2156	Mm-hm.	2036.7938
+1812	DCA_se1_ag1_f_02	2037.2928	Like that.	2037.8057
+1813	DCA_int_04	2037.9689	Mm-hm.	2038.5937
+1814	DCA_int_04	2038.5937	(pause 0.88)	2039.4704
+1815	DCA_int_04	2039.4704	Anything else?	2040.2257
+1816	DCA_se1_ag1_f_02	2042.3555	Mm-mm.	2042.7565
+1817	DCA_int_04	2043.9036	Oh hm, okay.	2044.9761
+1818	DCA_int_04	2044.9761	(pause 0.75)	2045.7221
+1819	DCA_int_04	2045.7221	Um, what does your family do on uh,	2048.0245
+1820	DCA_int_04	2048.0245	(pause 0.16)	2048.1830
+1821	DCA_int_04	2048.1830	special holidays like Christmas?	2049.7243
+1822	DCA_se1_ag1_f_02	2050.2766	They go out.	2051.1066
+1823	DCA_se1_ag1_f_02	2051.1066	(pause 2.20)	2053.3017
+1824	DCA_se1_ag1_f_02	2053.3017	Like that.	2053.7354
+1825	DCA_int_04	2053.9592	Go out?	2054.4068
+1826	DCA_int_04	2054.4068	(pause 0.11)	2054.5141
+1827	DCA_int_04	2054.5141	Where?	2054.8405
+1828	DCA_se1_ag1_f_02	2055.9549	To parties and cabaret.	2057.5823
+1829	DCA_int_04	2058.2537	Oh, really?	2059.0278
+1830	DCA_int_04	2059.0278	(pause 0.57)	2059.5955
+1831	DCA_int_04	2059.5955	Your mother and father?	2060.3369
+1832	DCA_int_04	2060.3369	(pause 0.44)	2060.7752
+1833	DCA_int_04	2060.7752	Oh, they have a good time, don't they?	2062.0808
+1834	DCA_se1_ag1_f_02	2062.0388	Mm.	2062.3093
+1835	DCA_int_04	2063.4704	Well what do you do?	2064.1558
+1836	DCA_se1_ag1_f_02	2066.0991	<ts>	2066.1621
+1837	DCA_se1_ag1_f_02	2066.1621	(pause 0.12)	2066.2856
+1838	DCA_se1_ag1_f_02	2066.2856	I be over with my friends.	2067.7264
+1839	DCA_int_04	2067.8523	Mm-hm.	2068.4257
+1840	DCA_int_04	2068.4257	(pause 0.72)	2069.1486
+1841	DCA_int_04	2069.1486	What does the family as a- as a whole	2071.2842
+1842	DCA_int_04	2071.2842	(pause 0.82)	2072.1084
+1843	DCA_int_04	2072.1084	on Christmas?	2072.7146
+1844	DCA_se1_ag1_f_02	2073.2368	We play games.	2074.1834
+1845	DCA_int_04	2074.5657	Mm-hm.	2075.1066
+1846	DCA_int_04	2075.1066	(pause 3.08)	2078.1830
+1847	DCA_int_04	2078.1830	What [kind of-]	2078.5747
+1848	DCA_se1_ag1_f_02	2078.3555	[Sometime] they- he ride us out in Maryland.	2080.5378
+1849	DCA_se1_ag1_f_02	2080.6124	See our aunts and cousin, [like that.]	2082.5335
+1850	DCA_int_04	2082.1698	[Uh-huh.]	2082.5848
+1851	DCA_int_04	2083.4882	So you go visit?	2084.1802
+1852	DCA_int_04	2084.1802	(pause 0.39)	2084.5747
+1853	DCA_int_04	2084.5747	Alright.	2085.0596
+1854	DCA_int_04	2085.0596	(pause 0.99)	2086.0482
+1855	DCA_int_04	2086.0482	Um,	2086.5191
+1856	DCA_int_04	2086.5191	(pause 1.62)	2088.1418
+1857	DCA_int_04	2088.1418	what would you like to have next Christmas?	2090.0245
+1858	DCA_se1_ag1_f_02	2091.0083	Tape recorder.	2091.8150
+1859	DCA_int_04	2092.0109	You're kidding? [<laugh>]	2093.3818
+1860	DCA_se1_ag1_f_02	2092.8502	[/I ain't/.]	2093.4004
+1861	DCA_int_04	2094.1465	After today, you'll be [tired of it.] <laugh>	2096.0897
+1862	DCA_se1_ag1_f_02	2095.0592	[<laugh>]	2095.4696
+1863	DCA_int_04	2096.3555	<laugh>	2096.7799
+1864	DCA_int_04	2096.7799	(pause 0.35)	2097.1249
+1865	DCA_int_04	2097.1249	You really want a tape recorder? What would you do with a tape recorder?	2099.5683
+1866	DCA_se1_ag1_f_02	2100.0159	Tape people.	2100.9065
+1867	DCA_int_04	2102.4768	Mm-hm.	2103.0643
+1868	DCA_int_04	2103.0643	(pause 0.87)	2103.9316
+1869	DCA_int_04	2103.9316	Um,	2104.4865
+1870	DCA_int_04	2104.4865	(pause 0.89)	2105.3771
+1871	DCA_int_04	2105.3771	what was the best	2106.2118
+1872	DCA_int_04	2106.2118	(pause 0.10)	2106.3143
+1873	DCA_int_04	2106.3143	Christmas present you ever got?	2107.6561
+1874	DCA_se1_ag1_f_02	2111.2605	My bicycle.	2112.5009
+1875	DCA_int_04	2112.8960	Mm-hm.	2113.5506
+1876	DCA_int_04	2113.5506	(pause 1.36)	2114.9104
+1877	DCA_int_04	2114.9104	Yeah.	2115.3767
+1878	DCA_int_04	2115.3767	(pause 1.29)	2116.6637
+1879	DCA_int_04	2116.6637	Mkay.	2117.1160

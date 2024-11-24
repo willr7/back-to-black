@@ -1,0 +1,2061 @@
+Line	Spkr	StTime	Content	EnTime
+1	PRV_int_01	0.3555	So you were saying you had a busy day	2.0027
+2	PRV_int_01	2.0027	(pause 0.38)	2.3861
+3	PRV_int_01	2.3861	uh, yesterday?	3.3707
+4	PRV_se0_ag3_f_04	4.0429	Mm-hm.	4.5588
+5	PRV_int_01	4.5730	What were you doing yesterday?	5.7469
+6	PRV_se0_ag3_f_04	5.9930	Well,	6.6415
+7	PRV_se0_ag3_f_04	6.6415	(pause 0.31)	6.9472
+8	PRV_se0_ag3_f_04	6.9472	we have a eight o'clock service at our church at Macedonia Missionary Baptist Church,	13.1602
+9	PRV_int_01	13.2975	Uh-huh.	13.6383
+10	PRV_se0_ag3_f_04	14.0169	on the corner of Howard and uh,	16.9611
+11	PRV_se0_ag3_f_04	16.9611	(pause 2.63)	19.5862
+12	PRV_se0_ag3_f_04	19.5862	Beasley.	20.4429
+13	PRV_int_01	20.4619	Uh-huh.	20.8453
+14	PRV_se0_ag3_f_04	21.9420	And then after the service, we went on into Sunday School.	25.7835
+15	PRV_se0_ag3_f_04	25.7835	(pause 0.85)	26.6356
+16	PRV_se0_ag3_f_04	26.6356	And around	27.6911
+17	PRV_se0_ag3_f_04	27.6911	(pause 0.80)	28.4911
+18	PRV_se0_ag3_f_04	28.4911	ten thirty, maybe something /eleven/,	30.9221
+19	PRV_se0_ag3_f_04	30.9221	(pause 0.46)	31.3859
+20	PRV_se0_ag3_f_04	31.3859	we left and went to	32.8296
+21	PRV_se0_ag3_f_04	32.8296	(pause 0.39)	33.2178
+22	PRV_se0_ag3_f_04	33.2178	Saint Luke	34.0793
+23	PRV_se0_ag3_f_04	34.0793	(pause 0.53)	34.6094
+24	PRV_se0_ag3_f_04	34.6094	Baptist Church on Fire Tower Road	37.1966
+25	PRV_int_01	37.0830	Mm-hm.	37.4191
+26	PRV_se0_ag3_f_04	37.9255	for a service.	39.2708
+27	PRV_int_01	39.1657	Another service.	40.1739
+28	PRV_se0_ag3_f_04	40.0935	[Mm-hm.]	40.7751
+29	PRV_int_01	40.4579	[Wow], okay. <laugh>	41.5182
+30	PRV_se0_ag3_f_04	42.0768	Our pastor preached out there.	44.2379
+31	PRV_int_01	44.4462	Uh-huh.	44.7823
+32	PRV_int_01	44.7823	(pause 0.83)	45.6154
+33	PRV_int_01	45.6154	Okay.	45.9893
+34	PRV_se0_ag3_f_04	46.2828	And the choir sung and the ushers was there too. <laugh>	49.9113
+35	PRV_int_01	49.9445	<laugh>	50.7113
+36	PRV_int_01	50.7113	(pause 0.30)	51.0095
+37	PRV_int_01	51.0095	Okay.	51.5112
+38	PRV_int_01	51.5112	(pause 0.80)	52.3159
+39	PRV_int_01	52.3159	[So you-]	52.7798
+40	PRV_se0_ag3_f_04	52.3254	[And-]	52.7609
+41	PRV_int_01	53.1869	Full day.	53.7360
+42	PRV_se0_ag3_f_04	53.9963	Uh-huh. After the service we commune out there,	57.3266
+43	PRV_int_01	57.4686	Okay.	57.9040
+44	PRV_se0_ag3_f_04	58.1029	and after communion,	59.6413
+45	PRV_se0_ag3_f_04	59.6413	(pause 0.36)	60.0058
+46	PRV_se0_ag3_f_04	60.0058	they serve lunch.	61.5895
+47	PRV_int_01	62.0155	Uh-huh. [Okay (laughing).]	63.2036
+48	PRV_se0_ag3_f_04	62.3847	[Mm-hm.]	62.9953
+49	PRV_int_01	64.6520	Okay.	65.2058
+50	PRV_int_01	65.2058	(pause 0.98)	66.1884
+51	PRV_int_01	66.1884	And so you had a-	66.8889
+52	PRV_int_01	66.8889	(pause 0.21)	67.0972
+53	PRV_int_01	67.0972	a long day.	67.8607
+54	PRV_se0_ag3_f_04	67.9885	[Mm-hm.]	68.5850
+55	PRV_int_01	68.0075	[What time did you] get done with all that?	69.5648
+56	PRV_se0_ag3_f_04	70.8712	<ts>	70.9801
+57	PRV_se0_ag3_f_04	70.9801	(pause 0.14)	71.1221
+58	PRV_se0_ag3_f_04	71.1221	Well	71.7043
+59	PRV_se0_ag3_f_04	71.7043	(pause 0.41)	72.1188
+60	PRV_se0_ag3_f_04	72.1188	when I left there my sister /?/ told me she was fixing	75.6736
+61	PRV_se0_ag3_f_04	75.6736	(pause 0.23)	75.9056
+62	PRV_se0_ag3_f_04	75.9056	dinner for us	77.0321
+63	PRV_int_01	77.1694	[Mm-hm.]	77.4960
+64	PRV_se0_ag3_f_04	77.1836	[after] we went back there	78.4711
+65	PRV_int_01	78.6300	Mm-hm.	79.0987
+66	PRV_se0_ag3_f_04	79.1697	and stayed with them when I got home.	81.8109
+67	PRV_int_01	81.8961	Mm-hm.	82.2085
+68	PRV_se0_ag3_f_04	82.9564	I reckon it was about four o'clock when I got home.	86.0832
+69	PRV_int_01	86.1589	Wow.	86.5802
+70	PRV_int_01	86.5802	(pause 0.79)	87.3707
+71	PRV_int_01	87.3707	[<laugh>]	87.7683
+72	PRV_se0_ag3_f_04	87.6310	[<laugh>] And I was tired.	89.5528
+73	PRV_int_01	89.8274	Yeah.	90.3480
+74	PRV_int_01	90.3480	(pause 0.86)	91.2075
+75	PRV_int_01	91.2075	That's a lot of church.	92.1731
+76	PRV_se0_ag3_f_04	92.1826	Mm-hm. [Cause]	93.6452
+77	PRV_int_01	93.0820	[<laugh>]	93.4654
+78	PRV_se0_ag3_f_04	94.0665	it's Saturday morning.	95.5954
+79	PRV_se0_ag3_f_04	95.5954	(pause 0.80)	96.3934
+80	PRV_se0_ag3_f_04	96.3934	Minister /RD-NAME-1/, one of our	98.7222
+81	PRV_se0_ag3_f_04	98.7222	(pause 0.21)	98.9305
+82	PRV_se0_ag3_f_04	98.9305	<cough> uh, late mother	100.5588
+83	PRV_se0_ag3_f_04	100.5588	(pause 0.18)	100.7434
+84	PRV_se0_ag3_f_04	100.7434	daughter is a preacher.	102.4238
+85	PRV_int_01	102.5874	Mm-hm.	102.9519
+86	PRV_se0_ag3_f_04	102.9330	She is, uh,	104.3672
+87	PRV_se0_ag3_f_04	104.7412	legally blind	106.1801
+88	PRV_int_01	106.4641	Okay.	106.8239
+89	PRV_se0_ag3_f_04	106.8002	but she preaches.	108.0167
+90	PRV_se0_ag3_f_04	108.6963	And uh, she had a service out to the rest home	112.5919
+91	PRV_int_01	113.1221	Mm-hm.	113.5102
+92	PRV_se0_ag3_f_04	113.7043	at	113.8037
+93	PRV_se0_ag3_f_04	113.8037	(pause 0.17)	113.9768
+94	PRV_se0_ag3_f_04	113.9768	uh, ten	114.7200
+95	PRV_se0_ag3_f_04	114.7200	(pause 0.17)	114.8856
+96	PRV_se0_ag3_f_04	114.8856	thirty,	115.4631
+97	PRV_se0_ag3_f_04	115.4631	(pause 0.76)	116.2205
+98	PRV_se0_ag3_f_04	116.2205	and I didn't sleep at all	118.0144
+99	PRV_se0_ag3_f_04	118.0144	(pause 0.19)	118.2085
+100	PRV_se0_ag3_f_04	118.2085	Thursday night but I /put it down/	120.8971
+101	PRV_se0_ag3_f_04	120.8971	(pause 0.23)	121.1271
+102	PRV_se0_ag3_f_04	121.1271	Friday night.	122.0927
+103	PRV_int_01	122.0879	Oh,	122.4998
+104	PRV_int_01	122.6607	k- <laugh> Wow.	123.5080
+105	PRV_se0_ag3_f_04	123.5648	And I woke up	124.6629
+106	PRV_se0_ag3_f_04	124.6629	(pause 0.73)	125.3919
+107	PRV_se0_ag3_f_04	125.3919	Saturday morning nine thirty,	127.6241
+108	PRV_se0_ag3_f_04	127.6241	(pause 0.53)	128.1495
+109	PRV_se0_ag3_f_04	128.1495	so	128.5660
+110	PRV_se0_ag3_f_04	128.5660	(pause 0.37)	128.9352
+111	PRV_se0_ag3_f_04	128.9352	all I could do to get up and get dressed, take my medicine	132.7740
+112	PRV_se0_ag3_f_04	132.7740	(pause 0.76)	133.5389
+113	PRV_se0_ag3_f_04	133.5389	and uh,	134.3577
+114	PRV_se0_ag3_f_04	134.3577	(pause 0.80)	135.1530
+115	PRV_se0_ag3_f_04	135.1530	eat and go out there.	136.7529
+116	PRV_int_01	137.1505	Mm-hm.	137.6333
+117	PRV_int_01	137.6333	(pause 0.41)	138.0451
+118	PRV_int_01	138.0451	Wow.	138.3906
+119	PRV_se0_ag3_f_04	139.9081	Then one of my friends	141.7872
+120	PRV_se0_ag3_f_04	141.7872	(pause 0.58)	142.3647
+121	PRV_se0_ag3_f_04	142.3647	I been knowing ever since she was a child	145.1555
+122	PRV_int_01	145.4631	Mm-hm.	145.8371
+123	PRV_se0_ag3_f_04	146.2157	is member of Saint Luke	147.8440
+124	PRV_se0_ag3_f_04	147.8440	(pause 0.39)	148.2369
+125	PRV_se0_ag3_f_04	148.2369	Church we went to yesterday	150.3528
+126	PRV_int_01	150.5448	Mm-hm.	150.9472
+127	PRV_se0_ag3_f_04	150.9330	and we, uh,	152.2347
+128	PRV_se0_ag3_f_04	152.7932	after that service,	154.1423
+129	PRV_se0_ag3_f_04	154.1423	(pause 0.55)	154.6913
+130	PRV_se0_ag3_f_04	154.6913	every first and third th- th-	156.4900
+131	PRV_se0_ag3_f_04	156.4900	(pause 0.14)	156.6300
+132	PRV_se0_ag3_f_04	156.6300	Saturday,	157.4584
+133	PRV_se0_ag3_f_04	157.4584	(pause 0.57)	158.0311
+134	PRV_se0_ag3_f_04	158.0311	Minister /RD-NAME-1/ have a service at her	160.7765
+135	PRV_se0_ag3_f_04	160.7765	(pause 0.42)	161.1931
+136	PRV_se0_ag3_f_04	161.1931	house at one	162.1614
+137	PRV_se0_ag3_f_04	162.1614	(pause 0.21)	162.3744
+138	PRV_se0_ag3_f_04	162.3744	thirty teaching the Bible.	164.1163
+139	PRV_int_01	164.1731	Mm-hm.	164.5471
+140	PRV_se0_ag3_f_04	165.1530	And so	165.9766
+141	PRV_se0_ag3_f_04	165.9766	(pause 0.46)	166.4357
+142	PRV_se0_ag3_f_04	166.4357	we went-	167.0653
+143	PRV_se0_ag3_f_04	167.0653	(pause 0.48)	167.5481
+144	PRV_se0_ag3_f_04	167.5481	when we left the rest home,	169.8986
+145	PRV_se0_ag3_f_04	169.8986	(pause 0.60)	170.4998
+146	PRV_se0_ag3_f_04	170.4998	we went in the mall, looked around.	172.9848
+147	PRV_se0_ag3_f_04	172.9848	(pause 0.72)	173.7043
+148	PRV_se0_ag3_f_04	173.7043	And then I went by, uh,	175.7282
+149	PRV_se0_ag3_f_04	175.7282	(pause 2.12)	177.8488
+150	PRV_se0_ag3_f_04	177.8488	McDonald's	178.8665
+151	PRV_int_01	178.9990	Mm-hm.	179.3371
+152	PRV_se0_ag3_f_04	179.2783	and got me a sandwich and	181.4205
+153	PRV_se0_ag3_f_04	181.6099	a soda.	182.5140
+154	PRV_int_01	182.7270	Mm-hm.	183.1766
+155	PRV_se0_ag3_f_04	184.6298	And by that time, we were walking- walk back to our cars, it was time to go to the	190.0334
+156	PRV_se0_ag3_f_04	190.0334	(pause 0.94)	190.9706
+157	PRV_se0_ag3_f_04	190.9706	meeting at the [minister's house.]	194.0927
+158	PRV_int_01	192.2798	[<laugh>]	193.7992
+159	PRV_int_01	193.7992	(pause 0.16)	193.9601
+160	PRV_int_01	193.9601	[Wow.]	194.4382
+161	PRV_se0_ag3_f_04	194.9873	So when we did leave there,	197.7043
+162	PRV_se0_ag3_f_04	197.7043	(pause 2.10)	199.8039
+163	PRV_se0_ag3_f_04	199.8039	after that service, we went in the other mall.	203.3635
+164	PRV_int_01	205.4347	Hm.	205.7377
+165	PRV_se0_ag3_f_04	206.3104	Um,	206.7885
+166	PRV_se0_ag3_f_04	206.7885	(pause 1.52)	208.3127
+167	PRV_se0_ag3_f_04	208.3127	<ts>	208.4310
+168	PRV_se0_ag3_f_04	208.4310	(pause 0.11)	208.5399
+169	PRV_se0_ag3_f_04	208.5399	down by Walmart out there /where/.	211.3022
+170	PRV_se0_ag3_f_04	211.3022	(pause 1.04)	212.3435
+171	PRV_se0_ag3_f_04	212.3435	And then she wanted to go back somewhere else but we were tired. [<laugh>]	216.5374
+172	PRV_int_01	215.9457	[<laugh>]	217.2643
+173	PRV_se0_ag3_f_04	217.2123	So I came home and she went home.	219.8753
+174	PRV_int_01	219.9103	Okay.	220.4878
+175	PRV_int_01	220.4878	(pause 1.37)	221.8558
+176	PRV_int_01	221.8558	Boy, you getting- getting around there. You going a lot of different places.	225.1340
+177	PRV_se0_ag3_f_04	226.9327	Not all the [time cause this arthritis] and-	230.3767
+178	PRV_int_01	227.9674	[Not all the time?]	228.9093
+179	PRV_se0_ag3_f_04	230.6891	and sugar	231.7210
+180	PRV_se0_ag3_f_04	231.7210	(pause 0.13)	231.8488
+181	PRV_se0_ag3_f_04	231.8488	give me trouble [so]	233.7516
+182	PRV_int_01	233.2309	[Okay.]	233.7611
+183	PRV_se0_ag3_f_04	233.9883	but when I feel like it, I go.	236.1542
+184	PRV_int_01	236.3341	Mm-hm.	236.7932
+185	PRV_int_01	236.7932	(pause 0.14)	236.9352
+186	PRV_int_01	236.9352	<laugh>	237.3849
+187	PRV_int_01	237.3849	(pause 0.16)	237.5458
+188	PRV_int_01	237.5458	Yeah. [/Fight/.]	238.3339
+189	PRV_se0_ag3_f_04	238.0429	[Mm-hm.]	238.9233
+190	PRV_int_01	239.1315	I met- uh- I saw you that- when I-	240.8052
+191	PRV_int_01	240.8052	(pause 0.18)	240.9898
+192	PRV_int_01	240.9898	I saw you the other day, you were on your way somewhere, weren't you?	243.6358
+193	PRV_se0_ag3_f_04	244.1328	Mm-hm.	244.6535
+194	PRV_se0_ag3_f_04	244.6535	(pause 0.41)	245.0653
+195	PRV_se0_ag3_f_04	245.0653	I was going to my sister. She was going out with me then.	249.0962
+196	PRV_int_01	249.3470	Uh-huh.	249.7352
+197	PRV_se0_ag3_f_04	249.9387	Yeah that was [Saturday.]	251.6996
+198	PRV_int_01	251.3303	[<laugh>] Oh that was Saturday.	253.0000
+199	PRV_se0_ag3_f_04	253.4395	Mm-hm.	254.2015
+200	PRV_int_01	254.1873	Now where- you- and where did you guys go?	256.2843
+201	PRV_se0_ag3_f_04	256.5493	Hm?	256.9801
+202	PRV_int_01	257.0037	Where did you and your sister go?	258.3433
+203	PRV_se0_ag3_f_04	258.5638	<ts>	258.6679
+204	PRV_se0_ag3_f_04	258.6679	(pause 0.10)	258.7673
+205	PRV_se0_ag3_f_04	258.7673	We went	259.2596
+206	PRV_se0_ag3_f_04	259.2596	(pause 0.16)	259.4158
+207	PRV_se0_ag3_f_04	259.4158	back in the mall.	260.8358
+208	PRV_int_01	260.9589	Oh that's right.	261.7352
+209	PRV_se0_ag3_f_04	261.9340	I had bought me a dress,	263.8416
+210	PRV_se0_ag3_f_04	263.8416	(pause 0.58)	264.4170
+211	PRV_se0_ag3_f_04	264.4170	and we went back out and got it.	266.4714
+212	PRV_int_01	267.1104	Oh you bought a dress?	267.9292
+213	PRV_se0_ag3_f_04	268.0381	[Mm-hm, but]	268.7103
+214	PRV_int_01	268.5067	[Oh.]	268.8049
+215	PRV_se0_ag3_f_04	269.1647	I didn't wear it yesterday.	271.1460
+216	PRV_int_01	271.3779	Oh okay.	271.9933
+217	PRV_int_01	271.9933	(pause 1.47)	273.4654
+218	PRV_int_01	273.4654	So you do a lot of things with your church?	275.5244
+219	PRV_se0_ag3_f_04	277.9128	No, not- now I-	279.3754
+220	PRV_se0_ag3_f_04	279.3754	(pause 0.30)	279.6736
+221	PRV_se0_ag3_f_04	279.6736	I try to go when I can.	281.6144
+222	PRV_int_01	281.6096	Mm-hm.	282.0830
+223	PRV_se0_ag3_f_04	282.0782	Mm-hm.	282.7267
+224	PRV_int_01	282.9993	Every Sunday?	283.7897
+225	PRV_se0_ag3_f_04	284.0690	Hm?	284.4761
+226	PRV_int_01	284.6086	Every Sunday?	285.2997
+227	PRV_se0_ag3_f_04	285.7825	Yeah we have service every Sunday.	288.2798
+228	PRV_int_01	288.2750	Oh okay.	288.7768
+229	PRV_int_01	288.9377	And now [which church?]	289.9459
+230	PRV_se0_ag3_f_04	289.4347	[Sunday] school.	290.5282
+231	PRV_int_01	290.6134	Now you go- are you a member of Saint Luke's or?	293.0227
+232	PRV_se0_ag3_f_04	293.0227	No, I'm a member of Macedonia Missionary [Baptist] Church.	297.4890
+233	PRV_int_01	296.7128	[Oh.]	297.0962
+234	PRV_int_01	297.0962	(pause 0.38)	297.4748
+235	PRV_int_01	297.4748	Oh that's right.	298.2338
+236	PRV_se0_ag3_f_04	298.3174	Uh-huh, down on the /?/.	300.0451
+237	PRV_se0_ag3_f_04	300.0451	(pause 0.40)	300.4407
+238	PRV_se0_ag3_f_04	300.4407	It's one block back of Main Street.	303.0725
+239	PRV_int_01	303.2098	Mm-hm.	303.6642
+240	PRV_se0_ag3_f_04	303.8772	You turn on Beasley Street. If you turn on Walston Street,	308.2489
+241	PRV_se0_ag3_f_04	308.2489	(pause 0.83)	309.0820
+242	PRV_se0_ag3_f_04	309.0820	you will	309.5932
+243	PRV_se0_ag3_f_04	309.5932	(pause 0.57)	310.1659
+244	PRV_se0_ag3_f_04	310.1659	g- go down Church Street, and you will see that	313.0182
+245	PRV_se0_ag3_f_04	313.0182	(pause 0.25)	313.2691
+246	PRV_se0_ag3_f_04	313.2691	church.	314.0453
+247	PRV_int_01	314.0785	Oh okay.	314.6844
+248	PRV_se0_ag3_f_04	314.6986	No my mother	315.8204
+249	PRV_se0_ag3_f_04	315.8204	(pause 0.14)	315.9624
+250	PRV_se0_ag3_f_04	315.9624	and my h- late husband,	317.9173
+251	PRV_se0_ag3_f_04	317.9173	(pause 0.22)	318.1398
+252	PRV_se0_ag3_f_04	318.1398	they was member of Saint Luke.	319.9248
+253	PRV_int_01	319.9270	Oh, [okay.]	320.7128
+254	PRV_se0_ag3_f_04	320.4335	[Mm-hm.]	321.0962
+255	PRV_int_01	321.1246	Okay.	321.4985
+256	PRV_int_01	321.4985	(pause 0.37)	321.8677
+257	PRV_int_01	321.8677	What was your husband's name?	322.9753
+258	PRV_se0_ag3_f_04	323.6806	/RD-NAME-1/- the last one was /RD-NAME-3/.	326.5660
+259	PRV_int_01	326.5471	Oh, okay.	327.1151
+260	PRV_se0_ag3_f_04	327.1293	[Mm-hm.]	327.7446
+261	PRV_int_01	327.4559	[Okay.]	327.8819
+262	PRV_se0_ag3_f_04	328.1565	He was a legally blind.	329.9126
+263	PRV_int_01	330.6253	Okay.	331.0703
+264	PRV_se0_ag3_f_04	331.1886	[Mm-hm.]	331.8986
+265	PRV_int_01	331.2407	[Okay.]	331.6288
+266	PRV_int_01	331.9175	Okay.	332.3861
+267	PRV_int_01	332.3861	(pause 1.02)	333.4086
+268	PRV_int_01	333.4086	And so you- you n- um,	335.0842
+269	PRV_int_01	335.0842	(pause 0.52)	335.6049
+270	PRV_int_01	335.6049	what do you-	336.0735
+271	PRV_int_01	336.0735	(pause 0.44)	336.5164
+272	PRV_int_01	336.5164	what are the- some of the things that you do	338.4098
+273	PRV_int_01	338.4098	(pause 0.18)	338.5944
+274	PRV_int_01	338.5944	during the day, just to-	339.6973
+275	PRV_int_01	339.6973	(pause 1.01)	340.7055
+276	PRV_int_01	340.7055	do you have	341.3398
+277	PRV_int_01	341.3398	(pause 0.53)	341.8747
+278	PRV_int_01	341.8747	things you do to pass the time when you're not going to church or shopping?	344.8595
+279	PRV_int_01	344.8595	(pause 0.19)	345.0488
+280	PRV_int_01	345.0488	<laugh>	345.4086
+281	PRV_se0_ag3_f_04	345.4086	<laugh> I don't shop [that much. <laugh>]	348.4427
+282	PRV_int_01	346.7576	[<laugh>]	348.4616
+283	PRV_se0_ag3_f_04	349.9649	Yeah, I- I like to visit the sick when I can.	354.7125
+284	PRV_int_01	354.7768	Mm-hm.	355.2312
+285	PRV_se0_ag3_f_04	355.1839	Mm-hm. And then I got two cousins,	357.7352
+286	PRV_se0_ag3_f_04	358.1707	they don't drive	359.6806
+287	PRV_se0_ag3_f_04	359.6806	(pause 0.27)	359.9504
+288	PRV_se0_ag3_f_04	359.9504	and uh,	360.5705
+289	PRV_se0_ag3_f_04	360.5705	(pause 0.23)	360.8004
+290	PRV_se0_ag3_f_04	360.8004	we go out together sometime.	362.8642
+291	PRV_int_01	362.9968	Oh, okay.	363.6831
+292	PRV_se0_ag3_f_04	363.7825	Mm-hm.	364.4973
+293	PRV_int_01	364.6866	Your two cousins live here in Princeville?	366.5042
+294	PRV_se0_ag3_f_04	366.6679	Mm-hm.	367.1507
+295	PRV_int_01	367.1555	Oh okay.	367.7187
+296	PRV_int_01	367.7187	(pause 0.38)	368.1021
+297	PRV_int_01	368.1021	Who- who are they?	368.9400
+298	PRV_se0_ag3_f_04	370.1659	/RD-NAME-4/,	371.7611
+299	PRV_int_01	371.9315	Uh-huh.	372.4143
+300	PRV_se0_ag3_f_04	372.6253	And, uh, /RD-NAME-4/.	374.8074
+301	PRV_int_01	375.1577	Okay.	375.6831
+302	PRV_se0_ag3_f_04	376.0050	All us was born here in Princeville.	378.9425
+303	PRV_int_01	379.2028	Oh, okay.	379.8371
+304	PRV_se0_ag3_f_04	379.6856	Mm-hm.	380.0406
+305	PRV_se0_ag3_f_04	380.2441	I was born across the railroad on Bell Street.	384.2723
+306	PRV_int_01	384.5752	Beal Street?	385.2359
+307	PRV_se0_ag3_f_04	385.2075	Bell.	385.8607
+308	PRV_int_01	385.9649	Bell. [Okay.]	386.9542
+309	PRV_se0_ag3_f_04	386.4477	[Uh-huh.] B-E-L-L.	387.8728
+310	PRV_se0_ag3_f_04	388.1991	Back uh,	388.9327
+311	PRV_se0_ag3_f_04	388.9327	(pause 0.45)	389.3824
+312	PRV_se0_ag3_f_04	389.3824	Bridger's store.	390.4123
+313	PRV_int_01	390.5354	Oh really?	390.9661
+314	PRV_se0_ag3_f_04	390.9567	[Mm-hm.]	391.6241
+315	PRV_int_01	391.3590	[Yeah I been] back there.	392.2441
+316	PRV_se0_ag3_f_04	392.2205	Mm-hm, that's where I was born at.	394.1849
+317	PRV_int_01	394.2985	Okay.	394.8049
+318	PRV_int_01	394.8049	(pause 0.37)	395.1741
+319	PRV_int_01	395.1741	So you had a house back there?	396.5042
+320	PRV_se0_ag3_f_04	397.4631	[Uh-]	397.8087
+321	PRV_int_01	397.4631	[And your] parents	398.4240
+322	PRV_int_01	398.6702	house was back there?	399.5316
+323	PRV_se0_ag3_f_04	400.4073	Yeah, my mother and step father, but the	403.3164
+324	PRV_se0_ag3_f_04	403.3164	(pause 0.44)	403.7566
+325	PRV_se0_ag3_f_04	403.7566	flood got it.	404.8216
+326	PRV_int_01	405.1435	Oh okay.	405.7352
+327	PRV_int_01	405.7352	(pause 0.30)	406.0334
+328	PRV_int_01	406.0334	So you lived there up until the flood?	408.0688
+329	PRV_se0_ag3_f_04	408.8904	Mm-mm, [I was] living here when the flood [came.]	412.0665
+330	PRV_int_01	409.3448	[Oh.]	409.7708
+331	PRV_int_01	409.7708	(pause 2.03)	411.8014
+332	PRV_int_01	411.8014	Oh okay.	412.5541
+333	PRV_int_01	413.1410	So what-	413.5812
+334	PRV_int_01	413.5812	(pause 0.16)	413.7422
+335	PRV_int_01	413.7422	what um-	414.3480
+336	PRV_int_01	414.3480	(pause 0.22)	414.5685
+337	PRV_int_01	414.5685	what were your parents	415.7093
+338	PRV_int_01	415.7093	(pause 0.19)	415.8986
+339	PRV_int_01	415.8986	uh names?	416.4761
+340	PRV_se0_ag3_f_04	417.4086	My mother was /RD-NAME-4/.	420.3954
+341	PRV_int_01	420.9377	Okay.	421.4158
+342	PRV_se0_ag3_f_04	421.5341	And my father was /RD-NAME-5/.	424.1612
+343	PRV_int_01	424.9422	Okay. [So I'm sorry],	426.2344
+344	PRV_se0_ag3_f_04	425.4345	[Mm-hm.]	426.1350
+345	PRV_int_01	426.4786	his first name was what?	427.6004
+346	PRV_se0_ag3_f_04	427.7329	/RD-NAME-3/.	428.9542
+347	PRV_int_01	428.8784	[/RD-NAME-3/?]	429.6186
+348	PRV_se0_ag3_f_04	429.4275	[Mm-hm.]	430.0949
+349	PRV_int_01	429.8062	[How do you] spell that?	430.6156
+350	PRV_int_01	430.8286	That's a interesting name.	431.8463
+351	PRV_se0_ag3_f_04	433.7424	/RD-NAME-3/	435.2666
+352	PRV_se0_ag3_f_04	435.2666	(pause 0.21)	435.4796
+353	PRV_se0_ag3_f_04	435.4796	/RD-NAME-5/, I	437.5197
+354	PRV_se0_ag3_f_04	437.5197	(pause 0.16)	437.6759
+355	PRV_se0_ag3_f_04	437.6759	think it was.	438.6064
+356	PRV_int_01	438.6253	Oh okay.	439.1081
+357	PRV_int_01	439.1081	(pause 0.86)	439.9696
+358	PRV_int_01	439.9696	So what did they do? What uh,	441.6926
+359	PRV_int_01	441.6926	(pause 0.59)	442.2843
+360	PRV_int_01	442.2843	would-	442.5541
+361	PRV_int_01	442.5541	(pause 0.27)	442.8286
+362	PRV_int_01	442.8286	did they-	443.2215
+363	PRV_int_01	443.2215	(pause 0.24)	443.4629
+364	PRV_int_01	443.4629	did they work	444.2392
+365	PRV_int_01	444.2392	(pause 0.20)	444.4407
+366	PRV_int_01	444.4407	here in town or?	445.2785
+367	PRV_se0_ag3_f_04	445.9128	My mother did.	447.2997
+368	PRV_int_01	447.4275	Okay what she do?	448.3505
+369	PRV_se0_ag3_f_04	449.5670	She did	450.6273
+370	PRV_se0_ag3_f_04	450.6273	(pause 0.15)	450.7768
+371	PRV_se0_ag3_f_04	450.7768	uh,	451.2028
+372	PRV_se0_ag3_f_04	451.2028	(pause 0.21)	451.4111
+373	PRV_se0_ag3_f_04	451.4111	house work	452.5092
+374	PRV_se0_ag3_f_04	452.5092	(pause 0.14)	452.6512
+375	PRV_se0_ag3_f_04	452.6512	and cooking.	453.6405
+376	PRV_int_01	453.9008	Mm-hm.	454.2701
+377	PRV_se0_ag3_f_04	454.7813	And she work for Miss /RD-NAME-4/ for year	458.4051
+378	PRV_int_01	458.3577	Oh okay.	458.8832
+379	PRV_se0_ag3_f_04	458.8548	with her and her	459.9671
+380	PRV_se0_ag3_f_04	460.0807	children and her husband.	461.7422
+381	PRV_int_01	462.2344	Now where- where w- where did they stay? They st-	464.2678
+382	PRV_int_01	464.2678	(pause 0.31)	464.5755
+383	PRV_int_01	464.5755	They were	465.0346
+384	PRV_int_01	465.0346	(pause 0.25)	465.2855
+385	PRV_int_01	465.2855	in Tarboro, the family she [worked for?]	467.0747
+386	PRV_se0_ag3_f_04	466.4594	[Mm-hm. She] stay in Tarboro. Mr. /RD-NAME-1/'s paying.	470.0501
+387	PRV_int_01	470.4903	Okay.	470.9068
+388	PRV_se0_ag3_f_04	470.9068	They used to only deal with /Southerner/	473.3871
+389	PRV_se0_ag3_f_04	474.0072	but then	474.9567
+390	PRV_se0_ag3_f_04	474.9567	(pause 0.31)	475.2643
+391	PRV_se0_ag3_f_04	475.2643	when he died, I think his brother took it over.	478.8570
+392	PRV_int_01	479.1031	Okay.	479.6049
+393	PRV_se0_ag3_f_04	479.9978	And then s- s- a- he retired and somebody else took it over.	484.5162
+394	PRV_int_01	485.9788	Okay.	486.3670
+395	PRV_se0_ag3_f_04	486.7294	And then she wo-	487.7519
+396	PRV_se0_ag3_f_04	487.7519	(pause 0.58)	488.3341
+397	PRV_se0_ag3_f_04	488.3341	l- well the last one, she worked	490.4121
+398	PRV_se0_ag3_f_04	490.4121	(pause 0.22)	490.6345
+399	PRV_se0_ag3_f_04	490.6345	for,	491.0037
+400	PRV_se0_ag3_f_04	491.0037	(pause 0.98)	491.9788
+401	PRV_se0_ag3_f_04	491.9788	she worked for Mr. and Miss /RD-NAME-3/.	495.2334
+402	PRV_int_01	495.5600	Mm-hm.	495.9860
+403	PRV_se0_ag3_f_04	496.1659	And she worked for they s- their son and his wife.	499.4442
+404	PRV_int_01	499.7471	Okay.	500.1779
+405	PRV_int_01	500.1779	(pause 0.66)	500.8358
+406	PRV_int_01	500.8358	Oh okay.	501.3944
+407	PRV_se0_ag3_f_04	501.3944	And then some Brant and Sylvia Nash.	503.9552
+408	PRV_int_01	504.4928	Okay.	504.9851
+409	PRV_se0_ag3_f_04	504.9898	Mm-hm.	505.8087
+410	PRV_int_01	505.7755	Okay.	506.0927
+411	PRV_int_01	507.0630	So she worked for- so your- so she-	509.0937
+412	PRV_int_01	509.0937	(pause 0.55)	509.6475
+413	PRV_int_01	509.6475	she would uh,	510.5232
+414	PRV_int_01	510.5232	(pause 0.48)	510.9993
+415	PRV_int_01	510.9993	basically	511.6477
+416	PRV_int_01	511.6477	(pause 0.50)	512.1495
+417	PRV_int_01	512.1495	um,	512.5376
+418	PRV_int_01	512.5376	(pause 0.20)	512.7412
+419	PRV_int_01	512.7412	m-	512.9873
+420	PRV_int_01	512.9873	(pause 0.16)	513.1482
+421	PRV_int_01	513.1482	take care of the house	514.0618
+422	PRV_int_01	514.0618	(pause 0.12)	514.1801
+423	PRV_int_01	514.1801	for- for those families?	515.4155
+424	PRV_se0_ag3_f_04	515.3351	Mm-hm.	516.0120
+425	PRV_int_01	515.9788	Oh okay.	516.5516
+426	PRV_int_01	517.1839	What about your- your dad, do you remember what he did?	519.3802
+427	PRV_se0_ag3_f_04	519.8914	Mm-mm.	520.3884
+428	PRV_int_01	520.3837	Oh okay.	520.9990
+429	PRV_se0_ag3_f_04	521.0937	Mm-mm.	521.5291
+430	PRV_int_01	521.6171	Okay.	521.9674
+431	PRV_int_01	521.9674	(pause 0.86)	522.8288
+432	PRV_int_01	522.8288	So- so you g- so you grew up there	524.8122
+433	PRV_int_01	524.8122	(pause 0.27)	525.0867
+434	PRV_int_01	525.0867	when you were y-	525.7257
+435	PRV_int_01	525.7257	(pause 0.24)	525.9624
+436	PRV_int_01	525.9624	were young you liv-	526.8996
+437	PRV_int_01	526.8996	(pause 0.20)	527.0984
+438	PRV_int_01	527.0984	you- your house was right	528.1256
+439	PRV_int_01	528.1256	(pause 0.18)	528.3054
+440	PRV_int_01	528.3054	behind	528.7220
+441	PRV_int_01	528.7220	(pause 0.25)	528.9709
+442	PRV_int_01	528.9709	where Bridger's store was [on Bell] [Street?]	531.0914
+443	PRV_se0_ag3_f_04	529.9128	[Mm-hm.]	530.5376
+444	PRV_se0_ag3_f_04	530.5376	(pause 0.18)	530.7128
+445	PRV_se0_ag3_f_04	530.7128	[Mm-hm.]	531.3802
+446	PRV_int_01	531.5032	/??/	531.7304
+447	PRV_se0_ag3_f_04	531.6689	That's where I was born at.	533.4155
+448	PRV_int_01	533.5244	Mm-hm.	533.9978
+449	PRV_se0_ag3_f_04	534.1682	<laugh>	534.5800
+450	PRV_int_01	534.5232	Mm-hm.	535.0000
+451	PRV_se0_ag3_f_04	535.3353	Over there.	536.2347
+452	PRV_int_01	536.5329	Do you remember what life was like growing up in- in Princeville when you were l- when you were young?	540.6983
+453	PRV_int_01	540.6983	(pause 0.66)	541.3590
+454	PRV_int_01	541.3590	Over in the neighborhood?	542.2299
+455	PRV_se0_ag3_f_04	543.4228	Yes, I- I remember uh,	546.2344
+456	PRV_se0_ag3_f_04	546.2344	(pause 0.18)	546.4096
+457	PRV_se0_ag3_f_04	546.4096	w- when the flood	547.7424
+458	PRV_se0_ag3_f_04	547.7424	(pause 0.33)	548.0737
+459	PRV_se0_ag3_f_04	548.0737	would come.	548.8169
+460	PRV_se0_ag3_f_04	548.8169	(pause 1.04)	549.8582
+461	PRV_se0_ag3_f_04	549.8582	Uh,	550.3553
+462	PRV_se0_ag3_f_04	550.3553	(pause 1.57)	551.9220
+463	PRV_se0_ag3_f_04	551.9220	we used to stay over there usually at	554.6844
+464	PRV_se0_ag3_f_04	554.6844	(pause 0.34)	555.0252
+465	PRV_se0_ag3_f_04	555.0252	until it- it would get	556.5067
+466	PRV_se0_ag3_f_04	556.5067	(pause 0.63)	557.1410
+467	PRV_se0_ag3_f_04	557.1410	about to the house down in the door [/??/.]	560.1873
+468	PRV_int_01	559.7519	[Mm-hm.]	560.3293
+469	PRV_se0_ag3_f_04	560.8453	And we would be over there. Sometime we would	563.0842
+470	PRV_se0_ag3_f_04	563.0842	(pause 0.15)	563.2357
+471	PRV_se0_ag3_f_04	563.2357	play in the water.	564.5354
+472	PRV_int_01	564.6158	Oh yeah?	565.0655
+473	PRV_se0_ag3_f_04	565.0135	And then when they say it was gonna get real high,	567.8630
+474	PRV_se0_ag3_f_04	568.8712	uh, we- they would- we would go over town,	571.6572
+475	PRV_int_01	571.8655	Mm-hm.	572.1447
+476	PRV_se0_ag3_f_04	572.1400	and some of the peoples I can't think of the name now,	575.1410
+477	PRV_se0_ag3_f_04	575.2972	<clears throat>	575.8226
+478	PRV_se0_ag3_f_04	575.8226	(pause 0.51)	576.3366
+479	PRV_se0_ag3_f_04	576.3366	they would let us go in their house and stay.	579.4417
+480	PRV_se0_ag3_f_04	579.4417	(pause 0.57)	580.0097
+481	PRV_se0_ag3_f_04	580.0097	And	580.5683
+482	PRV_se0_ag3_f_04	580.5683	(pause 0.77)	581.3351
+483	PRV_se0_ag3_f_04	581.3351	some-	581.7564
+484	PRV_se0_ag3_f_04	581.7564	(pause 0.21)	581.9674
+485	PRV_se0_ag3_f_04	581.9674	it- sometime it'd be two or three families.	584.9826
+486	PRV_se0_ag3_f_04	584.9826	(pause 0.48)	585.4606
+487	PRV_se0_ag3_f_04	585.4606	And we would make patterns on the floor	588.0404
+488	PRV_se0_ag3_f_04	588.0404	(pause 0.16)	588.2013
+489	PRV_se0_ag3_f_04	588.2013	until the water go down and then we would come back home.	591.5553
+490	PRV_int_01	591.6216	<laugh>	591.9766
+491	PRV_int_01	591.9766	(pause 0.26)	592.2322
+492	PRV_int_01	592.2322	Okay.	592.8141
+493	PRV_se0_ag3_f_04	592.9943	Mm-hm.	593.7848
+494	PRV_int_01	593.9674	F- so the water would rise	595.6525
+495	PRV_int_01	595.6525	(pause 0.71)	596.3577
+496	PRV_int_01	596.3577	pretty often over there?	597.7304
+497	PRV_int_01	597.7304	(pause 0.38)	598.1091
+498	PRV_int_01	598.1091	Like, cause it's kind of a low-	599.5812
+499	PRV_int_01	599.5812	(pause 0.67)	600.2486
+500	PRV_int_01	600.2486	over on the uh, Bell Street, that's	601.6903
+501	PRV_int_01	601.6903	(pause 0.24)	601.9270
+502	PRV_int_01	601.9270	close to the river, isn't it?	603.1435
+503	PRV_se0_ag3_f_04	603.9860	Mm-hm, but	604.7955
+504	PRV_se0_ag3_f_04	604.7955	(pause 0.14)	604.9375
+505	PRV_se0_ag3_f_04	604.9375	it would be down Main Street but then come over there too.	608.6039
+506	PRV_int_01	608.5802	Oh really?	609.1246
+507	PRV_se0_ag3_f_04	609.0867	Mm-hm.	609.8772
+508	PRV_int_01	609.8914	How high would the water get?	611.0558
+509	PRV_se0_ag3_f_04	615.4228	It- I-	616.1139
+510	PRV_se0_ag3_f_04	616.1139	(pause 1.84)	617.9552
+511	PRV_se0_ag3_f_04	617.9552	I know one time	619.4395
+512	PRV_se0_ag3_f_04	619.4395	(pause 0.25)	619.6856
+513	PRV_se0_ag3_f_04	619.6856	uh, some said they had went out on a boat,	622.7434
+514	PRV_int_01	623.1457	Mm.	623.4155
+515	PRV_se0_ag3_f_04	623.5102	but we would go out before it got that high.	626.5187
+516	PRV_int_01	626.7128	Okay.	627.1766
+517	PRV_se0_ag3_f_04	627.2098	But the highest I remember was	629.4913
+518	PRV_se0_ag3_f_04	629.4913	(pause 0.14)	629.6286
+519	PRV_se0_ag3_f_04	629.6286	Floyd. [<laugh> Ninety nine.]	632.0879
+520	PRV_int_01	630.3744	[Mm, yeah.]	631.1744
+521	PRV_int_01	631.1744	(pause 0.48)	631.6551
+522	PRV_int_01	631.6551	[Right.]	632.1495
+523	PRV_int_01	633.0583	That's the highest one.	634.2369
+524	PRV_se0_ag3_f_04	634.3411	I- I was um,	635.4345
+525	PRV_se0_ag3_f_04	635.4345	(pause 0.44)	635.8700
+526	PRV_se0_ag3_f_04	635.8700	here,	636.3007
+527	PRV_int_01	636.7247	Uh-huh.	637.1034
+528	PRV_se0_ag3_f_04	637.8465	and my sister stay on a other street. She hadn't been uh, got here from Seattle, Washington.	644.1447
+529	PRV_int_01	644.2678	Uh-huh.	644.6654
+530	PRV_se0_ag3_f_04	645.8014	Cause I was here	646.9233
+531	PRV_se0_ag3_f_04	646.9233	(pause 0.33)	647.2499
+532	PRV_se0_ag3_f_04	647.2499	then by myself	648.8924
+533	PRV_se0_ag3_f_04	648.8924	(pause 0.25)	649.1460
+534	PRV_se0_ag3_f_04	649.1460	and uh,	649.9223
+535	PRV_int_01	649.9743	Uh-huh.	650.2394
+536	PRV_se0_ag3_f_04	650.4240	I stayed sickly	651.9671
+537	PRV_se0_ag3_f_04	651.9671	(pause 0.55)	652.5209
+538	PRV_se0_ag3_f_04	652.5209	so she said she was gonna come home	654.8261
+539	PRV_se0_ag3_f_04	654.8261	(pause 0.24)	655.0655
+540	PRV_se0_ag3_f_04	655.0655	so she would be close to me.	657.1151
+541	PRV_int_01	657.2618	Mm-hm.	657.6121
+542	PRV_se0_ag3_f_04	658.5825	And	659.1126
+543	PRV_se0_ag3_f_04	659.1126	(pause 1.00)	660.1114
+544	PRV_se0_ag3_f_04	660.1114	that day,	660.8545
+545	PRV_se0_ag3_f_04	660.8545	(pause 1.30)	662.1542
+546	PRV_se0_ag3_f_04	662.1542	I-	662.4145
+547	PRV_se0_ag3_f_04	662.4145	(pause 0.59)	663.0062
+548	PRV_se0_ag3_f_04	663.0062	I w-	663.5269
+549	PRV_se0_ag3_f_04	663.5269	(pause 0.25)	663.7778
+550	PRV_se0_ag3_f_04	663.7778	uh-	664.2464
+551	PRV_se0_ag3_f_04	664.2464	(pause 0.49)	664.7339
+552	PRV_se0_ag3_f_04	664.7339	it had	665.1410
+553	PRV_se0_ag3_f_04	665.1410	(pause 0.16)	665.2999
+554	PRV_se0_ag3_f_04	665.2999	/faired off/.	666.3670
+555	PRV_int_01	666.6584	Mm-hm.	667.0513
+556	PRV_se0_ag3_f_04	667.2833	And the water was	668.3577
+557	PRV_se0_ag3_f_04	668.3577	(pause 0.19)	668.5518
+558	PRV_se0_ag3_f_04	668.5518	down there,	669.7068
+559	PRV_int_01	669.8914	Okay.	670.3458
+560	PRV_se0_ag3_f_04	670.5730	and the water,	671.6522
+561	PRV_se0_ag3_f_04	671.6522	(pause 0.43)	672.0830
+562	PRV_se0_ag3_f_04	672.0830	I went to go around there to my neighbor's,	674.6938
+563	PRV_int_01	675.0583	Mm-hm.	675.3376
+564	PRV_se0_ag3_f_04	675.7872	going on to Walston, um, before you got to Beasley Street,	680.4051
+565	PRV_int_01	680.5518	Mm-hm.	680.9021
+566	PRV_se0_ag3_f_04	680.9352	and I /knew- known/ that corner that water was just coming.	684.8667
+567	PRV_int_01	684.9709	Mm.	685.2738
+568	PRV_se0_ag3_f_04	685.9885	Anywhere you go, I could see water.	688.9659
+569	PRV_int_01	689.0463	Mm.	689.3445
+570	PRV_se0_ag3_f_04	689.6617	But I came home that night. It being so fair, I just know the water was going down.	695.5717
+571	PRV_int_01	695.5528	Mm-hm.	696.0688
+572	PRV_se0_ag3_f_04	696.4833	And I went to sleep.	698.0406
+573	PRV_int_01	698.5329	Okay.	698.9258
+574	PRV_se0_ag3_f_04	699.1482	And my neighbor woke me up	701.4061
+575	PRV_se0_ag3_f_04	701.4061	(pause 0.95)	702.3575
+576	PRV_se0_ag3_f_04	702.3575	and told me, say, you know that	704.8074
+577	PRV_se0_ag3_f_04	704.8074	(pause 0.83)	705.6358
+578	PRV_se0_ag3_f_04	705.6358	uh,	706.0618
+579	PRV_se0_ag3_f_04	706.0618	(pause 0.75)	706.8144
+580	PRV_se0_ag3_f_04	706.8144	my nephew call me and say he was gonna get his mama,	710.5424
+581	PRV_se0_ag3_f_04	710.5424	(pause 0.35)	710.8926
+582	PRV_se0_ag3_f_04	710.8926	and he was coming by /at us/,	713.1250
+583	PRV_se0_ag3_f_04	713.1250	(pause 0.38)	713.5055
+584	PRV_se0_ag3_f_04	713.5055	Said that-	713.9694
+585	PRV_se0_ag3_f_04	713.9694	(pause 0.20)	714.1729
+586	PRV_se0_ag3_f_04	714.1729	Said the dam gonna bust.	716.0548
+587	PRV_int_01	716.2205	Mm.	716.4666
+588	PRV_se0_ag3_f_04	716.5376	That water is coming.	718.0192
+589	PRV_se0_ag3_f_04	718.0192	(pause 0.44)	718.4547
+590	PRV_se0_ag3_f_04	718.4547	And I turned all of the way around.	720.7957
+591	PRV_int_01	720.7720	Mm.	721.0040
+592	PRV_se0_ag3_f_04	721.4821	[<laugh>]	722.1684
+593	PRV_int_01	721.5105	[<laugh>]	722.4856
+594	PRV_se0_ag3_f_04	723.2429	And I called	724.4121
+595	PRV_se0_ag3_f_04	724.4121	(pause 0.18)	724.5872
+596	PRV_se0_ag3_f_04	724.5872	my cousin,	725.6475
+597	PRV_int_01	726.0356	Uh-huh.	726.3954
+598	PRV_se0_ag3_f_04	726.6821	and she said	727.8229
+599	PRV_se0_ag3_f_04	727.8229	(pause 0.25)	728.0737
+600	PRV_se0_ag3_f_04	728.0737	she didn't know nothing about it.	729.9056
+601	PRV_int_01	730.3742	Uh-huh.	730.7008
+602	PRV_se0_ag3_f_04	730.7529	Say cause they had then called and see what the water was gonna do.	734.6370
+603	PRV_int_01	734.7317	Mm-hm.	735.0820
+604	PRV_se0_ag3_f_04	735.3376	And my aunt	736.5919
+605	PRV_se0_ag3_f_04	736.5919	(pause 1.52)	738.1114
+606	PRV_se0_ag3_f_04	738.1114	was in there, she couldn't walk.	740.1637
+607	PRV_int_01	740.7554	Okay.	741.2382
+608	PRV_se0_ag3_f_04	741.1009	She was sick.	742.1659
+609	PRV_int_01	742.5209	Mm.	742.8712
+610	PRV_se0_ag3_f_04	743.0700	And	743.5670
+611	PRV_se0_ag3_f_04	743.5670	(pause 0.16)	743.7280
+612	PRV_se0_ag3_f_04	743.7280	so I called some neighbors up	746.2157
+613	PRV_se0_ag3_f_04	746.2157	(pause 0.44)	746.6607
+614	PRV_se0_ag3_f_04	746.6607	in the apartment	748.0144
+615	PRV_se0_ag3_f_04	748.0144	(pause 0.33)	748.3411
+616	PRV_se0_ag3_f_04	748.3411	are no good.	749.7374
+617	PRV_int_01	749.9173	Mm-hm.	750.3007
+618	PRV_se0_ag3_f_04	750.4738	Cause they didn't drive.	751.9649
+619	PRV_se0_ag3_f_04	751.9649	(pause 0.45)	752.4193
+620	PRV_se0_ag3_f_04	752.4193	And one say she was waiting on her son.	754.9185
+621	PRV_int_01	755.1126	Mm.	755.4723
+622	PRV_se0_ag3_f_04	755.4013	The other one said she was waiting on her daughter.	758.2536
+623	PRV_int_01	758.4098	Mm.	758.7270
+624	PRV_se0_ag3_f_04	759.2666	And so my sister didn't have a car then	762.1161
+625	PRV_int_01	762.3981	Mm.	762.6774
+626	PRV_se0_ag3_f_04	762.6253	and she said,	763.4726
+627	PRV_se0_ag3_f_04	764.0217	what we gonna do?	765.4228
+628	PRV_se0_ag3_f_04	765.4228	(pause 0.34)	765.7588
+629	PRV_se0_ag3_f_04	765.7588	I said y'all just come on through the school yard	768.9803
+630	PRV_int_01	768.9661	Okay.	769.5247
+631	PRV_se0_ag3_f_04	769.5105	and come over here.	770.9305
+632	PRV_int_01	771.1861	Uh-huh.	771.4938
+633	PRV_se0_ag3_f_04	772.0429	And	772.6771
+634	PRV_se0_ag3_f_04	772.6771	(pause 0.33)	773.0037
+635	PRV_se0_ag3_f_04	773.0037	they did- She and her s- youngest son	775.6525
+636	PRV_se0_ag3_f_04	775.6525	(pause 0.89)	776.5424
+637	PRV_se0_ag3_f_04	776.5424	and we got it-	777.6594
+638	PRV_se0_ag3_f_04	777.6594	(pause 0.16)	777.8204
+639	PRV_se0_ag3_f_04	777.8204	I had a truck then.	779.5670
+640	PRV_se0_ag3_f_04	779.5670	(pause 0.64)	780.2108
+641	PRV_se0_ag3_f_04	780.2108	And	780.6273
+642	PRV_se0_ag3_f_04	780.6273	(pause 0.86)	781.4868
+643	PRV_se0_ag3_f_04	781.4868	she drove	782.5850
+644	PRV_int_01	782.9116	Uh-huh.	783.2476
+645	PRV_se0_ag3_f_04	783.5790	and had to drive through water	785.6144
+646	PRV_se0_ag3_f_04	785.6144	(pause 0.66)	786.2770
+647	PRV_se0_ag3_f_04	786.2770	before we hit Church Street.	788.4524
+648	PRV_se0_ag3_f_04	788.4524	(pause 0.77)	789.2240
+649	PRV_se0_ag3_f_04	789.2240	And when we got out Church Street going /in/-	792.3575
+650	PRV_se0_ag3_f_04	792.3575	(pause 0.39)	792.7484
+651	PRV_se0_ag3_f_04	792.7484	uh, Church Street to Main Street.	794.8311
+652	PRV_int_01	794.9210	Mm-hm.	795.2855
+653	PRV_se0_ag3_f_04	795.3565	I could see that water just swirling by,	798.1966
+654	PRV_se0_ag3_f_04	798.1966	(pause 0.43)	798.6300
+655	PRV_se0_ag3_f_04	798.6300	back of my cousin house. We had to go through water then.	802.4026
+656	PRV_int_01	802.5162	Wow.	802.8949
+657	PRV_se0_ag3_f_04	803.5812	And	804.1256
+658	PRV_se0_ag3_f_04	804.1256	(pause 1.49)	805.6193
+659	PRV_se0_ag3_f_04	805.6193	so she says, where we going?	807.5222
+660	PRV_se0_ag3_f_04	807.5222	(pause 0.32)	807.8393
+661	PRV_se0_ag3_f_04	807.8393	I said over town,	809.2593
+662	PRV_se0_ag3_f_04	809.2593	(pause 0.30)	809.5556
+663	PRV_se0_ag3_f_04	809.5556	cause I know it was high [over there.]	812.0264
+664	PRV_int_01	811.4631	[Mm.]	811.8702
+665	PRV_int_01	812.1779	Mm-hm.	812.6512
+666	PRV_se0_ag3_f_04	813.0441	And we-	813.4606
+667	PRV_se0_ag3_f_04	813.4606	(pause 0.46)	813.9245
+668	PRV_se0_ag3_f_04	813.9245	and we were going on	815.5291
+669	PRV_se0_ag3_f_04	815.5291	(pause 0.09)	815.6238
+670	PRV_se0_ag3_f_04	815.6238	and so all the cars	818.0580
+671	PRV_se0_ag3_f_04	818.0580	(pause 0.18)	818.2347
+672	PRV_se0_ag3_f_04	818.2347	lined up.	819.4322
+673	PRV_se0_ag3_f_04	819.4322	(pause 0.26)	819.6926
+674	PRV_se0_ag3_f_04	819.6926	Cause one thing I would like to go on and out, we couldn't get no /news/.	823.7661
+675	PRV_int_01	823.8418	Uh-huh.	824.2347
+676	PRV_se0_ag3_f_04	824.7317	And	825.2618
+677	PRV_se0_ag3_f_04	825.2618	(pause 0.52)	825.7778
+678	PRV_se0_ag3_f_04	825.7778	so all the cargo, we kept on over there by the post office.	829.9980
+679	PRV_se0_ag3_f_04	829.9980	(pause 0.59)	830.5897
+680	PRV_se0_ag3_f_04	830.5897	And I said, now we gonna go	832.5162
+681	PRV_se0_ag3_f_04	832.5162	(pause 0.43)	832.9422
+682	PRV_se0_ag3_f_04	832.9422	to a telephone booth	834.5326
+683	PRV_se0_ag3_f_04	834.5326	(pause 0.15)	834.6821
+684	PRV_se0_ag3_f_04	834.6821	and call some more folks and that's what we [did. <laugh>]	838.2748
+685	PRV_int_01	837.9292	[<laugh>]	839.0227
+686	PRV_se0_ag3_f_04	839.4392	And we didn't ever see them cars come from over in Princeville,	843.4417
+687	PRV_se0_ag3_f_04	843.4417	(pause 0.44)	843.8819
+688	PRV_se0_ag3_f_04	843.8819	so we just started to go- come back.	846.2892
+689	PRV_int_01	846.5874	Mm.	846.7910
+690	PRV_se0_ag3_f_04	846.7152	And we went there and stopped by the	848.8690
+691	PRV_se0_ag3_f_04	849.2098	bridge, you know,	850.5257
+692	PRV_se0_ag3_f_04	850.5257	(pause 0.76)	851.2830
+693	PRV_se0_ag3_f_04	851.2830	cross over from the bridge and park.	853.7708
+694	PRV_se0_ag3_f_04	853.7708	(pause 0.64)	854.4145
+695	PRV_se0_ag3_f_04	854.4145	And they was sanding the	856.0807
+696	PRV_se0_ag3_f_04	856.0807	(pause 0.24)	856.3221
+697	PRV_se0_ag3_f_04	856.3221	dyke	856.8807
+698	PRV_int_01	857.1978	Mm-hm.	857.6144
+699	PRV_se0_ag3_f_04	857.8510	so the-	858.3622
+700	PRV_se0_ag3_f_04	858.3622	(pause 0.53)	858.8904
+701	PRV_se0_ag3_f_04	858.8904	tryna keep the water from coming over.	861.2382
+702	PRV_int_01	861.4701	[Mm-hm.]	861.7821
+703	PRV_se0_ag3_f_04	861.6310	[And] we stood <laugh>	863.1883
+704	PRV_se0_ag3_f_04	863.6049	and I didn't have on no	865.2880
+705	PRV_se0_ag3_f_04	865.2880	(pause 0.57)	865.8607
+706	PRV_se0_ag3_f_04	865.8607	coat or nothing. I /??/ trembling.	868.1517
+707	PRV_se0_ag3_f_04	868.1517	(pause 0.33)	868.4831
+708	PRV_se0_ag3_f_04	868.4831	So one policeman /told/ never take me to the town hall.	872.5802
+709	PRV_int_01	872.7080	Uh-huh.	873.2050
+710	PRV_se0_ag3_f_04	873.1908	And we went down there,	874.9327
+711	PRV_int_01	875.1363	Okay.	875.5197
+712	PRV_se0_ag3_f_04	875.8084	and I was surprised- you know where that	878.7743
+713	PRV_se0_ag3_f_04	878.7743	(pause 0.49)	879.2666
+714	PRV_se0_ag3_f_04	879.2666	uh,	879.7210
+715	PRV_se0_ag3_f_04	879.7210	(pause 1.43)	881.1505
+716	PRV_se0_ag3_f_04	881.1505	town hall is [now?]	882.9141
+717	PRV_int_01	882.4028	[Mm-hm.]	882.9188
+718	PRV_int_01	883.1081	Mm-hm.	883.5105
+719	PRV_se0_ag3_f_04	883.4868	Well back there was that	885.0725
+720	PRV_se0_ag3_f_04	885.2476	project?	885.8630
+721	PRV_se0_ag3_f_04	885.8630	(pause 0.92)	886.7860
+722	PRV_se0_ag3_f_04	886.7860	And tho- the water was back there, those people had gone.	890.7790
+723	PRV_int_01	891.1482	In the project back-	891.9103
+724	PRV_se0_ag3_f_04	891.9955	Uh-huh cause some of 'em was down to the town hall, the old [town hall.]	896.6749
+725	PRV_int_01	895.8797	[Okay.]	896.4003
+726	PRV_int_01	896.7270	Mm-hm.	897.0962
+727	PRV_se0_ag3_f_04	898.1423	Well we went down there. We stayed down there, and her son, he was young. He stayed down there to try to help bag.	906.4380
+728	PRV_int_01	906.5752	Mm-hm.	907.0939
+729	PRV_se0_ag3_f_04	907.9933	And after awhile, somebody come in there,	911.5528
+730	PRV_se0_ag3_f_04	911.5528	(pause 0.92)	912.4758
+731	PRV_se0_ag3_f_04	912.4758	said, we can't do nothing for that dam. It gonna bust.	916.0760
+732	PRV_int_01	916.3742	Hm.	916.5872
+733	PRV_se0_ag3_f_04	916.7623	And my sister said, let's go.	918.7436
+734	PRV_se0_ag3_f_04	918.7436	(pause 0.46)	919.2075
+735	PRV_se0_ag3_f_04	919.2075	And somebody said, well wait til the mayor come.	922.3378
+736	PRV_int_01	922.4689	Mm.	922.7955
+737	PRV_se0_ag3_f_04	922.9422	And she came right on in behind 'em [and] she told us to go	927.5600
+738	PRV_int_01	925.7377	[Mm.]	925.9696
+739	PRV_se0_ag3_f_04	928.5493	to her church.	930.2013
+740	PRV_se0_ag3_f_04	930.2013	(pause 0.84)	931.0371
+741	PRV_se0_ag3_f_04	931.0371	That was over East Tarboro.	932.8027
+742	PRV_int_01	932.9210	Mm-hm.	933.2524
+743	PRV_se0_ag3_f_04	933.5316	Or somewhere else she told us to go but anyway,	937.1839
+744	PRV_se0_ag3_f_04	937.1839	(pause 1.22)	938.4003
+745	PRV_se0_ag3_f_04	938.4003	we went to h- we took one boy-	941.3824
+746	PRV_se0_ag3_f_04	941.3824	(pause 0.27)	941.6570
+747	PRV_se0_ag3_f_04	941.6570	two	941.9836
+748	PRV_se0_ag3_f_04	941.9836	(pause 0.30)	942.2798
+749	PRV_se0_ag3_f_04	942.2798	[over] /that river/.	943.5341
+750	PRV_int_01	942.2845	[Mm.]	942.5354
+751	PRV_se0_ag3_f_04	943.8728	Uh they stood on the back of the truck.	946.1496
+752	PRV_int_01	946.2916	Mm-hm.	946.7697
+753	PRV_se0_ag3_f_04	947.2146	And when we	948.4244
+754	PRV_se0_ag3_f_04	948.4244	(pause 0.31)	948.7368
+755	PRV_se0_ag3_f_04	948.7368	got over there to her church,	951.2171
+756	PRV_se0_ag3_f_04	951.2171	(pause 0.90)	952.1212
+757	PRV_se0_ag3_f_04	952.1212	we could see the water	954.0193
+758	PRV_se0_ag3_f_04	954.0193	(pause 0.29)	954.3061
+759	PRV_se0_ag3_f_04	954.3061	coming up from the low end	956.6917
+760	PRV_int_01	956.7248	Mm.	957.0420
+761	PRV_se0_ag3_f_04	957.4869	of Church Street,	958.7933
+762	PRV_se0_ag3_f_04	958.7933	(pause 0.16)	958.9496
+763	PRV_se0_ag3_f_04	958.9496	coming on up. /RD-NAME-2/ say, we can't stay [here. She] turned that truck around.	964.3058
+764	PRV_int_01	962.2610	[Mm.]	962.6538
+765	PRV_int_01	964.4241	Ugh.	964.9070
+766	PRV_se0_ag3_f_04	965.0537	And we went to the mall.	966.9119
+767	PRV_int_01	967.1675	Okay.	967.5935
+768	PRV_se0_ag3_f_04	968.9331	But	969.4680
+769	PRV_se0_ag3_f_04	969.4680	(pause 0.47)	969.9413
+770	PRV_se0_ag3_f_04	969.9413	we went back out.	971.1152
+771	PRV_int_01	971.8232	Mm.	972.0930
+772	PRV_se0_ag3_f_04	972.7368	But	973.2243
+773	PRV_se0_ag3_f_04	973.2243	(pause 0.57)	973.7971
+774	PRV_se0_ag3_f_04	973.7971	uh,	974.3604
+775	PRV_se0_ag3_f_04	974.3604	(pause 1.60)	975.9555
+776	PRV_se0_ag3_f_04	975.9555	they was- it- it was just opening the high school	979.1202
+777	PRV_se0_ag3_f_04	979.1202	(pause 0.19)	979.3143
+778	PRV_se0_ag3_f_04	979.3143	to let people in,	980.6964
+779	PRV_se0_ag3_f_04	980.6964	(pause 0.17)	980.8668
+780	PRV_se0_ag3_f_04	980.8668	and one of 'em /???/ out then.	982.8547
+781	PRV_int_01	983.1294	Mm-hm.	983.4608
+782	PRV_se0_ag3_f_04	983.3310	So we left	984.3913
+783	PRV_se0_ag3_f_04	985.1817	and went to Martin Middle Junior School	987.9366
+784	PRV_int_01	988.0786	Mm-hm.	988.5046
+785	PRV_se0_ag3_f_04	988.6892	and they let us in there.	990.3061
+786	PRV_int_01	990.5759	Okay.	991.0539
+787	PRV_int_01	991.0539	(pause 2.14)	993.1934
+788	PRV_int_01	993.1934	So you stayed there?	994.3200
+789	PRV_se0_ag3_f_04	994.4620	Mm-hm. And uh,	996.0004
+790	PRV_se0_ag3_f_04	996.0004	(pause 0.12)	996.1167
+791	PRV_se0_ag3_f_04	996.1167	plane- /it was/ a helicopter or something was coming in there with them folks,	1000.6040
+792	PRV_se0_ag3_f_04	1000.6040	(pause 0.43)	1001.0300
+793	PRV_se0_ag3_f_04	1001.0300	and I said /RD-NAME-2/- cause we hadn't got no cots /then/, we was sitting up on the seat.	1006.5283
+794	PRV_int_01	1006.7555	Mm.	1007.1862
+795	PRV_se0_ag3_f_04	1007.6481	And um,	1008.2682
+796	PRV_se0_ag3_f_04	1008.2682	(pause 0.54)	1008.8125
+797	PRV_se0_ag3_f_04	1008.8125	I said /RD-NAME-2/ I can't sleep here.	1010.9710
+798	PRV_se0_ag3_f_04	1010.9710	(pause 0.23)	1011.2029
+799	PRV_se0_ag3_f_04	1011.2029	I said I'm going to the truck. So me and her went in the truck.	1014.8457
+800	PRV_int_01	1015.0066	[Okay.]	1015.5557
+801	PRV_se0_ag3_f_04	1015.2054	[And we] set up that night.	1016.9852
+802	PRV_int_01	1017.7899	Oh [okay.]	1018.4052
+803	PRV_se0_ag3_f_04	1018.1307	[But] then the next day,	1019.8232
+804	PRV_se0_ag3_f_04	1020.5191	they brought in cots	1022.1710
+805	PRV_int_01	1022.7864	Mm-hm.	1023.3970
+806	PRV_int_01	1023.3970	(pause 0.43)	1023.8277
+807	PRV_int_01	1023.8277	So they were having people sleep on the floor that first night?	1026.3013
+808	PRV_se0_ag3_f_04	1027.3900	Mm-mm. No, everybody was sitting up.	1029.9508
+809	PRV_se0_ag3_f_04	1029.9508	(pause 0.27)	1030.2159
+810	PRV_se0_ag3_f_04	1030.2159	No- I think some folks had something to sleep on.	1034.1805
+811	PRV_int_01	1034.3083	Oh okay.	1034.9000
+812	PRV_se0_ag3_f_04	1034.8006	Mm-hm.	1035.5863
+813	PRV_int_01	1035.8467	Okay.	1036.3153
+814	PRV_int_01	1036.3153	(pause 0.99)	1037.3073
+815	PRV_int_01	1037.3073	So you stayed there. That the next night they brought in cots.	1040.1426
+816	PRV_se0_ag3_f_04	1040.4408	[Mm-hm.]	1041.0467
+817	PRV_int_01	1040.8053	[Okay.]	1041.3759
+818	PRV_se0_ag3_f_04	1041.2929	Mm-hm.	1041.8987
+819	PRV_int_01	1042.1117	And how long did you stay there?	1043.4466
+820	PRV_se0_ag3_f_04	1049.1389	I can't think exactly but we stayed there	1052.7248
+821	PRV_se0_ag3_f_04	1052.7248	(pause 1.13)	1053.8561
+822	PRV_se0_ag3_f_04	1053.8561	until	1055.3188
+823	PRV_se0_ag3_f_04	1055.3188	(pause 2.43)	1057.7450
+824	PRV_se0_ag3_f_04	1057.7450	you know, they put up uh,	1059.4159
+825	PRV_se0_ag3_f_04	1059.4159	(pause 1.65)	1061.0632
+826	PRV_se0_ag3_f_04	1061.0632	some trailers over	1062.8457
+827	PRV_se0_ag3_f_04	1062.8457	(pause 0.26)	1063.1060
+828	PRV_se0_ag3_f_04	1063.1060	Rocky Mount?	1063.9391
+829	PRV_int_01	1064.0006	Mm-hm.	1064.5071
+830	PRV_se0_ag3_f_04	1064.6112	FEMA trailers.	1065.6905
+831	PRV_int_01	1066.0265	Mm.	1066.3153
+832	PRV_se0_ag3_f_04	1066.9401	And	1067.5886
+833	PRV_se0_ag3_f_04	1067.5886	(pause 1.15)	1068.7368
+834	PRV_se0_ag3_f_04	1068.7368	at that time, they just had	1070.9662
+835	PRV_se0_ag3_f_04	1070.9662	(pause 2.02)	1072.9874
+836	PRV_se0_ag3_f_04	1072.9874	the on- I think one bedroom cause that's what-	1076.3840
+837	PRV_se0_ag3_f_04	1076.3840	(pause 1.22)	1077.6053
+838	PRV_se0_ag3_f_04	1077.6053	but we had to come over to the uh, high school	1080.7605
+839	PRV_se0_ag3_f_04	1080.7605	(pause 0.59)	1081.3521
+840	PRV_se0_ag3_f_04	1081.3521	and they /processed/ us and got us straight and sent us over there.	1086.1925
+841	PRV_int_01	1086.3723	Mm-hm.	1086.9238
+842	PRV_se0_ag3_f_04	1087.0019	And you know what trailer you were going to,	1090.0691
+843	PRV_int_01	1091.0537	[Mm.]	1091.4229
+844	PRV_se0_ag3_f_04	1091.2667	[but] I tell you,	1092.4528
+845	PRV_se0_ag3_f_04	1092.6090	when I went to that trailer,	1094.6728
+846	PRV_se0_ag3_f_04	1094.6728	(pause 2.22)	1096.8880
+847	PRV_se0_ag3_f_04	1096.8880	it- it- it was nice	1099.0445
+848	PRV_se0_ag3_f_04	1099.0445	(pause 0.16)	1099.2007
+849	PRV_se0_ag3_f_04	1099.2007	cause you had your own private place. You didn't have to hear a lot of /noise-/	1103.8536
+850	PRV_int_01	1103.9321	[<laugh>]	1104.9498
+851	PRV_se0_ag3_f_04	1104.2493	[<laugh>]	1104.4197
+852	PRV_se0_ag3_f_04	1105.7395	Cause those children keep	1107.3733
+853	PRV_se0_ag3_f_04	1107.3733	(pause 0.11)	1107.4822
+854	PRV_se0_ag3_f_04	1107.4822	fuss.	1108.1307
+855	PRV_int_01	1109.1247	Yeah [what-]	1109.4797
+856	PRV_se0_ag3_f_04	1109.2998	[And-]	1109.7164
+857	PRV_int_01	1109.8990	that- so they were a lot of people	1111.3616
+858	PRV_se0_ag3_f_04	1111.6835	Mm-hm.	1112.3746
+859	PRV_int_01	1112.5166	in the high school, what was that like	1113.9650
+860	PRV_int_01	1113.9650	(pause 0.15)	1114.1117
+861	PRV_int_01	1114.1117	staying there before you got your own trailer?	1116.2256
+862	PRV_int_01	1116.2256	(pause 0.35)	1116.5759
+863	PRV_int_01	1116.5759	I bet that was crazy.	1117.6882
+864	PRV_se0_ag3_f_04	1120.4052	Yeah.	1121.1768
+865	PRV_int_01	1121.2241	<laugh>	1121.6406
+866	PRV_se0_ag3_f_04	1121.6718	Mm-hm. Cause some folk, I reckon they walk	1124.5876
+867	PRV_se0_ag3_f_04	1124.5876	(pause 0.15)	1124.7343
+868	PRV_se0_ag3_f_04	1124.7343	m- about all night and all- but anyway	1128.0240
+869	PRV_se0_ag3_f_04	1128.0240	(pause 0.21)	1128.2351
+870	PRV_se0_ag3_f_04	1128.2351	I think everything went good.	1130.7769
+871	PRV_int_01	1130.8716	Uh-huh.	1131.3591
+872	PRV_se0_ag3_f_04	1132.4857	It- cause	1132.9922
+873	PRV_se0_ag3_f_04	1132.9922	(pause 0.24)	1133.2288
+874	PRV_se0_ag3_f_04	1133.2288	n- uh-	1134.1566
+875	PRV_se0_ag3_f_04	1134.1566	(pause 0.38)	1134.5333
+876	PRV_se0_ag3_f_04	1134.5333	they was bringing in folks from down Greenville way.	1138.2443
+877	PRV_se0_ag3_f_04	1138.2443	(pause 1.08)	1139.3235
+878	PRV_se0_ag3_f_04	1139.3235	Some of everywhere.	1140.7794
+879	PRV_int_01	1141.0161	Hm.	1141.4184
+880	PRV_se0_ag3_f_04	1142.6160	It was something going on.	1144.6419
+881	PRV_int_01	1144.8265	Mm.	1145.1673
+882	PRV_se0_ag3_f_04	1150.0455	And I was so glad to get back home.	1153.0019
+883	PRV_int_01	1153.2196	Mm.	1153.6077
+884	PRV_int_01	1153.6077	(pause 0.99)	1154.6018
+885	PRV_int_01	1154.6018	So you- y-	1155.2739
+886	PRV_int_01	1155.2739	(pause 0.28)	1155.5579
+887	PRV_int_01	1155.5579	so once you got in that-	1156.8170
+888	PRV_int_01	1156.8170	(pause 0.14)	1156.9590
+889	PRV_int_01	1156.9590	tho-	1157.2099
+890	PRV_int_01	1157.2099	(pause 0.23)	1157.4371
+891	PRV_int_01	1157.4371	trailers, the FEMA trailer,	1159.0255
+892	PRV_int_01	1159.0255	(pause 1.12)	1160.1426
+893	PRV_int_01	1160.1426	you w- you were there for awhile?	1161.5485
+894	PRV_se0_ag3_f_04	1162.1780	Mm-hm.	1162.7886
+895	PRV_int_01	1163.0632	How long were you there?	1164.0430
+896	PRV_se0_ag3_f_04	1167.8703	I can't think how m-	1169.5791
+897	PRV_se0_ag3_f_04	1169.5791	(pause 0.49)	1170.0646
+898	PRV_se0_ag3_f_04	1170.0646	h- how long I was there?	1172.1284
+899	PRV_se0_ag3_f_04	1172.1284	(pause 2.63)	1174.7602
+900	PRV_se0_ag3_f_04	1174.7602	I sure can't.	1176.0288
+901	PRV_int_01	1176.2919	Mm.	1176.5380
+902	PRV_se0_ag3_f_04	1176.8267	<laugh>	1177.0587
+903	PRV_int_01	1177.1912	But you say you liked it there?	1178.4456
+904	PRV_int_01	1178.4456	(pause 0.25)	1178.6917
+905	PRV_int_01	1178.6917	You liked the- being away from-	1180.2443
+906	PRV_int_01	1180.2443	(pause 1.07)	1181.3188
+907	PRV_int_01	1181.3188	having your own place once you finally got it?	1183.3569
+908	PRV_se0_ag3_f_04	1184.1332	Mm-hm. It was quieter	1185.9887
+909	PRV_int_01	1186.1922	Mm-hm.	1186.4667
+910	PRV_se0_ag3_f_04	1186.5283	in your little trailer	1188.2500
+911	PRV_se0_ag3_f_04	1188.2500	(pause 0.42)	1188.6658
+912	PRV_se0_ag3_f_04	1188.6658	than it was, you know,	1190.7012
+913	PRV_se0_ag3_f_04	1190.7012	(pause 1.09)	1191.7899
+914	PRV_se0_ag3_f_04	1191.7899	in the school	1193.2667
+915	PRV_se0_ag3_f_04	1193.2667	(pause 0.28)	1193.5460
+916	PRV_se0_ag3_f_04	1193.5460	because it was so much noise.	1195.6551
+917	PRV_int_01	1195.9486	Mm-hm.	1196.5260
+918	PRV_se0_ag3_f_04	1196.4740	Mm-hm.	1197.3165
+919	PRV_int_01	1197.3118	Mm-hm.	1197.6857
+920	PRV_int_01	1198.8359	So then what happened? What- what happened after that?	1201.2859
+921	PRV_se0_ag3_f_04	1203.6384	What? After the trailer?	1205.2288
+922	PRV_int_01	1205.4939	Mm-hm.	1205.9199
+923	PRV_se0_ag3_f_04	1207.7498	Oh I stayed in that trailer until they got this house	1211.4418
+924	PRV_se0_ag3_f_04	1211.4418	(pause 0.41)	1211.8489
+925	PRV_se0_ag3_f_04	1211.8489	uh,	1212.3203
+926	PRV_se0_ag3_f_04	1212.3203	(pause 0.56)	1212.8788
+927	PRV_se0_ag3_f_04	1212.8788	about ready.	1213.9154
+928	PRV_int_01	1214.3320	Okay.	1214.7911
+929	PRV_se0_ag3_f_04	1215.2266	Mm-hm.	1215.9650
+930	PRV_int_01	1216.2727	And so they-	1216.8833
+931	PRV_se0_ag3_f_04	1216.8312	The Baptist people worked on it for me.	1220.0527
+932	PRV_int_01	1220.4834	Okay, so they- they built the-	1222.1922
+933	PRV_int_01	1222.1922	(pause 0.27)	1222.4667
+934	PRV_int_01	1222.4667	they rebuilt the house?	1223.5507
+935	PRV_se0_ag3_f_04	1225.1344	Mm-hm. Yeah /?/-	1225.9154
+936	PRV_se0_ag3_f_04	1225.9154	(pause 0.73)	1226.6444
+937	PRV_se0_ag3_f_04	1226.6444	yeah, the-	1227.5201
+938	PRV_se0_ag3_f_04	1227.5201	(pause 0.15)	1227.6668
+939	PRV_se0_ag3_f_04	1227.6668	uh-huh. Cause they-	1228.7081
+940	PRV_se0_ag3_f_04	1228.7081	(pause 0.82)	1229.5270
+941	PRV_se0_ag3_f_04	1229.5270	they had to take	1230.5806
+942	PRV_se0_ag3_f_04	1230.5806	(pause 0.30)	1230.8788
+943	PRV_se0_ag3_f_04	1230.8788	e- all these walls and things and floors out.	1235.0064
+944	PRV_int_01	1235.3140	Oh, [okay.]	1235.9814
+945	PRV_se0_ag3_f_04	1235.6217	[Mm-hm.]	1236.4102
+946	PRV_int_01	1237.1581	So this is pretty much how your house was	1239.2408
+947	PRV_int_01	1239.2408	(pause 0.28)	1239.5201
+948	PRV_int_01	1239.5201	before?	1240.0786
+949	PRV_se0_ag3_f_04	1240.4241	Mm-hm.	1241.0868
+950	PRV_int_01	1241.1626	Okay.	1241.5933
+951	PRV_int_01	1241.5933	(pause 0.22)	1241.8110
+952	PRV_int_01	1241.8110	Okay.	1242.2228
+953	PRV_int_01	1242.2228	(pause 1.22)	1243.4468
+954	PRV_int_01	1243.4468	And they re- rebuilt it	1244.8432
+955	PRV_int_01	1244.8432	(pause 0.25)	1245.0940
+956	PRV_int_01	1245.0940	pretty quick?	1245.8325
+957	PRV_se0_ag3_f_04	1247.4182	Y- well, they were going around trying to help everybody	1251.7709
+958	PRV_se0_ag3_f_04	1251.7709	(pause 0.31)	1252.0786
+959	PRV_se0_ag3_f_04	1252.0786	and they did good. <laugh>	1253.8706
+960	PRV_int_01	1253.8942	/Mm, okay/. <laugh>	1255.1533
+961	PRV_se0_ag3_f_04	1255.1486	/Cause I said, Lord,/ just let me get home. If I	1258.5377
+962	PRV_se0_ag3_f_04	1258.9259	just	1259.4134
+963	PRV_se0_ag3_f_04	1259.4134	(pause 0.23)	1259.6406
+964	PRV_se0_ag3_f_04	1259.6406	can sleep on the floor.	1261.3569
+965	PRV_int_01	1261.5178	<laugh>	1262.3367
+966	PRV_se0_ag3_f_04	1263.0136	And a lady	1264.0313
+967	PRV_se0_ag3_f_04	1264.0313	(pause 0.14)	1264.1733
+968	PRV_se0_ag3_f_04	1264.1733	I had worked	1265.0916
+969	PRV_se0_ag3_f_04	1265.0916	(pause 0.36)	1265.4540
+970	PRV_se0_ag3_f_04	1265.4540	for,	1265.9368
+971	PRV_se0_ag3_f_04	1265.9368	(pause 0.47)	1266.4055
+972	PRV_se0_ag3_f_04	1266.4055	one of her friends at Albemarle,	1268.9831
+973	PRV_se0_ag3_f_04	1268.9831	(pause 0.40)	1269.3875
+974	PRV_se0_ag3_f_04	1269.3875	she was a hundred and	1270.5519
+975	PRV_se0_ag3_f_04	1270.5519	(pause 0.21)	1270.7649
+976	PRV_se0_ag3_f_04	1270.7649	three, this lady.	1272.2540
+977	PRV_int_01	1272.5711	Mm.	1272.8362
+978	PRV_se0_ag3_f_04	1272.9735	I worked	1273.5273
+979	PRV_se0_ag3_f_04	1273.5273	(pause 0.20)	1273.7261
+980	PRV_se0_ag3_f_04	1273.7261	for Miss /RD-NAME-1/	1274.9710
+981	PRV_se0_ag3_f_04	1274.9710	(pause 0.54)	1275.5106
+982	PRV_se0_ag3_f_04	1275.5106	and everybody	1276.5093
+983	PRV_se0_ag3_f_04	1276.5093	(pause 0.20)	1276.7081
+984	PRV_se0_ag3_f_04	1276.7081	<clears throat> thought Miss /RD-NAME-1/ was mean,	1279.1533
+985	PRV_se0_ag3_f_04	1279.1533	(pause 0.53)	1279.6835
+986	PRV_se0_ag3_f_04	1279.6835	but she was good- she was a good lady [<laugh>] to me.	1284.0335
+987	PRV_int_01	1282.6987	[Mm-hm.]	1283.4087
+988	PRV_int_01	1284.1498	Mm-hm.	1285.1533
+989	PRV_se0_ag3_f_04	1285.3285	Cause she was active.	1286.9998
+990	PRV_se0_ag3_f_04	1286.9998	(pause 0.35)	1287.3449
+991	PRV_se0_ag3_f_04	1287.3449	She wanted to go walk	1288.9306
+992	PRV_int_01	1289.4067	Mm-hm.	1289.7570
+993	PRV_se0_ag3_f_04	1290.2682	and I would walk her	1291.6977
+994	PRV_int_01	1292.2420	Mm-hm.	1292.5639
+995	PRV_se0_ag3_f_04	1293.3118	and	1293.8419
+996	PRV_se0_ag3_f_04	1293.8419	(pause 2.15)	1295.9909
+997	PRV_se0_ag3_f_04	1295.9909	um-	1296.4575
+998	PRV_se0_ag3_f_04	1296.4575	(pause 0.42)	1296.8741
+999	PRV_se0_ag3_f_04	1296.8741	<clears throat>	1297.2811
+1000	PRV_se0_ag3_f_04	1297.2811	(pause 2.41)	1299.6905
+1001	PRV_se0_ag3_f_04	1299.6905	She want to go s-	1300.9638
+1002	PRV_se0_ag3_f_04	1300.9638	(pause 0.21)	1301.1768
+1003	PRV_se0_ag3_f_04	1301.1768	to the um, Christmas Parade to see the horses,	1304.8526
+1004	PRV_int_01	1305.0798	Mm-hm.	1305.5248
+1005	PRV_se0_ag3_f_04	1305.6668	and	1306.0739
+1006	PRV_se0_ag3_f_04	1306.0739	(pause 0.19)	1306.2632
+1007	PRV_se0_ag3_f_04	1306.2632	the- her-	1307.0868
+1008	PRV_se0_ag3_f_04	1307.0868	(pause 0.23)	1307.3120
+1009	PRV_se0_ag3_f_04	1307.3120	the one was looking out for her	1309.5462
+1010	PRV_se0_ag3_f_04	1309.5462	(pause 0.82)	1310.3651
+1011	PRV_se0_ag3_f_04	1310.3651	uh, said her money was getting scarce. And they had cut my hours to one or two.	1316.2136
+1012	PRV_int_01	1316.5828	[Mm.]	1316.9047
+1013	PRV_se0_ag3_f_04	1316.6917	[But] anyway, she wanted to go to that parade, and I knew it was cold.	1321.1060
+1014	PRV_int_01	1321.6030	Mm.	1321.8160
+1015	PRV_se0_ag3_f_04	1321.8160	And so I asked the head nurse, you know, where it was over there?	1325.8942
+1016	PRV_int_01	1326.0836	Hm.	1326.4149
+1017	PRV_se0_ag3_f_04	1326.5617	Would it be alright? She said, yeah, just wrap her up good. And that's what I did.	1332.0524
+1018	PRV_int_01	1332.3629	Mm-hm.	1332.7747
+1019	PRV_se0_ag3_f_04	1332.8173	And I had come home but I went back to take her and she was so happy.	1337.8158
+1020	PRV_int_01	1338.0268	Hm.	1338.2729
+1021	PRV_se0_ag3_f_04	1338.7936	Well she didn't live	1340.1805
+1022	PRV_se0_ag3_f_04	1340.1805	(pause 1.49)	1341.6715
+1023	PRV_se0_ag3_f_04	1341.6715	another year before she died.	1344.4055
+1024	PRV_int_01	1344.5522	Hm.	1344.7936
+1025	PRV_se0_ag3_f_04	1348.0975	And I was right there with her.	1349.7732
+1026	PRV_se0_ag3_f_04	1349.7732	(pause 0.74)	1350.5096
+1027	PRV_se0_ag3_f_04	1350.5096	And I didn't get to finish school	1352.8858
+1028	PRV_se0_ag3_f_04	1352.8858	(pause 1.09)	1353.9792
+1029	PRV_se0_ag3_f_04	1353.9792	and I went	1355.0868
+1030	PRV_se0_ag3_f_04	1355.0868	(pause 0.96)	1356.0457
+1031	PRV_se0_ag3_f_04	1356.0457	to Edgecombe. It was community college	1359.1319
+1032	PRV_int_01	1359.2408	Mm.	1359.5106
+1033	PRV_se0_ag3_f_04	1359.4396	then,	1359.9555
+1034	PRV_int_01	1360.0928	[Mm-hm.]	1360.4336
+1035	PRV_se0_ag3_f_04	1360.2632	[and] got my GED.	1362.0410
+1036	PRV_int_01	1362.7936	[Okay.]	1363.0965
+1037	PRV_se0_ag3_f_04	1362.9498	[And] I go back there and she would ask me	1366.0218
+1038	PRV_se0_ag3_f_04	1366.4241	about it cause she-	1367.9747
+1039	PRV_se0_ag3_f_04	1367.9747	(pause 0.43)	1368.4055
+1040	PRV_se0_ag3_f_04	1368.4055	she was a principal. She was a smart lady.	1371.3733
+1041	PRV_int_01	1371.3970	Mm.	1371.6526
+1042	PRV_se0_ag3_f_04	1371.9555	She was a hundred and three,	1373.5771
+1043	PRV_int_01	1373.8138	[Wow.]	1374.1735
+1044	PRV_se0_ag3_f_04	1374.0268	[but] she kept her good senses un-	1376.6254
+1045	PRV_se0_ag3_f_04	1377.2360	until one weekend she fell	1380.0524
+1046	PRV_int_01	1380.3203	Mm.	1380.5380
+1047	PRV_se0_ag3_f_04	1380.4717	and hit her head.	1381.7545
+1048	PRV_int_01	1381.9107	Hm.	1382.1805
+1049	PRV_se0_ag3_f_04	1382.1758	And I went back there,	1383.7047
+1050	PRV_se0_ag3_f_04	1384.1543	but she was still was good but	1386.2161
+1051	PRV_se0_ag3_f_04	1386.2161	(pause 0.20)	1386.4149
+1052	PRV_se0_ag3_f_04	1386.4149	not as good as she was.	1388.3698
+1053	PRV_int_01	1388.3840	Mm-hm.	1388.9710
+1054	PRV_se0_ag3_f_04	1389.0798	Mm-hm.	1389.6905
+1055	PRV_int_01	1389.7946	Mm.	1390.0881
+1056	PRV_int_01	1390.0881	(pause 2.23)	1392.3155
+1057	PRV_int_01	1392.3155	Now what was her name?	1393.3427
+1058	PRV_se0_ag3_f_04	1395.0136	Miss /RD-NAME-5/.	1397.4229
+1059	PRV_int_01	1397.5933	Okay.	1398.1234
+1060	PRV_se0_ag3_f_04	1398.1214	Mm-hm.	1398.8457
+1061	PRV_int_01	1399.0587	And she was a principal?	1400.0673
+1062	PRV_int_01	1400.0673	(pause 0.10)	1400.1663
+1063	PRV_int_01	1400.1663	She was principal?	1400.9662
+1064	PRV_se0_ag3_f_04	1401.4964	Not here.	1402.4005
+1065	PRV_se0_ag3_f_04	1402.4005	(pause 0.17)	1402.5661
+1066	PRV_se0_ag3_f_04	1402.5661	Um,	1402.9874
+1067	PRV_se0_ag3_f_04	1402.9874	(pause 1.16)	1404.1498
+1068	PRV_se0_ag3_f_04	1404.1498	in uh,	1404.9119
+1069	PRV_se0_ag3_f_04	1404.9119	(pause 0.96)	1405.8728
+1070	PRV_se0_ag3_f_04	1405.8728	r-	1406.1190
+1071	PRV_se0_ag3_f_04	1406.1190	(pause 0.26)	1406.3746
+1072	PRV_se0_ag3_f_04	1406.3746	uh, in the Raleigh [area.]	1408.2869
+1073	PRV_int_01	1408.0171	[Oh], okay.	1408.5567
+1074	PRV_se0_ag3_f_04	1408.5425	Mm-hm.	1409.2904
+1075	PRV_int_01	1409.2572	Now did she live here or	1410.5427
+1076	PRV_int_01	1410.8173	where did she- /where-/	1411.4819
+1077	PRV_se0_ag3_f_04	1411.4326	Mm-mm. After she got	1413.0420
+1078	PRV_se0_ag3_f_04	1413.2171	down,	1413.9934
+1079	PRV_se0_ag3_f_04	1413.9934	(pause 0.30)	1414.2963
+1080	PRV_se0_ag3_f_04	1414.2963	she	1414.6466
+1081	PRV_se0_ag3_f_04	1414.6466	(pause 0.18)	1414.8312
+1082	PRV_se0_ag3_f_04	1414.8312	came- went to the Albemarle	1416.8173
+1083	PRV_int_01	1417.1060	Okay.	1417.5273
+1084	PRV_se0_ag3_f_04	1417.6314	here.	1418.0196
+1085	PRV_int_01	1418.3888	Okay, at the Albemarle, that's the-	1420.3058
+1086	PRV_int_01	1420.3058	(pause 0.46)	1420.7697
+1087	PRV_int_01	1420.7697	the apartment	1421.4797
+1088	PRV_int_01	1421.4797	(pause 0.25)	1421.7286
+1089	PRV_int_01	1421.7286	community?	1422.4007
+1090	PRV_se0_ag3_f_04	1422.8267	Mm-hm.	1423.3768
+1091	PRV_int_01	1423.3947	[Over in Princeville] okay.	1424.7864
+1092	PRV_se0_ag3_f_04	1423.6219	[Mm-hm.]	1424.2752
+1093	PRV_se0_ag3_f_04	1425.0562	No, it's not over in [Princeville.]	1427.0916
+1094	PRV_int_01	1426.7981	[Oh it's] right, over in Tarboro [right across the bridge] there?	1429.3758
+1095	PRV_se0_ag3_f_04	1428.0836	[Uh-huh.]	1428.8646
+1096	PRV_se0_ag3_f_04	1429.4042	Mm-hm. Mm-hm.	1430.6964
+1097	PRV_int_01	1429.9012	[Oh okay.] Okay.	1430.9568
+1098	PRV_se0_ag3_f_04	1430.9852	Mm-hm.	1431.6005
+1099	PRV_int_01	1431.6810	That's right.	1432.1496
+1100	PRV_int_01	1432.1496	(pause 0.73)	1432.8833
+1101	PRV_int_01	1432.8833	Okay. Well I'm g- I'm sure she's	1434.5285
+1102	PRV_int_01	1434.5285	(pause 0.51)	1435.0350
+1103	PRV_int_01	1435.0350	glad you took her to that parade.	1436.6491
+1104	PRV_se0_ag3_f_04	1436.7864	Mm-hm.	1437.5532
+1105	PRV_se0_ag3_f_04	1437.5532	(pause 0.12)	1437.6763
+1106	PRV_se0_ag3_f_04	1437.6763	Mm-hm.	1438.3247
+1107	PRV_int_01	1438.3389	You had a good time there?	1439.3708
+1108	PRV_se0_ag3_f_04	1439.2762	Mm-hm.	1440.0288
+1109	PRV_se0_ag3_f_04	1441.4941	And um,	1442.1947
+1110	PRV_se0_ag3_f_04	1442.1947	(pause 0.36)	1442.5592
+1111	PRV_se0_ag3_f_04	1442.5592	<clears throat>	1442.8148
+1112	PRV_se0_ag3_f_04	1442.8148	(pause 1.71)	1444.5283
+1113	PRV_se0_ag3_f_04	1444.5283	they took her back, had a	1446.1593
+1114	PRV_se0_ag3_f_04	1446.1593	(pause 0.18)	1446.3439
+1115	PRV_se0_ag3_f_04	1446.3439	funeral	1446.8930
+1116	PRV_se0_ag3_f_04	1446.8930	(pause 0.17)	1447.0587
+1117	PRV_se0_ag3_f_04	1447.0587	in uh,	1447.8255
+1118	PRV_se0_ag3_f_04	1447.8255	(pause 2.13)	1449.9508
+1119	PRV_se0_ag3_f_04	1449.9508	Raleigh.	1450.7839
+1120	PRV_int_01	1451.1484	Mm.	1451.5128
+1121	PRV_se0_ag3_f_04	1451.8374	And so	1452.6469
+1122	PRV_se0_ag3_f_04	1452.6469	(pause 1.42)	1454.0716
+1123	PRV_se0_ag3_f_04	1454.0716	one of my sisters in church,	1456.6324
+1124	PRV_se0_ag3_f_04	1456.6324	(pause 0.54)	1457.1768
+1125	PRV_se0_ag3_f_04	1457.1768	and she was	1457.9747
+1126	PRV_se0_ag3_f_04	1457.9747	(pause 0.21)	1458.1830
+1127	PRV_se0_ag3_f_04	1458.1830	uh, my beautician then. She took me	1461.5390
+1128	PRV_se0_ag3_f_04	1461.5390	(pause 0.79)	1462.3295
+1129	PRV_se0_ag3_f_04	1462.3295	and another lady up there	1464.3913
+1130	PRV_se0_ag3_f_04	1464.3913	(pause 0.14)	1464.5333
+1131	PRV_se0_ag3_f_04	1464.5333	to the funeral.	1465.4373
+1132	PRV_int_01	1465.6267	Mm.	1465.9296
+1133	PRV_se0_ag3_f_04	1466.0196	Mm-hm.	1466.8526
+1134	PRV_int_01	1466.7532	Mkay.	1467.1934
+1135	PRV_int_01	1468.8549	H-	1469.2004
+1136	PRV_int_01	1469.2004	(pause 0.16)	1469.3641
+1137	PRV_int_01	1469.3641	do you remember about how old you were at that time? Was that recently or?	1473.0041
+1138	PRV_int_01	1473.0041	(pause 1.07)	1474.0739
+1139	PRV_int_01	1474.0739	When was that?	1474.6892
+1140	PRV_int_01	1474.6892	(pause 0.66)	1475.3519
+1141	PRV_int_01	1475.3519	Was that awhile ago?	1476.2966
+1142	PRV_se0_ag3_f_04	1477.7024	Mm-hm.	1478.5118
+1143	PRV_int_01	1478.9331	Oh, okay.	1479.5818
+1144	PRV_se0_ag3_f_04	1481.3377	<ts> I was old myself. [<laugh>]	1484.7106
+1145	PRV_int_01	1483.1107	[<laugh>]	1485.0751
+1146	PRV_int_01	1486.2490	Is the- you uh-	1487.1578
+1147	PRV_int_01	1487.1578	(pause 0.29)	1487.4513
+1148	PRV_int_01	1487.4513	you w-	1488.0098
+1149	PRV_int_01	1488.0098	(pause 0.76)	1488.7747
+1150	PRV_int_01	1488.7747	going-	1489.1013
+1151	PRV_int_01	1489.1013	(pause 0.17)	1489.2669
+1152	PRV_int_01	1489.2669	at one point you said you went to the community college?	1491.7899
+1153	PRV_se0_ag3_f_04	1492.5377	Mm-hm. I went out there to get my GED.	1495.6977
+1154	PRV_int_01	1496.4645	How old were you then?	1497.3165
+1155	PRV_se0_ag3_f_04	1500.6800	I reckon I was about sixty five or seventy	1504.1644
+1156	PRV_int_01	1504.2064	Wow.	1504.8028
+1157	PRV_se0_ag3_f_04	1504.7981	when I went out there.	1506.2398
+1158	PRV_int_01	1506.3203	Wow.	1507.0113
+1159	PRV_se0_ag3_f_04	1507.0303	Cause I was the oldest one in my class.	1509.7567
+1160	PRV_int_01	1509.7804	Wow.	1510.3153
+1161	PRV_se0_ag3_f_04	1510.9922	And after I passed that	1513.5273
+1162	PRV_se0_ag3_f_04	1513.5273	(pause 0.94)	1514.4645
+1163	PRV_se0_ag3_f_04	1514.4645	and they said, well if you do this kind of work- that's what was rumored	1518.6327
+1164	PRV_int_01	1518.9261	Mm.	1519.1439
+1165	PRV_se0_ag3_f_04	1519.0634	you would have that uh-	1520.8006
+1166	PRV_se0_ag3_f_04	1522.4809	I had gotten my uh,	1524.2303
+1167	PRV_se0_ag3_f_04	1524.2303	(pause 3.06)	1527.2881
+1168	PRV_se0_ag3_f_04	1527.2881	nurse's aid. They say we gonna need nurse's aid one.	1531.3190
+1169	PRV_int_01	1531.5604	Mm-hm.	1532.0669
+1170	PRV_se0_ag3_f_04	1532.2799	And I went over Rocky Mount	1534.1449
+1171	PRV_se0_ag3_f_04	1534.1449	(pause 0.36)	1534.4999
+1172	PRV_se0_ag3_f_04	1534.4999	and I passed that course.	1536.4149
+1173	PRV_se0_ag3_f_04	1536.4149	(pause 0.63)	1537.0445
+1174	PRV_se0_ag3_f_04	1537.0445	I believe that was um,	1538.4598
+1175	PRV_se0_ag3_f_04	1538.4598	(pause 0.40)	1538.8621
+1176	PRV_se0_ag3_f_04	1538.8621	eight week or ten week one. I went nights over there.	1542.7510
+1177	PRV_int_01	1542.8078	Mm-hm.	1543.3711
+1178	PRV_int_01	1543.3711	(pause 2.05)	1545.4207
+1179	PRV_int_01	1545.4207	Mkay.	1545.8514
+1180	PRV_se0_ag3_f_04	1548.8173	And	1549.2433
+1181	PRV_se0_ag3_f_04	1549.2433	(pause 0.18)	1549.4231
+1182	PRV_se0_ag3_f_04	1549.4231	after um,	1550.2894
+1183	PRV_se0_ag3_f_04	1550.2894	(pause 1.10)	1551.3875
+1184	PRV_se0_ag3_f_04	1551.3875	I worked until my mother	1553.2241
+1185	PRV_se0_ag3_f_04	1553.2241	(pause 0.37)	1553.5933
+1186	PRV_se0_ag3_f_04	1553.5933	uh, got down so she couldn't work.	1556.0574
+1187	PRV_int_01	1556.2089	Mm-hm.	1556.6444
+1188	PRV_se0_ag3_f_04	1556.8716	I was working for another good lady.	1559.6731
+1189	PRV_int_01	1559.7495	Mm-hm. Okay.	1560.7557
+1190	PRV_se0_ag3_f_04	1560.7794	I worked for her til about	1562.2846
+1191	PRV_se0_ag3_f_04	1562.2846	(pause 0.21)	1562.4976
+1192	PRV_se0_ag3_f_04	1562.4976	two o'clock in the day.	1564.2253
+1193	PRV_int_01	1564.6561	Mm.	1564.8786
+1194	PRV_se0_ag3_f_04	1564.8265	And I went home one day. I would always go by mother cause she-	1569.1082
+1195	PRV_se0_ag3_f_04	1569.6384	she worked up	1570.8359
+1196	PRV_se0_ag3_f_04	1570.8359	(pause 0.91)	1571.7475
+1197	PRV_se0_ag3_f_04	1571.7475	until she got-	1572.9025
+1198	PRV_se0_ag3_f_04	1572.9025	(pause 2.07)	1574.9757
+1199	PRV_se0_ag3_f_04	1574.9757	she was in her eighties when she died and she had worked in her eighties.	1579.8208
+1200	PRV_int_01	1580.0574	Hm.	1580.3698
+1201	PRV_se0_ag3_f_04	1581.5911	And I went by there and she was a-standing over the stove, and I said, whatchu doing? And she said, I'm tryna cook me something	1589.3566
+1202	PRV_int_01	1589.3594	Mm.	1589.7191
+1203	PRV_se0_ag3_f_04	1589.7333	to eat. I said, you haven't ate? And she said, no.	1593.0420
+1204	PRV_se0_ag3_f_04	1593.0420	(pause 1.15)	1594.1922
+1205	PRV_se0_ag3_f_04	1594.1922	And I had to tell that lady I was gonna have to stop cause my mother.	1598.5686
+1206	PRV_se0_ag3_f_04	1598.5686	(pause 0.27)	1598.8432
+1207	PRV_se0_ag3_f_04	1598.8432	<clears throat>	1599.1224
+1208	PRV_se0_ag3_f_04	1599.1224	(pause 0.50)	1599.6195
+1209	PRV_se0_ag3_f_04	1599.6195	I said, but	1600.5851
+1210	PRV_se0_ag3_f_04	1600.5851	(pause 0.30)	1600.8880
+1211	PRV_se0_ag3_f_04	1600.8880	I would	1601.3661
+1212	PRV_se0_ag3_f_04	1601.3661	(pause 0.73)	1602.0930
+1213	PRV_se0_ag3_f_04	1602.0930	help you	1603.0681
+1214	PRV_se0_ag3_f_04	1603.0681	(pause 0.50)	1603.5699
+1215	PRV_se0_ag3_f_04	1603.5699	until	1604.2515
+1216	PRV_se0_ag3_f_04	1604.2515	(pause 0.36)	1604.6112
+1217	PRV_se0_ag3_f_04	1604.6112	we get somebody to come in in my place.	1607.5128
+1218	PRV_int_01	1607.7712	Mm-hm.	1608.1498
+1219	PRV_se0_ag3_f_04	1608.0268	Cause she didn't half see.	1610.2468
+1220	PRV_int_01	1610.6065	Mm.	1610.9804
+1221	PRV_se0_ag3_f_04	1611.9792	And so	1612.7555
+1222	PRV_se0_ag3_f_04	1612.7555	(pause 0.28)	1613.0328
+1223	PRV_se0_ag3_f_04	1613.0328	the lady /we were/ looking out for her, that's what I did.	1616.5734
+1224	PRV_int_01	1616.5781	Mm-hm.	1617.0562
+1225	PRV_se0_ag3_f_04	1617.3260	And I had a- <clears throat> I had all those papers	1620.7889
+1226	PRV_int_01	1621.2859	Hm.	1621.5367
+1227	PRV_se0_ag3_f_04	1621.6030	and had to write up about Miss /RD-NAME-1/ but all that stuff went with the water.	1626.9167
+1228	PRV_int_01	1627.6551	Oh okay.	1628.4503
+1229	PRV_se0_ag3_f_04	1628.4408	Mm-hm.	1629.3307
+1230	PRV_int_01	1629.6999	You had um,	1630.5330
+1231	PRV_int_01	1630.5330	(pause 0.36)	1630.8975
+1232	PRV_int_01	1630.8975	papers from her- about her and [things?]	1633.4137
+1233	PRV_se0_ag3_f_04	1633.2243	[Mm-hm.]	1633.9959
+1234	PRV_int_01	1634.0622	Oh okay.	1634.7816
+1235	PRV_se0_ag3_f_04	1634.7580	Cause they had a big write up in the paper about her.	1638.4378
+1236	PRV_int_01	1638.7936	Mm.	1639.2149
+1237	PRV_int_01	1639.2149	(pause 0.98)	1640.1994
+1238	PRV_int_01	1640.1994	/N-/ about Miss /RD-NAME-1/?	1641.3828
+1239	PRV_se0_ag3_f_04	1641.3875	Mm-hm.	1642.1259
+1240	PRV_int_01	1642.5519	And it was in the- The [Southerner?]	1644.0779
+1241	PRV_se0_ag3_f_04	1643.9321	[Mm-hm.]	1644.5995
+1242	PRV_int_01	1644.5995	Oh okay.	1645.2243
+1243	PRV_int_01	1645.2243	(pause 1.71)	1646.9331
+1244	PRV_int_01	1646.9331	Now you could probably see- uh-	1648.8407
+1245	PRV_int_01	1648.8407	(pause 0.52)	1649.3566
+1246	PRV_int_01	1649.3566	they might have an old copy	1651.0113
+1247	PRV_int_01	1651.0113	(pause 0.41)	1651.4184
+1248	PRV_int_01	1651.4184	um,	1651.7829
+1249	PRV_int_01	1651.7829	(pause 0.16)	1651.9391
+1250	PRV_int_01	1651.9391	at the Southerner	1652.7911
+1251	PRV_se0_ag3_f_04	1652.9899	[Mm-hm.]	1653.7851
+1252	PRV_int_01	1653.4065	[in the library] or something.	1654.8359
+1253	PRV_int_01	1656.0173	They may have- that may still have that	1657.8255
+1254	PRV_se0_ag3_f_04	1657.7876	[Mm-hm.]	1658.5639
+1255	PRV_int_01	1658.0290	[article.]	1658.5876
+1256	PRV_se0_ag3_f_04	1660.5756	Well, I'll go	1661.9956
+1257	PRV_se0_ag3_f_04	1661.9956	(pause 0.76)	1662.7605
+1258	PRV_se0_ag3_f_04	1662.7605	and try to see.	1664.2941
+1259	PRV_int_01	1665.1272	Yeah actually I can-	1666.1165
+1260	PRV_int_01	1666.1165	(pause 0.20)	1666.3200
+1261	PRV_int_01	1666.3200	I um-	1667.0916
+1262	PRV_int_01	1667.0916	(pause 0.71)	1667.7996
+1263	PRV_int_01	1667.7996	I'm sposta meet with um,	1669.2717
+1264	PRV_int_01	1669.2717	(pause 0.41)	1669.6787
+1265	PRV_int_01	1669.6787	/RD-NAME-4/?	1670.6533
+1266	PRV_se0_ag3_f_04	1670.9520	Mm-hm.	1671.5059
+1267	PRV_int_01	1671.5390	He's over at The Southerner.	1672.7507
+1268	PRV_se0_ag3_f_04	1672.6845	Mm-hm. [Right.]	1673.8489
+1269	PRV_int_01	1673.2931	[I can-]	1673.6954
+1270	PRV_int_01	1674.0220	I can ask him about that article if you want to see if you want to get a copy, I can	1677.5627
+1271	PRV_se0_ag3_f_04	1677.5390	Okay.	1678.2916
+1272	PRV_int_01	1678.2206	see if I can get a copy for you.	1679.4986
+1273	PRV_se0_ag3_f_04	1679.5270	Mm-hm.	1680.1072
+1274	PRV_int_01	1680.1830	Okay.	1680.5522
+1275	PRV_int_01	1680.5522	(pause 0.62)	1681.1723
+1276	PRV_int_01	1681.1723	He may know- he may know Miss /RD-NAME-1/.	1682.7627
+1277	PRV_int_01	1682.7627	(pause 0.27)	1683.0325
+1278	PRV_int_01	1683.0325	He may know about her.	1684.0165
+1279	PRV_se0_ag3_f_04	1684.3957	Mm-hm.	1685.1578
+1280	PRV_int_01	1685.1720	Okay.	1685.5365
+1281	PRV_int_01	1685.5365	(pause 0.34)	1685.8800
+1282	PRV_int_01	1685.8800	Alright.	1686.2351
+1283	PRV_se0_ag3_f_04	1686.7510	But it was in the paper.	1688.7674
+1284	PRV_int_01	1688.8479	Yeah.	1689.2408
+1285	PRV_int_01	1689.2408	(pause 1.08)	1690.3200
+1286	PRV_int_01	1690.3200	So you say you lost a lot of things in the flood?	1692.2161
+1287	PRV_se0_ag3_f_04	1693.4705	Mm-hm.	1694.0622
+1288	PRV_int_01	1694.0906	Yeah.	1694.4124
+1289	PRV_se0_ag3_f_04	1694.5970	Lost everything.	1696.1591
+1290	PRV_int_01	1696.2348	Yeah.	1696.6371
+1291	PRV_se0_ag3_f_04	1696.9922	When-	1697.3377
+1292	PRV_se0_ag3_f_04	1697.3377	(pause 0.37)	1697.7096
+1293	PRV_se0_ag3_f_04	1697.7096	and see, the water had got trapped over here.	1700.6633
+1294	PRV_int_01	1700.9378	Oh really?	1701.3970
+1295	PRV_se0_ag3_f_04	1701.4396	And- uh-huh. And we couldn't come back over here right away.	1705.1628
+1296	PRV_int_01	1705.2622	Mm.	1705.6740
+1297	PRV_se0_ag3_f_04	1706.3651	And when they did let us come,	1708.8265
+1298	PRV_se0_ag3_f_04	1708.8265	(pause 0.65)	1709.4797
+1299	PRV_se0_ag3_f_04	1709.4797	the bedroom	1710.8835
+1300	PRV_se0_ag3_f_04	1710.8835	(pause 0.24)	1711.1249
+1301	PRV_se0_ag3_f_04	1711.1249	over there,	1712.1616
+1302	PRV_se0_ag3_f_04	1712.1616	(pause 0.20)	1712.3642
+1303	PRV_se0_ag3_f_04	1712.3642	it had a /bare roof/.	1713.7615
+1304	PRV_se0_ag3_f_04	1713.7615	(pause 0.11)	1713.8751
+1305	PRV_se0_ag3_f_04	1713.8751	I didn't even know. I said, what is that?	1716.1498
+1306	PRV_int_01	1716.3345	[Mm.]	1716.7226
+1307	PRV_se0_ag3_f_04	1716.4859	[The] water had did it, so	1718.5213
+1308	PRV_se0_ag3_f_04	1718.8858	I didn't even recognize it. (laughing)	1720.9496
+1309	PRV_int_01	1721.1578	No.	1721.5696
+1310	PRV_int_01	1721.5696	(pause 0.95)	1722.5191
+1311	PRV_int_01	1722.5191	[So they- it-]	1723.0681
+1312	PRV_se0_ag3_f_04	1722.5427	[Mm-mm.]	1723.0823
+1313	PRV_int_01	1723.4657	it tore the bedroom- uh- tore it down-	1725.1745
+1314	PRV_int_01	1725.1745	(pause 0.26)	1725.4349
+1315	PRV_int_01	1725.4349	part of the house down?	1726.4573
+1316	PRV_int_01	1726.4573	(pause 0.95)	1727.4087
+1317	PRV_int_01	1727.4087	Is that-	1727.7732
+1318	PRV_se0_ag3_f_04	1728.5238	I- all the furniture- that part- that furniture were messed up, I didn't even know.	1734.0950
+1319	PRV_int_01	1734.2256	Oh.	1734.7794
+1320	PRV_se0_ag3_f_04	1734.7226	Mm-mm.	1735.3569
+1321	PRV_int_01	1735.2480	<laugh> Wow.	1736.1379
+1322	PRV_se0_ag3_f_04	1736.4882	My sister and her friend, they came with me in here.	1739.8110
+1323	PRV_int_01	1740.1356	Oh okay.	1740.7179
+1324	PRV_se0_ag3_f_04	1740.7037	Mm-hm.	1741.4373
+1325	PRV_int_01	1742.3556	Well the house looks great now. It's-	1744.2064
+1326	PRV_int_01	1744.2064	(pause 0.26)	1744.4620
+1327	PRV_int_01	1744.4620	it's-	1744.7034
+1328	PRV_int_01	1744.7034	(pause 0.23)	1744.9306
+1329	PRV_int_01	1744.9306	you would never know.	1745.9294
+1330	PRV_se0_ag3_f_04	1746.1404	Mm-hm. Well I thank God for what they did.	1749.8135
+1331	PRV_int_01	1749.9461	Yeah.	1750.3579
+1332	PRV_int_01	1750.3579	(pause 0.87)	1751.2288
+1333	PRV_int_01	1751.2288	A lot of people helped rebuild the house?	1752.9545
+1334	PRV_se0_ag3_f_04	1754.1237	Mm-hm. Different ones.	1755.9839
+1335	PRV_se0_ag3_f_04	1755.9839	(pause 0.27)	1756.2537
+1336	PRV_se0_ag3_f_04	1756.2537	But they was-	1757.0016
+1337	PRV_se0_ag3_f_04	1757.0016	(pause 1.53)	1758.5285
+1338	PRV_se0_ag3_f_04	1758.5285	they was working through	1760.1332
+1339	PRV_se0_ag3_f_04	1760.1332	(pause 0.72)	1760.8574
+1340	PRV_se0_ag3_f_04	1760.8574	First Baptist Church down	1763.0726
+1341	PRV_se0_ag3_f_04	1763.0726	(pause 0.77)	1763.8442
+1342	PRV_se0_ag3_f_04	1763.8442	town,	1764.5806
+1343	PRV_se0_ag3_f_04	1764.5806	(pause 0.34)	1764.9214
+1344	PRV_se0_ag3_f_04	1764.9214	like the post office over here, the	1767.1319
+1345	PRV_se0_ag3_f_04	1767.1319	(pause 0.17)	1767.3023
+1346	PRV_se0_ag3_f_04	1767.3023	big church over here- on that side [the ch-] the- Mm-mm.	1771.2906
+1347	PRV_int_01	1769.7522	[Mm-hm.]	1770.2114
+1348	PRV_int_01	1771.7166	Mkay.	1772.1852
+1349	PRV_se0_ag3_f_04	1772.3882	They was real nice.	1773.9839
+1350	PRV_int_01	1774.9874	Have you always lived across street from the school?	1777.2101
+1351	PRV_se0_ag3_f_04	1778.5592	Mm-mm.	1779.1082
+1352	PRV_int_01	1779.0562	Mm.	1779.3733
+1353	PRV_se0_ag3_f_04	1779.5390	Mm-mm.	1780.0237
+1354	PRV_se0_ag3_f_04	1780.0237	(pause 0.18)	1780.2064
+1355	PRV_se0_ag3_f_04	1780.2064	See I told you I was born over the railroad.	1782.7084
+1356	PRV_int_01	1783.2433	So, how long is you lived over here?	1785.1887
+1357	PRV_se0_ag3_f_04	1786.9874	We came over here in the sixties.	1789.9817
+1358	PRV_se0_ag3_f_04	1789.9817	(pause 0.45)	1790.4314
+1359	PRV_se0_ag3_f_04	1790.4314	[Something.]	1791.1319
+1360	PRV_int_01	1790.4408	[You and-]	1790.7311
+1361	PRV_se0_ag3_f_04	1791.2502	[I-]	1791.5295
+1362	PRV_int_01	1791.2502	[you and your] husband?	1792.0502
+1363	PRV_se0_ag3_f_04	1792.7413	Mm-hm. I had all that.	1794.4859
+1364	PRV_int_01	1795.1344	Yeah.	1795.4421
+1365	PRV_se0_ag3_f_04	1795.6030	Everything.	1796.7390
+1366	PRV_int_01	1797.2834	How uh- how long did you stay on Bell Street?	1799.6264
+1367	PRV_se0_ag3_f_04	1801.9959	<ts> Well,	1802.8668
+1368	PRV_se0_ag3_f_04	1802.8668	(pause 4.58)	1807.4468
+1369	PRV_se0_ag3_f_04	1807.4468	I know-	1808.3509
+1370	PRV_se0_ag3_f_04	1808.3509	(pause 6.43)	1814.7816
+1371	PRV_se0_ag3_f_04	1814.7816	Well,	1815.1934
+1372	PRV_se0_ag3_f_04	1815.1934	(pause 0.22)	1815.4112
+1373	PRV_se0_ag3_f_04	1815.4112	thirty some years.	1817.0395
+1374	PRV_int_01	1817.1862	Mm.	1817.5886
+1375	PRV_se0_ag3_f_04	1817.5960	Mm-hm.	1818.2871
+1376	PRV_int_01	1818.6327	Okay.	1819.0255
+1377	PRV_se0_ag3_f_04	1818.9782	Before I moved over here.	1822.6324
+1378	PRV_int_01	1822.9401	Okay.	1823.4040
+1379	PRV_int_01	1823.4040	(pause 1.48)	1824.8883
+1380	PRV_int_01	1824.8883	So then you move- thirty something- then you moved here with your husband?	1828.0549
+1381	PRV_int_01	1828.0549	(pause 0.41)	1828.4667
+1382	PRV_int_01	1828.4667	Was the school here when you moved over here?	1830.1830
+1383	PRV_int_01	1830.1830	(pause 3.22)	1833.4065
+1384	PRV_int_01	1833.4065	The old school?	1834.1117
+1385	PRV_se0_ag3_f_04	1835.8090	Not- the old school	1837.7071
+1386	PRV_int_01	1838.1852	Princeville School?	1838.9426
+1387	PRV_se0_ag3_f_04	1838.8053	was out there	1839.9224
+1388	PRV_se0_ag3_f_04	1840.4005	where the old town hall- that's where I [started] school at.	1844.6728
+1389	PRV_int_01	1843.1249	[Oh.]	1843.7640
+1390	PRV_int_01	1844.7722	Oh okay.	1845.3591
+1391	PRV_se0_ag3_f_04	1845.3355	Over there.	1846.2632
+1392	PRV_se0_ag3_f_04	1846.9448	And	1847.3898
+1393	PRV_se0_ag3_f_04	1847.3898	(pause 0.76)	1848.1546
+1394	PRV_se0_ag3_f_04	1848.1546	after we got to a certain grade, then we had to walk over town to Pattillo School.	1853.2004
+1395	PRV_int_01	1853.2383	Okay.	1853.8442
+1396	PRV_int_01	1853.8442	(pause 0.83)	1854.6705
+1397	PRV_int_01	1854.6705	Yeah.	1855.1581
+1398	PRV_int_01	1855.1581	(pause 0.53)	1855.6929
+1399	PRV_int_01	1855.6929	Now the- then did- was-	1857.3544
+1400	PRV_int_01	1857.3544	(pause 0.27)	1857.6289
+1401	PRV_int_01	1857.6289	so before the flood,	1858.9306
+1402	PRV_int_01	1858.9306	(pause 0.38)	1859.3140
+1403	PRV_int_01	1859.3140	did they have a new school	1860.7084
+1404	PRV_int_01	1860.7084	(pause 0.28)	1860.9877
+1405	PRV_int_01	1860.9877	uh, here or?	1862.1852
+1406	PRV_se0_ag3_f_04	1862.3272	Mm-hm.	1862.9094
+1407	PRV_se0_ag3_f_04	1862.9094	(pause 0.12)	1863.0278
+1408	PRV_se0_ag3_f_04	1863.0278	[Yeah], this	1863.8419
+1409	PRV_int_01	1863.1319	[Okay.]	1863.4917
+1410	PRV_se0_ag3_f_04	1864.0455	school been here for my um,	1866.2493
+1411	PRV_se0_ag3_f_04	1866.2493	(pause 1.27)	1867.5225
+1412	PRV_se0_ag3_f_04	1867.5225	youngest sister and brother but I was my mother's oldest child.	1871.7968
+1413	PRV_int_01	1871.8726	Uh-huh.	1872.3155
+1414	PRV_se0_ag3_f_04	1873.2622	And then I got a brother in Norfolk.	1876.4266
+1415	PRV_se0_ag3_f_04	1876.4266	(pause 0.09)	1876.5205
+1416	PRV_se0_ag3_f_04	1876.5205	I'm five years older than he is.	1878.7321
+1417	PRV_int_01	1878.8977	Okay.	1879.3237
+1418	PRV_se0_ag3_f_04	1879.4326	And the next brother, I'm ten years older than he.	1883.1862
+1419	PRV_int_01	1883.5507	Okay.	1883.9720
+1420	PRV_se0_ag3_f_04	1884.2540	And I was raised up with two brother,	1887.0278
+1421	PRV_se0_ag3_f_04	1887.0278	(pause 0.27)	1887.3023
+1422	PRV_se0_ag3_f_04	1887.3023	and everybody else had a sister. And I always wanted a [sister.]	1891.3805
+1423	PRV_int_01	1891.0871	[Aw.] <laugh>	1892.0716
+1424	PRV_se0_ag3_f_04	1892.0906	And let me tell you what, if my mama had	1894.5709
+1425	PRV_se0_ag3_f_04	1894.5709	(pause 0.33)	1894.9022
+1426	PRV_se0_ag3_f_04	1894.9022	married my stepdaddy,	1896.8362
+1427	PRV_se0_ag3_f_04	1896.8362	(pause 1.38)	1898.2184
+1428	PRV_se0_ag3_f_04	1898.2184	I- I got a sister.	1900.0123
+1429	PRV_se0_ag3_f_04	1900.0123	(pause 3.03)	1903.0445
+1430	PRV_se0_ag3_f_04	1903.0445	And I'm	1903.8492
+1431	PRV_se0_ag3_f_04	1903.8492	(pause 0.91)	1904.7627
+1432	PRV_se0_ag3_f_04	1904.7627	twenty something years older than she [is.]	1907.8428
+1433	PRV_int_01	1907.4304	[Oh wow.] Okay.	1908.6847
+1434	PRV_se0_ag3_f_04	1909.1770	Then,	1909.9675
+1435	PRV_se0_ag3_f_04	1909.9675	(pause 1.64)	1911.6053
+1436	PRV_se0_ag3_f_04	1911.6053	the doctor	1912.6040
+1437	PRV_se0_ag3_f_04	1912.6040	(pause 0.17)	1912.7744
+1438	PRV_se0_ag3_f_04	1912.7744	told her she had a tumor	1915.0587
+1439	PRV_int_01	1915.1675	Mm-hm.	1915.6929
+1440	PRV_se0_ag3_f_04	1915.9438	and wanted to operate. She said no.	1918.5235
+1441	PRV_se0_ag3_f_04	1918.5235	(pause 0.28)	1918.8028
+1442	PRV_se0_ag3_f_04	1918.8028	Then she told her this not no tumor.	1921.5320
+1443	PRV_se0_ag3_f_04	1921.5320	(pause 0.33)	1921.8586
+1444	PRV_se0_ag3_f_04	1921.8586	Said, cause I didn't have children, this is bad.	1924.6371
+1445	PRV_int_01	1924.9117	Mm. <laugh>	1925.6292
+1446	PRV_se0_ag3_f_04	1926.1309	So	1926.5522
+1447	PRV_se0_ag3_f_04	1926.5522	(pause 0.20)	1926.7557
+1448	PRV_se0_ag3_f_04	1926.7557	/RD-NAME-2/	1927.8066
+1449	PRV_se0_ag3_f_04	1927.8066	(pause 0.17)	1927.9722
+1450	PRV_se0_ag3_f_04	1927.9722	was born,	1928.7343
+1451	PRV_int_01	1929.5343	Uh-huh.	1930.0265
+1452	PRV_se0_ag3_f_04	1930.1827	and then she had	1931.5061
+1453	PRV_se0_ag3_f_04	1931.5061	(pause 0.46)	1931.9652
+1454	PRV_se0_ag3_f_04	1931.9652	uh,	1932.4102
+1455	PRV_se0_ag3_f_04	1932.4102	(pause 0.79)	1933.2007
+1456	PRV_se0_ag3_f_04	1933.2007	/RD-NAME-1/	1933.8160
+1457	PRV_se0_ag3_f_04	1933.8160	(pause 1.13)	1934.9473
+1458	PRV_se0_ag3_f_04	1934.9473	Then /RD-NAME-1/.	1936.4620
+1459	PRV_int_01	1937.1484	Okay.	1937.5602
+1460	PRV_se0_ag3_f_04	1938.4244	And then she had /RD-NAME-2/	1940.5686
+1461	PRV_int_01	1941.2929	Okay.	1941.8419
+1462	PRV_se0_ag3_f_04	1942.5235	and she told me said she wasn't gonna have no more children.	1946.5544
+1463	PRV_int_01	1946.8526	Mm-hm.	1947.1745
+1464	PRV_se0_ag3_f_04	1947.4207	Said cause she did /different/ with /RD-NAME-2/ than she did with the other child, sure enough she didn't have no more.	1954.6655
+1465	PRV_int_01	1954.6892	Mm-hm.	1955.3566
+1466	PRV_se0_ag3_f_04	1955.6670	But from her oldest	1957.8776
+1467	PRV_se0_ag3_f_04	1957.8776	(pause 0.84)	1958.7154
+1468	PRV_se0_ag3_f_04	1958.7154	to her baby girl	1960.3579
+1469	PRV_se0_ag3_f_04	1960.3579	(pause 0.22)	1960.5756
+1470	PRV_se0_ag3_f_04	1960.5756	is	1960.9070
+1471	PRV_se0_ag3_f_04	1960.9070	(pause 0.22)	1961.1247
+1472	PRV_se0_ag3_f_04	1961.1247	thirty years.	1962.2871
+1473	PRV_int_01	1962.5475	Wow.	1963.1512
+1474	PRV_int_01	1963.1512	(pause 1.22)	1964.3698
+1475	PRV_int_01	1964.3698	Thirty years apart.	1965.3118
+1476	PRV_se0_ag3_f_04	1965.4301	Mm-hm.	1966.1401
+1477	PRV_int_01	1966.4951	Wow.	1966.9212
+1478	PRV_se0_ag3_f_04	1968.3581	And they-	1968.9451
+1479	PRV_se0_ag3_f_04	1968.9451	(pause 0.63)	1969.5746
+1480	PRV_se0_ag3_f_04	1969.5746	they my sisters and brothers but they seem like children to me. [<laugh>]	1974.9829
+1481	PRV_int_01	1974.3741	[Mm-hm.]	1975.0303
+1482	PRV_int_01	1976.2515	Now how many brothers- you said you had	1978.2253
+1483	PRV_int_01	1978.2253	(pause 0.22)	1978.4431
+1484	PRV_int_01	1978.4431	two brothers that were your age that were born- that you lived with- that you grew up with?	1982.3367
+1485	PRV_se0_ag3_f_04	1982.7012	Mm-hm, but I was older than they were.	1985.0584
+1486	PRV_int_01	1985.2856	Yeah?	1985.6217
+1487	PRV_se0_ag3_f_04	1985.6150	Yeah, I'm the oldest one.	1986.9051
+1488	PRV_int_01	1986.8883	Oh [okay.]	1987.6267
+1489	PRV_se0_ag3_f_04	1987.1344	[Mm-hm.]	1987.8870
+1490	PRV_int_01	1987.8066	How much older are you?	1988.7154
+1491	PRV_se0_ag3_f_04	1989.4538	Um,	1989.6952
+1492	PRV_se0_ag3_f_04	1989.6952	(pause 0.45)	1990.1496
+1493	PRV_se0_ag3_f_04	1990.1496	the-	1990.4667
+1494	PRV_se0_ag3_f_04	1990.4667	(pause 0.34)	1990.8075
+1495	PRV_se0_ag3_f_04	1990.8075	uh-	1991.3093
+1496	PRV_se0_ag3_f_04	1991.3093	(pause 1.00)	1992.3061
+1497	PRV_se0_ag3_f_04	1992.3061	/RD-NAME-2/, I'm five years older than he.	1995.4065
+1498	PRV_int_01	1996.0786	Okay, [/RD-NAME-2/.]	1996.9203
+1499	PRV_se0_ag3_f_04	1996.2963	[And then-]	1996.9685
+1500	PRV_se0_ag3_f_04	1997.1247	Hm?	1997.5034
+1501	PRV_int_01	1997.5223	/RD-NAME-2/.	1998.1404
+1502	PRV_se0_ag3_f_04	1998.2398	Mm-hm. /??/. Then /RD-NAME-3/	2000.5213
+1503	PRV_se0_ag3_f_04	2000.5213	(pause 0.14)	2000.6633
+1504	PRV_se0_ag3_f_04	2000.6633	I'm ten years older than he.	2002.7744
+1505	PRV_int_01	2002.8880	Mm-hm.	2003.4087
+1506	PRV_se0_ag3_f_04	2003.6055	And then she didn't have no more children til she had this girl.	2007.5106
+1507	PRV_se0_ag3_f_04	2007.5106	(pause 0.48)	2007.9934
+1508	PRV_se0_ag3_f_04	2007.9934	I didn't know how- exactly-	2009.8962
+1509	PRV_se0_ag3_f_04	2009.8962	(pause 0.93)	2010.8267
+1510	PRV_se0_ag3_f_04	2010.8267	I mean /RD-NAME-3/ was about sixteen or something when	2014.4525
+1511	PRV_se0_ag3_f_04	2014.4525	(pause 0.46)	2014.9164
+1512	PRV_se0_ag3_f_04	2014.9164	/RD-NAME-2/ was born.	2016.2019
+1513	PRV_int_01	2016.2351	Mm.	2016.6563
+1514	PRV_se0_ag3_f_04	2016.6563	Mm-hm-hm.	2017.3995
+1515	PRV_int_01	2017.6030	Wow.	2018.0101
+1516	PRV_int_01	2018.0101	(pause 0.78)	2018.7864
+1517	PRV_int_01	2018.7864	So are- uh- do all those-	2020.0691
+1518	PRV_int_01	2020.0691	(pause 0.37)	2020.4383
+1519	PRV_int_01	2020.4383	all your brothers and sisters, they still live in Princeville?	2022.9025
+1520	PRV_se0_ag3_f_04	2023.1439	Mm-mm.	2023.6787
+1521	PRV_se0_ag3_f_04	2023.6787	(pause 0.38)	2024.0574
+1522	PRV_se0_ag3_f_04	2024.0574	Mm-mm.	2024.5781
+1523	PRV_int_01	2024.8810	Anybody	2025.4585
+1524	PRV_int_01	2025.4585	(pause 0.25)	2025.7094
+1525	PRV_int_01	2025.7094	still live in Princeville?	2026.8596
+1526	PRV_se0_ag3_f_04	2026.9164	Mm-hm.	2027.7069
+1527	PRV_se0_ag3_f_04	2027.7069	(pause 0.25)	2027.9558
+1528	PRV_se0_ag3_f_04	2027.9558	Um,	2028.4197
+1529	PRV_se0_ag3_f_04	2028.4197	(pause 0.88)	2029.2953
+1530	PRV_se0_ag3_f_04	2029.2953	my younger sister came from Seattle.	2031.9177
+1531	PRV_se0_ag3_f_04	2031.9177	(pause 0.61)	2032.5235
+1532	PRV_se0_ag3_f_04	2032.5235	And she	2033.0632
+1533	PRV_se0_ag3_f_04	2033.0632	(pause 0.77)	2033.8300
+1534	PRV_se0_ag3_f_04	2033.8300	on the next street from me.	2035.7119
+1535	PRV_int_01	2035.9012	Okay.	2036.2988
+1536	PRV_se0_ag3_f_04	2036.3651	And my brother had been in Florida-	2039.0821
+1537	PRV_se0_ag3_f_04	2039.0821	(pause 0.30)	2039.3783
+1538	PRV_se0_ag3_f_04	2039.3783	youngest brother, he over there with her.	2041.6267
+1539	PRV_int_01	2041.8018	Mm-hm.	2042.2562
+1540	PRV_int_01	2042.2562	(pause 0.84)	2043.0988
+1541	PRV_int_01	2043.0988	But you the only one that stayed here your whole life?	2045.3519
+1542	PRV_se0_ag3_f_04	2046.0694	No, I didn't stay here my [whole life. <laugh>]	2050.0917
+1543	PRV_int_01	2047.5651	[Oh okay.]	2048.4550
+1544	PRV_int_01	2048.4550	(pause 0.39)	2048.8479
+1545	PRV_int_01	2048.8479	[Where- where did you live] other than Princeville?	2051.1957
+1546	PRV_se0_ag3_f_04	2052.1377	Where?	2052.9877
+1547	PRV_se0_ag3_f_04	2052.9877	(pause 0.70)	2053.6835
+1548	PRV_se0_ag3_f_04	2053.6835	I lived-	2054.6390
+1549	PRV_se0_ag3_f_04	2054.6390	(pause 0.10)	2054.7396
+1550	PRV_se0_ag3_f_04	2054.7396	stayed in Virginia to work awhile.	2057.7022
+1551	PRV_int_01	2058.2540	Oh really?	2058.8078
+1552	PRV_se0_ag3_f_04	2058.9877	Uh-huh.	2059.5983
+1553	PRV_se0_ag3_f_04	2059.5983	(pause 0.50)	2060.0953
+1554	PRV_se0_ag3_f_04	2060.0953	And- not too long.	2061.4775
+1555	PRV_se0_ag3_f_04	2061.4775	(pause 0.63)	2062.1070
+1556	PRV_se0_ag3_f_04	2062.1070	And then,	2062.9638
+1557	PRV_se0_ag3_f_04	2062.9638	(pause 0.71)	2063.6718
+1558	PRV_se0_ag3_f_04	2063.6718	I forgot how many years I stayed	2065.9438
+1559	PRV_se0_ag3_f_04	2065.9438	(pause 0.27)	2066.2089
+1560	PRV_se0_ag3_f_04	2066.2089	uh,	2066.7154
+1561	PRV_se0_ag3_f_04	2066.7154	(pause 0.87)	2067.5863
+1562	PRV_se0_ag3_f_04	2067.5863	near Birmingham, Alabama.	2069.8536
+1563	PRV_int_01	2070.0741	Uh-huh.	2070.5008
+1564	PRV_se0_ag3_f_04	2070.8078	And from there,	2072.0432
+1565	PRV_se0_ag3_f_04	2072.0432	(pause 0.17)	2072.2136
+1566	PRV_se0_ag3_f_04	2072.2136	back home.	2073.1840
+1567	PRV_int_01	2074.0360	Okay.	2074.4525
+1568	PRV_int_01	2074.4525	(pause 0.12)	2074.5709
+1569	PRV_int_01	2074.5709	[How- how-] do you remember how you old you were then? Were you r- were you real young	2078.4787
+1570	PRV_se0_ag3_f_04	2074.5993	[Mm-hm.]	2075.1862
+1571	PRV_int_01	2078.6160	back wh- when you moved to Alabama?	2080.0644
+1572	PRV_se0_ag3_f_04	2080.9448	Mm- Yeah, I was in my twenties.	2083.1723
+1573	PRV_int_01	2083.2764	Okay.	2083.7450
+1574	PRV_se0_ag3_f_04	2083.7071	Mm-hm.	2084.4219
+1575	PRV_int_01	2084.4503	And you met- I mean why- you were there a couple years or	2086.8359
+1576	PRV_int_01	2086.8359	(pause 0.15)	2086.9827
+1577	PRV_int_01	2086.9827	uh, for a long time? How long did you live there?	2089.1344
+1578	PRV_se0_ag3_f_04	2091.0325	About five years.	2092.7365
+1579	PRV_int_01	2092.6987	Okay.	2093.0537
+1580	PRV_se0_ag3_f_04	2093.1342	[Mm-hm.]	2093.8327
+1581	PRV_int_01	2093.6197	[What-] what brought you- what brought you over to Alabama?	2095.9107
+1582	PRV_se0_ag3_f_04	2098.6987	That was my first marriage.	2100.8362
+1583	PRV_int_01	2100.8409	Oh, [okay.]	2101.4941
+1584	PRV_se0_ag3_f_04	2101.2385	[<laugh>]	2102.1521
+1585	PRV_int_01	2102.2373	Okay.	2102.5639
+1586	PRV_se0_ag3_f_04	2103.4680	Uh, hm.	2104.1780
+1587	PRV_int_01	2104.1875	Did you meet your f-	2105.0442
+1588	PRV_int_01	2105.0442	(pause 0.26)	2105.3046
+1589	PRV_int_01	2105.3046	your first h- h- husband in Princeville or?	2107.5509
+1590	PRV_se0_ag3_f_04	2107.9060	Uh-uh. In [Virginia.]	2109.6479
+1591	PRV_int_01	2109.4112	[Oh] in Virginia?	2110.1685
+1592	PRV_se0_ag3_f_04	2110.0691	Mm-hm.	2110.7081
+1593	PRV_int_01	2110.9543	Okay. And what were you doing in Virginia? Working [up there?]	2113.7308
+1594	PRV_se0_ag3_f_04	2113.4042	[Mm-hm.]	2114.0385
+1595	PRV_int_01	2114.5781	Okay.	2114.9899
+1596	PRV_se0_ag3_f_04	2115.2218	[Mm-hm.]	2115.6999
+1597	PRV_int_01	2115.3733	[Doing-] doing what?	2116.1401
+1598	PRV_se0_ag3_f_04	2116.7697	Well I worked at the Navy yard	2119.7924
+1599	PRV_se0_ag3_f_04	2119.7924	(pause 0.40)	2120.1947
+1600	PRV_se0_ag3_f_04	2120.1947	cleaning up	2121.1745
+1601	PRV_int_01	2121.2502	Mm-hm.	2121.7331
+1602	PRV_se0_ag3_f_04	2122.2253	and then worked in	2123.6406
+1603	PRV_se0_ag3_f_04	2123.6406	(pause 0.66)	2124.3013
+1604	PRV_se0_ag3_f_04	2124.3013	service doing the messy work.	2126.7627
+1605	PRV_int_01	2127.0088	Oh [okay.]	2127.5816
+1606	PRV_se0_ag3_f_04	2127.4065	[Mm-hm.]	2128.0928
+1607	PRV_int_01	2128.5898	What was your- now do you-	2129.8678
+1608	PRV_int_01	2129.8678	(pause 0.49)	2130.3534
+1609	PRV_int_01	2130.3534	do you uh- what was your first job after school?	2132.8432
+1610	PRV_int_01	2132.8432	(pause 0.28)	2133.1224
+1611	PRV_int_01	2133.1224	Did you used to do- mm- what-	2134.7365
+1612	PRV_int_01	2134.7365	(pause 0.17)	2134.9070
+1613	PRV_int_01	2134.9070	you remember your first job?	2136.0619
+1614	PRV_se0_ag3_f_04	2137.1060	Mm, working in service.	2139.0562
+1615	PRV_int_01	2139.6053	Okay.	2140.0313
+1616	PRV_se0_ag3_f_04	2140.7555	I	2141.1247
+1617	PRV_se0_ag3_f_04	2141.1247	(pause 0.17)	2141.2978
+1618	PRV_se0_ag3_f_04	2141.2978	worked- r- uh- walked along the railroad	2144.6112
+1619	PRV_se0_ag3_f_04	2144.6112	(pause 1.02)	2145.6289
+1620	PRV_se0_ag3_f_04	2145.6289	um, on- w- /on that-/	2147.4182
+1621	PRV_se0_ag3_f_04	2147.4182	(pause 1.29)	2148.7131
+1622	PRV_se0_ag3_f_04	2148.7131	further in the	2150.1568
+1623	PRV_se0_ag3_f_04	2150.1568	(pause 0.57)	2150.7296
+1624	PRV_se0_ag3_f_04	2150.7296	<ts>	2150.9852
+1625	PRV_se0_ag3_f_04	2150.9852	(pause 0.68)	2151.6621
+1626	PRV_se0_ag3_f_04	2151.6621	Main Street for a lady named Mrs. /RD-NAME-1/.	2155.2338
+1627	PRV_int_01	2155.7119	Okay.	2156.1900
+1628	PRV_se0_ag3_f_04	2156.2799	Mm-hm.	2157.0420
+1629	PRV_int_01	2157.6053	So you used to	2158.4005
+1630	PRV_int_01	2158.4005	do housework [for her?] Okay.	2160.9214
+1631	PRV_se0_ag3_f_04	2159.8374	[Mm-hm.]	2160.5143
+1632	PRV_se0_ag3_f_04	2161.0303	Mm-hm.	2161.6882
+1633	PRV_int_01	2162.1994	And then, s- s- somehow you got-	2164.7034
+1634	PRV_int_01	2164.7034	(pause 0.41)	2165.1105
+1635	PRV_int_01	2165.1105	there was a house-	2166.2114
+1636	PRV_int_01	2166.2114	(pause 0.41)	2166.6232
+1637	PRV_int_01	2166.6232	a job in Virginia?	2167.8255
+1638	PRV_int_01	2167.8255	(pause 1.32)	2169.1414
+1639	PRV_int_01	2169.1414	And you- and you went up there for a little while?	2170.8833
+1640	PRV_se0_ag3_f_04	2170.9543	[Mm-hm.]	2171.5980
+1641	PRV_int_01	2171.4324	[You] were saying, okay.	2172.2500
+1642	PRV_se0_ag3_f_04	2172.3534	Mm-hm.	2172.9498
+1643	PRV_int_01	2173.0512	Kay.	2173.3415
+1644	PRV_int_01	2173.3415	(pause 1.16)	2174.5024
+1645	PRV_int_01	2174.5024	So you did that most of- most of your life? Or was there any other jobs that you did?	2178.5995
+1646	PRV_se0_ag3_f_04	2179.7498	Mm,	2180.1521
+1647	PRV_se0_ag3_f_04	2180.1521	(pause 0.24)	2180.3888
+1648	PRV_se0_ag3_f_04	2180.3888	yeah.	2180.9331
+1649	PRV_se0_ag3_f_04	2180.9331	(pause 0.17)	2181.1035
+1650	PRV_se0_ag3_f_04	2181.1035	I worked a um-	2182.6324
+1651	PRV_se0_ag3_f_04	2182.6324	(pause 0.86)	2183.4939
+1652	PRV_se0_ag3_f_04	2183.4939	I worked at P- at /??/ Laundry.	2186.0148
+1653	PRV_int_01	2186.4976	Mm-hm.	2186.9236
+1654	PRV_se0_ag3_f_04	2187.1366	It was	2187.8230
+1655	PRV_se0_ag3_f_04	2187.8230	(pause 0.23)	2188.0549
+1656	PRV_se0_ag3_f_04	2188.0549	back of /Thorne/- used to be /Thorne/ Drug Store on the depot.	2192.4314
+1657	PRV_int_01	2192.5592	Mm-hm.	2192.9520
+1658	PRV_se0_ag3_f_04	2194.3768	I worked there awhile	2196.0714
+1659	PRV_se0_ag3_f_04	2196.0714	(pause 0.15)	2196.2256
+1660	PRV_se0_ag3_f_04	2196.2256	<clears throat> and	2197.1107
+1661	PRV_se0_ag3_f_04	2197.1107	(pause 0.16)	2197.2669
+1662	PRV_se0_ag3_f_04	2197.2669	when I left there I went to the plastic factory.	2200.4194
+1663	PRV_int_01	2201.1058	Oh.	2201.3519
+1664	PRV_se0_ag3_f_04	2201.3235	And I reckon I worked there about eight years before	2204.5686
+1665	PRV_se0_ag3_f_04	2205.7378	I started doing nurse's aid work.	2208.5664
+1666	PRV_int_01	2208.8646	Okay.	2209.3285
+1667	PRV_se0_ag3_f_04	2209.4089	[Mm-hm.]	2209.9357
+1668	PRV_int_01	2209.4231	[The plastic] factory, that's uh, North Carolina Enterprises?	2212.3910
+1669	PRV_int_01	2213.2884	Is that the name?	2214.0362
+1670	PRV_se0_ag3_f_04	2214.7557	Well at that time it was Carolina Enterprise but it done changed names.	2219.9605
+1671	PRV_int_01	2220.0741	Okay.	2220.6043
+1672	PRV_int_01	2220.6043	(pause 0.15)	2220.7510
+1673	PRV_int_01	2220.7510	Carolina [Enterprises. Okay.]	2222.1237
+1674	PRV_se0_ag3_f_04	2221.2906	[Mm-hm.]	2221.9202
+1675	PRV_se0_ag3_f_04	2221.9202	(pause 0.18)	2222.1000
+1676	PRV_se0_ag3_f_04	2222.1000	And I started on this nursing	2224.5898
+1677	PRV_se0_ag3_f_04	2225.5412	uh, aid were-	2226.8883
+1678	PRV_se0_ag3_f_04	2226.8883	(pause 0.27)	2227.1581
+1679	PRV_se0_ag3_f_04	2227.1581	<clears throat>	2227.8255
+1680	PRV_int_01	2227.9107	Mm-hm.	2228.2445
+1681	PRV_se0_ag3_f_04	2228.5686	Uh, when they would catch up the work sometime they would lay off until	2233.1155
+1682	PRV_se0_ag3_f_04	2233.1155	(pause 1.26)	2234.3746
+1683	PRV_se0_ag3_f_04	2234.3746	uh,	2234.9662
+1684	PRV_se0_ag3_f_04	2234.9662	(pause 0.39)	2235.3544
+1685	PRV_se0_ag3_f_04	2235.3544	coming onto the Spring,	2237.2146
+1686	PRV_se0_ag3_f_04	2237.2146	(pause 0.86)	2238.0788
+1687	PRV_se0_ag3_f_04	2238.0788	and then they would	2239.0303
+1688	PRV_se0_ag3_f_04	2239.0303	(pause 0.17)	2239.2007
+1689	PRV_se0_ag3_f_04	2239.2007	sp- bring you back.	2240.6396
+1690	PRV_se0_ag3_f_04	2240.6396	(pause 0.79)	2241.4264
+1691	PRV_se0_ag3_f_04	2241.4264	And while I was um,	2243.5128
+1692	PRV_se0_ag3_f_04	2243.5128	(pause 0.34)	2243.8564
+1693	PRV_se0_ag3_f_04	2243.8564	out,	2244.3534
+1694	PRV_se0_ag3_f_04	2244.3534	(pause 0.24)	2244.5901
+1695	PRV_se0_ag3_f_04	2244.5901	<clears throat>	2244.8883
+1696	PRV_se0_ag3_f_04	2244.8883	(pause 0.80)	2245.6882
+1697	PRV_se0_ag3_f_04	2245.6882	um,	2246.1521
+1698	PRV_se0_ag3_f_04	2246.1521	(pause 1.71)	2247.8656
+1699	PRV_se0_ag3_f_04	2247.8656	uh-	2248.0171
+1700	PRV_se0_ag3_f_04	2248.0171	(pause 1.01)	2249.0253
+1701	PRV_se0_ag3_f_04	2249.0253	a lady name /RD-NAME-3/, she had worked in the hospitals and she was doing that work.	2255.1200
+1702	PRV_int_01	2255.3925	Mm-hm.	2255.7238
+1703	PRV_se0_ag3_f_04	2255.8185	And she stayed down there	2257.6977
+1704	PRV_se0_ag3_f_04	2257.6977	(pause 0.17)	2257.8681
+1705	PRV_se0_ag3_f_04	2257.8681	on the other side	2259.4112
+1706	PRV_se0_ag3_f_04	2259.4112	(pause 0.52)	2259.9319
+1707	PRV_se0_ag3_f_04	2259.9319	the street in a cement block house.	2262.2966
+1708	PRV_int_01	2262.5995	Mm-hm.	2263.0208
+1709	PRV_se0_ag3_f_04	2263.3569	And she was doing this private- do the nurse's aid,	2266.9969
+1710	PRV_int_01	2267.2620	Mm.	2267.5345
+1711	PRV_se0_ag3_f_04	2267.8658	and she	2268.6847
+1712	PRV_se0_ag3_f_04	2268.6847	(pause 0.39)	2269.0776
+1713	PRV_se0_ag3_f_04	2269.0776	was overloaded and she asked me did I want a job?	2273.3566
+1714	PRV_int_01	2273.4466	Mm-hm.	2274.2161
+1715	PRV_se0_ag3_f_04	2274.5001	And I said, yeah, what is it?	2276.7864
+1716	PRV_int_01	2276.9520	Mm.	2277.2455
+1717	PRV_se0_ag3_f_04	2277.5721	And she said,	2278.6135
+1718	PRV_se0_ag3_f_04	2278.6135	(pause 0.28)	2278.8928
+1719	PRV_se0_ag3_f_04	2278.8928	uh,	2279.2667
+1720	PRV_se0_ag3_f_04	2279.2667	(pause 0.13)	2279.3972
+1721	PRV_se0_ag3_f_04	2279.3972	Sitting with the lady.	2280.7699
+1722	PRV_se0_ag3_f_04	2280.7699	(pause 0.21)	2280.9782
+1723	PRV_se0_ag3_f_04	2280.9782	Said I'll stay with her nights if you work days.	2284.3200
+1724	PRV_int_01	2284.3342	Hm.	2284.5945
+1725	PRV_se0_ag3_f_04	2285.2478	Cause she had a day job.	2286.9782
+1726	PRV_se0_ag3_f_04	2286.9782	(pause 0.18)	2287.1533
+1727	PRV_se0_ag3_f_04	2287.1533	[And I] said, oh okay.	2288.5592
+1728	PRV_int_01	2287.1817	[Mm.]	2287.5367
+1729	PRV_int_01	2288.5970	Okay.	2289.0136
+1730	PRV_se0_ag3_f_04	2289.5485	I said but I haven't did that work. She said well I'll tell you what to do.	2294.1048
+1731	PRV_se0_ag3_f_04	2294.1048	(pause 0.54)	2294.6444
+1732	PRV_se0_ag3_f_04	2294.6444	And she did.	2295.7378
+1733	PRV_int_01	2295.9366	Mm.	2296.4170
+1734	PRV_se0_ag3_f_04	2296.7176	And so	2297.5724
+1735	PRV_se0_ag3_f_04	2297.5724	(pause 2.47)	2300.0432
+1736	PRV_se0_ag3_f_04	2300.0432	this lady, she was a principal too.	2302.7791
+1737	PRV_int_01	2303.1105	Okay.	2303.6097
+1738	PRV_se0_ag3_f_04	2303.9037	And she	2304.8220
+1739	PRV_se0_ag3_f_04	2304.8220	(pause 0.28)	2305.1060
+1740	PRV_se0_ag3_f_04	2305.1060	had cancer and somebody had to be there with her day and night.	2309.2146
+1741	PRV_int_01	2309.4087	Mm.	2309.7921
+1742	PRV_se0_ag3_f_04	2310.2114	And so when that lady passed,	2312.6112
+1743	PRV_se0_ag3_f_04	2312.6112	(pause 1.44)	2314.0549
+1744	PRV_se0_ag3_f_04	2314.0549	then,	2314.7365
+1745	PRV_se0_ag3_f_04	2314.7365	(pause 0.85)	2315.5818
+1746	PRV_se0_ag3_f_04	2315.5818	I went out to Edge-	2316.9593
+1747	PRV_se0_ag3_f_04	2316.9593	(pause 0.24)	2317.2007
+1748	PRV_se0_ag3_f_04	2317.2007	Edgecombe Community College	2319.1650
+1749	PRV_int_01	2319.5201	Mm.	2319.7757
+1750	PRV_se0_ag3_f_04	2320.1070	<clears throat>	2320.4762
+1751	PRV_se0_ag3_f_04	2320.4762	(pause 0.53)	2321.0064
+1752	PRV_se0_ag3_f_04	2321.0064	and signed up but they were giving the-	2323.7166
+1753	PRV_se0_ag3_f_04	2323.7166	(pause 0.28)	2323.9959
+1754	PRV_se0_ag3_f_04	2323.9959	<clears throat>	2324.2326
+1755	PRV_se0_ag3_f_04	2324.2326	(pause 0.63)	2324.8621
+1756	PRV_se0_ag3_f_04	2324.8621	they were giving the training	2326.8454
+1757	PRV_se0_ag3_f_04	2326.8454	(pause 1.47)	2328.3108
+1758	PRV_se0_ag3_f_04	2328.3108	and	2328.8741
+1759	PRV_se0_ag3_f_04	2328.8741	(pause 0.79)	2329.6645
+1760	PRV_se0_ag3_f_04	2329.6645	so	2330.0906
+1761	PRV_se0_ag3_f_04	2330.0906	(pause 0.15)	2330.2373
+1762	PRV_se0_ag3_f_04	2330.2373	<clears throat> they didn't have quite enough for the class.	2333.0158
+1763	PRV_se0_ag3_f_04	2333.0158	(pause 0.76)	2333.7712
+1764	PRV_se0_ag3_f_04	2333.7712	And so I- we- the lady told us if-	2336.9946
+1765	PRV_se0_ag3_f_04	2336.9946	(pause 0.14)	2337.1319
+1766	PRV_se0_ag3_f_04	2337.1319	see if we knew anybody want to come.	2339.5554
+1767	PRV_int_01	2339.8232	Mm-hm.	2340.2493
+1768	PRV_se0_ag3_f_04	2340.1830	<clears throat> So I went out and I recruited some	2343.8940
+1769	PRV_se0_ag3_f_04	2345.0821	and	2345.7164
+1770	PRV_se0_ag3_f_04	2345.7164	(pause 0.92)	2346.6374
+1771	PRV_se0_ag3_f_04	2346.6374	we got enough for the class	2348.9520
+1772	PRV_se0_ag3_f_04	2348.9520	(pause 0.36)	2349.3165
+1773	PRV_se0_ag3_f_04	2349.3165	and we went out there and we passed [it.]	2351.6501
+1774	PRV_int_01	2351.5790	[Hm.]	2351.8347
+1775	PRV_int_01	2352.1451	How many did you- how many?	2353.3900
+1776	PRV_se0_ag3_f_04	2354.6538	I think it was	2355.9650
+1777	PRV_se0_ag3_f_04	2355.9650	(pause 0.18)	2356.1496
+1778	PRV_se0_ag3_f_04	2356.1496	ten or twelve.	2358.0410
+1779	PRV_se0_ag3_f_04	2358.0410	(pause 1.08)	2359.1249
+1780	PRV_se0_ag3_f_04	2359.1249	They wanted a certain number before,	2361.6242
+1781	PRV_se0_ag3_f_04	2361.6242	(pause 1.17)	2362.7933
+1782	PRV_se0_ag3_f_04	2362.7933	you know,	2363.3566
+1783	PRV_int_01	2363.6197	Mm-hm.	2364.0552
+1784	PRV_se0_ag3_f_04	2364.0457	to sort the class up.	2365.8539
+1785	PRV_int_01	2366.7059	Mm, k- okay.	2367.6905
+1786	PRV_int_01	2367.6905	(pause 0.71)	2368.4005
+1787	PRV_int_01	2368.4005	And so you got enough people and you [/?/ you got certified]?	2371.3900
+1788	PRV_se0_ag3_f_04	2369.9700	[Mm-hm.]	2370.7226
+1789	PRV_se0_ag3_f_04	2371.4326	Mm-hm.	2372.0716
+1790	PRV_int_01	2372.0858	Okay.	2372.5639
+1791	PRV_se0_ag3_f_04	2372.8952	So I s- I had my certificate and everything- everything got in the flood.	2378.7154
+1792	PRV_int_01	2380.0407	So you-	2380.5614
+1793	PRV_int_01	2380.5614	(pause 0.20)	2380.7602
+1794	PRV_int_01	2380.7602	you worked-	2381.3188
+1795	PRV_int_01	2381.3188	(pause 0.14)	2381.4635
+1796	PRV_int_01	2381.4635	so then you worked that full time?	2383.0587
+1797	PRV_se0_ag3_f_04	2383.6929	[Mm-hm.]	2384.2988
+1798	PRV_int_01	2384.0385	[Yeah], okay.	2384.5734
+1799	PRV_se0_ag3_f_04	2384.6491	Mm-hm.	2385.1556
+1800	PRV_int_01	2385.0562	How many days a week?	2386.3153
+1801	PRV_int_01	2387.1342	/Two?/	2387.3614
+1802	PRV_int_01	2387.3614	(pause 0.26)	2387.6244
+1803	PRV_int_01	2387.6244	[Five-]	2387.9463
+1804	PRV_se0_ag3_f_04	2387.6623	[Sometime-]	2388.6516
+1805	PRV_se0_ag3_f_04	2388.8741	Uh-huh. Sometime seven day. It depend on how sick the person was.	2394.2019
+1806	PRV_int_01	2394.1309	Mm.	2394.4765
+1807	PRV_se0_ag3_f_04	2394.5522	Mm-hm.	2395.2906
+1808	PRV_int_01	2395.3947	Okay.	2395.8208
+1809	PRV_int_01	2395.8208	(pause 0.89)	2396.7154
+1810	PRV_int_01	2396.7154	And you- so you s-	2397.5721
+1811	PRV_int_01	2397.5721	(pause 0.15)	2397.7236
+1812	PRV_int_01	2397.7236	you would stay there at-	2398.8454
+1813	PRV_int_01	2398.8454	(pause 0.26)	2399.1010
+1814	PRV_int_01	2399.1010	on	2399.4134
+1815	PRV_int_01	2399.4134	(pause 0.13)	2399.5392
+1816	PRV_int_01	2399.5392	nights or you would	2400.7652
+1817	PRV_int_01	2400.7652	(pause 0.20)	2400.9640
+1818	PRV_int_01	2400.9640	go-	2401.2764
+1819	PRV_int_01	2401.2764	(pause 0.65)	2401.9296
+1820	PRV_int_01	2401.9296	you would do it the day times?	2403.2692
+1821	PRV_se0_ag3_f_04	2404.1023	Mm, yeah I did daytime. One time I was doing day and night too. [<laugh>]	2409.7141
+1822	PRV_int_01	2409.0183	[Okay.]	2409.6526
+1823	PRV_int_01	2409.9650	<laugh>	2410.5188
+1824	PRV_int_01	2410.5188	(pause 1.10)	2411.6170
+1825	PRV_int_01	2411.6170	And how many people did you take care of?	2413.4421
+1826	PRV_int_01	2413.4421	(pause 0.23)	2413.6740
+1827	PRV_int_01	2413.6740	Did you just have like,	2414.8621
+1828	PRV_int_01	2414.8621	(pause 0.55)	2415.4159
+1829	PRV_int_01	2415.4159	a-	2415.5958
+1830	PRV_int_01	2415.5958	(pause 0.21)	2415.8041
+1831	PRV_int_01	2415.8041	a- a number of people or just [one person?]	2418.0477
+1832	PRV_se0_ag3_f_04	2417.3046	[Mm-mm.]	2417.9767
+1833	PRV_se0_ag3_f_04	2418.4386	Mm-mm.	2418.9119
+1834	PRV_int_01	2418.8267	The same person.	2419.7829
+1835	PRV_se0_ag3_f_04	2419.7971	[Mm-hm. I-] I- I mean I worked for different folks,	2423.2336
+1836	PRV_int_01	2420.1237	[Oh.]	2420.5489
+1837	PRV_se0_ag3_f_04	2423.4276	but I didn't have but one at a time.	2425.9296
+1838	PRV_int_01	2426.0574	Mkay. Oh. Okay.	2427.3118
+1839	PRV_int_01	2427.3118	(pause 0.72)	2428.0313
+1840	PRV_int_01	2428.0313	And you liked that job?	2428.9070
+1841	PRV_se0_ag3_f_04	2429.1720	Mm-hm.	2429.8442
+1842	PRV_int_01	2430.0126	Okay.	2430.3913
+1843	PRV_se0_ag3_f_04	2430.5238	Mm-hm.	2431.2101
+1844	PRV_int_01	2431.3521	So you've had lots of different jobs.	2432.9710
+1845	PRV_se0_ag3_f_04	2432.8905	Mm-hm.	2433.6479
+1846	PRV_int_01	2433.7094	Mm.	2433.9650
+1847	PRV_int_01	2433.9650	(pause 0.18)	2434.1449
+1848	PRV_int_01	2434.1449	Yeah.	2434.4289
+1849	PRV_int_01	2434.4289	(pause 0.69)	2435.1152
+1850	PRV_int_01	2435.1152	Okay.	2435.5507
+1851	PRV_int_01	2435.5507	(pause 0.70)	2436.2540
+1852	PRV_int_01	2436.2540	And uh, so then,	2437.5225
+1853	PRV_int_01	2437.5225	(pause 0.30)	2437.8208
+1854	PRV_int_01	2437.8208	you still- you still do that sometimes? You said you l- you take care of the sick. Did you retire at some point or?	2443.2717
+1855	PRV_se0_ag3_f_04	2443.4894	Mm-mm, after I took care of my mom,	2446.3768
+1856	PRV_se0_ag3_f_04	2446.3768	(pause 0.29)	2446.6703
+1857	PRV_se0_ag3_f_04	2446.6703	<clears throat>	2446.9070
+1858	PRV_int_01	2446.9496	Mm.	2447.3519
+1859	PRV_se0_ag3_f_04	2447.5345	I was intending to go back	2449.5083
+1860	PRV_se0_ag3_f_04	2449.5083	(pause 0.70)	2450.2089
+1861	PRV_se0_ag3_f_04	2450.2089	and get some more training	2452.0644
+1862	PRV_int_01	2452.2774	Mm.	2452.4005
+1863	PRV_se0_ag3_f_04	2452.3673	and go back in there.	2453.9578
+1864	PRV_int_01	2454.2919	Mm.	2454.6705
+1865	PRV_se0_ag3_f_04	2454.6374	But then	2455.4705
+1866	PRV_se0_ag3_f_04	2455.7971	my health went to failing me.	2458.0975
+1867	PRV_int_01	2458.3389	Okay.	2458.9070
+1868	PRV_se0_ag3_f_04	2458.9428	Mm-hm.	2459.6596
+1869	PRV_int_01	2459.6765	Okay.	2460.0694
+1870	PRV_int_01	2460.0694	(pause 0.97)	2461.0397
+1871	PRV_int_01	2461.0397	So you had to kind of take it easy [after that?]	2463.3544
+1872	PRV_se0_ag3_f_04	2462.4929	[Mm-hm.]	2463.3118
+1873	PRV_int_01	2463.4680	Okay.	2463.9603
+1874	PRV_int_01	2463.9603	(pause 1.84)	2465.8016
+1875	PRV_int_01	2465.8016	So you-	2466.2500
+1876	PRV_int_01	2466.2500	(pause 0.30)	2466.5475
+1877	PRV_int_01	2466.5475	so you been having trouble you said with your blood pressure? Blood sugar?	2470.4573
+1878	PRV_int_01	2470.4573	(pause 0.75)	2471.2052
+1879	PRV_int_01	2471.2052	/inaudible/	2471.5696
+1880	PRV_se0_ag3_f_04	2471.8990	Mm-hm. And feet.	2473.6503
+1881	PRV_int_01	2474.4929	And your feet and stuff. Oh, okay.	2476.1065
+1882	PRV_int_01	2476.1065	(pause 0.53)	2476.6324
+1883	PRV_int_01	2476.6324	You still seem like you're getting around doing pretty good for yourself.	2479.7876
+1884	PRV_se0_ag3_f_04	2480.4266	Well, I thank God	2482.3477
+1885	PRV_se0_ag3_f_04	2482.3477	(pause 0.15)	2482.4951
+1886	PRV_se0_ag3_f_04	2482.4951	as good as it is.	2484.1498
+1887	PRV_int_01	2484.2540	Mm-hm.	2484.7179
+1888	PRV_se0_ag3_f_04	2484.7131	But	2485.0539
+1889	PRV_se0_ag3_f_04	2485.4137	<clears throat>	2485.6693
+1890	PRV_se0_ag3_f_04	2485.6693	(pause 0.55)	2486.2231
+1891	PRV_se0_ag3_f_04	2486.2231	I wouldn't want to go to wait on somebody and I	2489.5412
+1892	PRV_se0_ag3_f_04	2489.5412	(pause 0.11)	2489.6548
+1893	PRV_se0_ag3_f_04	2489.6548	falled or something.	2490.9451
+1894	PRV_int_01	2491.0729	Yeah.	2491.5557
+1895	PRV_se0_ag3_f_04	2491.8634	Mm-hm.	2492.4569
+1896	PRV_int_01	2492.4882	Yeah.	2492.7958
+1897	PRV_int_01	2492.7958	(pause 0.22)	2493.0183
+1898	PRV_int_01	2493.0183	Yeah.	2493.3260
+1899	PRV_int_01	2493.3260	(pause 0.80)	2494.1212
+1900	PRV_int_01	2494.1212	So what-	2494.6987
+1901	PRV_int_01	2494.6987	(pause 0.11)	2494.8123
+1902	PRV_int_01	2494.8123	uh- what types of things do you do now just	2496.7368
+1903	PRV_int_01	2496.7368	(pause 0.35)	2497.0823
+1904	PRV_int_01	2497.0823	you know,	2497.3853
+1905	PRV_int_01	2497.3853	(pause 0.22)	2497.6030
+1906	PRV_int_01	2497.6030	on a average day?	2498.6964
+1907	PRV_int_01	2498.6964	(pause 0.38)	2499.0798
+1908	PRV_int_01	2499.0798	You have	2499.3970
+1909	PRV_int_01	2499.3970	(pause 0.28)	2499.6810
+1910	PRV_int_01	2499.6810	hobbies or things you like to do or?	2501.3682
+1911	PRV_se0_ag3_f_04	2503.5077	I read.	2504.7438
+1912	PRV_int_01	2505.1650	Oh [okay.]	2505.7804
+1913	PRV_se0_ag3_f_04	2505.6384	[And] I like to walk when I can. And I got a-	2508.8693
+1914	PRV_se0_ag3_f_04	2509.0871	a stationary bicycle right now.	2511.5769
+1915	PRV_int_01	2511.7757	<laugh>	2512.6513
+1916	PRV_int_01	2512.6513	(pause 0.54)	2513.1910
+1917	PRV_int_01	2513.1910	Oh really?	2513.7664
+1918	PRV_se0_ag3_f_04	2514.0410	[Mm-hm.]	2514.7747
+1919	PRV_int_01	2514.0410	[Okay.]	2514.6137
+1920	PRV_int_01	2515.2196	So you get on the bike every once in a while?	2517.0136
+1921	PRV_se0_ag3_f_04	2517.0088	Mm- sometime.	2518.1638
+1922	PRV_int_01	2518.2253	[Okay.]	2518.7555
+1923	PRV_se0_ag3_f_04	2518.4336	[Mm-hm.]	2519.2146
+1924	PRV_int_01	2520.0930	So you- and you read. Okay.	2521.9249
+1925	PRV_int_01	2521.9249	(pause 1.37)	2523.2976
+1926	PRV_int_01	2523.2976	And s- You said you were out there in the yard, working?	2525.5980
+1927	PRV_int_01	2525.5980	(pause 0.94)	2526.5380
+1928	PRV_int_01	2526.5380	[Monday?]	2527.0871
+1929	PRV_se0_ag3_f_04	2526.5948	[Mm-mm.] Yeah, all that	2527.9438
+1930	PRV_se0_ag3_f_04	2528.1000	paper	2528.7438
+1931	PRV_se0_ag3_f_04	2528.7438	(pause 0.18)	2528.9189
+1932	PRV_se0_ag3_f_04	2528.9189	uh, somebody done	2530.1070
+1933	PRV_se0_ag3_f_04	2530.1070	(pause 0.19)	2530.3011
+1934	PRV_se0_ag3_f_04	2530.3011	throwed- or sometime it blow.	2532.4623
+1935	PRV_int_01	2532.9025	Hm.	2533.1770
+1936	PRV_se0_ag3_f_04	2533.2622	Mm-hm.	2533.9580
+1937	PRV_int_01	2534.0764	All people- all people just kind of	2535.5863
+1938	PRV_int_01	2535.5863	(pause 0.76)	2536.3437
+1939	PRV_int_01	2536.3437	littering and throwing-	2537.2478
+1940	PRV_int_01	2537.2478	(pause 0.35)	2537.6008
+1941	PRV_int_01	2537.6008	they throw a lot of trash out [there?]	2539.0634
+1942	PRV_se0_ag3_f_04	2538.7983	[Mm-hm.] [And] cigarette butts and I don't smoke nothing.	2543.0537
+1943	PRV_int_01	2539.7734	[/Wow/.]	2540.0196
+1944	PRV_int_01	2543.1937	Mm- <laugh>	2544.3155
+1945	PRV_int_01	2544.3155	(pause 0.54)	2544.8551
+1946	PRV_int_01	2544.8551	So you out there working?	2546.0101
+1947	PRV_se0_ag3_f_04	2546.1237	Mm-hm. Getting that up.	2547.7141
+1948	PRV_int_01	2547.9650	Mm.	2548.3058
+1949	PRV_int_01	2548.3058	(pause 0.43)	2548.7318
+1950	PRV_int_01	2548.7318	It was getting pretty hot out there.	2550.0524
+1951	PRV_se0_ag3_f_04	2551.0681	Mm-hm.	2551.7403
+1952	PRV_int_01	2551.6835	To be working.	2552.5118
+1953	PRV_int_01	2553.1272	It's a little bit cloudy today.	2554.7223
+1954	PRV_se0_ag3_f_04	2555.4182	Mm-hm.	2556.0856
+1955	PRV_int_01	2556.7983	So have you uh-	2557.8066
+1956	PRV_int_01	2557.8066	(pause 0.30)	2558.1095
+1957	PRV_int_01	2558.1095	do you ever go on vacations or anything like that? Do you get out much? Like go travel anywhere?	2563.1107
+1958	PRV_se0_ag3_f_04	2565.2266	It's been quite a	2566.4336
+1959	PRV_se0_ag3_f_04	2566.4336	(pause 0.18)	2566.6087
+1960	PRV_se0_ag3_f_04	2566.6087	few years. I got a good	2568.3629
+1961	PRV_se0_ag3_f_04	2568.3629	(pause 0.24)	2568.5995
+1962	PRV_se0_ag3_f_04	2568.5995	friend	2569.1675
+1963	PRV_se0_ag3_f_04	2569.1675	(pause 0.17)	2569.3379
+1964	PRV_se0_ag3_f_04	2569.3379	uh, down near Birmingham, Alabama.	2572.3768
+1965	PRV_int_01	2572.5803	Mm-hm.	2573.0300
+1966	PRV_se0_ag3_f_04	2573.7380	But my mother was living when I went to see her.	2577.3165
+1967	PRV_int_01	2577.8609	Okay.	2578.3957
+1968	PRV_se0_ag3_f_04	2581.3427	That was in the nineties, but	2583.2834
+1969	PRV_int_01	2583.5911	<clears throat>	2583.8372
+1970	PRV_se0_ag3_f_04	2584.4525	sometime my brother and sister, they often goes to um,	2588.6335
+1971	PRV_se0_ag3_f_04	2588.6335	(pause 0.68)	2589.3165
+1972	PRV_se0_ag3_f_04	2589.3165	Durham.	2590.0975
+1973	PRV_int_01	2590.2821	[Mm.]	2590.5046
+1974	PRV_se0_ag3_f_04	2590.3579	[Got] a niece there.	2591.6927
+1975	PRV_se0_ag3_f_04	2592.6800	And then her mother stay in Burlington,	2595.2029
+1976	PRV_int_01	2595.3828	Mm-hm.	2595.7425
+1977	PRV_se0_ag3_f_04	2596.0644	and then we go over-	2597.4087
+1978	PRV_se0_ag3_f_04	2597.4087	(pause 0.33)	2597.7380
+1979	PRV_se0_ag3_f_04	2597.7380	they take me up Norfolk.	2599.4752
+1980	PRV_int_01	2600.0338	Okay.	2600.5923
+1981	PRV_se0_ag3_f_04	2600.5923	Mm-hm.	2601.3023
+1982	PRV_int_01	2601.2076	Okay.	2601.6715
+1983	PRV_int_01	2602.8928	So you go up to Norfolk	2604.4812
+1984	PRV_int_01	2604.4812	(pause 0.22)	2604.6989
+1985	PRV_int_01	2604.6989	with- with your family sometimes?	2606.6207
+1986	PRV_se0_ag3_f_04	2606.5071	Mm-hm.	2607.1556
+1987	PRV_int_01	2607.3213	Well who goes up there with you?	2608.5359
+1988	PRV_se0_ag3_f_04	2609.0395	My brother and sister, they do the driving. [<laugh>]	2612.5450
+1989	PRV_int_01	2612.0574	[Okay.]	2612.6103
+1990	PRV_int_01	2613.1792	Now your brother's back in town right?	2614.6845
+1991	PRV_se0_ag3_f_04	2615.0300	[Mm-hm.]	2615.5365
+1992	PRV_int_01	2615.3424	[Well] one of your brothers.	2616.3203
+1993	PRV_se0_ag3_f_04	2616.3771	Mm-hm, the youngest one.	2618.0953
+1994	PRV_int_01	2618.1947	Okay. And where does the rest of your family stay?	2620.5898
+1995	PRV_int_01	2620.5898	(pause 1.57)	2622.1593
+1996	PRV_int_01	2622.1593	Are they s- they all over or?	2623.6882
+1997	PRV_se0_ag3_f_04	2623.6882	You talking about the brother	2625.1698
+1998	PRV_int_01	2625.1508	[Mm-hm.]	2625.6668
+1999	PRV_se0_ag3_f_04	2625.3733	[and si-]	2625.9177
+2000	PRV_int_01	2626.6608	Your brother and the little sister.	2628.4386
+2001	PRV_se0_ag3_f_04	2629.3569	They stay on the next street, Beasley.	2632.5141
+2002	PRV_int_01	2632.6561	Okay.	2633.0726
+2003	PRV_se0_ag3_f_04	2633.8394	And	2634.6658
+2004	PRV_se0_ag3_f_04	2634.6658	(pause 1.42)	2636.0811
+2005	PRV_se0_ag3_f_04	2636.0811	the next brother, he died	2638.4194
+2006	PRV_se0_ag3_f_04	2638.4194	(pause 0.17)	2638.5898
+2007	PRV_se0_ag3_f_04	2638.5898	[<clears throat>]	2639.1010
+2008	PRV_int_01	2638.5993	[Okay.]	2639.1010
+2009	PRV_se0_ag3_f_04	2640.0457	in ninety five.	2641.5273
+2010	PRV_int_01	2641.7498	Mm-hm.	2642.1616
+2011	PRV_se0_ag3_f_04	2642.7012	And two in Norfolk.	2644.3247
+2012	PRV_int_01	2645.2336	Mkay. Two brothers or [sisters?]	2647.2717
+2013	PRV_se0_ag3_f_04	2646.8977	[Mm-hm.] Two brother.	2648.1379
+2014	PRV_int_01	2648.3367	Okay.	2648.7580
+2015	PRV_se0_ag3_f_04	2649.1982	And the other sister	2651.0158
+2016	PRV_se0_ag3_f_04	2651.0158	(pause 0.34)	2651.3519
+2017	PRV_se0_ag3_f_04	2651.3519	is in Burlington.	2652.6895
+2018	PRV_int_01	2653.1865	Oh okay.	2653.7403
+2019	PRV_se0_ag3_f_04	2653.9391	Mm-hm. But she still- uh- she went to Durham,	2657.0537
+2020	PRV_int_01	2657.3850	Mm-hm.	2657.7637
+2021	PRV_se0_ag3_f_04	2657.8611	and they moved from Durham to Burlington, but she's still work in	2661.8514
+2022	PRV_se0_ag3_f_04	2661.8514	(pause 1.02)	2662.8691
+2023	PRV_se0_ag3_f_04	2662.8691	Durham.	2663.5412
+2024	PRV_int_01	2664.6895	Okay.	2665.2291
+2025	PRV_int_01	2665.2291	(pause 0.31)	2665.5367
+2026	PRV_int_01	2665.5367	Okay.	2665.9202
+2027	PRV_int_01	2665.9202	(pause 1.65)	2667.5721
+2028	PRV_int_01	2667.5721	Nice. So	2668.3815
+2029	PRV_int_01	2668.3815	(pause 0.31)	2668.6892
+2030	PRV_int_01	2668.6892	so you- you get to hang- do you get to see them very often?	2672.2752
+2031	PRV_se0_ag3_f_04	2672.2657	Mm-hm.	2672.9994
+2032	PRV_int_01	2673.0988	Okay.	2673.5674
+2033	PRV_se0_ag3_f_04	2673.8183	Yeah cause they b- be down here.	2675.9578
+2034	PRV_se0_ag3_f_04	2675.9578	(pause 0.33)	2676.2919
+2035	PRV_se0_ag3_f_04	2676.2919	Now the brother next to me in Norfolk,	2678.8810
+2036	PRV_se0_ag3_f_04	2678.8810	(pause 0.54)	2679.4207
+2037	PRV_se0_ag3_f_04	2679.4207	he and h- his wife supposed to be down here Friday	2683.0776
+2038	PRV_int_01	2683.3001	Okay.	2683.7356
+2039	PRV_se0_ag3_f_04	2684.0480	and stay the weekend.	2685.6857
+2040	PRV_int_01	2686.2632	Do they have a lot of	2687.0963
+2041	PRV_int_01	2687.0963	(pause 0.42)	2687.5203
+2042	PRV_int_01	2687.5203	children? Do you have a lot of nieces and nephews?	2689.7829
+2043	PRV_se0_ag3_f_04	2691.3733	Yeah, I got nieces and nephews.	2694.9498
+2044	PRV_se0_ag3_f_04	2694.9498	(pause 0.52)	2695.4657
+2045	PRV_se0_ag3_f_04	2695.4657	Now my youngest sister over there,	2697.7283
+2046	PRV_se0_ag3_f_04	2697.7283	(pause 0.87)	2698.5993
+2047	PRV_se0_ag3_f_04	2698.5993	she got	2699.3992
+2048	PRV_se0_ag3_f_04	2699.3992	(pause 0.71)	2700.1095
+2049	PRV_se0_ag3_f_04	2700.1095	two boys	2701.2622
+2050	PRV_int_01	2701.5746	[Okay.]	2702.0527
+2051	PRV_se0_ag3_f_04	2701.8492	and- but they're in um,	2703.9981
+2052	PRV_se0_ag3_f_04	2704.7176	<ts> Michigan.	2705.7495
+2053	PRV_int_01	2705.9700	Okay.	2706.3960
+2054	PRV_se0_ag3_f_04	2707.3569	And the oldest boy	2709.3260
+2055	PRV_se0_ag3_f_04	2709.3260	(pause 0.42)	2709.7425
+2056	PRV_se0_ag3_f_04	2709.7425	got-	2710.3910
+2057	PRV_se0_ag3_f_04	2710.3910	(pause 3.01)	2713.3995
+2058	PRV_se0_ag3_f_04	2713.3995	had two girls	2714.9378
+2059	PRV_se0_ag3_f_04	2714.9378	(pause 0.26)	2715.1982
+2060	PRV_se0_ag3_f_04	2715.1982	and then-	2716.0881

@@ -1,0 +1,2492 @@
+Line	Spkr	StTime	Content	EnTime
+1	DCB_int_01	0.2364	Okay, and what's your birthday?	1.7530
+2	DCB_se3_ag1_m_01	2.1316	Eleven twenty-five, two thousand.	4.1256
+3	DCB_int_01	4.7041	Oh.	5.4924
+4	DCB_int_01	5.4924	(pause 0.15)	5.6425
+5	DCB_int_01	5.6425	Happy birthday, [happy belated birthday.]	8.9924
+6	DCB_se3_ag1_m_01	7.2641	[Thank you.]	7.8823
+7	DCB_se3_ag1_m_01	7.8823	(pause 0.81)	8.6888
+8	DCB_se3_ag1_m_01	8.6888	[Thank you.]	9.1634
+9	DCB_int_01	10.0134	And where were you born?	10.9644
+10	DCB_se3_ag1_m_01	11.5791	Washington DC.	12.6268
+11	DCB_int_01	13.1707	And what neighborhood do you claim?	15.7190
+12	DCB_se3_ag1_m_01	16.4438	Petworth.	17.0152
+13	DCB_int_01	17.9828	Have you always lived in Petworth?	19.1073
+14	DCB_se3_ag1_m_01	19.6011	Mm, yes.	20.5120
+15	DCB_se3_ag1_m_01	20.5120	(pause 0.35)	20.8623
+16	DCB_se3_ag1_m_01	20.8623	Majority of my life, yes.	22.0535
+17	DCB_int_01	22.0668	Where else have you lived?	22.9196
+18	DCB_se3_ag1_m_01	23.0653	I've lived in PG County	24.4440
+19	DCB_se3_ag1_m_01	24.4440	(pause 0.31)	24.7503
+20	DCB_se3_ag1_m_01	24.7503	also.	25.2674
+21	DCB_int_01	27.0492	What part?	27.4395
+22	DCB_se3_ag1_m_01	28.7041	Um,	29.4448
+23	DCB_se3_ag1_m_01	29.4448	(pause 2.08)	31.5277
+24	DCB_se3_ag1_m_01	31.5277	Capitol Heights.	32.3718
+25	DCB_int_01	32.5220	Capitol Heights.	33.3394
+26	DCB_int_01	33.3394	(pause 0.10)	33.4429
+27	DCB_int_01	33.4429	How long did you live there?	34.3137
+28	DCB_se3_ag1_m_01	34.5139	For about	35.0686
+29	DCB_se3_ag1_m_01	35.0686	(pause 1.19)	36.2564
+30	DCB_se3_ag1_m_01	36.2564	I wanna say ten years.	37.3709
+31	DCB_se3_ag1_m_01	37.3709	(pause 2.28)	39.6548
+32	DCB_se3_ag1_m_01	39.6548	<clears throat>	40.2696
+33	DCB_int_01	47.0586	Mkay.	47.4635
+34	DCB_int_01	47.4635	(pause 0.17)	47.6358
+35	DCB_int_01	47.6358	Are you in high school now?	48.6535
+36	DCB_se3_ag1_m_01	48.7803	Yes.	49.3208
+37	DCB_int_01	49.5444	You're a high school senior?	50.8780
+38	DCB_se3_ag1_m_01	50.9324	Yes.	51.3779
+39	DCB_int_01	51.3728	Oh my goodness.	52.6749
+40	DCB_int_01	53.4690	My little Torch Club president.	54.9805
+41	DCB_se3_ag1_m_01	55.0339	<sigh>	55.2641
+42	DCB_int_01	55.2207	So where are you going to school	56.2584
+43	DCB_int_01	56.4686	next year?	56.9910
+44	DCB_se3_ag1_m_01	57.0258	I'm looking at Hampton, Howard,	58.9502
+45	DCB_se3_ag1_m_01	58.9502	(pause 0.34)	59.2947
+46	DCB_se3_ag1_m_01	59.2947	Bowie,	60.0435
+47	DCB_se3_ag1_m_01	60.0435	(pause 1.24)	61.2808
+48	DCB_se3_ag1_m_01	61.2808	Norfolk State.	62.0148
+49	DCB_int_01	63.0625	Look at you. What do you wanna go to school for?	64.9410
+50	DCB_se3_ag1_m_01	64.9852	I wanna major in political science	66.8103
+51	DCB_int_01	67.0839	[Aw.]	67.4776
+52	DCB_se3_ag1_m_01	67.1807	[with a minor] in psychology.	68.4766
+53	DCB_int_01	68.6821	Cause you're the little Torch Club president.	70.4265
+54	DCB_int_01	70.4265	(pause 0.24)	70.6674
+55	DCB_int_01	70.6674	You're never gonna live that down, you know you're gonna be like fifty I'm'a be [like, oh my little] Torch Club, you know that right? Okay, long as you know.	75.8571
+56	DCB_se3_ag1_m_01	72.6668	[I know.]	73.1646
+57	DCB_int_01	76.7308	As long as you know, so.	78.1930
+58	DCB_int_01	78.1930	(pause 0.38)	78.5768
+59	DCB_int_01	78.5768	Where else did you go, like where did you- um, where do you go to high school?	81.0391
+60	DCB_se3_ag1_m_01	81.7198	<ts> /RD-SCHOOL-3/.	82.7241
+61	DCB_int_01	82.8184	/RD-SCHOOL-3/.	83.6025
+62	DCB_int_01	83.6025	(pause 1.08)	84.6802
+63	DCB_int_01	84.6802	Where'd you go to middle school?	86.1090
+64	DCB_se3_ag1_m_01	86.2584	/RD-SCHOOL-3/.	87.0348
+65	DCB_int_01	87.0225	Okay.	87.6431
+66	DCB_int_01	88.1903	And elementary school?	89.6183
+67	DCB_se3_ag1_m_01	89.6225	/RD-SCHOOL-3/.	90.5234
+68	DCB_int_01	91.0472	<laugh>	92.3548
+69	DCB_int_01	92.3548	(pause 0.51)	92.8656
+70	DCB_int_01	92.8656	Where was your dad born?	93.8409
+71	DCB_se3_ag1_m_01	94.1536	Washington DC.	94.9300
+72	DCB_int_01	97.1740	And your mom?	97.9344
+73	DCB_se3_ag1_m_01	98.0682	Washington [DC.]	98.9657
+74	DCB_int_01	98.8890	[Oh], oh okay.	99.6030
+75	DCB_int_01	100.1102	Okay.	100.4861
+76	DCB_int_01	100.4861	(pause 0.16)	100.6482
+77	DCB_int_01	100.6482	And your little dog?	101.6597
+78	DCB_se3_ag1_m_01	101.8827	[Washington DC.] (laughing)	103.1106
+79	DCB_int_01	101.8928	[Washington DC.]	103.0319
+80	DCB_int_01	103.3475	<laugh>	104.4853
+81	DCB_int_01	104.4853	(pause 2.10)	106.5873
+82	DCB_int_01	106.5873	What does your dad do?	107.3122
+83	DCB_int_01	107.3122	(pause 0.17)	107.4824
+84	DCB_int_01	107.4824	What does he /do/ [for work?]	108.4600
+85	DCB_se3_ag1_m_01	107.9862	[He has-]	108.3432
+86	DCB_se3_ag1_m_01	108.5300	He has his own cleaning business.	109.8980
+87	DCB_int_01	112.2437	Is he successful?	113.0375
+88	DCB_se3_ag1_m_01	113.1821	Very successful.	114.2264
+89	DCB_int_01	117.0825	What kind of cleaning business?	118.1469
+90	DCB_se3_ag1_m_01	118.5373	What do you call 'em?	119.5140
+91	DCB_se3_ag1_m_01	119.5140	(pause 0.61)	120.1263
+92	DCB_se3_ag1_m_01	120.1263	Like-	120.3905
+93	DCB_se3_ag1_m_01	120.3905	(pause 0.82)	121.2074
+94	DCB_se3_ag1_m_01	121.2074	like, commercial buildings, companies.	123.9334
+95	DCB_int_01	123.9567	Like, pressure washing?	124.9844
+96	DCB_int_01	124.9844	(pause 0.11)	125.0978
+97	DCB_int_01	125.0978	Or [like,]	125.8423
+98	DCB_se3_ag1_m_01	125.4723	[Mm-mm.]	125.8279
+99	DCB_int_01	126.0329	going inside like,	126.9571
+100	DCB_int_01	126.9571	(pause 0.92)	127.8747
+101	DCB_int_01	127.8747	h- like,	128.4185
+102	DCB_se3_ag1_m_01	128.6755	[Emptying-]	129.1926
+103	DCB_int_01	128.7589	[house] like	129.4952
+104	DCB_se3_ag1_m_01	129.5697	[House cleaning, yeah.]	130.5740
+105	DCB_int_01	129.7599	[house cleaning kind of] thing.	130.8033
+106	DCB_se3_ag1_m_01	130.8309	[Basically] yes.	131.6750
+107	DCB_int_01	130.9377	[Oh.]	131.3339
+108	DCB_int_01	132.3032	Okay.	132.7458
+109	DCB_int_01	132.7458	(pause 0.72)	133.4643
+110	DCB_int_01	133.4643	What's the name of his business?	134.3818
+111	DCB_se3_ag1_m_01	134.7422	Um,	135.3967
+112	DCB_se3_ag1_m_01	135.3967	(pause 1.34)	136.7341
+113	DCB_se3_ag1_m_01	136.7341	/RD-NAME-1/	137.2696
+114	DCB_se3_ag1_m_01	137.2696	(pause 0.45)	137.7226
+115	DCB_se3_ag1_m_01	137.7226	/RD-NAME-1/	138.1530
+116	DCB_se3_ag1_m_01	138.1530	(pause 0.21)	138.3632
+117	DCB_se3_ag1_m_01	138.3632	/RD-NAME-2/	138.7565
+118	DCB_se3_ag1_m_01	138.7565	(pause 0.18)	138.9338
+119	DCB_se3_ag1_m_01	138.9338	Cleaning.	139.3108
+120	DCB_se3_ag1_m_01	139.3108	(pause 0.18)	139.4943
+121	DCB_se3_ag1_m_01	139.4943	So it's	139.8547
+122	DCB_se3_ag1_m_01	139.8547	(pause 0.71)	140.5687
+123	DCB_se3_ag1_m_01	140.5687	/RD-NAME-2/, cause his last name is /RD-NAME-2/ and his first name is /RD-NAME-2/.	143.1812
+124	DCB_se3_ag1_m_01	143.1812	(pause 0.52)	143.6992
+125	DCB_se3_ag1_m_01	143.6992	/RD-NAME-3/	144.4133
+126	DCB_int_01	144.6835	[/RD-NAME-3/]	145.2582
+127	DCB_se3_ag1_m_01	144.7035	[Cleaning.]	145.1302
+128	DCB_int_01	145.3775	/RD-NAME-3/.	145.9514
+129	DCB_int_01	145.9514	(pause 0.08)	146.0315
+130	DCB_int_01	146.0315	Okay, and what does your mom do?	147.2883
+131	DCB_se3_ag1_m_01	147.4329	She works for the Boys and Girls Club of greater Washington.	149.6550
+132	DCB_int_01	154.3304	Alrighty.	155.2055
+133	DCB_int_01	155.2055	(pause 1.50)	156.7069
+134	DCB_int_01	156.7069	So,	157.3295
+135	DCB_int_01	157.3295	(pause 0.42)	157.7512
+136	DCB_int_01	157.7512	tell me a little bit about-	159.2431
+137	DCB_int_01	159.2431	(pause 0.18)	159.4229
+138	DCB_int_01	159.4229	<clears throat>	159.8700
+139	DCB_int_01	159.8700	(pause 0.42)	160.2904
+140	DCB_int_01	160.2904	tell me a little bit about gro- So did you grow up in Capitol Heights or did you grow up in DC?	164.0012
+141	DCB_se3_ag1_m_01	164.7689	I grew up- I grew up in Capitol Heights.	166.6345
+142	DCB_se3_ag1_m_01	166.6345	(pause 0.36)	166.9944
+143	DCB_se3_ag1_m_01	166.9944	But I- everything I did was in the city.	168.7243
+144	DCB_int_01	169.3208	Okay so tell me how'd that work?	170.6021
+145	DCB_se3_ag1_m_01	171.8700	So,	172.2821
+146	DCB_se3_ag1_m_01	172.2821	(pause 0.23)	172.5106
+147	DCB_se3_ag1_m_01	172.5106	I grew up in Capitol Heights and I always had family so I always came in the city	175.9559
+148	DCB_se3_ag1_m_01	175.9559	(pause 0.66)	176.6121
+149	DCB_se3_ag1_m_01	176.6121	t- for like, different reason like to go see family or to hang out with friends and stuff.	181.2241
+150	DCB_se3_ag1_m_01	181.2241	(pause 0.29)	181.5143
+151	DCB_se3_ag1_m_01	181.5143	But Capitol Heights is just like where	182.8089
+152	DCB_se3_ag1_m_01	182.8089	(pause 0.53)	183.3361
+153	DCB_se3_ag1_m_01	183.3361	I lived at. And	184.2437
+154	DCB_se3_ag1_m_01	184.2437	(pause 0.09)	184.3304
+155	DCB_se3_ag1_m_01	184.3304	I had also had friends and stuff out there but	186.3599
+156	DCB_se3_ag1_m_01	186.3599	(pause 0.23)	186.5934
+157	DCB_se3_ag1_m_01	186.5934	this is where	187.2241
+158	DCB_se3_ag1_m_01	187.2241	(pause 0.23)	187.4509
+159	DCB_se3_ag1_m_01	187.4509	I consider my	188.2217
+160	DCB_se3_ag1_m_01	188.2217	(pause 0.34)	188.5587
+161	DCB_se3_ag1_m_01	188.5587	home base is DC.	189.9000
+162	DCB_int_01	190.1569	Mm-hm.	190.5690
+163	DCB_int_01	190.5690	(pause 0.75)	191.3189
+164	DCB_int_01	191.3189	Like, when you say family, who- who lived in the city?	193.7308
+165	DCB_se3_ag1_m_01	194.0315	Oh my m- my mom's side of the family, and my dad's side,	197.2750
+166	DCB_se3_ag1_m_01	197.2750	(pause 0.26)	197.5357
+167	DCB_se3_ag1_m_01	197.5357	like my grandmother.	198.5269
+168	DCB_se3_ag1_m_01	198.5269	(pause 0.80)	199.3275
+169	DCB_se3_ag1_m_01	199.3275	Um, my cousins.	200.7022
+170	DCB_se3_ag1_m_01	200.7022	(pause 0.73)	201.4295
+171	DCB_se3_ag1_m_01	201.4295	My aunt and uncles, everybody lived in the city.	203.7685
+172	DCB_int_01	204.1497	So how did y'all end up in- h- how'd you end up in Capitol [Heights?]	206.8323
+173	DCB_se3_ag1_m_01	206.7389	[When] my mother bought a house she moved out there.	209.0536
+174	DCB_int_01	209.7459	Okay.	210.0420
+175	DCB_se3_ag1_m_01	210.1263	She bought a house out in Maryland.	211.7312
+176	DCB_se3_ag1_m_01	211.7312	(pause 1.28)	213.0158
+177	DCB_se3_ag1_m_01	213.0158	And then when I was born, that's where	215.0995
+178	DCB_se3_ag1_m_01	215.0995	(pause 0.17)	215.2688
+179	DCB_se3_ag1_m_01	215.2688	she	215.6447
+180	DCB_se3_ag1_m_01	215.6447	(pause 0.10)	215.7493
+181	DCB_se3_ag1_m_01	215.7493	/already/ her residence /where/.	216.9037
+182	DCB_se3_ag1_m_01	216.9037	(pause 0.58)	217.4843
+183	DCB_se3_ag1_m_01	217.4843	So that's where I lived.	218.5787
+184	DCB_int_01	219.0725	Okay but then you move	221.0059
+185	DCB_int_01	221.0059	(pause 0.46)	221.4623
+186	DCB_int_01	221.4623	[back into DC.]	222.9586
+187	DCB_se3_ag1_m_01	221.7726	[Back]	222.0963
+188	DCB_se3_ag1_m_01	222.0963	(pause 0.13)	222.2298
+189	DCB_se3_ag1_m_01	222.2298	[to city],	222.8403
+190	DCB_se3_ag1_m_01	222.9738	[yes.]	223.4455
+191	DCB_int_01	223.2040	[Okay] why'd y'all move back to DC?	224.8890
+192	DCB_se3_ag1_m_01	224.9591	Because we were noticing that	226.5573
+193	DCB_se3_ag1_m_01	226.5573	(pause 1.88)	228.4333
+194	DCB_se3_ag1_m_01	228.4333	we were getting- my parents were getting older.	230.4969
+195	DCB_se3_ag1_m_01	230.4969	(pause 0.61)	231.1059
+196	DCB_se3_ag1_m_01	231.1059	And my grandparents-	232.2370
+197	DCB_se3_ag1_m_01	232.2370	(pause 0.78)	233.0211
+198	DCB_se3_ag1_m_01	233.0211	my grandfather passed away	234.4800
+199	DCB_se3_ag1_m_01	234.4800	(pause 0.72)	235.2007
+200	DCB_se3_ag1_m_01	235.2007	on July third two thousand fourteen.	237.3428
+201	DCB_se3_ag1_m_01	237.3428	(pause 0.94)	238.2804
+202	DCB_se3_ag1_m_01	238.2804	And /?/	238.8276
+203	DCB_se3_ag1_m_01	238.8276	(pause 0.55)	239.3789
+204	DCB_se3_ag1_m_01	239.3789	my grandmother didn't wanna sell the house so she wanted to keep it inside of the family.	242.4819
+205	DCB_se3_ag1_m_01	242.4819	(pause 0.29)	242.7722
+206	DCB_se3_ag1_m_01	242.7722	And at that time we wanted to come back into the city.	245.0711
+207	DCB_se3_ag1_m_01	245.0711	(pause 0.50)	245.5758
+208	DCB_se3_ag1_m_01	245.5758	So,	246.0296
+209	DCB_se3_ag1_m_01	246.0296	(pause 0.52)	246.5534
+210	DCB_se3_ag1_m_01	246.5534	we moved in there and, um,	248.6288
+211	DCB_se3_ag1_m_01	248.6288	(pause 0.24)	248.8690
+212	DCB_se3_ag1_m_01	248.8690	every since then we've been there.	250.1235
+213	DCB_int_01	250.5773	So do you live with your grandmother now?	251.9676
+214	DCB_se3_ag1_m_01	252.0429	Mm-mm, no she ha- she has her own- um,	254.0572
+215	DCB_se3_ag1_m_01	254.0572	(pause 0.37)	254.4319
+216	DCB_se3_ag1_m_01	254.4319	she has- she wanted to be like on one level.	256.7466
+217	DCB_se3_ag1_m_01	256.7466	(pause 0.29)	257.0353
+218	DCB_se3_ag1_m_01	257.0353	So it's like a senior citizen living.	258.5334
+219	DCB_int_01	258.8036	Mm-hm.	259.1406
+220	DCB_se3_ag1_m_01	259.1206	And easy access and all that.	260.7242
+221	DCB_int_01	261.3394	So you- your- you and your family	263.4448
+222	DCB_se3_ag1_m_01	263.6458	Mm-hm.	263.9328
+223	DCB_int_01	263.9194	live	264.3565
+224	DCB_int_01	264.6001	in your grandmother- in your family home	266.4619
+225	DCB_se3_ag1_m_01	266.4486	[Yes.]	266.8923
+226	DCB_int_01	266.7989	[But] your grandmother has moved to like an assisted living home.	269.3447
+227	DCB_se3_ag1_m_01	269.3456	Yes,	269.7760
+228	DCB_se3_ag1_m_01	269.7760	(pause 0.14)	269.9128
+229	DCB_se3_ag1_m_01	269.9128	like a condo /and stuff./	271.0622
+230	DCB_int_01	270.9204	Oh okay, okay.	271.8841
+231	DCB_int_01	272.5253	So,	273.4629
+232	DCB_int_01	273.4629	(pause 1.78)	275.2455
+233	DCB_int_01	275.2455	talk about	276.1263
+234	DCB_int_01	276.1263	(pause 0.68)	276.8036
+235	DCB_int_01	276.8036	the ch- like, talk about	278.2350
+236	DCB_int_01	278.2350	(pause 0.97)	279.2026
+237	DCB_int_01	279.2026	where you played the most, like whichever neighborhood you remember.	282.0464
+238	DCB_int_01	282.0464	(pause 0.44)	282.4833
+239	DCB_int_01	282.4833	Like, w- if you played [outside, if you] were in the house most. Talk about- tell me about that.	286.0305
+240	DCB_se3_ag1_m_01	283.8780	[Mm-hm.]	284.1915
+241	DCB_se3_ag1_m_01	286.1069	I played outside mostly like, growing up and stuff. /I-/	288.9204
+242	DCB_se3_ag1_m_01	288.9204	(pause 0.38)	289.3008
+243	DCB_se3_ag1_m_01	289.3008	I had like different friends. So I'm very a outgoing person like,	291.8099
+244	DCB_se3_ag1_m_01	291.8099	(pause 0.43)	292.2437
+245	DCB_se3_ag1_m_01	292.2437	I'm not the type of person that sit back. I'm not shy at all.	295.0105
+246	DCB_se3_ag1_m_01	295.0105	(pause 1.29)	296.3051
+247	DCB_se3_ag1_m_01	296.3051	And	296.6955
+248	DCB_se3_ag1_m_01	296.6955	(pause 0.78)	297.4762
+249	DCB_se3_ag1_m_01	297.4762	always I'll- wherever I went I will always make friends or be a sociable person, so it wasn't easy for me-	303.1493
+250	DCB_se3_ag1_m_01	303.1493	(pause 0.56)	303.7131
+251	DCB_se3_ag1_m_01	303.7131	it wasn't hard, I'm sorry. It wasn't hard for me to go out	306.1291
+252	DCB_se3_ag1_m_01	306.1291	(pause 0.40)	306.5300
+253	DCB_se3_ag1_m_01	306.5300	and like play with kids, I al- always had fun. We'd like, play	309.4929
+254	DCB_se3_ag1_m_01	309.4929	(pause 0.43)	309.9200
+255	DCB_se3_ag1_m_01	309.9200	like games like Manhunt,	311.4390
+256	DCB_se3_ag1_m_01	311.4390	(pause 0.12)	311.5591
+257	DCB_se3_ag1_m_01	311.5591	tag.	312.2364
+258	DCB_se3_ag1_m_01	312.2364	(pause 1.07)	313.3108
+259	DCB_se3_ag1_m_01	313.3108	We did sack races cause wherever I live-	315.2894
+260	DCB_se3_ag1_m_01	315.2894	(pause 0.13)	315.4229
+261	DCB_se3_ag1_m_01	315.4229	where I lived, it was in the woods.	316.9151
+262	DCB_se3_ag1_m_01	316.9151	(pause 0.40)	317.3122
+263	DCB_se3_ag1_m_01	317.3122	And it was like a community,	318.4166
+264	DCB_se3_ag1_m_01	318.4166	(pause 0.40)	318.8137
+265	DCB_se3_ag1_m_01	318.8137	like houses built in the woods. So we always had like,	321.1593
+266	DCB_se3_ag1_m_01	321.1593	(pause 0.35)	321.5096
+267	DCB_se3_ag1_m_01	321.5096	landfills, tennis court, basketball courts.	324.3332
+268	DCB_se3_ag1_m_01	324.3332	(pause 1.09)	325.4276
+269	DCB_se3_ag1_m_01	325.4276	Yeah.	325.6990
+270	DCB_int_01	326.0649	What's Manhunt? I have no clue. [Ex-] explain to me how to play it.	329.1512
+271	DCB_se3_ag1_m_01	327.6864	[So-]	328.0507
+272	DCB_se3_ag1_m_01	328.0507	(pause 1.09)	329.1445
+273	DCB_se3_ag1_m_01	329.1445	so it's like-	330.0229
+274	DCB_se3_ag1_m_01	330.1730	Cause we lived in the woods so our houses were in the back of like, woods.	334.2437
+275	DCB_se3_ag1_m_01	334.2437	(pause 0.40)	334.6474
+276	DCB_se3_ag1_m_01	334.6474	So we would	335.2054
+277	DCB_se3_ag1_m_01	335.2054	(pause 0.45)	335.6525
+278	DCB_se3_ag1_m_01	335.6525	run, we would start in like one /pecific/ place,	338.0194
+279	DCB_se3_ag1_m_01	338.0194	(pause 1.09)	339.1059
+280	DCB_se3_ag1_m_01	339.1059	and one team had- well, one person	341.3547
+281	DCB_se3_ag1_m_01	341.3547	(pause 0.30)	341.6525
+282	DCB_se3_ag1_m_01	341.6525	had to look for everybody on that team.	343.9046
+283	DCB_se3_ag1_m_01	343.9046	(pause 0.35)	344.2584
+284	DCB_se3_ag1_m_01	344.2584	And normally it'll be like, fifteen of us.	346.1269
+285	DCB_se3_ag1_m_01	346.1269	(pause 0.45)	346.5740
+286	DCB_se3_ag1_m_01	346.5740	And it would be like, two people that they would-	348.7469
+287	DCB_se3_ag1_m_01	348.7469	(pause 0.29)	349.0405
+288	DCB_se3_ag1_m_01	349.0405	they would go out and look for us. And we had this	350.7188
+289	DCB_se3_ag1_m_01	350.7188	(pause 0.34)	351.0558
+290	DCB_se3_ag1_m_01	351.0558	whole development that was like about	352.9110
+291	DCB_se3_ag1_m_01	352.9110	(pause 0.23)	353.1420
+292	DCB_se3_ag1_m_01	353.1420	I wanna say like,	353.6692
+293	DCB_se3_ag1_m_01	353.6692	(pause 1.12)	354.7903
+294	DCB_se3_ag1_m_01	354.7903	a acre and	355.7712
+295	DCB_se3_ag1_m_01	355.7712	(pause 0.40)	356.1750
+296	DCB_se3_ag1_m_01	356.1750	some-	356.4419
+297	DCB_se3_ag1_m_01	356.4419	(pause 0.16)	356.6021
+298	DCB_se3_ag1_m_01	356.6021	some change.	357.3595
+299	DCB_se3_ag1_m_01	357.3595	(pause 0.67)	358.0301
+300	DCB_se3_ag1_m_01	358.0301	So, you know, and they would have to look for us throughout the whole acre.	360.5108
+301	DCB_int_01	361.6678	So it's like hide and go seek but different.	363.4800
+302	DCB_se3_ag1_m_01	363.4829	Right.	363.8933
+303	DCB_se3_ag1_m_01	363.8933	(pause 0.71)	364.6040
+304	DCB_se3_ag1_m_01	364.6040	We would hide- we would hide in the- we would hide in trees, on the playground.	368.5186
+305	DCB_se3_ag1_m_01	368.5186	(pause 1.95)	370.4639
+306	DCB_se3_ag1_m_01	370.4639	Yeah.	370.7808
+307	DCB_int_01	370.7975	So how many people could play at one time?	372.5267
+308	DCB_se3_ag1_m_01	372.5367	It-	372.6235
+309	DCB_se3_ag1_m_01	372.6235	(pause 0.20)	372.8237
+310	DCB_se3_ag1_m_01	372.8237	it doesn't matter. Cause everywhere I lived	374.6621
+311	DCB_se3_ag1_m_01	374.6621	(pause 0.35)	375.0091
+312	DCB_se3_ag1_m_01	375.0091	families would always come	376.8242
+313	DCB_se3_ag1_m_01	376.8242	(pause 0.34)	377.1620
+314	DCB_se3_ag1_m_01	377.1620	into town, so	378.0496
+315	DCB_se3_ag1_m_01	378.0496	(pause 0.28)	378.3265
+316	DCB_se3_ag1_m_01	378.3265	it would range. Like one time it was like,	380.4325
+317	DCB_se3_ag1_m_01	380.4325	(pause 0.75)	381.1793
+318	DCB_se3_ag1_m_01	381.1793	ten of us.	381.9067
+319	DCB_se3_ag1_m_01	381.9067	(pause 0.53)	382.4372
+320	DCB_se3_ag1_m_01	382.4372	It was like, twenty.	383.4123
+321	DCB_se3_ag1_m_01	383.4123	(pause 0.15)	383.5624
+322	DCB_se3_ag1_m_01	383.5624	Most of us it's been thirty.	384.8270
+323	DCB_int_01	385.9614	Wow.	386.2317
+324	DCB_int_01	386.2317	(pause 0.12)	386.3552
+325	DCB_int_01	386.3552	So do you have a- you have a big family, clearly.	388.1344
+326	DCB_se3_ag1_m_01	388.1302	Yes.	388.6073
+327	DCB_int_01	389.0144	So how many sisters and brothers do you have?	390.5300
+328	DCB_se3_ag1_m_01	390.5334	I have two.	391.1373
+329	DCB_int_01	391.5911	Two sisters or a brother [and sister?]	393.2150
+330	DCB_se3_ag1_m_01	392.7555	[I have a brother] and a sister.	394.0535
+331	DCB_int_01	394.3971	Are you the baby?	395.1402
+332	DCB_se3_ag1_m_01	395.2713	Yes.	395.7604
+333	DCB_int_01	396.3899	Are you spoiled?	397.1139
+334	DCB_int_01	397.1139	(pause 1.35)	398.4686
+335	DCB_int_01	398.4686	Yes.	398.9190
+336	DCB_se3_ag1_m_01	399.5330	[<laugh>]	400.4806
+337	DCB_int_01	399.8967	[Yes.]	400.4191
+338	DCB_int_01	400.8309	Yes, that's a yes. Okay.	402.6034
+339	DCB_se3_ag1_m_01	402.6201	[<laugh>]	403.1073
+340	DCB_int_01	402.8537	[I'm glad] we got that cleared up.	403.9153
+341	DCB_se3_ag1_m_01	403.8980	<laugh>	404.2884
+342	DCB_int_01	404.6821	Um, <clears throat> so you [have a lot of] cousins and stuff?	406.8976
+343	DCB_se3_ag1_m_01	405.6698	[<clears throat>]	406.1135
+344	DCB_se3_ag1_m_01	406.1135	(pause 0.77)	406.8876
+345	DCB_se3_ag1_m_01	406.8876	Yes.	407.4086
+346	DCB_int_01	408.1897	And so when you played these games	409.8847
+347	DCB_int_01	409.8847	(pause 0.48)	410.3618
+348	DCB_int_01	410.3618	did you- did you like, ride your bikes and stuff?	412.0496
+349	DCB_se3_ag1_m_01	412.0868	Mm-hm, [we would] do that.	412.9919
+350	DCB_int_01	412.2870	[/?/]	412.5306
+351	DCB_se3_ag1_m_01	413.3389	I alway- I had a bike and I had a scooter, an el- little electric scooter. So I would be	417.8099
+352	DCB_se3_ag1_m_01	417.8099	(pause 0.36)	418.1736
+353	DCB_se3_ag1_m_01	418.1736	in the neighborhood with that	419.0544
+354	DCB_se3_ag1_m_01	419.0544	(pause 0.24)	419.2955
+355	DCB_se3_ag1_m_01	419.2955	mostly.	419.8027
+356	DCB_int_01	420.6435	Okay.	421.1406
+357	DCB_int_01	421.1406	(pause 0.14)	421.2774
+358	DCB_int_01	421.2774	So- okay so you played games with your little [friends and your] cousins.	425.7218
+359	DCB_se3_ag1_m_01	424.4739	[Mm-hm.]	424.8947
+360	DCB_int_01	426.1363	Um, were you all like, the same age or were some of them older?	429.3294
+361	DCB_se3_ag1_m_01	430.6807	We were mostly the same age but it was always older-	432.7575
+362	DCB_se3_ag1_m_01	432.7575	(pause 0.13)	432.8904
+363	DCB_se3_ag1_m_01	432.8904	s- a few older people.	433.9781
+364	DCB_int_01	434.3752	And they still played too?	435.1559
+365	DCB_se3_ag1_m_01	435.1359	Mm-hm, they were like, twelve, we were like,	436.7174
+366	DCB_se3_ag1_m_01	436.9410	I wanna say eight.	437.6592
+367	DCB_int_01	437.9795	Oh.	438.1430
+368	DCB_se3_ag1_m_01	438.1297	Like, four years difference.	439.4590
+369	DCB_int_01	440.2584	So-	441.0014
+370	DCB_int_01	441.0014	(pause 0.30)	441.3027
+371	DCB_int_01	441.3027	okay, so let's talk about /RD-SCHOOL-3/ cause clearly	443.9680
+372	DCB_int_01	443.9680	(pause 0.14)	444.1063
+373	DCB_int_01	444.1063	you went to that school.	445.5210
+374	DCB_se3_ag1_m_01	445.9014	Since first grade.	447.1326
+375	DCB_int_01	447.1793	Y- so you've	447.9852
+376	DCB_int_01	447.9852	(pause 0.45)	448.4372
+377	DCB_int_01	448.4372	always known that school, you haven't known anything else. So tell [me a little] bit about the school.	451.6384
+378	DCB_se3_ag1_m_01	450.5701	[Right.]	450.9132
+379	DCB_se3_ag1_m_01	452.0749	So it- it's a school	453.3561
+380	DCB_se3_ag1_m_01	453.3561	(pause 0.49)	453.8466
+381	DCB_se3_ag1_m_01	453.8466	that just was found I wanna say in two thousand four.	456.8437
+382	DCB_se3_ag1_m_01	456.8437	(pause 0.67)	457.5110
+383	DCB_se3_ag1_m_01	457.5110	It hasn't been around that long.	458.6232
+384	DCB_se3_ag1_m_01	458.6232	(pause 0.79)	459.4162
+385	DCB_se3_ag1_m_01	459.4162	Our- my class will be like, the fourth-	462.3332
+386	DCB_se3_ag1_m_01	462.3332	(pause 0.24)	462.5701
+387	DCB_se3_ag1_m_01	462.5701	yeah, the fourth class to graduate from the /RD-SCHOOL-3/ high school part.	465.5016
+388	DCB_se3_ag1_m_01	465.5016	(pause 2.07)	467.5724
+389	DCB_se3_ag1_m_01	467.5724	And it's a- it's a charter school.	469.2140
+390	DCB_se3_ag1_m_01	469.2140	(pause 0.50)	469.7145
+391	DCB_se3_ag1_m_01	469.7145	It was originally found by /RD-NAME-3/.	471.7031
+392	DCB_se3_ag1_m_01	471.7031	(pause 0.15)	471.8499
+393	DCB_se3_ag1_m_01	471.8499	I think she- she works for the mayor now.	473.6158
+394	DCB_se3_ag1_m_01	473.6158	(pause 0.13)	473.7493
+395	DCB_se3_ag1_m_01	473.7493	I forgot what she does for the mayor.	475.0728
+396	DCB_se3_ag1_m_01	475.0728	(pause 0.78)	475.8480
+397	DCB_se3_ag1_m_01	475.8480	And	476.3518
+398	DCB_se3_ag1_m_01	476.3518	(pause 0.25)	476.6021
+399	DCB_se3_ag1_m_01	476.6021	yeah.	476.9657
+400	DCB_int_01	477.5763	Do you like school?	478.2979
+401	DCB_se3_ag1_m_01	478.7475	I do.	479.1756
+402	DCB_int_01	480.8137	What's your favorite subject?	481.8905
+403	DCB_se3_ag1_m_01	482.4686	<clears throat>	482.9791
+404	DCB_se3_ag1_m_01	482.9791	(pause 0.97)	483.9534
+405	DCB_se3_ag1_m_01	483.9534	I would have to say sociology.	486.3232
+406	DCB_int_01	486.8971	Why?	487.2134
+407	DCB_se3_ag1_m_01	487.7712	Because it- it-	488.5587
+408	DCB_se3_ag1_m_01	488.5587	(pause 0.39)	488.9524
+409	DCB_se3_ag1_m_01	488.9524	it ha-	489.3617
+410	DCB_se3_ag1_m_01	489.3617	(pause 0.44)	489.7999
+411	DCB_se3_ag1_m_01	489.7999	You think about-	490.7208
+412	DCB_se3_ag1_m_01	490.7208	(pause 0.19)	490.9151
+413	DCB_se3_ag1_m_01	490.9151	when you think about sociology,	492.0763
+414	DCB_se3_ag1_m_01	492.0763	(pause 0.78)	492.8537
+415	DCB_se3_ag1_m_01	492.8537	it	492.9771
+416	DCB_se3_ag1_m_01	492.9771	(pause 0.43)	493.4042
+417	DCB_se3_ag1_m_01	493.4042	it has a lot to do with the mind and what you believe. And I like how it's no right or wrong answer. It's indifferent	499.0405
+418	DCB_se3_ag1_m_01	499.0405	(pause 0.52)	499.5610
+419	DCB_se3_ag1_m_01	499.5610	but it's no right or wrong answers.	501.0141
+420	DCB_se3_ag1_m_01	501.0141	(pause 0.50)	501.5096
+421	DCB_se3_ag1_m_01	501.5096	You ha- may have a person that think one way while you have another person that thinks another way.	505.2074
+422	DCB_se3_ag1_m_01	505.2074	(pause 0.87)	506.0749
+423	DCB_se3_ag1_m_01	506.0749	And	506.4419
+424	DCB_se3_ag1_m_01	506.4419	(pause 1.13)	507.5730
+425	DCB_se3_ag1_m_01	507.5730	like the different topics from-	509.5216
+426	DCB_se3_ag1_m_01	509.5216	(pause 0.72)	510.2431
+427	DCB_se3_ag1_m_01	510.2431	from poverty to red lining to	513.1526
+428	DCB_se3_ag1_m_01	513.1526	(pause 0.71)	513.8599
+429	DCB_se3_ag1_m_01	513.8599	segregation in classroom, segregation in education.	516.7903
+430	DCB_se3_ag1_m_01	516.7903	(pause 0.37)	517.1640
+431	DCB_se3_ag1_m_01	517.1640	You have different topics that you can	518.6054
+432	DCB_se3_ag1_m_01	518.6054	(pause 0.39)	518.9924
+433	DCB_se3_ag1_m_01	518.9924	get	519.1793
+434	DCB_se3_ag1_m_01	519.1793	(pause 0.80)	519.9801
+435	DCB_se3_ag1_m_01	519.9801	people different opinions from different walks	522.6168
+436	DCB_se3_ag1_m_01	522.6168	(pause 0.46)	523.0806
+437	DCB_se3_ag1_m_01	523.0806	of life.	523.7879
+438	DCB_int_01	523.9114	Mm-hm.	524.2984
+439	DCB_se3_ag1_m_01	524.6988	And to come together and hear about it and share personal stories, I like that.	528.5467
+440	DCB_int_01	529.3675	So, let me ask you this then. [Do you] think-	532.0735
+441	DCB_se3_ag1_m_01	531.1025	[Mm-hm.]	531.4755
+442	DCB_int_01	533.2279	um,	533.8160
+443	DCB_int_01	533.8160	(pause 1.34)	535.1540
+444	DCB_int_01	535.1540	do you think-	536.1641
+445	DCB_int_01	536.1641	(pause 1.67)	537.8333
+446	DCB_int_01	537.8333	When you hear these stories, how do-	540.2197
+447	DCB_int_01	540.2197	(pause 0.19)	540.4066
+448	DCB_int_01	540.4066	how do you- how do they make you feel? Like when you hear people's	543.0558
+449	DCB_int_01	543.0558	(pause 0.34)	543.3995
+450	DCB_int_01	543.3995	different opinions,	544.4972
+451	DCB_int_01	544.4972	(pause 0.85)	545.3489
+452	DCB_int_01	545.3489	what do you do with that?	546.1930
+453	DCB_se3_ag1_m_01	547.0369	I internalize it.	548.1449
+454	DCB_se3_ag1_m_01	548.1449	(pause 0.25)	548.3985
+455	DCB_se3_ag1_m_01	548.3985	And I could-	548.9591
+456	DCB_se3_ag1_m_01	548.9591	(pause 0.25)	549.2060
+457	DCB_se3_ag1_m_01	549.2060	my thing is I can agree with you or I can disagree but you would never know	552.1230
+458	DCB_se3_ag1_m_01	552.1230	(pause 0.51)	552.6301
+459	DCB_se3_ag1_m_01	552.6301	that-	552.9371
+460	DCB_se3_ag1_m_01	552.9371	(pause 0.83)	553.7679
+461	DCB_se3_ag1_m_01	553.7679	you would never know that I don't- I don't-	555.5080
+462	DCB_se3_ag1_m_01	555.5080	(pause 1.09)	556.6007
+463	DCB_se3_ag1_m_01	556.6007	I don't like your opinion because I would do it very respectfully.	559.5444
+464	DCB_se3_ag1_m_01	559.5444	(pause 0.64)	560.1816
+465	DCB_se3_ag1_m_01	560.1816	And it's different when you-	561.3695
+466	DCB_se3_ag1_m_01	561.3695	(pause 0.22)	561.5930
+467	DCB_se3_ag1_m_01	561.5930	you have to-	562.1235
+468	DCB_se3_ag1_m_01	562.1235	(pause 0.41)	562.5306
+469	DCB_se3_ag1_m_01	562.5306	you have to say,	563.2112
+470	DCB_se3_ag1_m_01	563.2112	(pause 0.19)	563.3989
+471	DCB_se3_ag1_m_01	563.3989	well I see what you're saying but then again,	565.2274
+472	DCB_se3_ag1_m_01	565.2274	(pause 0.34)	565.5644
+473	DCB_se3_ag1_m_01	565.5644	it- it doesn't make sense but I'll-	567.2460
+474	DCB_se3_ag1_m_01	567.2460	(pause 0.17)	567.4162
+475	DCB_se3_ag1_m_01	567.4162	I'll follow along with you.	568.6908
+476	DCB_int_01	569.6559	So when people don't- Oh. So wait wait wait wait wait wait wait. So when people say something that doesn't make sense,	574.0234
+477	DCB_se3_ag1_m_01	574.1135	Mm-hm.	574.4734
+478	DCB_int_01	574.7450	do you try to	576.1367
+479	DCB_int_01	576.1367	(pause 0.86)	576.9972
+480	DCB_int_01	576.9972	not necessarily correct them but do you try to like,	578.9632
+481	DCB_int_01	578.9632	(pause 1.26)	580.2270
+482	DCB_int_01	580.2270	give them a different view point [or just] go with it?	582.1263
+483	DCB_se3_ag1_m_01	581.3456	[Right.]	581.6725
+484	DCB_se3_ag1_m_01	582.2131	No, I give them a like different view point mostly.	585.0759
+485	DCB_int_01	585.6231	<ts> So,	586.0401
+486	DCB_int_01	586.0401	(pause 0.19)	586.2270
+487	DCB_int_01	586.2270	let's think about the last conversation you had with somebody [that] it just was like,	589.9940
+488	DCB_se3_ag1_m_01	588.7936	[Mm-hm.]	589.1056
+489	DCB_int_01	590.3018	you- what you saying doesn't-	591.4963
+490	DCB_int_01	591.4963	(pause 0.30)	591.7999
+491	DCB_int_01	591.7999	you- this is crazy. [Tell me about] that.	593.3353
+492	DCB_se3_ag1_m_01	592.6641	[Right.]	592.9543
+493	DCB_se3_ag1_m_01	595.6745	I wanna say	596.5754
+494	DCB_se3_ag1_m_01	596.5754	(pause 1.31)	597.8833
+495	DCB_se3_ag1_m_01	597.8833	the last con- I have had	599.2649
+496	DCB_se3_ag1_m_01	599.2649	(pause 4.40)	603.6664
+497	DCB_se3_ag1_m_01	603.6664	with one of my peers	605.3189
+498	DCB_se3_ag1_m_01	605.3189	(pause 0.56)	605.8794
+499	DCB_se3_ag1_m_01	605.8794	it was about our	606.6708
+500	DCB_se3_ag1_m_01	606.6708	(pause 0.20)	606.8737
+501	DCB_se3_ag1_m_01	606.8737	current president now	607.8751
+502	DCB_int_01	608.2484	Mm-hm.	608.6460
+503	DCB_se3_ag1_m_01	608.8623	which is Donald Trump.	609.8599
+504	DCB_int_01	610.0902	Mm-hm.	610.3704
+505	DCB_se3_ag1_m_01	611.6458	<clears throat>	611.8229
+506	DCB_se3_ag1_m_01	611.8229	(pause 0.73)	612.5567
+507	DCB_se3_ag1_m_01	612.5567	And he's	612.9471
+508	DCB_se3_ag1_m_01	612.9471	(pause 0.23)	613.1807
+509	DCB_se3_ag1_m_01	613.1807	thinks that Donald Trump is very illiterate, he thinks he doesn't know nothing.	616.6941
+510	DCB_se3_ag1_m_01	616.6941	(pause 1.00)	617.6959
+511	DCB_se3_ag1_m_01	617.6959	And I told him, I was like,	619.0572
+512	DCB_se3_ag1_m_01	619.0572	(pause 0.97)	620.0282
+513	DCB_se3_ag1_m_01	620.0282	you	620.2017
+514	DCB_se3_ag1_m_01	620.2017	(pause 0.33)	620.5287
+515	DCB_se3_ag1_m_01	620.5287	can't-	620.9481
+516	DCB_se3_ag1_m_01	620.9481	(pause 0.44)	621.3928
+517	DCB_se3_ag1_m_01	621.3928	you can't get mad at him.	622.6274
+518	DCB_se3_ag1_m_01	622.6274	(pause 0.07)	622.7016
+519	DCB_se3_ag1_m_01	622.7016	First of all you have to think,	623.7760
+520	DCB_se3_ag1_m_01	623.7760	(pause 0.21)	623.9862
+521	DCB_se3_ag1_m_01	623.9862	he's a business man.	625.0598
+522	DCB_se3_ag1_m_01	625.0598	(pause 1.28)	626.3418
+523	DCB_se3_ag1_m_01	626.3418	I agree that some of the stuff that- majority,	628.4338
+524	DCB_se3_ag1_m_01	628.4338	(pause 0.12)	628.5506
+525	DCB_se3_ag1_m_01	628.5506	let's say majority, not some but majority	630.7275
+526	DCB_se3_ag1_m_01	630.7275	(pause 0.31)	631.0372
+527	DCB_se3_ag1_m_01	631.0372	of the stuff that he's doing is wrong	632.8790
+528	DCB_se3_ag1_m_01	632.8790	(pause 0.78)	633.6631
+529	DCB_se3_ag1_m_01	633.6631	and it's gonna affect people lives,	635.3114
+530	DCB_se3_ag1_m_01	635.3114	(pause 0.85)	636.1597
+531	DCB_se3_ag1_m_01	636.1597	people's household and people	638.0682
+532	DCB_se3_ag1_m_01	638.0682	(pause 0.30)	638.3652
+533	DCB_se3_ag1_m_01	638.3652	work ability.	639.2054
+534	DCB_se3_ag1_m_01	639.2054	(pause 1.42)	640.6207
+535	DCB_se3_ag1_m_01	640.6207	But also we have to think about- we have to hear him out, we have to come to like, a common ground.	645.1587
+536	DCB_se3_ag1_m_01	645.1587	(pause 0.27)	645.4262
+537	DCB_se3_ag1_m_01	645.4262	Cause he's gonna be our president for the next four years.	647.5916
+538	DCB_se3_ag1_m_01	647.5916	(pause 0.32)	647.9094
+539	DCB_se3_ag1_m_01	647.9094	Or might	648.4366
+540	DCB_se3_ag1_m_01	648.4366	(pause 0.24)	648.6802
+541	DCB_se3_ag1_m_01	648.6802	be even eight.	649.5077
+542	DCB_se3_ag1_m_01	649.5077	(pause 0.93)	650.4386
+543	DCB_se3_ag1_m_01	650.4386	So let's-	650.8990
+544	DCB_se3_ag1_m_01	650.8990	(pause 0.49)	651.3895
+545	DCB_se3_ag1_m_01	651.3895	let's stop	652.0034
+546	DCB_se3_ag1_m_01	652.0034	(pause 0.22)	652.2203
+547	DCB_se3_ag1_m_01	652.2203	pointing the finger where	653.5925
+548	DCB_se3_ag1_m_01	653.5925	(pause 0.45)	654.0396
+549	DCB_se3_ag1_m_01	654.0396	we all should sit down and have a conversation	656.4119
+550	DCB_se3_ag1_m_01	656.4119	(pause 0.63)	657.0425
+551	DCB_se3_ag1_m_01	657.0425	on what this side- this is what you believe and this is what I believe.	660.2431
+552	DCB_se3_ag1_m_01	660.2431	(pause 0.38)	660.6268
+553	DCB_se3_ag1_m_01	660.6268	And let's try to have both our ideas coexist	663.4506
+554	DCB_se3_ag1_m_01	663.4506	(pause 0.31)	663.7599
+555	DCB_se3_ag1_m_01	663.7599	so we can coexist.	664.9810
+556	DCB_se3_ag1_m_01	664.9810	(pause 0.77)	665.7560
+557	DCB_se3_ag1_m_01	665.7560	That make sense?	666.5934
+558	DCB_int_01	666.6068	Mm-hm.	667.0117
+559	DCB_se3_ag1_m_01	667.8113	[So-]	668.1516
+560	DCB_int_01	667.9381	[And what] did your friend say?	668.9525
+561	DCB_se3_ag1_m_01	669.4429	He was like, I never thought of that. He was like, /RD-NAME-3/ you make-	672.0930
+562	DCB_se3_ag1_m_01	672.0930	(pause 0.78)	672.8770
+563	DCB_se3_ag1_m_01	672.8770	you make good points.	674.0715
+564	DCB_se3_ag1_m_01	674.0715	(pause 0.37)	674.4386
+565	DCB_se3_ag1_m_01	674.4386	I said, yeah you have to-	675.3661
+566	DCB_se3_ag1_m_01	675.3661	(pause 0.30)	675.6664
+567	DCB_se3_ag1_m_01	675.6664	you have to just go above and beyond. You also have to think about your point about-	679.5277
+568	DCB_se3_ag1_m_01	679.5277	(pause 0.46)	679.9915
+569	DCB_se3_ag1_m_01	679.9915	while the person over there is thinking about the same point if not different than you.	683.7818
+570	DCB_se3_ag1_m_01	683.7818	(pause 0.14)	683.9261
+571	DCB_se3_ag1_m_01	683.9261	You have to-	684.4356
+572	DCB_se3_ag1_m_01	684.4356	(pause 0.29)	684.7273
+573	DCB_se3_ag1_m_01	684.7273	you have to learn how to coexist.	686.0816
+574	DCB_int_01	686.4119	Mm-hm.	686.8153
+575	DCB_int_01	686.8153	(pause 1.18)	687.9967
+576	DCB_int_01	687.9967	So what happens when-	689.2188
+577	DCB_int_01	689.2188	(pause 4.75)	693.9667
+578	DCB_int_01	693.9667	What happens when people don't see it your way?	695.7210
+579	DCB_int_01	695.7210	(pause 0.53)	696.2531
+580	DCB_int_01	696.2531	Or don't even wanna listen to you?	697.6945
+581	DCB_int_01	697.6945	(pause 0.89)	698.5854
+582	DCB_int_01	698.5854	Like they don't feel like you have something valid to say.	700.5006
+583	DCB_se3_ag1_m_01	700.4806	Right.	700.7842
+584	DCB_int_01	700.8776	What do you do?	701.4102
+585	DCB_se3_ag1_m_01	702.2298	I still state my reason, and if you don't like it, that's- that's-	705.5763
+586	DCB_se3_ag1_m_01	705.5763	(pause 0.13)	705.7098
+587	DCB_se3_ag1_m_01	705.7098	that's your prerogative, that's your decision.	707.6461
+588	DCB_se3_ag1_m_01	707.6461	(pause 1.56)	709.2040
+589	DCB_se3_ag1_m_01	709.2040	I don't-	709.6568
+590	DCB_se3_ag1_m_01	709.6568	(pause 0.22)	709.8780
+591	DCB_se3_ag1_m_01	709.8780	I don't	710.3818
+592	DCB_se3_ag1_m_01	710.3818	(pause 0.35)	710.7288
+593	DCB_se3_ag1_m_01	710.7288	shy them down or dumb them down, be like, oh,	713.3647
+594	DCB_se3_ag1_m_01	713.3647	(pause 0.40)	713.7660
+595	DCB_se3_ag1_m_01	713.7660	you- you're not listening to me, you're not right anyway I just-	716.1865
+596	DCB_se3_ag1_m_01	716.1865	(pause 0.26)	716.4452
+597	DCB_se3_ag1_m_01	716.4452	I state my thing,	717.2794
+598	DCB_se3_ag1_m_01	717.2794	(pause 0.23)	717.5063
+599	DCB_se3_ag1_m_01	717.5063	state my reason,	718.4801
+600	DCB_se3_ag1_m_01	718.4801	(pause 0.59)	719.0745
+601	DCB_se3_ag1_m_01	719.0745	and	719.5749
+602	DCB_se3_ag1_m_01	719.5749	(pause 0.78)	720.3532
+603	DCB_se3_ag1_m_01	720.3532	if you don't like it,	721.4276
+604	DCB_se3_ag1_m_01	721.4276	(pause 0.89)	722.3184
+605	DCB_se3_ag1_m_01	722.3184	or if you don't agree with it	723.6698
+606	DCB_se3_ag1_m_01	723.6698	(pause 0.84)	724.5106
+607	DCB_se3_ag1_m_01	724.5106	I continue on.	725.5716
+608	DCB_se3_ag1_m_01	725.5716	(pause 2.91)	728.4819
+609	DCB_se3_ag1_m_01	728.4819	Cause whatever- what-	729.6064
+610	DCB_se3_ag1_m_01	729.6064	(pause 0.32)	729.9233
+611	DCB_se3_ag1_m_01	729.9233	mm, what you might find	731.3981
+612	DCB_se3_ag1_m_01	731.3981	(pause 0.68)	732.0796
+613	DCB_se3_ag1_m_01	732.0796	and you may think that what I think is	734.1249
+614	DCB_se3_ag1_m_01	734.1249	(pause 0.53)	734.6521
+615	DCB_se3_ag1_m_01	734.6521	um, dumb.	735.4128
+616	DCB_se3_ag1_m_01	735.4128	(pause 0.38)	735.7932
+617	DCB_se3_ag1_m_01	735.7932	Another person might find	737.0369
+618	DCB_se3_ag1_m_01	737.0369	(pause 0.25)	737.2822
+619	DCB_se3_ag1_m_01	737.2822	clarity in a question that they might have.	739.4032
+620	DCB_int_01	739.8513	Hm.	740.0615
+621	DCB_se3_ag1_m_01	740.0148	And look at it like,	740.7879
+622	DCB_se3_ag1_m_01	741.2660	oh I didn't think of it like that.	742.8232
+623	DCB_se3_ag1_m_01	742.8232	(pause 1.19)	744.0095
+624	DCB_se3_ag1_m_01	744.0095	While you over here, you judging me because you didn't like my-	746.5453
+625	DCB_se3_ag1_m_01	746.5453	(pause 0.61)	747.1526
+626	DCB_se3_ag1_m_01	747.1526	you didn't like my opinion that I gave you	749.2713
+627	DCB_se3_ag1_m_01	749.2713	(pause 0.47)	749.7459
+628	DCB_se3_ag1_m_01	749.7459	on something that may-	751.1206
+629	DCB_se3_ag1_m_01	751.1206	(pause 0.66)	751.7846
+630	DCB_se3_ag1_m_01	751.7846	I may be wrong or you may be wrong.	753.4996
+631	DCB_se3_ag1_m_01	753.4996	(pause 1.24)	754.7441
+632	DCB_se3_ag1_m_01	754.7441	You know what I'm saying?	755.2813
+633	DCB_int_01	755.3981	Mm-hm, I do.	756.1030
+634	DCB_int_01	756.1030	(pause 0.73)	756.8337
+635	DCB_int_01	756.8337	So let me ask you this.	757.8880
+636	DCB_se3_ag1_m_01	757.8346	Mm-hm.	758.1249
+637	DCB_int_01	758.3418	Because you seem to be like a very	760.3404
+638	DCB_int_01	760.3404	(pause 0.65)	760.9910
+639	DCB_int_01	760.9910	wise seventeen year old, like you	763.1907
+640	DCB_int_01	763.1907	(pause 0.09)	763.2808
+641	DCB_int_01	763.2808	sound like you're like an old-	764.9624
+642	DCB_se3_ag1_m_01	765.0725	Old [man.]	765.7332
+643	DCB_int_01	765.5230	[an] old man, y- you've probably gotten this before.	767.4296
+644	DCB_se3_ag1_m_01	767.4390	/I've have./	768.0562
+645	DCB_int_01	768.3693	Yup.	768.7786
+646	DCB_int_01	768.7786	(pause 0.64)	769.4194
+647	DCB_int_01	769.4194	Um,	770.1839
+648	DCB_int_01	770.1839	(pause 0.91)	771.0978
+649	DCB_int_01	771.0978	<ts> So let's take a step back cause [I'm'a ask] you some more questions kind of about [politics] and- and- and life and stuff, but I [wanna]	777.3864
+650	DCB_se3_ag1_m_01	772.1930	[Mm-hm.]	772.4948
+651	DCB_se3_ag1_m_01	772.4948	(pause 1.43)	773.9241
+652	DCB_se3_ag1_m_01	773.9241	[Mm-hm.]	774.2013
+653	DCB_se3_ag1_m_01	774.2013	(pause 2.86)	777.0612
+654	DCB_se3_ag1_m_01	777.0612	[Mm-hm.]	777.3181
+655	DCB_int_01	777.6060	take a step back.	778.3362
+656	DCB_int_01	778.3362	(pause 0.20)	778.5375
+657	DCB_int_01	778.5375	What was your favorite memory in elementary school?	781.9262
+658	DCB_int_01	781.9262	(pause 0.98)	782.9104
+659	DCB_int_01	782.9104	Like your favorite moment, whether it was a silly moment or you got a special prize, or	788.2326
+660	DCB_int_01	788.2326	(pause 0.40)	788.6365
+661	DCB_int_01	788.6365	you did something fun. What was your- that	790.3808
+662	DCB_int_01	790.3808	(pause 0.18)	790.5565
+663	DCB_int_01	790.5565	favorite moment? Maybe at school, or even at- at home.	793.5331
+664	DCB_se3_ag1_m_01	796.5024	I wanna say-	797.5393
+665	DCB_se3_ag1_m_01	797.5393	(pause 9.44)	806.9781
+666	DCB_se3_ag1_m_01	806.9781	I wanna say when I was in fifth grade,	808.6785
+667	DCB_se3_ag1_m_01	808.6785	(pause 1.45)	810.1284
+668	DCB_se3_ag1_m_01	810.1284	I r-	810.7128
+669	DCB_se3_ag1_m_01	810.7128	(pause 0.27)	810.9852
+670	DCB_se3_ag1_m_01	810.9852	um,	811.6398
+671	DCB_se3_ag1_m_01	811.6398	(pause 1.50)	813.1392
+672	DCB_se3_ag1_m_01	813.1392	we had a little speech	814.4705
+673	DCB_se3_ag1_m_01	814.4705	(pause 0.65)	815.1208
+674	DCB_se3_ag1_m_01	815.1208	and I talked.	816.2148
+675	DCB_se3_ag1_m_01	816.2148	(pause 0.42)	816.6366
+676	DCB_se3_ag1_m_01	816.6366	It's on YouTube.	817.3967
+677	DCB_se3_ag1_m_01	817.3967	(pause 1.32)	818.7148
+678	DCB_se3_ag1_m_01	818.7148	And it was about Abraham Lincoln.	821.0644
+679	DCB_se3_ag1_m_01	821.0644	(pause 0.81)	821.8706
+680	DCB_se3_ag1_m_01	821.8706	And I	822.3364
+681	DCB_se3_ag1_m_01	822.3364	(pause 0.28)	822.6132
+682	DCB_se3_ag1_m_01	822.6132	went up there with my suit	823.5798
+683	DCB_se3_ag1_m_01	823.5798	(pause 0.46)	824.0367
+684	DCB_se3_ag1_m_01	824.0367	and I said, da da da da da da.	825.4823
+685	DCB_se3_ag1_m_01	825.4823	(pause 0.69)	826.1677
+686	DCB_se3_ag1_m_01	826.1677	And then once	827.2233
+687	DCB_se3_ag1_m_01	827.2233	(pause 0.50)	827.7242
+688	DCB_se3_ag1_m_01	827.7242	I heard the applause	829.0071
+689	DCB_se3_ag1_m_01	829.0071	(pause 1.27)	830.2769
+690	DCB_se3_ag1_m_01	830.2769	I was- I was out blown because as me I was like really shy. I didn't wanna go up there first of all.	835.2858
+691	DCB_se3_ag1_m_01	835.2858	(pause 0.62)	835.9064
+692	DCB_se3_ag1_m_01	835.9064	I didn't wanna talk.	836.9521
+693	DCB_se3_ag1_m_01	836.9521	(pause 0.87)	837.8177
+694	DCB_se3_ag1_m_01	837.8177	My mom and dad, they was like, you should,	839.7261
+695	DCB_se3_ag1_m_01	839.7261	(pause 1.10)	840.8274
+696	DCB_se3_ag1_m_01	840.8274	you'll- you'll blow it out the park. And	842.6826
+697	DCB_se3_ag1_m_01	842.6826	(pause 0.14)	842.8232
+698	DCB_se3_ag1_m_01	842.8232	all of my friends, they had bigger lines than me and my little four sentence	846.9314
+699	DCB_se3_ag1_m_01	846.9314	(pause 0.40)	847.3356
+700	DCB_se3_ag1_m_01	847.3356	on a flip card	848.4296
+701	DCB_se3_ag1_m_01	848.4296	(pause 0.66)	849.0887
+702	DCB_se3_ag1_m_01	849.0887	that I had to study.	850.2091
+703	DCB_se3_ag1_m_01	850.2091	(pause 0.60)	850.8121
+704	DCB_se3_ag1_m_01	850.8121	They came up to me while they had like, paragraphs and I had like a	853.8526
+705	DCB_se3_ag1_m_01	853.8526	(pause 0.29)	854.1470
+706	DCB_se3_ag1_m_01	854.1470	four sentences.	854.9263
+707	DCB_se3_ag1_m_01	854.9263	(pause 0.92)	855.8429
+708	DCB_se3_ag1_m_01	855.8429	And they said, I think you did a good job, you did very well.	858.6888
+709	DCB_se3_ag1_m_01	858.6888	(pause 0.70)	859.3854
+710	DCB_se3_ag1_m_01	859.3854	That was a big moment for me.	860.5805
+711	DCB_se3_ag1_m_01	860.5805	(pause 1.34)	861.9206
+712	DCB_se3_ag1_m_01	861.9206	Cause after that I spoke in front of	864.3020
+713	DCB_se3_ag1_m_01	864.3020	(pause 0.30)	864.6051
+714	DCB_se3_ag1_m_01	864.6051	hundreds of people.	865.6849
+715	DCB_int_01	867.8532	So you think that was kind of the moment that helped you get over your [fears of /???/?]	871.6532
+716	DCB_se3_ag1_m_01	870.9332	[Mm-hm, and my] mom and dad was there.	872.8884
+717	DCB_int_01	875.2709	Was that important to you?	876.2771
+718	DCB_se3_ag1_m_01	876.2814	Yes.	876.8526
+719	DCB_int_01	876.9757	Why?	877.3486
+720	DCB_se3_ag1_m_01	877.8720	It's important to have somebody in your corner especially if somebody that cares about you and they know you.	882.8545
+721	DCB_se3_ag1_m_01	882.8545	(pause 1.35)	884.2000
+722	DCB_se3_ag1_m_01	884.2000	And they know the kind of character that you have and they see	886.6561
+723	DCB_se3_ag1_m_01	886.6561	(pause 1.13)	887.7853
+724	DCB_se3_ag1_m_01	887.7853	where you gonna go in life.	889.2203
+725	DCB_se3_ag1_m_01	889.2203	(pause 1.07)	890.2941
+726	DCB_se3_ag1_m_01	890.2941	that's monumental.	891.3497
+727	DCB_int_01	894.9614	Did you like middle school?	896.1050
+728	DCB_se3_ag1_m_01	904.3255	Yes.	904.9002
+729	DCB_int_01	905.1394	Yes, but you gave me a face [so.]	907.1145
+730	DCB_se3_ag1_m_01	906.6685	[I know.]	907.0990
+731	DCB_se3_ag1_m_01	907.2001	Yes.	907.6790
+732	DCB_int_01	907.6614	So tell me what the face is about [and then] the yes.	910.0297
+733	DCB_se3_ag1_m_01	909.1509	[But it-]	909.4629
+734	DCB_se3_ag1_m_01	910.1131	it-	910.4034
+735	DCB_se3_ag1_m_01	910.4034	(pause 0.18)	910.5833
+736	DCB_se3_ag1_m_01	910.5833	it- it had its ups and [downs.]	912.5959
+737	DCB_int_01	912.3408	[Mm.]	913.0306
+738	DCB_int_01	913.1844	Yup.	913.5718
+739	DCB_se3_ag1_m_01	914.0115	It has its ups and downs because	915.4658
+740	DCB_se3_ag1_m_01	915.4658	(pause 1.02)	916.4851
+741	DCB_se3_ag1_m_01	916.4851	you're at a point where	917.6432
+742	DCB_se3_ag1_m_01	917.6432	(pause 1.53)	919.1697
+743	DCB_se3_ag1_m_01	919.1697	you're-	919.5695
+744	DCB_se3_ag1_m_01	919.5695	(pause 0.22)	919.7936
+745	DCB_se3_ag1_m_01	919.7936	you're- you're still a child but you're put into a category	922.7165
+746	DCB_se3_ag1_m_01	922.7165	(pause 0.25)	922.9714
+747	DCB_se3_ag1_m_01	922.9714	of pre-teens.	924.1972
+748	DCB_se3_ag1_m_01	924.1972	(pause 1.50)	925.6999
+749	DCB_se3_ag1_m_01	925.6999	And	926.1129
+750	DCB_se3_ag1_m_01	926.1129	(pause 1.70)	927.8133
+751	DCB_se3_ag1_m_01	927.8133	you-	928.3405
+752	DCB_se3_ag1_m_01	928.3405	(pause 0.29)	928.6261
+753	DCB_se3_ag1_m_01	928.6261	you get- you /graph/ more.	930.5297
+754	DCB_se3_ag1_m_01	930.5297	(pause 0.57)	931.0965
+755	DCB_se3_ag1_m_01	931.0965	Within- between- between six, seven, and- and eighth grade you-	935.0640
+756	DCB_se3_ag1_m_01	935.0640	(pause 1.14)	936.2020
+757	DCB_se3_ag1_m_01	936.2020	you start to realize in- internal things differently as	939.8189
+758	DCB_se3_ag1_m_01	939.8189	(pause 0.09)	939.9109
+759	DCB_se3_ag1_m_01	939.9109	you were- than you- than you were a little kid.	942.3408
+760	DCB_se3_ag1_m_01	942.3408	(pause 0.77)	943.1100
+761	DCB_se3_ag1_m_01	943.1100	And you start to think about	944.4897
+762	DCB_se3_ag1_m_01	944.4897	(pause 0.54)	945.0301
+763	DCB_se3_ag1_m_01	945.0301	and interact with people differently or	947.1182
+764	DCB_se3_ag1_m_01	947.1182	(pause 0.38)	947.4961
+765	DCB_se3_ag1_m_01	947.4961	watch different things or listen to different music	950.6727
+766	DCB_se3_ag1_m_01	950.6727	(pause 0.43)	951.1033
+767	DCB_se3_ag1_m_01	951.1033	and stuff. I think that's when you really become	953.0893
+768	DCB_se3_ag1_m_01	953.0893	(pause 0.65)	953.7352
+769	DCB_se3_ag1_m_01	953.7352	the person that you later become in life.	955.6058
+770	DCB_se3_ag1_m_01	955.6058	(pause 0.70)	956.3066
+771	DCB_se3_ag1_m_01	956.3066	In sixth grade, and seven and eighth, between them years those our most	959.3295
+772	DCB_se3_ag1_m_01	959.3295	(pause 0.28)	959.6107
+773	DCB_se3_ag1_m_01	959.6107	crucial.	960.1291
+774	DCB_int_01	962.4765	So what happened in middle school that you feel like shaped who you are now?	965.6707
+775	DCB_se3_ag1_m_01	970.9091	Um,	971.4627
+776	DCB_se3_ag1_m_01	971.4627	(pause 3.48)	974.9426
+777	DCB_se3_ag1_m_01	974.9426	I lost- well,	976.1333
+778	DCB_se3_ag1_m_01	976.1333	(pause 1.22)	977.3547
+779	DCB_se3_ag1_m_01	977.3547	I lost-	977.9622
+780	DCB_se3_ag1_m_01	977.9622	(pause 0.49)	978.4499
+781	DCB_se3_ag1_m_01	978.4499	I lost a-	979.2144
+782	DCB_se3_ag1_m_01	979.2144	(pause 0.30)	979.5175
+783	DCB_se3_ag1_m_01	979.5175	he was a administrator, he was the guy	981.1432
+784	DCB_se3_ag1_m_01	981.1432	(pause 0.60)	981.7408
+785	DCB_se3_ag1_m_01	981.7408	at the school.	982.5141
+786	DCB_se3_ag1_m_01	982.5141	(pause 0.41)	982.9271
+787	DCB_se3_ag1_m_01	982.9271	He actually committed suicide.	984.2803
+788	DCB_se3_ag1_m_01	984.2803	(pause 2.04)	986.3245
+789	DCB_se3_ag1_m_01	986.3245	And	986.9001
+790	DCB_se3_ag1_m_01	986.9001	(pause 1.22)	988.1172
+791	DCB_se3_ag1_m_01	988.1172	thinking about that	989.0355
+792	DCB_se3_ag1_m_01	989.0355	(pause 0.77)	989.8088
+793	DCB_se3_ag1_m_01	989.8088	and stuff, and also when I lost my cousin	991.8606
+794	DCB_se3_ag1_m_01	991.8606	(pause 1.12)	992.9766
+795	DCB_se3_ag1_m_01	992.9766	that was- that was very-	994.1552
+796	DCB_se3_ag1_m_01	994.1552	(pause 0.45)	994.6078
+797	DCB_se3_ag1_m_01	994.6078	that was very monumental for me.	996.2598
+798	DCB_se3_ag1_m_01	996.2598	(pause 0.36)	996.6157
+799	DCB_se3_ag1_m_01	996.6157	Both of those events they happened back to back.	998.5929
+800	DCB_se3_ag1_m_01	998.5929	(pause 0.47)	999.0630
+801	DCB_se3_ag1_m_01	999.0630	He died	999.7221
+802	DCB_se3_ag1_m_01	999.7221	(pause 0.47)	1000.1966
+803	DCB_se3_ag1_m_01	1000.1966	on a weekday, and then my cousin died the following weekend.	1003.1035
+804	DCB_se3_ag1_m_01	1003.1035	(pause 1.47)	1004.5695
+805	DCB_se3_ag1_m_01	1004.5695	I was very sad because	1006.0590
+806	DCB_se3_ag1_m_01	1006.0590	(pause 3.03)	1009.0873
+807	DCB_se3_ag1_m_01	1009.0873	when y- when you're y- when you're young	1011.1524
+808	DCB_se3_ag1_m_01	1011.1524	(pause 0.15)	1011.3018
+809	DCB_se3_ag1_m_01	1011.3018	and stuff you don't-	1012.0399
+810	DCB_se3_ag1_m_01	1012.0399	(pause 0.70)	1012.7385
+811	DCB_se3_ag1_m_01	1012.7385	you- you think that you have all the time in the world. And to see somebody that's not that much older than you	1017.6079
+812	DCB_se3_ag1_m_01	1017.6079	(pause 0.67)	1018.2801
+813	DCB_se3_ag1_m_01	1018.2801	by like four years pass in front of you,	1020.1211
+814	DCB_se3_ag1_m_01	1020.1211	(pause 0.30)	1020.4198
+815	DCB_se3_ag1_m_01	1020.4198	you start to think about stuff and	1022.0455
+816	DCB_se3_ag1_m_01	1022.0455	(pause 0.32)	1022.3663
+817	DCB_se3_ag1_m_01	1022.3663	you start to-	1023.0385
+818	DCB_se3_ag1_m_01	1023.0385	(pause 0.36)	1023.3988
+819	DCB_se3_ag1_m_01	1023.3988	you start to act out a little bit.	1025.1958
+820	DCB_se3_ag1_m_01	1025.1958	(pause 0.95)	1026.1460
+821	DCB_se3_ag1_m_01	1026.1460	You start to say, oh, I'm gonna go in the classroom but I'm not gonna do no work today cause I don't feel like it.	1030.2102
+822	DCB_se3_ag1_m_01	1030.2102	(pause 0.45)	1030.6583
+823	DCB_se3_ag1_m_01	1030.6583	Or, today is not my day. Or,	1032.1917
+824	DCB_se3_ag1_m_01	1032.1917	(pause 0.54)	1032.7366
+825	DCB_se3_ag1_m_01	1032.7366	he keeps messing with me. Or,	1034.6621
+826	DCB_se3_ag1_m_01	1034.6621	(pause 0.55)	1035.2113
+827	DCB_se3_ag1_m_01	1035.2113	different- different little knick knacks and stuff.	1037.3115
+828	DCB_se3_ag1_m_01	1037.3115	(pause 2.31)	1039.6182
+829	DCB_se3_ag1_m_01	1039.6182	And you just- it starts to-	1041.0868
+830	DCB_se3_ag1_m_01	1041.0868	(pause 0.27)	1041.3592
+831	DCB_se3_ag1_m_01	1041.3592	it starts to play a role because	1042.9937
+832	DCB_se3_ag1_m_01	1042.9937	(pause 1.34)	1044.3294
+833	DCB_se3_ag1_m_01	1044.3294	when you s- when the teachers hand y- hands out that paper, they don't say,	1048.0992
+834	DCB_se3_ag1_m_01	1048.0992	(pause 0.70)	1048.7945
+835	DCB_se3_ag1_m_01	1048.7945	good morning, how you doing, they don't say none of that. They just hand you	1051.7911
+836	DCB_se3_ag1_m_01	1051.7911	(pause 0.33)	1052.1250
+837	DCB_se3_ag1_m_01	1052.1250	the paper and then they expect you to do your work.	1054.0116
+838	DCB_se3_ag1_m_01	1054.0116	(pause 0.44)	1054.4493
+839	DCB_se3_ag1_m_01	1054.4493	But while you're sitting there thinking and stuff and you have a lot of stuff that's going on and happening around you.	1059.0813
+840	DCB_se3_ag1_m_01	1059.0813	(pause 1.01)	1060.0919
+841	DCB_se3_ag1_m_01	1060.0919	You-	1060.3292
+842	DCB_se3_ag1_m_01	1060.3292	(pause 0.98)	1061.3090
+843	DCB_se3_ag1_m_01	1061.3090	like your friends or	1062.5875
+844	DCB_se3_ag1_m_01	1062.5875	(pause 0.33)	1062.9127
+845	DCB_se3_ag1_m_01	1062.9127	your grades are not where you want them to be. You-	1065.1765
+846	DCB_se3_ag1_m_01	1065.1765	(pause 0.31)	1065.4841
+847	DCB_se3_ag1_m_01	1065.4841	you think- while you have that test and you have that	1067.8875
+848	DCB_se3_ag1_m_01	1067.8875	(pause 0.32)	1068.2038
+849	DCB_se3_ag1_m_01	1068.2038	twenty minutes to be quiet,	1069.4912
+850	DCB_se3_ag1_m_01	1069.4912	(pause 0.50)	1069.9877
+851	DCB_se3_ag1_m_01	1069.9877	you think about	1070.8049
+852	DCB_se3_ag1_m_01	1070.8049	(pause 0.20)	1071.0026
+853	DCB_se3_ag1_m_01	1071.0026	what's going on.	1071.7602
+854	DCB_se3_ag1_m_01	1071.7602	(pause 0.76)	1072.5240
+855	DCB_se3_ag1_m_01	1072.5240	And you internalize it.	1073.7542
+856	DCB_se3_ag1_m_01	1073.7542	(pause 3.33)	1077.0802
+857	DCB_se3_ag1_m_01	1077.0802	And then you /?/	1077.6075
+858	DCB_se3_ag1_m_01	1077.6075	(pause 0.77)	1078.3808
+859	DCB_se3_ag1_m_01	1078.3808	you- you may get mad, or you may storm out the classroom or you may just sit there and shut down.	1082.4065
+860	DCB_se3_ag1_m_01	1082.4065	(pause 2.07)	1084.4716
+861	DCB_se3_ag1_m_01	1084.4716	Yeah.	1084.8010
+862	DCB_int_01	1085.0032	Hm.	1085.2456
+863	DCB_int_01	1085.2456	(pause 0.21)	1085.4514
+864	DCB_int_01	1085.4514	Did you do those things?	1086.6298
+865	DCB_se3_ag1_m_01	1087.3934	I- I shut down, yes.	1088.9367
+866	DCB_se3_ag1_m_01	1088.9367	(pause 1.88)	1090.8128
+867	DCB_se3_ag1_m_01	1090.8128	Storm out the classroom, no I've n- I've never did that.	1093.3700
+868	DCB_se3_ag1_m_01	1093.3700	(pause 2.41)	1095.7778
+869	DCB_se3_ag1_m_01	1095.7778	No.	1095.9911
+870	DCB_int_01	1097.7912	So how do you think you came out of that-	1099.7288
+871	DCB_int_01	1099.7288	(pause 0.39)	1100.1155
+872	DCB_int_01	1100.1155	that moment, or that y- kind of that dark period?	1102.6682
+873	DCB_int_01	1102.6682	(pause 0.22)	1102.8835
+874	DCB_int_01	1102.8835	What helped you come out of that period?	1104.4291
+875	DCB_se3_ag1_m_01	1106.9532	I-	1107.2432
+876	DCB_se3_ag1_m_01	1107.2432	(pause 0.18)	1107.4277
+877	DCB_se3_ag1_m_01	1107.4277	I was talking	1108.6888
+878	DCB_se3_ag1_m_01	1108.6888	(pause 0.21)	1108.8952
+879	DCB_se3_ag1_m_01	1108.8952	to somebody.	1109.6246
+880	DCB_se3_ag1_m_01	1109.6246	(pause 0.54)	1110.1694
+881	DCB_se3_ag1_m_01	1110.1694	I would talk to my mom, or I would talk to people.	1112.4421
+882	DCB_se3_ag1_m_01	1112.4421	(pause 0.26)	1112.7013
+883	DCB_se3_ag1_m_01	1112.7013	Because when you're around people,	1114.1117
+884	DCB_se3_ag1_m_01	1114.1117	(pause 0.34)	1114.4500
+885	DCB_se3_ag1_m_01	1114.4500	or you know it's people that care about you,	1116.4135
+886	DCB_se3_ag1_m_01	1116.4135	(pause 1.89)	1118.3033
+887	DCB_se3_ag1_m_01	1118.3033	you go to them for advice and they tell you that you can do it.	1121.1577
+888	DCB_se3_ag1_m_01	1121.1577	(pause 0.65)	1121.8062
+889	DCB_se3_ag1_m_01	1121.8062	And when-	1122.3818
+890	DCB_se3_ag1_m_01	1122.3818	(pause 0.37)	1122.7552
+891	DCB_se3_ag1_m_01	1122.7552	all you need is confidence, and when you have confidence that's the key to everything	1126.3405
+892	DCB_se3_ag1_m_01	1126.3405	(pause 0.32)	1126.6569
+893	DCB_se3_ag1_m_01	1126.6569	in life.	1127.0973
+894	DCB_se3_ag1_m_01	1127.0973	(pause 0.90)	1127.9937
+895	DCB_se3_ag1_m_01	1127.9937	Like you have to have confidence.	1129.3337
+896	DCB_se3_ag1_m_01	1129.3337	(pause 0.40)	1129.7292
+897	DCB_se3_ag1_m_01	1129.7292	You have to have confidence to talk to the person and tell 'em what you	1132.0535
+898	DCB_se3_ag1_m_01	1132.0535	(pause 0.20)	1132.2512
+899	DCB_se3_ag1_m_01	1132.2512	about to talk about or what you just did.	1134.2855
+900	DCB_se3_ag1_m_01	1134.2855	(pause 0.42)	1134.7029
+901	DCB_se3_ag1_m_01	1134.7029	That's- that takes confidence.	1136.3152
+902	DCB_int_01	1136.5493	Mm.	1136.9093
+903	DCB_se3_ag1_m_01	1138.0520	And when somebody buil- helps build up that confidence that's in you,	1141.3824
+904	DCB_se3_ag1_m_01	1141.3824	(pause 1.54)	1142.9246
+905	DCB_se3_ag1_m_01	1142.9246	you brush all of that under the rug and you keep going.	1145.2060
+906	DCB_int_01	1147.9170	What do you think helped build your confidence the most?	1150.0926
+907	DCB_se3_ag1_m_01	1150.7290	My family	1151.5385
+908	DCB_se3_ag1_m_01	1151.5385	(pause 0.56)	1152.1009
+909	DCB_se3_ag1_m_01	1152.1009	and my friends.	1152.9797
+910	DCB_se3_ag1_m_01	1152.9797	(pause 1.30)	1154.2758
+911	DCB_se3_ag1_m_01	1154.2758	And the Boys and Girls Club.	1155.5632
+912	DCB_int_01	1156.6572	Mm. Tell me- tell me about-	1158.3840
+913	DCB_int_01	1158.3840	(pause 0.26)	1158.6432
+914	DCB_int_01	1158.6432	tell me about your fam-	1159.6241
+915	DCB_int_01	1159.6241	(pause 0.12)	1159.7427
+916	DCB_int_01	1159.7427	tell me about each of those things actually,	1161.2396
+917	DCB_int_01	1161.2396	(pause 0.27)	1161.5046
+918	DCB_int_01	1161.5046	like how you think they helped contribute to that.	1163.8245
+919	DCB_se3_ag1_m_01	1163.8816	Cause they're always there.	1165.1094
+920	DCB_int_01	1165.4677	Mm.	1165.7537
+921	DCB_se3_ag1_m_01	1167.3757	It's- it goes above and beyond of the call of duty.	1170.3063
+922	DCB_se3_ag1_m_01	1170.3063	(pause 0.52)	1170.8248
+923	DCB_se3_ag1_m_01	1170.8248	Even though that doesn't make sense, but	1172.2615
+924	DCB_se3_ag1_m_01	1172.2615	(pause 0.45)	1172.7141
+925	DCB_se3_ag1_m_01	1172.7141	family can go above and beyond.	1174.2799
+926	DCB_se3_ag1_m_01	1174.2799	(pause 1.00)	1175.2756
+927	DCB_se3_ag1_m_01	1175.2756	It's not one person in my family that I have gotten none advice from	1178.5808
+928	DCB_se3_ag1_m_01	1178.5808	(pause 0.60)	1179.1784
+929	DCB_se3_ag1_m_01	1179.1784	on how to	1179.7364
+930	DCB_se3_ag1_m_01	1179.7364	(pause 0.81)	1180.5492
+931	DCB_se3_ag1_m_01	1180.5492	do better	1181.1775
+932	DCB_se3_ag1_m_01	1181.1775	(pause 0.73)	1181.9113
+933	DCB_se3_ag1_m_01	1181.9113	or what to do.	1183.0976
+934	DCB_se3_ag1_m_01	1183.0976	(pause 2.19)	1185.2911
+935	DCB_se3_ag1_m_01	1185.2911	They- they teach me everything.	1187.2332
+936	DCB_se3_ag1_m_01	1187.2332	(pause 0.28)	1187.5100
+937	DCB_se3_ag1_m_01	1187.5100	From our cousins	1188.6480
+938	DCB_se3_ag1_m_01	1188.6480	(pause 0.68)	1189.3290
+939	DCB_se3_ag1_m_01	1189.3290	to my-	1189.9265
+940	DCB_se3_ag1_m_01	1189.9265	(pause 0.62)	1190.5504
+941	DCB_se3_ag1_m_01	1190.5504	to my aunt and my uncles to my mom and my dad to my sister	1194.0944
+942	DCB_se3_ag1_m_01	1194.0944	(pause 0.34)	1194.4356
+943	DCB_se3_ag1_m_01	1194.4356	to my,	1195.0068
+944	DCB_se3_ag1_m_01	1195.0068	(pause 0.89)	1195.8943
+945	DCB_se3_ag1_m_01	1195.8943	um,	1196.3732
+946	DCB_se3_ag1_m_01	1196.3732	(pause 0.41)	1196.7818
+947	DCB_se3_ag1_m_01	1196.7818	grandparents.	1197.8282
+948	DCB_se3_ag1_m_01	1197.8282	(pause 2.34)	1200.1705
+949	DCB_se3_ag1_m_01	1200.1705	My friends, I'm around positive people, I don't like negative energy. If I feel like	1204.5818
+950	DCB_se3_ag1_m_01	1204.5818	(pause 0.48)	1205.0651
+951	DCB_se3_ag1_m_01	1205.0651	you	1205.3595
+952	DCB_se3_ag1_m_01	1205.3595	(pause 0.25)	1205.6143
+953	DCB_se3_ag1_m_01	1205.6143	giving me negative energy I'm'a go the opposite way, cause I got a future ahead of me.	1208.9290
+954	DCB_se3_ag1_m_01	1208.9290	(pause 0.52)	1209.4511
+955	DCB_se3_ag1_m_01	1209.4511	And I can't let none of that,	1210.9714
+956	DCB_se3_ag1_m_01	1210.9714	(pause 0.60)	1211.5733
+957	DCB_se3_ag1_m_01	1211.5733	none of the outsiders or the negative energy distract me from getting to where I need to be.	1215.7792
+958	DCB_se3_ag1_m_01	1215.7792	(pause 0.64)	1216.4163
+959	DCB_se3_ag1_m_01	1216.4163	And also the Boys and Girls Club because	1218.1430
+960	DCB_se3_ag1_m_01	1218.1430	(pause 2.06)	1220.2037
+961	DCB_se3_ag1_m_01	1220.2037	to surround	1221.2846
+962	DCB_se3_ag1_m_01	1221.2846	(pause 0.83)	1222.1117
+963	DCB_se3_ag1_m_01	1222.1117	adults	1222.9992
+964	DCB_se3_ag1_m_01	1222.9992	(pause 0.31)	1223.3068
+965	DCB_se3_ag1_m_01	1223.3068	and to be around kids that have the same dream	1225.7321
+966	DCB_se3_ag1_m_01	1225.7321	(pause 0.27)	1226.0045
+967	DCB_se3_ag1_m_01	1226.0045	as	1226.3209
+968	DCB_se3_ag1_m_01	1226.3209	(pause 0.31)	1226.6328
+969	DCB_se3_ag1_m_01	1226.6328	you, to be great in life	1228.0652
+970	DCB_se3_ag1_m_01	1228.0652	(pause 0.41)	1228.4738
+971	DCB_se3_ag1_m_01	1228.4738	or to be successful or-	1229.6759
+972	DCB_se3_ag1_m_01	1229.6759	(pause 0.25)	1229.9264
+973	DCB_se3_ag1_m_01	1229.9264	or whatever you wanna do.	1231.1726
+974	DCB_se3_ag1_m_01	1231.1726	(pause 0.29)	1231.4626
+975	DCB_se3_ag1_m_01	1231.4626	And to have	1231.9502
+976	DCB_se3_ag1_m_01	1231.9502	(pause 0.22)	1232.1700
+977	DCB_se3_ag1_m_01	1232.1700	adults	1232.7016
+978	DCB_se3_ag1_m_01	1232.7016	(pause 0.11)	1232.8159
+979	DCB_se3_ag1_m_01	1232.8159	behind you	1233.6068
+980	DCB_se3_ag1_m_01	1233.6068	(pause 0.34)	1233.9451
+981	DCB_se3_ag1_m_01	1233.9451	that supports you, and	1235.1577
+982	DCB_se3_ag1_m_01	1235.1577	(pause 0.46)	1235.6191
+983	DCB_se3_ag1_m_01	1235.6191	on Saturdays while you at home doing nothing they have activities planned for you to	1239.6360
+984	DCB_se3_ag1_m_01	1239.6360	(pause 0.42)	1240.0578
+985	DCB_se3_ag1_m_01	1240.0578	go to like a	1240.8136
+986	DCB_se3_ag1_m_01	1240.8136	(pause 0.46)	1241.2705
+987	DCB_se3_ag1_m_01	1241.2705	event, or learn how to be leaders.	1243.4234
+988	DCB_se3_ag1_m_01	1243.4234	(pause 0.32)	1243.7398
+989	DCB_se3_ag1_m_01	1243.7398	Or take you on field trips or-	1245.2117
+990	DCB_se3_ag1_m_01	1245.2117	(pause 0.42)	1245.6291
+991	DCB_se3_ag1_m_01	1245.6291	or go to events.	1246.8824
+992	DCB_se3_ag1_m_01	1246.8824	(pause 1.44)	1248.3235
+993	DCB_se3_ag1_m_01	1248.3235	So it's different stuff that the Boys and Girls Club do.	1251.2454
+994	DCB_se3_ag1_m_01	1251.2454	(pause 0.46)	1251.7067
+995	DCB_se3_ag1_m_01	1251.7067	And at the end of the day,	1252.7261
+996	DCB_se3_ag1_m_01	1252.7261	(pause 1.85)	1254.5769
+997	DCB_se3_ag1_m_01	1254.5769	these people have lives and they sacrifice	1256.4970
+998	DCB_se3_ag1_m_01	1256.4970	(pause 0.34)	1256.8397
+999	DCB_se3_ag1_m_01	1256.8397	their time	1257.5119
+1000	DCB_se3_ag1_m_01	1257.5119	(pause 0.47)	1257.9821
+1001	DCB_se3_ag1_m_01	1257.9821	to make	1258.4258
+1002	DCB_se3_ag1_m_01	1258.4258	(pause 0.28)	1258.7026
+1003	DCB_se3_ag1_m_01	1258.7026	sure that these kids have smile on their faces.	1260.9346
+1004	DCB_se3_ag1_m_01	1260.9346	(pause 0.87)	1261.8057
+1005	DCB_se3_ag1_m_01	1261.8057	And I like that. That's-	1262.9964
+1006	DCB_se3_ag1_m_01	1262.9964	(pause 0.34)	1263.3347
+1007	DCB_se3_ag1_m_01	1263.3347	that's-	1263.6774
+1008	DCB_se3_ag1_m_01	1263.6774	(pause 0.09)	1263.7697
+1009	DCB_se3_ag1_m_01	1263.7697	I don't think you can get- you can't get that at any	1265.6722
+1010	DCB_se3_ag1_m_01	1265.6722	(pause 0.14)	1265.8172
+1011	DCB_se3_ag1_m_01	1265.8172	other school,	1266.6520
+1012	DCB_se3_ag1_m_01	1266.6520	(pause 1.13)	1267.7812
+1013	DCB_se3_ag1_m_01	1267.7812	any	1268.1766
+1014	DCB_se3_ag1_m_01	1268.1766	(pause 0.20)	1268.3787
+1015	DCB_se3_ag1_m_01	1268.3787	other-	1268.7851
+1016	DCB_se3_ag1_m_01	1268.7851	(pause 0.61)	1269.3937
+1017	DCB_se3_ag1_m_01	1269.3937	any other place where kids	1270.8447
+1018	DCB_se3_ag1_m_01	1270.8447	(pause 0.67)	1271.5125
+1019	DCB_se3_ag1_m_01	1271.5125	could be.	1271.9827
+1020	DCB_se3_ag1_m_01	1271.9827	(pause 0.76)	1272.7472
+1021	DCB_se3_ag1_m_01	1272.7472	But you get that here at the Boys and Girls Club.	1274.5881
+1022	DCB_int_01	1275.8887	What do you think about-	1277.0223
+1023	DCB_int_01	1277.0223	(pause 1.76)	1278.7809
+1024	DCB_int_01	1278.7809	<ts> What do you- Mm, let me ask you, I have two questions [actually.]	1281.1974
+1025	DCB_se3_ag1_m_01	1280.8459	[Mm-hm.]	1281.1855
+1026	DCB_int_01	1281.5357	What's been your most fun memory	1283.1922
+1027	DCB_int_01	1283.1922	(pause 0.36)	1283.5568
+1028	DCB_int_01	1283.5568	at the club?	1284.2534
+1029	DCB_se3_ag1_m_01	1286.2249	Becoming Torch Club president.	1287.5914
+1030	DCB_int_01	1288.0527	Oh yay, so tell me- tell me how that happened. Like, tell me	1291.6160
+1031	DCB_int_01	1291.6160	(pause 0.24)	1291.8533
+1032	DCB_int_01	1291.8533	how'd you get in-	1292.5412
+1033	DCB_int_01	1292.5412	(pause 0.20)	1292.7452
+1034	DCB_int_01	1292.7452	First of all tell me what is Torch Club, and like tell me how you got involved,	1296.3580
+1035	DCB_se3_ag1_m_01	1294.1962	Mm-hm.	1294.5609
+1036	DCB_int_01	1296.8105	why'd you wanna run for president? Tell me that whole kind of- l- what led up to all that.	1300.3650
+1037	DCB_se3_ag1_m_01	1300.4749	Well Torch Club is like a leadership program	1302.5366
+1038	DCB_se3_ag1_m_01	1302.5366	(pause 0.18)	1302.7212
+1039	DCB_se3_ag1_m_01	1302.7212	for ages I wanna say twelve	1304.5885
+1040	DCB_se3_ag1_m_01	1304.5885	(pause 0.41)	1304.9971
+1041	DCB_se3_ag1_m_01	1304.9971	to fourteen.	1305.7836
+1042	DCB_se3_ag1_m_01	1305.7836	(pause 1.30)	1307.0841
+1043	DCB_se3_ag1_m_01	1307.0841	It's a leadership program for kids	1308.9295
+1044	DCB_se3_ag1_m_01	1308.9295	(pause 0.83)	1309.7566
+1045	DCB_se3_ag1_m_01	1309.7566	and to-	1310.3542
+1046	DCB_se3_ag1_m_01	1310.3542	(pause 0.43)	1310.7892
+1047	DCB_se3_ag1_m_01	1310.7892	to become a better leader within the community.	1313.3275
+1048	DCB_se3_ag1_m_01	1313.3275	(pause 0.80)	1314.1240
+1049	DCB_se3_ag1_m_01	1314.1240	And you do different like- different like, community activities and stuff like that.	1318.2623
+1050	DCB_se3_ag1_m_01	1318.2623	(pause 2.59)	1320.8519
+1051	DCB_se3_ag1_m_01	1320.8519	And, um, what made me wanna do it	1323.0241
+1052	DCB_se3_ag1_m_01	1323.0241	(pause 1.00)	1324.0242
+1053	DCB_se3_ag1_m_01	1324.0242	because I feel-	1324.9776
+1054	DCB_se3_ag1_m_01	1324.9776	(pause 0.57)	1325.5455
+1055	DCB_se3_ag1_m_01	1325.5455	I was always that type of kid if somebody was doing something	1328.0499
+1056	DCB_se3_ag1_m_01	1328.0499	(pause 0.70)	1328.7485
+1057	DCB_se3_ag1_m_01	1328.7485	different,	1329.3065
+1058	DCB_se3_ag1_m_01	1329.3065	(pause 0.23)	1329.5394
+1059	DCB_se3_ag1_m_01	1329.5394	I would-	1329.9832
+1060	DCB_se3_ag1_m_01	1329.9832	(pause 0.82)	1330.8004
+1061	DCB_se3_ag1_m_01	1330.8004	I would-	1331.1255
+1062	DCB_se3_ag1_m_01	1331.1255	(pause 0.85)	1331.9779
+1063	DCB_se3_ag1_m_01	1331.9779	I would try to think outside the box.	1333.5168
+1064	DCB_se3_ag1_m_01	1333.5168	(pause 0.39)	1333.9035
+1065	DCB_se3_ag1_m_01	1333.9035	I would wanna be different, I don't wanna do the same thing that you're doing, or-	1337.0186
+1066	DCB_se3_ag1_m_01	1337.0186	(pause 0.46)	1337.4799
+1067	DCB_se3_ag1_m_01	1337.4799	Let me- let me-	1338.6135
+1068	DCB_se3_ag1_m_01	1338.6135	(pause 0.18)	1338.7981
+1069	DCB_se3_ag1_m_01	1338.7981	let me just think about it differently than you.	1341.6858
+1070	DCB_se3_ag1_m_01	1341.6858	(pause 3.02)	1344.7043
+1071	DCB_se3_ag1_m_01	1344.7043	And at that time it wasn't nobody that wanted to do that,	1347.4284
+1072	DCB_se3_ag1_m_01	1347.4284	(pause 0.38)	1347.8063
+1073	DCB_se3_ag1_m_01	1347.8063	to become a president.	1349.1719
+1074	DCB_se3_ag1_m_01	1349.1719	(pause 0.75)	1349.9252
+1075	DCB_se3_ag1_m_01	1349.9252	They didn't wanna run. But after I ran, everybody else wanted to start [running.]	1353.6335
+1076	DCB_int_01	1353.4621	[<laugh>]	1354.1959
+1077	DCB_se3_ag1_m_01	1354.1827	But that's okay.	1354.9165
+1078	DCB_se3_ag1_m_01	1355.5843	They wanted to, um-	1356.6520
+1079	DCB_se3_ag1_m_01	1356.6520	(pause 0.63)	1357.2814
+1080	DCB_se3_ag1_m_01	1357.2814	I was-	1357.6856
+1081	DCB_se3_ag1_m_01	1357.6856	(pause 0.61)	1358.2919
+1082	DCB_se3_ag1_m_01	1358.2919	I was like, I think I'm a good leader, even though I haven't been here for a while.	1361.6751
+1083	DCB_se3_ag1_m_01	1361.6751	(pause 1.03)	1362.7076
+1084	DCB_se3_ag1_m_01	1362.7076	I'm new,	1363.4458
+1085	DCB_se3_ag1_m_01	1363.4458	(pause 1.39)	1364.8309
+1086	DCB_se3_ag1_m_01	1364.8309	Everybody	1365.4680
+1087	DCB_se3_ag1_m_01	1365.4680	(pause 0.29)	1365.7624
+1088	DCB_se3_ag1_m_01	1365.7624	likes me.	1366.4654
+1089	DCB_se3_ag1_m_01	1366.4654	(pause 1.20)	1367.6648
+1090	DCB_se3_ag1_m_01	1367.6648	So I think I should run for president.	1369.3301
+1091	DCB_se3_ag1_m_01	1369.3301	(pause 0.33)	1369.6640
+1092	DCB_se3_ag1_m_01	1369.6640	I have- I'll- I can talk.	1371.2501
+1093	DCB_se3_ag1_m_01	1371.2501	(pause 0.36)	1371.6104
+1094	DCB_se3_ag1_m_01	1371.6104	I can advocate for people.	1373.0120
+1095	DCB_se3_ag1_m_01	1373.0120	(pause 0.76)	1373.7732
+1096	DCB_se3_ag1_m_01	1373.7732	I can- I can plan events.	1375.5483
+1097	DCB_int_01	1377.3849	Did you win?	1377.9648
+1098	DCB_se3_ag1_m_01	1378.2592	Yes.	1378.7733
+1099	DCB_se3_ag1_m_01	1378.7733	(pause 0.43)	1379.1995
+1100	DCB_se3_ag1_m_01	1379.1995	Two times.	1379.9201
+1101	DCB_int_01	1381.0591	<laugh>	1381.4633
+1102	DCB_int_01	1381.4633	(pause 0.90)	1382.3597
+1103	DCB_int_01	1382.3597	And so,	1383.5328
+1104	DCB_int_01	1383.5328	(pause 1.38)	1384.9080
+1105	DCB_int_01	1384.9080	um,	1385.7165
+1106	DCB_int_01	1385.7165	(pause 2.74)	1388.4582
+1107	DCB_int_01	1388.4582	how do you think-	1389.4522
+1108	DCB_int_01	1389.4522	(pause 0.15)	1389.6016
+1109	DCB_int_01	1389.6016	When you talk about your friends, you also say that your friends were-	1392.3624
+1110	DCB_int_01	1392.3624	(pause 0.17)	1392.5366
+1111	DCB_int_01	1392.5366	they helped build your confidence. How do you think your friends helped build your confidence?	1396.1395
+1112	DCB_se3_ag1_m_01	1396.3910	We help build each other.	1397.4719
+1113	DCB_se3_ag1_m_01	1397.4719	(pause 0.12)	1397.5949
+1114	DCB_se3_ag1_m_01	1397.5949	Because I have a small group of friends.	1399.5809
+1115	DCB_se3_ag1_m_01	1399.5809	(pause 1.56)	1401.1450
+1116	DCB_se3_ag1_m_01	1401.1450	I don't have-	1401.8832
+1117	DCB_se3_ag1_m_01	1401.8832	(pause 0.18)	1402.0633
+1118	DCB_se3_ag1_m_01	1402.0633	I'm-	1402.4203
+1119	DCB_se3_ag1_m_01	1402.4203	(pause 0.61)	1403.0256
+1120	DCB_se3_ag1_m_01	1403.0256	I wouldn't-	1403.4929
+1121	DCB_se3_ag1_m_01	1403.4929	(pause 0.58)	1404.0713
+1122	DCB_se3_ag1_m_01	1404.0713	I'm known,	1404.9072
+1123	DCB_se3_ag1_m_01	1404.9072	(pause 0.67)	1405.5750
+1124	DCB_se3_ag1_m_01	1405.5750	but I'm not like the star on the football team known.	1408.0755
+1125	DCB_se3_ag1_m_01	1408.0755	(pause 0.43)	1408.5012
+1126	DCB_se3_ag1_m_01	1408.5012	I- I'm known, like if you asked a kid like there, oh that's /RD-NAME-3/, tha- oh yeah, you don't know /RD-NAME-3/?	1412.8785
+1127	DCB_se3_ag1_m_01	1412.8785	(pause 0.54)	1413.4233
+1128	DCB_se3_ag1_m_01	1413.4233	But	1413.7836
+1129	DCB_se3_ag1_m_01	1413.7836	(pause 0.94)	1414.7239
+1130	DCB_se3_ag1_m_01	1414.7239	when you're-	1415.2335
+1131	DCB_se3_ag1_m_01	1415.2335	(pause 0.42)	1415.6509
+1132	DCB_se3_ag1_m_01	1415.6509	when you're around people,	1417.0042
+1133	DCB_se3_ag1_m_01	1417.0042	(pause 0.17)	1417.1756
+1134	DCB_se3_ag1_m_01	1417.1756	you get to know who they are.	1418.4761
+1135	DCB_se3_ag1_m_01	1418.4761	(pause 1.22)	1419.6932
+1136	DCB_se3_ag1_m_01	1419.6932	And you get to put 'em in a category of	1421.7813
+1137	DCB_se3_ag1_m_01	1421.7813	(pause 1.37)	1423.1477
+1138	DCB_se3_ag1_m_01	1423.1477	okay,	1423.6354
+1139	DCB_se3_ag1_m_01	1423.6354	(pause 0.22)	1423.8551
+1140	DCB_se3_ag1_m_01	1423.8551	I don't-	1424.2005
+1141	DCB_se3_ag1_m_01	1424.2005	(pause 0.28)	1424.4834
+1142	DCB_se3_ag1_m_01	1424.4834	you okay,	1425.2482
+1143	DCB_se3_ag1_m_01	1425.2482	(pause 1.05)	1426.2980
+1144	DCB_se3_ag1_m_01	1426.2980	I need to stay away from you, and	1427.8238
+1145	DCB_se3_ag1_m_01	1427.8238	(pause 0.33)	1428.1489
+1146	DCB_se3_ag1_m_01	1428.1489	me and you, we good. We gonna be like this.	1430.3150
+1147	DCB_se3_ag1_m_01	1430.3150	(pause 1.38)	1431.6902
+1148	DCB_se3_ag1_m_01	1431.6902	And you- you select 'em out,	1433.5339
+1149	DCB_se3_ag1_m_01	1433.5339	(pause 1.53)	1435.0602
+1150	DCB_se3_ag1_m_01	1435.0602	and you choose,	1436.1597
+1151	DCB_se3_ag1_m_01	1436.1597	(pause 1.32)	1437.4779
+1152	DCB_se3_ag1_m_01	1437.4779	and	1437.9172
+1153	DCB_se3_ag1_m_01	1437.9172	(pause 0.14)	1438.0622
+1154	DCB_se3_ag1_m_01	1438.0622	you guys talk about life and	1439.7978
+1155	DCB_se3_ag1_m_01	1439.7978	(pause 0.38)	1440.1756
+1156	DCB_se3_ag1_m_01	1440.1756	you-	1440.5403
+1157	DCB_se3_ag1_m_01	1440.5403	(pause 0.24)	1440.7776
+1158	DCB_se3_ag1_m_01	1440.7776	you build each other up. You tell	1442.5350
+1159	DCB_se3_ag1_m_01	1442.5350	(pause 0.33)	1442.8602
+1160	DCB_se3_ag1_m_01	1442.8602	each other what your problems is at home, or-	1445.1067
+1161	DCB_se3_ag1_m_01	1445.1067	(pause 0.85)	1445.9545
+1162	DCB_se3_ag1_m_01	1445.9545	or	1446.4773
+1163	DCB_se3_ag1_m_01	1446.4773	(pause 0.35)	1446.8288
+1164	DCB_se3_ag1_m_01	1446.8288	can you help me? And then it's like-	1448.3051
+1165	DCB_se3_ag1_m_01	1448.3051	(pause 0.64)	1448.9466
+1166	DCB_se3_ag1_m_01	1448.9466	it's like a team	1449.8429
+1167	DCB_se3_ag1_m_01	1449.8429	(pause 0.34)	1450.1856
+1168	DCB_se3_ag1_m_01	1450.1856	basically.	1450.7579
+1169	DCB_se3_ag1_m_01	1450.7579	(pause 0.13)	1450.8853
+1170	DCB_se3_ag1_m_01	1450.8853	My friendship is like a team, like we-	1452.5374
+1171	DCB_se3_ag1_m_01	1452.5374	(pause 0.28)	1452.8142
+1172	DCB_se3_ag1_m_01	1452.8142	we build on each other, we-	1454.2597
+1173	DCB_se3_ag1_m_01	1454.2597	(pause 0.32)	1454.5761
+1174	DCB_se3_ag1_m_01	1454.5761	we help each other out.	1455.5646
+1175	DCB_se3_ag1_m_01	1455.5646	(pause 0.60)	1456.1666
+1176	DCB_se3_ag1_m_01	1456.1666	Like today,	1456.8095
+1177	DCB_se3_ag1_m_01	1456.8095	(pause 1.50)	1458.3063
+1178	DCB_se3_ag1_m_01	1458.3063	I didn't understand	1459.4020
+1179	DCB_se3_ag1_m_01	1459.4020	(pause 0.36)	1459.7574
+1180	DCB_se3_ag1_m_01	1459.7574	something.	1460.4351
+1181	DCB_se3_ag1_m_01	1460.4351	(pause 0.85)	1461.2864
+1182	DCB_se3_ag1_m_01	1461.2864	And we have a test	1462.3013
+1183	DCB_se3_ag1_m_01	1462.3013	(pause 0.25)	1462.5518
+1184	DCB_se3_ag1_m_01	1462.5518	next	1463.0043
+1185	DCB_se3_ag1_m_01	1463.0043	(pause 0.15)	1463.1537
+1186	DCB_se3_ag1_m_01	1463.1537	week. And so my friend sat down,	1465.0345
+1187	DCB_se3_ag1_m_01	1465.0345	(pause 1.64)	1466.6775
+1188	DCB_se3_ag1_m_01	1466.6775	during her lunch period where she could be	1468.3746
+1189	DCB_se3_ag1_m_01	1468.3746	(pause 0.16)	1468.5371
+1190	DCB_se3_ag1_m_01	1468.5371	eat lunch and socializing with other people	1470.1672
+1191	DCB_se3_ag1_m_01	1470.1672	(pause 0.27)	1470.4396
+1192	DCB_se3_ag1_m_01	1470.4396	to sit down and explain	1471.7690
+1193	DCB_se3_ag1_m_01	1471.7690	(pause 1.14)	1472.9133
+1194	DCB_se3_ag1_m_01	1472.9133	on how	1473.6822
+1195	DCB_se3_ag1_m_01	1473.6822	(pause 0.23)	1473.9150
+1196	DCB_se3_ag1_m_01	1473.9150	the study guide is and how	1475.6043
+1197	DCB_se3_ag1_m_01	1475.6043	(pause 0.44)	1476.0471
+1198	DCB_se3_ag1_m_01	1476.0471	certain questions that may be on the test and what I need to look for and	1479.5462
+1199	DCB_se3_ag1_m_01	1479.5462	(pause 0.28)	1479.8213
+1200	DCB_se3_ag1_m_01	1479.8213	stuff like that.	1480.5774
+1201	DCB_se3_ag1_m_01	1480.5774	(pause 3.07)	1483.6493
+1202	DCB_se3_ag1_m_01	1483.6493	Yeah like, you- you're there for each other.	1485.6836
+1203	DCB_int_01	1487.8454	Do you think that, um-	1489.6613
+1204	DCB_int_01	1489.6613	(pause 0.72)	1490.3849
+1205	DCB_int_01	1490.3849	So, mm, let me ask you this before I ask you that one,	1492.1875
+1206	DCB_se3_ag1_m_01	1492.3456	Mm-hm.	1492.6268
+1207	DCB_int_01	1492.6180	What has been your most favorite high school memory?	1494.9291
+1208	DCB_se3_ag1_m_01	1496.9722	Senior pictures.	1497.8641
+1209	DCB_int_01	1498.4441	Tell me about it.	1499.0885
+1210	DCB_se3_ag1_m_01	1499.2756	I just took	1500.1851
+1211	DCB_se3_ag1_m_01	1500.1851	(pause 0.27)	1500.4532
+1212	DCB_se3_ag1_m_01	1500.4532	all my senior pictures last week.	1502.6544
+1213	DCB_se3_ag1_m_01	1502.6544	(pause 0.74)	1503.3969
+1214	DCB_se3_ag1_m_01	1503.3969	And that's a- that's a big accomplishment because believe it or not,	1505.9321
+1215	DCB_se3_ag1_m_01	1505.9321	(pause 0.39)	1506.3232
+1216	DCB_se3_ag1_m_01	1506.3232	nowadays you don't-	1507.1887
+1217	DCB_se3_ag1_m_01	1507.1887	(pause 1.28)	1508.4684
+1218	DCB_se3_ag1_m_01	1508.4684	you don't	1508.8858
+1219	DCB_se3_ag1_m_01	1508.8858	(pause 0.27)	1509.1582
+1220	DCB_se3_ag1_m_01	1509.1582	see that many kids graduating from high school. I mean, it's common but it's not-	1512.7435
+1221	DCB_se3_ag1_m_01	1512.7435	(pause 0.39)	1513.1345
+1222	DCB_se3_ag1_m_01	1513.1345	Like anything happen. I told my- I was telling my parents, I was like,	1515.8861
+1223	DCB_se3_ag1_m_01	1515.8861	(pause 1.76)	1517.6480
+1224	DCB_se3_ag1_m_01	1517.6480	every year somebody in high school when they're about to graduate somebody gets-	1521.0795
+1225	DCB_se3_ag1_m_01	1521.0795	(pause 0.19)	1521.2684
+1226	DCB_se3_ag1_m_01	1521.2684	somebody dies,	1522.2930
+1227	DCB_se3_ag1_m_01	1522.2930	(pause 0.15)	1522.4470
+1228	DCB_se3_ag1_m_01	1522.4470	or they drop out.	1523.2335
+1229	DCB_int_01	1525.0569	Mm.	1525.3573
+1230	DCB_se3_ag1_m_01	1527.4779	And in my family,	1528.5895
+1231	DCB_se3_ag1_m_01	1528.5895	(pause 1.09)	1529.6747
+1232	DCB_se3_ag1_m_01	1529.6747	I will be the first male to graduate from high school and	1532.4395
+1233	DCB_se3_ag1_m_01	1532.4395	(pause 0.82)	1533.2567
+1234	DCB_se3_ag1_m_01	1533.2567	continue	1534.0520
+1235	DCB_se3_ag1_m_01	1534.0520	(pause 0.35)	1534.4035
+1236	DCB_se3_ag1_m_01	1534.4035	to college.	1535.1900
+1237	DCB_se3_ag1_m_01	1535.1900	(pause 0.42)	1535.6118
+1238	DCB_se3_ag1_m_01	1535.6118	No male has ever done that.	1536.9706
+1239	DCB_se3_ag1_m_01	1536.9706	(pause 0.47)	1537.4439
+1240	DCB_se3_ag1_m_01	1537.4439	I will be the only male to do that.	1538.8247
+1241	DCB_se3_ag1_m_01	1538.8247	(pause 0.63)	1539.4574
+1242	DCB_se3_ag1_m_01	1539.4574	And for me to have them pictures,	1540.9996
+1243	DCB_se3_ag1_m_01	1540.9996	(pause 0.53)	1541.5268
+1244	DCB_se3_ag1_m_01	1541.5268	and	1541.8212
+1245	DCB_se3_ag1_m_01	1541.8212	(pause 0.47)	1542.2869
+1246	DCB_se3_ag1_m_01	1542.2869	as a reminder say, oh this is where you were f-	1544.4852
+1247	DCB_se3_ag1_m_01	1544.4852	(pause 0.18)	1544.6639
+1248	DCB_se3_ag1_m_01	1544.6639	eight years ago,	1545.5187
+1249	DCB_se3_ag1_m_01	1545.5187	(pause 0.48)	1545.9996
+1250	DCB_se3_ag1_m_01	1545.9996	you did something.	1546.9778
+1251	DCB_se3_ag1_m_01	1546.9778	(pause 0.17)	1547.1475
+1252	DCB_se3_ag1_m_01	1547.1475	You about to-	1547.7055
+1253	DCB_se3_ag1_m_01	1547.7055	(pause 0.46)	1548.1624
+1254	DCB_se3_ag1_m_01	1548.1624	you about to be-	1548.9896
+1255	DCB_se3_ag1_m_01	1548.9896	(pause 0.28)	1549.2740
+1256	DCB_se3_ag1_m_01	1549.2740	you about to be somebody's lawyer.	1550.7108
+1257	DCB_se3_ag1_m_01	1550.7108	(pause 1.66)	1552.3716
+1258	DCB_se3_ag1_m_01	1552.3716	You gon- you gonna be something in life.	1554.0511
+1259	DCB_se3_ag1_m_01	1554.0511	(pause 0.51)	1554.5564
+1260	DCB_se3_ag1_m_01	1554.5564	That's- that's a big accomplishment that	1556.1821
+1261	DCB_se3_ag1_m_01	1556.1821	(pause 0.57)	1556.7533
+1262	DCB_se3_ag1_m_01	1556.7533	have that photo that showed you that you mastered one part of your life, you about to go on to the next.	1561.3711
+1263	DCB_int_01	1562.7518	Hm, your dad didn't go to college?	1564.3654
+1264	DCB_se3_ag1_m_01	1564.3116	No.	1564.6671
+1265	DCB_int_01	1565.8142	No.	1566.1553
+1266	DCB_int_01	1566.1553	(pause 0.65)	1566.8028
+1267	DCB_int_01	1566.8028	But your dad's very [successful?]	1568.1147
+1268	DCB_se3_ag1_m_01	1567.9320	[Very] successful.	1568.9740
+1269	DCB_int_01	1570.0465	So,	1570.5181
+1270	DCB_int_01	1570.5181	(pause 0.38)	1570.8945
+1271	DCB_int_01	1570.8945	do you think-	1571.5707
+1272	DCB_int_01	1571.5707	(pause 1.05)	1572.6212
+1273	DCB_int_01	1572.6212	This not even the question I wanted to [ask you but] it kind of came up. [Do you] think that	1575.6705
+1274	DCB_se3_ag1_m_01	1573.6406	[Mm-hm.]	1573.9598
+1275	DCB_se3_ag1_m_01	1573.9598	(pause 0.74)	1574.7038
+1276	DCB_se3_ag1_m_01	1574.7038	[/Right./]	1575.0114
+1277	DCB_int_01	1576.5712	it takes going to college to be successful?	1578.2227
+1278	DCB_se3_ag1_m_01	1578.4132	No.	1578.7955
+1279	DCB_se3_ag1_m_01	1578.7955	(pause 1.22)	1580.0126
+1280	DCB_se3_ag1_m_01	1580.0126	No.	1580.2868
+1281	DCB_se3_ag1_m_01	1580.2868	(pause 2.24)	1582.5302
+1282	DCB_se3_ag1_m_01	1582.5302	I don't- I don't think so.	1583.8087
+1283	DCB_se3_ag1_m_01	1583.8087	(pause 0.75)	1584.5601
+1284	DCB_se3_ag1_m_01	1584.5601	It's plenty people out here that have government jobs and	1586.8723
+1285	DCB_se3_ag1_m_01	1586.8723	(pause 0.31)	1587.1842
+1286	DCB_se3_ag1_m_01	1587.1842	that's doing stuff and this and that	1589.1043
+1287	DCB_se3_ag1_m_01	1589.1043	(pause 0.79)	1589.8951
+1288	DCB_se3_ag1_m_01	1589.8951	that don't have a college degree.	1591.3539
+1289	DCB_se3_ag1_m_01	1591.3539	(pause 0.93)	1592.2853
+1290	DCB_se3_ag1_m_01	1592.2853	I think	1592.7862
+1291	DCB_se3_ag1_m_01	1592.7862	(pause 0.26)	1593.0454
+1292	DCB_se3_ag1_m_01	1593.0454	to go	1593.5606
+1293	DCB_se3_ag1_m_01	1593.5606	(pause 0.46)	1594.0176
+1294	DCB_se3_ag1_m_01	1594.0176	now	1594.5975
+1295	DCB_se3_ag1_m_01	1594.5975	(pause 1.67)	1596.2671
+1296	DCB_se3_ag1_m_01	1596.2671	and	1596.7768
+1297	DCB_se3_ag1_m_01	1596.7768	(pause 0.36)	1597.1415
+1298	DCB_se3_ag1_m_01	1597.1415	to think-	1597.7434
+1299	DCB_se3_ag1_m_01	1597.7434	(pause 0.41)	1598.1565
+1300	DCB_se3_ag1_m_01	1598.1565	to go to school now I think that's the right thing to do.	1600.8893
+1301	DCB_se3_ag1_m_01	1600.8893	(pause 0.43)	1601.3199
+1302	DCB_se3_ag1_m_01	1601.3199	But you can- you can come out-	1602.4898
+1303	DCB_se3_ag1_m_01	1602.4898	(pause 0.17)	1602.6611
+1304	DCB_se3_ag1_m_01	1602.6611	you can come out with something.	1603.8381
+1305	DCB_se3_ag1_m_01	1603.8381	(pause 1.09)	1604.9283
+1306	DCB_se3_ag1_m_01	1604.9283	You don't have to go to school to be successful.	1607.1382
+1307	DCB_se3_ag1_m_01	1607.1382	(pause 1.02)	1608.1577
+1308	DCB_se3_ag1_m_01	1608.1577	That's me personally, but I-	1609.8185
+1309	DCB_se3_ag1_m_01	1609.8185	(pause 0.46)	1610.2765
+1310	DCB_se3_ag1_m_01	1610.2765	I- me personally I would go to school to be successful	1612.6843
+1311	DCB_se3_ag1_m_01	1612.6843	(pause 0.28)	1612.9611
+1312	DCB_se3_ag1_m_01	1612.9611	cause that's what I wanna do.	1614.0031
+1313	DCB_se3_ag1_m_01	1614.0031	(pause 2.04)	1616.0455
+1314	DCB_se3_ag1_m_01	1616.0455	But you don't have to go out, it's plenty of-	1617.6229
+1315	DCB_se3_ag1_m_01	1617.6229	(pause 0.19)	1617.8173
+1316	DCB_se3_ag1_m_01	1617.8173	it's plenty of things you can- it's plenty of programs you can start, it's plenty	1621.2488
+1317	DCB_se3_ag1_m_01	1621.2488	(pause 0.22)	1621.4685
+1318	DCB_se3_ag1_m_01	1621.4685	of gadgets you can mess with.	1623.3530
+1319	DCB_int_01	1624.3903	Mm.	1624.6155
+1320	DCB_se3_ag1_m_01	1624.5540	It's plenty things that you can do	1626.2171
+1321	DCB_se3_ag1_m_01	1626.5795	to make you money.	1627.6559
+1322	DCB_int_01	1630.1032	So one thing you just said to me [just] /resonated/ because, um,	1633.2799
+1323	DCB_se3_ag1_m_01	1631.5356	[Mm-hm.]	1631.8475
+1324	DCB_int_01	1633.4436	DC	1634.0299
+1325	DCB_int_01	1634.0299	(pause 0.48)	1634.5068
+1326	DCB_int_01	1634.5068	has one of the lowest graduation rates [in the country.]	1636.7409
+1327	DCB_se3_ag1_m_01	1636.0051	[Exactly] and I don't	1637.0772
+1328	DCB_se3_ag1_m_01	1637.2485	I don't like that.	1637.9823
+1329	DCB_int_01	1638.1624	Um, especially if you're a black or brown boy, [right?]	1640.5746
+1330	DCB_se3_ag1_m_01	1640.1001	[Right.]	1640.5587
+1331	DCB_int_01	1641.0414	<ts>	1641.1820
+1332	DCB_int_01	1641.1820	(pause 0.23)	1641.4149
+1333	DCB_int_01	1641.4149	Um, and you said that right before someone	1644.1302
+1334	DCB_int_01	1644.1302	(pause 0.23)	1644.3631
+1335	DCB_int_01	1644.3631	graduates they either die or drop out.	1646.2128
+1336	DCB_se3_ag1_m_01	1646.3271	Mm-hm.	1646.7668
+1337	DCB_int_01	1646.7489	Has there ever been a time you felt like you were gonna die?	1648.5687
+1338	DCB_int_01	1649.6630	Like something's gonna happen to you, or some- you	1652.4091
+1339	DCB_int_01	1652.4091	(pause 0.37)	1652.7826
+1340	DCB_int_01	1652.7826	just felt like,	1653.6393
+1341	DCB_int_01	1653.6393	(pause 0.64)	1654.2808
+1342	DCB_int_01	1654.2808	oh my god, this is it, my life is about to be over right now.	1656.7262
+1343	DCB_se3_ag1_m_01	1658.3637	Yes.	1658.9744
+1344	DCB_int_01	1659.3347	Mm. Tell me.	1659.9907
+1345	DCB_se3_ag1_m_01	1661.1229	I was walking down the street	1662.9551
+1346	DCB_se3_ag1_m_01	1662.9551	(pause 2.90)	1665.8561
+1347	DCB_se3_ag1_m_01	1665.8561	and, um,	1666.6953
+1348	DCB_se3_ag1_m_01	1666.6953	(pause 4.09)	1670.7902
+1349	DCB_se3_ag1_m_01	1670.7902	there were, um-	1671.8801
+1350	DCB_se3_ag1_m_01	1671.8801	(pause 4.10)	1675.9759
+1351	DCB_se3_ag1_m_01	1675.9759	there was	1676.5956
+1352	DCB_se3_ag1_m_01	1676.5956	(pause 0.37)	1676.9645
+1353	DCB_se3_ag1_m_01	1676.9645	these two police officers.	1678.5331
+1354	DCB_se3_ag1_m_01	1678.5331	(pause 2.26)	1680.7926
+1355	DCB_se3_ag1_m_01	1680.7926	They both were Caucasian men.	1682.4754
+1356	DCB_se3_ag1_m_01	1682.4754	(pause 2.20)	1684.6766
+1357	DCB_se3_ag1_m_01	1684.6766	And, um,	1685.5598
+1358	DCB_se3_ag1_m_01	1685.5598	(pause 3.07)	1688.6310
+1359	DCB_se3_ag1_m_01	1688.6310	they-	1688.8869
+1360	DCB_se3_ag1_m_01	1688.8869	(pause 0.85)	1689.7349
+1361	DCB_se3_ag1_m_01	1689.7349	they both came up to me, they was like, where are you going?	1691.8131
+1362	DCB_se3_ag1_m_01	1691.8131	(pause 1.24)	1693.0522
+1363	DCB_se3_ag1_m_01	1693.0522	And I said,	1693.6761
+1364	DCB_se3_ag1_m_01	1693.6761	(pause 0.72)	1694.3966
+1365	DCB_se3_ag1_m_01	1694.3966	I'm going-	1695.1128
+1366	DCB_se3_ag1_m_01	1695.1128	(pause 0.22)	1695.3325
+1367	DCB_se3_ag1_m_01	1695.3325	I was getting on the train. I forgot where I was going, I was going somewhere.	1698.2027
+1368	DCB_se3_ag1_m_01	1698.2027	(pause 0.47)	1698.6728
+1369	DCB_se3_ag1_m_01	1698.6728	I was getting on the train.	1699.7669
+1370	DCB_se3_ag1_m_01	1699.7669	(pause 1.23)	1700.9971
+1371	DCB_se3_ag1_m_01	1700.9971	And he was like, um-	1702.3196
+1372	DCB_se3_ag1_m_01	1702.3196	(pause 3.09)	1705.4051
+1373	DCB_se3_ag1_m_01	1705.4051	he said- he said, why do you look-	1706.8507
+1374	DCB_se3_ag1_m_01	1706.8507	(pause 0.16)	1707.0132
+1375	DCB_se3_ag1_m_01	1707.0132	why do you look paranoid?	1708.0545
+1376	DCB_se3_ag1_m_01	1708.0545	(pause 2.02)	1710.0713
+1377	DCB_se3_ag1_m_01	1710.0713	And right around the time, um-	1711.5256
+1378	DCB_se3_ag1_m_01	1711.5256	(pause 1.55)	1713.0777
+1379	DCB_se3_ag1_m_01	1713.0777	right around the time this is where	1714.6946
+1380	DCB_se3_ag1_m_01	1714.6946	(pause 0.89)	1715.5865
+1381	DCB_se3_ag1_m_01	1715.5865	Black Lives Matter was starting and it was starting to increase and stuff like that.	1719.3156
+1382	DCB_se3_ag1_m_01	1719.3156	(pause 0.92)	1720.2361
+1383	DCB_se3_ag1_m_01	1720.2361	And, uh,	1720.8644
+1384	DCB_se3_ag1_m_01	1720.8644	(pause 0.15)	1721.0138
+1385	DCB_se3_ag1_m_01	1721.0138	I had a hoodie on my head.	1722.3715
+1386	DCB_se3_ag1_m_01	1722.3715	(pause 2.28)	1724.6518
+1387	DCB_se3_ag1_m_01	1724.6518	And he was like, you look real paranoid, w- did you do something?	1727.3232
+1388	DCB_se3_ag1_m_01	1727.3232	(pause 0.82)	1728.1459
+1389	DCB_se3_ag1_m_01	1728.1459	And I said, no.	1729.0335
+1390	DCB_se3_ag1_m_01	1729.0335	(pause 0.36)	1729.3894
+1391	DCB_se3_ag1_m_01	1729.3894	And then-	1730.0177
+1392	DCB_se3_ag1_m_01	1730.0177	(pause 0.81)	1730.8305
+1393	DCB_se3_ag1_m_01	1730.8305	I've never told nobody this story. He	1732.3815
+1394	DCB_se3_ag1_m_01	1732.3815	(pause 0.43)	1732.8077
+1395	DCB_se3_ag1_m_01	1732.8077	end up checking me	1733.8511
+1396	DCB_se3_ag1_m_01	1733.8511	(pause 1.79)	1735.6373
+1397	DCB_se3_ag1_m_01	1735.6373	to see if I had anything on me and stuff.	1737.7111
+1398	DCB_se3_ag1_m_01	1737.7111	(pause 1.65)	1739.3642
+1399	DCB_se3_ag1_m_01	1739.3642	And at that moment,	1740.3177
+1400	DCB_se3_ag1_m_01	1740.3177	(pause 0.58)	1740.8932
+1401	DCB_se3_ag1_m_01	1740.8932	even though I was clear free,	1742.2817
+1402	DCB_se3_ag1_m_01	1742.2817	(pause 0.36)	1742.6420
+1403	DCB_se3_ag1_m_01	1742.6420	I was scared, I was shaking.	1744.4137
+1404	DCB_se3_ag1_m_01	1744.4137	(pause 1.07)	1745.4858
+1405	DCB_se3_ag1_m_01	1745.4858	Cause I didn't wanna be another Trayvon Martin, or another Michael Brown, or another-	1749.8004
+1406	DCB_se3_ag1_m_01	1749.8004	(pause 1.29)	1751.0878
+1407	DCB_se3_ag1_m_01	1751.0878	or	1751.5319
+1408	DCB_se3_ag1_m_01	1751.5319	(pause 0.58)	1752.1082
+1409	DCB_se3_ag1_m_01	1752.1082	or another statistic on	1753.8410
+1410	DCB_se3_ag1_m_01	1753.8410	(pause 1.31)	1755.1487
+1411	DCB_se3_ag1_m_01	1755.1487	being killed.	1755.8868
+1412	DCB_se3_ag1_m_01	1755.8868	(pause 0.18)	1756.0714
+1413	DCB_se3_ag1_m_01	1756.0714	Another black boy	1756.9765
+1414	DCB_se3_ag1_m_01	1756.9765	(pause 0.25)	1757.2269
+1415	DCB_se3_ag1_m_01	1757.2269	innocently being killed.	1758.5563
+1416	DCB_se3_ag1_m_01	1758.5563	(pause 0.49)	1759.0415
+1417	DCB_se3_ag1_m_01	1759.0415	I didn't want that to be my reality.	1760.5936
+1418	DCB_se3_ag1_m_01	1760.5936	(pause 1.80)	1762.3907
+1419	DCB_se3_ag1_m_01	1762.3907	So at that moment I was- I was scared. I didn't-	1764.5919
+1420	DCB_se3_ag1_m_01	1764.5919	(pause 0.39)	1764.9786
+1421	DCB_se3_ag1_m_01	1764.9786	I didn't know what was gonna happen to me.	1766.4373
+1422	DCB_se3_ag1_m_01	1766.4373	(pause 1.36)	1767.8004
+1423	DCB_se3_ag1_m_01	1767.8004	And I had my hoodie on so	1769.1537
+1424	DCB_se3_ag1_m_01	1769.1537	(pause 0.30)	1769.4569
+1425	DCB_se3_ag1_m_01	1769.4569	of course I was gonna be a suspect. This little black brown skin boy	1772.8121
+1426	DCB_se3_ag1_m_01	1772.8121	(pause 0.40)	1773.2135
+1427	DCB_se3_ag1_m_01	1773.2135	has a hoodie on,	1774.1088
+1428	DCB_se3_ag1_m_01	1774.1088	(pause 0.55)	1774.6590
+1429	DCB_se3_ag1_m_01	1774.6590	he has his hands in his pocket.	1776.0900
+1430	DCB_se3_ag1_m_01	1776.0900	(pause 2.87)	1778.9616
+1431	DCB_se3_ag1_m_01	1778.9616	And he's walking.	1779.8755
+1432	DCB_int_01	1781.7165	Were you in this neighborhood?	1782.8061
+1433	DCB_se3_ag1_m_01	1784.4065	No.	1785.0304
+1434	DCB_se3_ag1_m_01	1785.0304	(pause 0.72)	1785.7510
+1435	DCB_se3_ag1_m_01	1785.7510	I don't think so, no.	1786.7308
+1436	DCB_int_01	1787.7150	Mm.	1787.8820
+1437	DCB_se3_ag1_m_01	1788.7256	No.	1788.9980
+1438	DCB_int_01	1793.1511	Do you think-	1793.9947
+1439	DCB_int_01	1793.9947	(pause 2.36)	1796.3498
+1440	DCB_int_01	1796.3498	Are you afraid?	1797.1626
+1441	DCB_se3_ag1_m_01	1798.4895	No.	1798.8893
+1442	DCB_se3_ag1_m_01	1798.8893	(pause 1.88)	1800.7710
+1443	DCB_se3_ag1_m_01	1800.7710	Not at all.	1801.3861
+1444	DCB_se3_ag1_m_01	1801.3861	(pause 1.07)	1802.4581
+1445	DCB_se3_ag1_m_01	1802.4581	At that moment I was afraid.	1803.9916
+1446	DCB_se3_ag1_m_01	1803.9916	(pause 0.55)	1804.5452
+1447	DCB_se3_ag1_m_01	1804.5452	But now, growing up	1805.9732
+1448	DCB_se3_ag1_m_01	1805.9732	(pause 1.03)	1807.0067
+1449	DCB_se3_ag1_m_01	1807.0067	and seeing all the stuff that's happening in the world,	1809.0824
+1450	DCB_se3_ag1_m_01	1809.0824	(pause 1.74)	1810.8205
+1451	DCB_se3_ag1_m_01	1810.8205	I'm not afraid.	1811.6070
+1452	DCB_se3_ag1_m_01	1811.6070	(pause 0.86)	1812.4638
+1453	DCB_se3_ag1_m_01	1812.4638	I wanna say that was about three years ago, cause I was in-	1814.6299
+1454	DCB_se3_ag1_m_01	1814.6299	(pause 0.22)	1814.8507
+1455	DCB_se3_ag1_m_01	1814.8507	yeah three years ago cause I was in ninth grade.	1816.6946
+1456	DCB_se3_ag1_m_01	1816.6946	(pause 0.92)	1817.6143
+1457	DCB_se3_ag1_m_01	1817.6143	Mm-hm.	1817.9046
+1458	DCB_se3_ag1_m_01	1817.9046	(pause 0.63)	1818.5326
+1459	DCB_se3_ag1_m_01	1818.5326	I'm not afraid.	1819.3119
+1460	DCB_int_01	1820.6548	Why? What makes you	1821.8520
+1461	DCB_int_01	1821.8520	(pause 0.21)	1822.0652
+1462	DCB_int_01	1822.0652	so confident that you don't have to be afraid?	1823.9995
+1463	DCB_se3_ag1_m_01	1826.5786	W-	1826.8247
+1464	DCB_se3_ag1_m_01	1826.8247	(pause 0.25)	1827.0751
+1465	DCB_se3_ag1_m_01	1827.0751	well, one,	1828.2187
+1466	DCB_se3_ag1_m_01	1828.2187	(pause 1.10)	1829.3203
+1467	DCB_se3_ag1_m_01	1829.3203	if they aks me to do something, I'll do it	1830.8669
+1468	DCB_se3_ag1_m_01	1830.8669	(pause 0.42)	1831.2854
+1469	DCB_se3_ag1_m_01	1831.2854	and give them no problem.	1832.6176
+1470	DCB_se3_ag1_m_01	1832.6176	(pause 0.82)	1833.4339
+1471	DCB_se3_ag1_m_01	1833.4339	I'm not gonna be disrespectful, I'm not looking for a problem.	1836.0921
+1472	DCB_se3_ag1_m_01	1836.0921	(pause 2.30)	1838.3900
+1473	DCB_se3_ag1_m_01	1838.3900	And also is.	1839.3578
+1474	DCB_se3_ag1_m_01	1839.3578	(pause 1.56)	1840.9219
+1475	DCB_se3_ag1_m_01	1840.9219	Tomorrow is not promised to nobody.	1842.8244
+1476	DCB_se3_ag1_m_01	1842.8244	(pause 0.91)	1843.7339
+1477	DCB_se3_ag1_m_01	1843.7339	I think	1844.3490
+1478	DCB_se3_ag1_m_01	1844.3490	(pause 1.25)	1845.6023
+1479	DCB_se3_ag1_m_01	1845.6023	if that incident went the wrong way,	1847.7597
+1480	DCB_se3_ag1_m_01	1847.7597	(pause 0.56)	1848.3221
+1481	DCB_se3_ag1_m_01	1848.3221	of course I would- of course my family and stuff would be sad.	1851.2175
+1482	DCB_se3_ag1_m_01	1851.2175	(pause 1.09)	1852.3116
+1483	DCB_se3_ag1_m_01	1852.3116	I don't think-	1853.0893
+1484	DCB_se3_ag1_m_01	1853.0893	(pause 2.99)	1856.0825
+1485	DCB_se3_ag1_m_01	1856.0825	I don't think I would have been sad.	1857.9235
+1486	DCB_se3_ag1_m_01	1857.9235	(pause 1.17)	1859.0966
+1487	DCB_se3_ag1_m_01	1859.0966	Because it's common in black males to	1861.1660
+1488	DCB_se3_ag1_m_01	1861.1660	(pause 0.46)	1861.6274
+1489	DCB_se3_ag1_m_01	1861.6274	be stopped by the police	1862.7785
+1490	DCB_se3_ag1_m_01	1862.7785	(pause 0.27)	1863.0520
+1491	DCB_se3_ag1_m_01	1863.0520	or even to be locked up or	1864.8315
+1492	DCB_se3_ag1_m_01	1864.8315	(pause 0.24)	1865.0687
+1493	DCB_se3_ag1_m_01	1865.0687	killed.	1865.4940
+1494	DCB_se3_ag1_m_01	1865.4940	(pause 0.53)	1866.0266
+1495	DCB_se3_ag1_m_01	1866.0266	That's- unfortunately that's the reality.	1868.0473
+1496	DCB_se3_ag1_m_01	1868.0473	(pause 1.66)	1869.7085
+1497	DCB_se3_ag1_m_01	1869.7085	But	1870.0512
+1498	DCB_se3_ag1_m_01	1870.0512	(pause 0.32)	1870.3731
+1499	DCB_se3_ag1_m_01	1870.3731	my dad told me, you fear no man.	1872.4817
+1500	DCB_se3_ag1_m_01	1872.4817	(pause 1.72)	1874.2044
+1501	DCB_se3_ag1_m_01	1874.2044	Cause he's a man at the end of the day, just like you. He may have a gun on his shoulder,	1878.1242
+1502	DCB_se3_ag1_m_01	1878.1242	(pause 1.04)	1879.1616
+1503	DCB_se3_ag1_m_01	1879.1616	or he may has the authority to put you behind bars.	1881.6819
+1504	DCB_se3_ag1_m_01	1881.6819	(pause 0.56)	1882.2372
+1505	DCB_se3_ag1_m_01	1882.2372	But you fear no man.	1883.3357
+1506	DCB_se3_ag1_m_01	1883.3357	(pause 3.40)	1886.7331
+1507	DCB_se3_ag1_m_01	1886.7331	And after he told me that-	1887.8491
+1508	DCB_se3_ag1_m_01	1887.8491	(pause 1.19)	1889.0398
+1509	DCB_se3_ag1_m_01	1889.0398	He's a wise person,	1890.4019
+1510	DCB_se3_ag1_m_01	1890.4019	(pause 0.45)	1890.8544
+1511	DCB_se3_ag1_m_01	1890.8544	wise man.	1891.5409
+1512	DCB_se3_ag1_m_01	1891.5409	(pause 1.51)	1893.0513
+1513	DCB_se3_ag1_m_01	1893.0513	And after that I- I've never feared anybody.	1895.5788
+1514	DCB_se3_ag1_m_01	1895.5788	(pause 0.48)	1896.0621
+1515	DCB_se3_ag1_m_01	1896.0621	I don't look for trouble and trouble don't look for me.	1898.1008
+1516	DCB_int_01	1901.8673	Do you think having money,	1903.5062
+1517	DCB_int_01	1903.5062	(pause 1.96)	1905.4702
+1518	DCB_int_01	1905.4702	for people,	1906.2610
+1519	DCB_se3_ag1_m_01	1906.2215	Mm-hm.	1906.5292
+1520	DCB_int_01	1906.7312	do you think that changes	1908.0537
+1521	DCB_int_01	1908.0537	(pause 0.79)	1908.8445
+1522	DCB_int_01	1908.8445	people's situation?	1909.8011
+1523	DCB_int_01	1909.8011	(pause 3.34)	1913.1383
+1524	DCB_int_01	1913.1383	Like people who have money,	1914.2983
+1525	DCB_se3_ag1_m_01	1914.2807	Mm-hm.	1914.5956
+1526	DCB_int_01	1915.1946	have less troubles and people who	1916.7675
+1527	DCB_int_01	1916.7675	(pause 0.35)	1917.1201
+1528	DCB_int_01	1917.1201	don't have money have more troubles?	1918.4119
+1529	DCB_se3_ag1_m_01	1918.3855	Unfortunately-	1919.1588
+1530	DCB_se3_ag1_m_01	1919.7212	uh, unfortunately, that is the reality.	1921.9532
+1531	DCB_se3_ag1_m_01	1921.9532	(pause 1.10)	1923.0561
+1532	DCB_se3_ag1_m_01	1923.0561	that is the reality.	1924.2767
+1533	DCB_se3_ag1_m_01	1924.2767	(pause 1.91)	1926.1899
+1534	DCB_se3_ag1_m_01	1926.1899	I think if you have- uh,	1927.6398
+1535	DCB_se3_ag1_m_01	1927.6398	(pause 2.50)	1930.1398
+1536	DCB_se3_ag1_m_01	1930.1398	if you have money,	1931.0845
+1537	DCB_se3_ag1_m_01	1931.0845	(pause 0.20)	1931.2822
+1538	DCB_se3_ag1_m_01	1931.2822	well you- course you can go out here and get you a nice	1933.9942
+1539	DCB_se3_ag1_m_01	1933.9942	(pause 0.31)	1934.3062
+1540	DCB_se3_ag1_m_01	1934.3062	Rob Kardashian, or a nice Johnny Cochran.	1936.8721
+1541	DCB_se3_ag1_m_01	1936.8721	(pause 0.40)	1937.2720
+1542	DCB_se3_ag1_m_01	1937.2720	But that's not everybody's reality, everybody can't go out there	1939.9082
+1543	DCB_se3_ag1_m_01	1939.9082	(pause 0.28)	1940.1894
+1544	DCB_se3_ag1_m_01	1940.1894	and get a lawyer like that.	1941.3663
+1545	DCB_se3_ag1_m_01	1941.3663	(pause 0.75)	1942.1193
+1546	DCB_se3_ag1_m_01	1942.1193	So if you have money, that-	1943.5252
+1547	DCB_se3_ag1_m_01	1943.5252	(pause 0.15)	1943.6734
+1548	DCB_se3_ag1_m_01	1943.6734	that do	1944.3118
+1549	DCB_se3_ag1_m_01	1944.3118	(pause 0.46)	1944.7731
+1550	DCB_se3_ag1_m_01	1944.7731	better shape your	1945.7925
+1551	DCB_se3_ag1_m_01	1945.7925	(pause 0.40)	1946.1923
+1552	DCB_se3_ag1_m_01	1946.1923	chances.	1946.8773
+1553	DCB_se3_ag1_m_01	1946.8773	(pause 1.39)	1948.2662
+1554	DCB_se3_ag1_m_01	1948.2662	Depending on what your circumstances is.	1950.3982
+1555	DCB_se3_ag1_m_01	1950.3982	(pause 0.99)	1951.3868
+1556	DCB_se3_ag1_m_01	1951.3868	And unfortunately that's how the justice system	1953.7199
+1557	DCB_se3_ag1_m_01	1953.7199	(pause 0.37)	1954.0889
+1558	DCB_se3_ag1_m_01	1954.0889	and that's how	1954.6601
+1559	DCB_se3_ag1_m_01	1954.6601	(pause 0.90)	1955.5565
+1560	DCB_se3_ag1_m_01	1955.5565	it is in life.	1956.5406
+1561	DCB_se3_ag1_m_01	1956.5406	(pause 0.60)	1957.1437
+1562	DCB_se3_ag1_m_01	1957.1437	And it's- doesn't mean it's right, it's not right at all.	1959.6261
+1563	DCB_se3_ag1_m_01	1959.6261	(pause 0.14)	1959.7667
+1564	DCB_se3_ag1_m_01	1959.7667	But unfortunately,	1960.6850
+1565	DCB_se3_ag1_m_01	1960.6850	(pause 0.35)	1961.0365
+1566	DCB_se3_ag1_m_01	1961.0365	that is true.	1961.7755
+1567	DCB_int_01	1963.2554	Do you think-	1964.3230
+1568	DCB_int_01	1964.3230	(pause 2.88)	1967.2064
+1569	DCB_int_01	1967.2064	do you think that's an issue in DC? That class and money is an issue in DC?	1970.7346
+1570	DCB_se3_ag1_m_01	1970.9191	Oh yeah.	1971.4024
+1571	DCB_int_01	1972.3350	Why'd you s- you said it very quickly, why?	1974.2361
+1572	DCB_se3_ag1_m_01	1975.1909	Cause if you don't have on the nice-	1976.7610
+1573	DCB_se3_ag1_m_01	1976.7610	(pause 0.31)	1977.0670
+1574	DCB_se3_ag1_m_01	1977.0670	the nice Jordans or th-	1978.4893
+1575	DCB_se3_ag1_m_01	1978.4893	(pause 0.39)	1978.8773
+1576	DCB_se3_ag1_m_01	1978.8773	or the nice, um,	1980.0152
+1577	DCB_se3_ag1_m_01	1980.0152	(pause 0.59)	1980.6051
+1578	DCB_se3_ag1_m_01	1980.6051	Foamposites or	1981.9759
+1579	DCB_se3_ag1_m_01	1981.9759	(pause 0.24)	1982.2132
+1580	DCB_se3_ag1_m_01	1982.2132	they have nice Helly Hansen or North Face or nothing,	1984.5990
+1581	DCB_se3_ag1_m_01	1984.5990	(pause 0.93)	1985.5261
+1582	DCB_se3_ag1_m_01	1985.5261	they- they not checking for you.	1987.1253
+1583	DCB_se3_ag1_m_01	1987.1253	(pause 1.48)	1988.6017
+1584	DCB_se3_ag1_m_01	1988.6017	It's sad to say.	1989.5386
+1585	DCB_se3_ag1_m_01	1989.5386	(pause 1.33)	1990.8699
+1586	DCB_se3_ag1_m_01	1990.8699	You- it-	1991.3532
+1587	DCB_se3_ag1_m_01	1991.3532	(pause 0.43)	1991.7882
+1588	DCB_se3_ag1_m_01	1991.7882	kids nowadays, if you don't have on s- designer stuff, your- y- you get picked upon.	1996.3016
+1589	DCB_se3_ag1_m_01	1996.3016	(pause 1.01)	1997.3078
+1590	DCB_se3_ag1_m_01	1997.3078	They don't wanna- they don't understand that mom n- might not have the money or	2000.7657
+1591	DCB_se3_ag1_m_01	2000.7657	(pause 0.33)	2001.0952
+1592	DCB_se3_ag1_m_01	2001.0952	daddy's in jail. He can't-	2002.7956
+1593	DCB_se3_ag1_m_01	2002.7956	(pause 0.27)	2003.0680
+1594	DCB_se3_ag1_m_01	2003.0680	he can't do nothing for us or	2004.5454
+1595	DCB_se3_ag1_m_01	2004.5454	(pause 0.32)	2004.8661
+1596	DCB_se3_ag1_m_01	2004.8661	the lights are cut off so we had to spend our last bit of money on that.	2007.6166
+1597	DCB_se3_ag1_m_01	2007.6166	(pause 0.35)	2007.9681
+1598	DCB_se3_ag1_m_01	2007.9681	They don't- they don't understand that	2009.2818
+1599	DCB_se3_ag1_m_01	2009.2818	(pause 2.15)	2011.4304
+1600	DCB_se3_ag1_m_01	2011.4304	unfortunately. And that's people's reality.	2013.7777
+1601	DCB_se3_ag1_m_01	2013.7777	(pause 1.05)	2014.8322
+1602	DCB_se3_ag1_m_01	2014.8322	And	2015.0519
+1603	DCB_se3_ag1_m_01	2015.0519	(pause 3.01)	2018.0616
+1604	DCB_se3_ag1_m_01	2018.0616	And when you have kids that-	2019.7596
+1605	DCB_se3_ag1_m_01	2019.7596	(pause 0.64)	2020.3991
+1606	DCB_se3_ag1_m_01	2020.3991	that comes from	2021.3844
+1607	DCB_se3_ag1_m_01	2021.3844	(pause 0.21)	2021.5953
+1608	DCB_se3_ag1_m_01	2021.5953	or	2021.9422
+1609	DCB_se3_ag1_m_01	2021.9422	(pause 0.21)	2022.1489
+1610	DCB_se3_ag1_m_01	2022.1489	parents that have money and that does well for theirself,	2024.8744
+1611	DCB_se3_ag1_m_01	2024.8744	(pause 0.21)	2025.0863
+1612	DCB_se3_ag1_m_01	2025.0863	they know how to humble-	2026.2175
+1613	DCB_se3_ag1_m_01	2026.2175	(pause 0.69)	2026.9117
+1614	DCB_se3_ag1_m_01	2026.9117	they know how to humble themselves. They know-	2028.6516
+1615	DCB_se3_ag1_m_01	2028.6516	(pause 1.23)	2029.8785
+1616	DCB_se3_ag1_m_01	2029.8785	I see he not doing good, so th-	2031.6668
+1617	DCB_se3_ag1_m_01	2031.6668	(pause 0.24)	2031.9084
+1618	DCB_se3_ag1_m_01	2031.9084	this old jacket that I have let me give to him cause he-	2034.3689
+1619	DCB_se3_ag1_m_01	2034.3689	(pause 0.58)	2034.9445
+1620	DCB_se3_ag1_m_01	2034.9445	it's	2035.3015
+1621	DCB_se3_ag1_m_01	2035.3015	(pause 0.52)	2035.8189
+1622	DCB_se3_ag1_m_01	2035.8189	it's fifty degrees outside and then there's snow on the ground and he don't got no jacket he got on	2040.0057
+1623	DCB_se3_ag1_m_01	2040.0057	(pause 0.37)	2040.3806
+1624	DCB_se3_ag1_m_01	2040.3806	just a plain t-shirt.	2041.6021
+1625	DCB_int_01	2044.0593	Mm.	2044.3655
+1626	DCB_int_01	2044.3655	(pause 3.46)	2047.8247
+1627	DCB_int_01	2047.8247	How do you classify yourself?	2049.1868
+1628	DCB_int_01	2049.1868	(pause 0.51)	2049.7008
+1629	DCB_int_01	2049.7008	Do you classify yourself	2050.9882
+1630	DCB_int_01	2050.9882	(pause 0.59)	2051.5737
+1631	DCB_int_01	2051.5737	working class, middle class? Do you classify yourself as	2054.5790
+1632	DCB_int_01	2054.5790	(pause 0.51)	2055.0930
+1633	DCB_int_01	2055.0930	having money, not having money? How do you classify your family?	2058.4027
+1634	DCB_se3_ag1_m_01	2059.0485	A nice middle class family.	2060.5863
+1635	DCB_int_01	2062.0845	Do you feel like you've ever wanted for anything?	2063.9431
+1636	DCB_se3_ag1_m_01	2064.0222	No.	2064.4895
+1637	DCB_se3_ag1_m_01	2064.4895	(pause 2.01)	2066.4959
+1638	DCB_se3_ag1_m_01	2066.4959	Not at all.	2067.0890
+1639	DCB_se3_ag1_m_01	2067.0890	(pause 4.08)	2071.1719
+1640	DCB_se3_ag1_m_01	2071.1719	Not at all.	2071.7387
+1641	DCB_se3_ag1_m_01	2071.7387	(pause 2.03)	2073.7730
+1642	DCB_se3_ag1_m_01	2073.7730	And that's why I wanna be successful in life.	2075.7633
+1643	DCB_se3_ag1_m_01	2075.7633	(pause 0.17)	2075.9358
+1644	DCB_se3_ag1_m_01	2075.9358	Cause I don't-	2076.5553
+1645	DCB_se3_ag1_m_01	2076.5553	(pause 0.81)	2077.3681
+1646	DCB_se3_ag1_m_01	2077.3681	I've had everything	2078.5291
+1647	DCB_se3_ag1_m_01	2078.5291	(pause 0.36)	2078.8928
+1648	DCB_se3_ag1_m_01	2078.8928	given to me.	2079.6045
+1649	DCB_se3_ag1_m_01	2079.6045	(pause 0.66)	2080.2680
+1650	DCB_se3_ag1_m_01	2080.2680	And I wanna go out h-	2081.0545
+1651	DCB_se3_ag1_m_01	2081.0545	(pause 0.25)	2081.3005
+1652	DCB_se3_ag1_m_01	2081.3005	I wanna go out here and I wanna know how it feels to work for something	2084.1707
+1653	DCB_se3_ag1_m_01	2084.1707	(pause 0.46)	2084.6321
+1654	DCB_se3_ag1_m_01	2084.6321	that I want	2085.2867
+1655	DCB_se3_ag1_m_01	2085.2867	(pause 0.57)	2085.8535
+1656	DCB_se3_ag1_m_01	2085.8535	for myself.	2086.5697
+1657	DCB_se3_ag1_m_01	2086.5697	(pause 0.42)	2086.9915
+1658	DCB_se3_ag1_m_01	2086.9915	Everything has been given to me.	2088.3843
+1659	DCB_se3_ag1_m_01	2088.3843	(pause 1.66)	2090.0407
+1660	DCB_se3_ag1_m_01	2090.0407	I've- I haven't worked-	2091.3764
+1661	DCB_se3_ag1_m_01	2091.3764	(pause 0.33)	2091.7060
+1662	DCB_se3_ag1_m_01	2091.7060	I haven't worked	2092.6473
+1663	DCB_se3_ag1_m_01	2092.6473	(pause 0.23)	2092.8758
+1664	DCB_se3_ag1_m_01	2092.8758	for anything	2093.7194
+1665	DCB_se3_ag1_m_01	2093.7194	(pause 0.90)	2094.6201
+1666	DCB_se3_ag1_m_01	2094.6201	when it comes to money.	2095.7303
+1667	DCB_se3_ag1_m_01	2095.7303	(pause 1.94)	2097.6737
+1668	DCB_se3_ag1_m_01	2097.6737	My parents always /gaven/ me money, they've always bought my clothes	2100.6230
+1669	DCB_se3_ag1_m_01	2100.6230	(pause 0.37)	2100.9965
+1670	DCB_se3_ag1_m_01	2100.9965	the sh-	2101.3901
+1671	DCB_se3_ag1_m_01	2101.3901	(pause 0.10)	2101.4872
+1672	DCB_se3_ag1_m_01	2101.4872	my shoes,	2102.5343
+1673	DCB_se3_ag1_m_01	2102.5343	(pause 1.34)	2103.8700
+1674	DCB_se3_ag1_m_01	2103.8700	other gadgets and stuff that I wanted.	2106.1144
+1675	DCB_se3_ag1_m_01	2106.1144	(pause 0.92)	2107.0346
+1676	DCB_se3_ag1_m_01	2107.0346	Stuff like that. If I wanted to do certain things	2110.2771
+1677	DCB_se3_ag1_m_01	2110.2771	(pause 0.61)	2110.8879
+1678	DCB_se3_ag1_m_01	2110.8879	so I- I don't know how it feels	2112.9573
+1679	DCB_se3_ag1_m_01	2112.9573	(pause 1.09)	2114.0426
+1680	DCB_se3_ag1_m_01	2114.0426	to not have.	2114.9619
+1681	DCB_se3_ag1_m_01	2114.9619	(pause 2.60)	2117.5586
+1682	DCB_se3_ag1_m_01	2117.5586	So,	2117.9760
+1683	DCB_se3_ag1_m_01	2117.9760	(pause 0.59)	2118.5648
+1684	DCB_se3_ag1_m_01	2118.5648	yeah, I would say we're a nice middle class family.	2120.7792
+1685	DCB_int_01	2124.4667	So you said you've grown up in DC around the area,	2127.6082
+1686	DCB_se3_ag1_m_01	2127.7312	[Mm-hm.]	2128.1003
+1687	DCB_int_01	2127.9421	[um], have you noticed that it's changed?	2129.8007
+1688	DCB_se3_ag1_m_01	2131.3440	Oh,	2131.6076
+1689	DCB_se3_ag1_m_01	2131.6076	(pause 0.46)	2132.0689
+1690	DCB_se3_ag1_m_01	2132.0689	yes.	2132.5347
+1691	DCB_se3_ag1_m_01	2132.5347	(pause 0.16)	2132.6928
+1692	DCB_se3_ag1_m_01	2132.6928	It has changed drastically.	2134.1992
+1693	DCB_int_01	2134.8370	Like,	2135.1006
+1694	DCB_int_01	2135.1006	(pause 1.02)	2136.1243
+1695	DCB_int_01	2136.1243	what do you mean by that?	2136.9240
+1696	DCB_se3_ag1_m_01	2137.6094	If you're paying	2138.3783
+1697	DCB_se3_ag1_m_01	2138.3783	(pause 0.81)	2139.1879
+1698	DCB_se3_ag1_m_01	2139.1879	nineteen hundred for a one bedroom and a den it's a problem.	2142.3162
+1699	DCB_se3_ag1_m_01	2142.3162	(pause 1.19)	2143.5025
+1700	DCB_se3_ag1_m_01	2143.5025	Almost two thousand dollars for something that you don't own	2145.9948
+1701	DCB_se3_ag1_m_01	2145.9948	(pause 0.55)	2146.5441
+1702	DCB_se3_ag1_m_01	2146.5441	that you're renting,	2147.4228
+1703	DCB_se3_ag1_m_01	2147.4228	(pause 0.34)	2147.7611
+1704	DCB_se3_ag1_m_01	2147.7611	that any moment they can sell and they can	2149.2989
+1705	DCB_se3_ag1_m_01	2149.2989	(pause 0.19)	2149.4922
+1706	DCB_se3_ag1_m_01	2149.4922	kick you out.	2150.1909
+1707	DCB_se3_ag1_m_01	2150.1909	(pause 1.40)	2151.5925
+1708	DCB_se3_ag1_m_01	2151.5925	That's a problem.	2152.3745
+1709	DCB_se3_ag1_m_01	2152.3745	(pause 2.20)	2154.5714
+1710	DCB_se3_ag1_m_01	2154.5714	It's not right.	2155.3754
+1711	DCB_se3_ag1_m_01	2155.3754	(pause 2.07)	2157.4460
+1712	DCB_se3_ag1_m_01	2157.4460	It's not right at all.	2158.4390
+1713	DCB_se3_ag1_m_01	2158.4390	(pause 2.24)	2160.6798
+1714	DCB_se3_ag1_m_01	2160.6798	Because at the end of the day,	2161.9188
+1715	DCB_se3_ag1_m_01	2161.9188	(pause 1.94)	2163.8575
+1716	DCB_se3_ag1_m_01	2163.8575	people that used to live here,	2165.1800
+1717	DCB_se3_ag1_m_01	2165.1800	(pause 0.24)	2165.4217
+1718	DCB_se3_ag1_m_01	2165.4217	they can't afford to come back into the city.	2167.1616
+1719	DCB_se3_ag1_m_01	2167.1616	(pause 1.32)	2168.4841
+1720	DCB_se3_ag1_m_01	2168.4841	Cause things are too expensive.	2169.8462
+1721	DCB_se3_ag1_m_01	2169.8462	(pause 1.88)	2171.7278
+1722	DCB_se3_ag1_m_01	2171.7278	Or because, um-	2172.7252
+1723	DCB_se3_ag1_m_01	2172.7252	(pause 2.46)	2175.1813
+1724	DCB_se3_ag1_m_01	2175.1813	or because	2175.9414
+1725	DCB_se3_ag1_m_01	2175.9414	(pause 0.18)	2176.1259
+1726	DCB_se3_ag1_m_01	2176.1259	it's not-	2176.7542
+1727	DCB_se3_ag1_m_01	2176.7542	(pause 0.33)	2177.0794
+1728	DCB_se3_ag1_m_01	2177.0794	it's not people out here advocating.	2178.6534
+1729	DCB_se3_ag1_m_01	2178.6534	(pause 0.51)	2179.1631
+1730	DCB_se3_ag1_m_01	2179.1631	They don't- they don't-	2180.0716
+1731	DCB_se3_ag1_m_01	2180.0716	(pause 0.38)	2180.4548
+1732	DCB_se3_ag1_m_01	2180.4548	everybody don't have money.	2181.9839
+1733	DCB_se3_ag1_m_01	2181.9839	(pause 0.56)	2182.5419
+1734	DCB_se3_ag1_m_01	2182.5419	Or /that/ comes from money.	2183.6535
+1735	DCB_se3_ag1_m_01	2183.6535	(pause 0.91)	2184.5674
+1736	DCB_se3_ag1_m_01	2184.5674	So,	2184.9320
+1737	DCB_se3_ag1_m_01	2184.9320	(pause 0.47)	2185.3978
+1738	DCB_se3_ag1_m_01	2185.3978	of course it's- it's-	2186.5753
+1739	DCB_se3_ag1_m_01	2186.5753	(pause 0.25)	2186.8268
+1740	DCB_se3_ag1_m_01	2186.8268	it's	2187.2399
+1741	DCB_se3_ag1_m_01	2187.2399	(pause 0.09)	2187.3321
+1742	DCB_se3_ag1_m_01	2187.3321	increased a lot.	2188.3465
+1743	DCB_se3_ag1_m_01	2188.3465	(pause 1.20)	2189.5466
+1744	DCB_se3_ag1_m_01	2189.5466	From like,	2190.2075
+1745	DCB_se3_ag1_m_01	2190.2075	(pause 0.19)	2190.3989
+1746	DCB_se3_ag1_m_01	2190.3989	there's-	2190.8207
+1747	DCB_se3_ag1_m_01	2190.8207	(pause 0.14)	2190.9613
+1748	DCB_se3_ag1_m_01	2190.9613	like you can go on every corner now and you can find like a n- the neighborhood Starbucks or	2195.6198
+1749	DCB_se3_ag1_m_01	2195.6198	(pause 0.24)	2195.8614
+1750	DCB_se3_ag1_m_01	2195.8614	the neighborhood bank, or	2197.7727
+1751	DCB_se3_ag1_m_01	2197.7727	(pause 0.72)	2198.4977
+1752	DCB_se3_ag1_m_01	2198.4977	the neighborhood, um, grocery store.	2200.7385
+1753	DCB_se3_ag1_m_01	2200.7385	(pause 3.27)	2204.0041
+1754	DCB_se3_ag1_m_01	2204.0041	So it- it's changing a lot.	2205.4336
+1755	DCB_int_01	2207.5147	Is that good or bad?	2208.3847
+1756	DCB_se3_ag1_m_01	2213.9087	I think gentrification	2215.4465
+1757	DCB_se3_ag1_m_01	2215.4465	(pause 0.33)	2215.7716
+1758	DCB_se3_ag1_m_01	2215.7716	has its good and has its bad.	2217.7148
+1759	DCB_se3_ag1_m_01	2217.7148	(pause 1.03)	2218.7429
+1760	DCB_se3_ag1_m_01	2218.7429	The good is kicking the people out	2220.6014
+1761	DCB_se3_ag1_m_01	2220.6014	(pause 0.54)	2221.1375
+1762	DCB_se3_ag1_m_01	2221.1375	that can't afford it	2222.2288
+1763	DCB_se3_ag1_m_01	2222.2288	(pause 1.26)	2223.4925
+1764	DCB_se3_ag1_m_01	2223.4925	while	2223.9582
+1765	DCB_se3_ag1_m_01	2223.9582	(pause 0.78)	2224.7403
+1766	DCB_se3_ag1_m_01	2224.7403	you're bringing people in.	2226.2001
+1767	DCB_se3_ag1_m_01	2226.2001	(pause 2.10)	2228.3047
+1768	DCB_se3_ag1_m_01	2228.3047	But also let's not forget the people that's being kicked out, they didn't have nowhere to go. And let's forget about the people that's coming in, they have money so they can go wherever.	2235.2391
+1769	DCB_se3_ag1_m_01	2235.2391	(pause 2.80)	2238.0423
+1770	DCB_se3_ag1_m_01	2238.0423	So it has its pros and it has its cons.	2240.2511
+1771	DCB_se3_ag1_m_01	2240.2511	(pause 1.69)	2241.9450
+1772	DCB_se3_ag1_m_01	2241.9450	It's good for	2242.9128
+1773	DCB_se3_ag1_m_01	2242.9128	(pause 0.13)	2243.0406
+1774	DCB_se3_ag1_m_01	2243.0406	people that have houses.	2244.5098
+1775	DCB_se3_ag1_m_01	2244.5098	(pause 3.05)	2247.5646
+1776	DCB_se3_ag1_m_01	2247.5646	And it may not be good for people that's renting an apartment.	2250.2986
+1777	DCB_se3_ag1_m_01	2250.2986	(pause 1.20)	2251.4981
+1778	DCB_se3_ag1_m_01	2251.4981	Or that may- um,	2252.3681
+1779	DCB_se3_ag1_m_01	2252.3681	(pause 1.09)	2253.4621
+1780	DCB_se3_ag1_m_01	2253.4621	or the apartment may-	2254.3063
+1781	DCB_se3_ag1_m_01	2254.3063	(pause 0.16)	2254.4659
+1782	DCB_se3_ag1_m_01	2254.4659	or the apartment building may be sold or-	2256.2474
+1783	DCB_se3_ag1_m_01	2256.2474	(pause 1.33)	2257.5757
+1784	DCB_se3_ag1_m_01	2257.5757	or bought by another person and now their	2260.0849
+1785	DCB_se3_ag1_m_01	2260.0849	(pause 0.61)	2260.6997
+1786	DCB_se3_ag1_m_01	2260.6997	rent is increasing by	2262.0237
+1787	DCB_se3_ag1_m_01	2262.0237	(pause 0.11)	2262.1310
+1788	DCB_se3_ag1_m_01	2262.1310	a thousand dollars,	2263.3359
+1789	DCB_se3_ag1_m_01	2263.3359	(pause 0.89)	2264.2278
+1790	DCB_se3_ag1_m_01	2264.2278	five hundred,	2265.0187
+1791	DCB_se3_ag1_m_01	2265.0187	(pause 1.11)	2266.1314
+1792	DCB_se3_ag1_m_01	2266.1314	two thousand.	2266.8432
+1793	DCB_se3_ag1_m_01	2266.8432	(pause 1.53)	2268.3722
+1794	DCB_se3_ag1_m_01	2268.3722	It has its pros and cons.	2269.7847
+1795	DCB_se3_ag1_m_01	2269.7847	(pause 0.52)	2270.3011
+1796	DCB_se3_ag1_m_01	2270.3011	However it brings up your community to a upper scale	2273.0032
+1797	DCB_se3_ag1_m_01	2273.0032	(pause 0.76)	2273.7600
+1798	DCB_se3_ag1_m_01	2273.7600	while it	2274.3488
+1799	DCB_se3_ag1_m_01	2274.3488	(pause 0.62)	2274.9727
+1800	DCB_se3_ag1_m_01	2274.9727	takes	2275.3198
+1801	DCB_se3_ag1_m_01	2275.3198	(pause 0.14)	2275.4560
+1802	DCB_se3_ag1_m_01	2275.4560	some people out that can't afford it.	2276.9203
+1803	DCB_int_01	2280.1441	Has your school changed because of-	2282.0169
+1804	DCB_int_01	2282.0169	(pause 0.41)	2282.4255
+1805	DCB_int_01	2282.4255	have you seen your school change	2283.8755
+1806	DCB_int_01	2283.8755	(pause 0.41)	2284.2885
+1807	DCB_int_01	2284.2885	because of	2284.8831
+1808	DCB_int_01	2284.8831	(pause 0.12)	2285.0057
+1809	DCB_int_01	2285.0057	gentrification?	2285.8459
+1810	DCB_se3_ag1_m_01	2286.2305	No because w-	2287.5311
+1811	DCB_se3_ag1_m_01	2287.5311	(pause 0.39)	2287.9188
+1812	DCB_se3_ag1_m_01	2287.9188	the school I go to is very diverse. So you have-	2290.1288
+1813	DCB_se3_ag1_m_01	2290.1288	(pause 0.83)	2290.9549
+1814	DCB_se3_ag1_m_01	2290.9549	you have	2291.3459
+1815	DCB_se3_ag1_m_01	2291.3459	(pause 1.19)	2292.5366
+1816	DCB_se3_ag1_m_01	2292.5366	black people and you have Latinos, you have Mexicans,	2295.5990
+1817	DCB_se3_ag1_m_01	2295.5990	(pause 0.33)	2295.9297
+1818	DCB_se3_ag1_m_01	2295.9297	you have Ethiopian people,	2297.4850
+1819	DCB_se3_ag1_m_01	2297.4850	(pause 0.33)	2297.8190
+1820	DCB_se3_ag1_m_01	2297.8190	you have African people, you have Dominican people.	2300.3234
+1821	DCB_se3_ag1_m_01	2300.3234	(pause 1.92)	2302.2478
+1822	DCB_se3_ag1_m_01	2302.2478	You have different-	2302.8674
+1823	DCB_se3_ag1_m_01	2302.8674	(pause 0.55)	2303.4166
+1824	DCB_se3_ag1_m_01	2303.4166	different people from different races.	2305.2791
+1825	DCB_se3_ag1_m_01	2305.2791	(pause 0.55)	2305.8298
+1826	DCB_se3_ag1_m_01	2305.8298	So the diversity	2307.1919
+1827	DCB_se3_ag1_m_01	2307.1919	(pause 0.44)	2307.6313
+1828	DCB_se3_ag1_m_01	2307.6313	is very good in my school, I like	2309.2306
+1829	DCB_se3_ag1_m_01	2309.2306	(pause 0.17)	2309.4019
+1830	DCB_se3_ag1_m_01	2309.4019	diversity.	2310.0680
+1831	DCB_se3_ag1_m_01	2310.0680	(pause 1.45)	2311.5164
+1832	DCB_se3_ag1_m_01	2311.5164	But no, my school hasn't changed. It's been the same from the beginning.	2314.3108
+1833	DCB_int_01	2315.5718	So how'd you end up going to that school?	2316.9734
+1834	DCB_se3_ag1_m_01	2319.2142	Mm,	2320.6334
+1835	DCB_se3_ag1_m_01	2320.6334	(pause 0.19)	2320.8234
+1836	DCB_se3_ag1_m_01	2320.8234	one of my mom's friends	2322.5370
+1837	DCB_se3_ag1_m_01	2322.5370	(pause 1.39)	2323.9254
+1838	DCB_se3_ag1_m_01	2323.9254	her kids went to this school and she was telling my mom about it.	2326.6361
+1839	DCB_se3_ag1_m_01	2326.6361	(pause 0.86)	2327.4942
+1840	DCB_se3_ag1_m_01	2327.4942	And	2327.9292
+1841	DCB_se3_ag1_m_01	2327.9292	(pause 0.53)	2328.4564
+1842	DCB_se3_ag1_m_01	2328.4564	so happened that-	2329.4538
+1843	DCB_se3_ag1_m_01	2329.4538	(pause 0.47)	2329.9239
+1844	DCB_se3_ag1_m_01	2329.9239	that Monday,	2330.7587
+1845	DCB_se3_ag1_m_01	2330.7587	(pause 0.14)	2330.8993
+1846	DCB_se3_ag1_m_01	2330.8993	they had a walk through where you can go and tour the school and stuff and	2334.0365
+1847	DCB_se3_ag1_m_01	2334.0365	(pause 0.36)	2334.3923
+1848	DCB_se3_ag1_m_01	2334.3923	she	2334.9284
+1849	DCB_se3_ag1_m_01	2334.9284	(pause 0.17)	2335.0997
+1850	DCB_se3_ag1_m_01	2335.0997	was in the classrooms and	2336.7106
+1851	DCB_se3_ag1_m_01	2336.7106	(pause 0.35)	2337.0604
+1852	DCB_se3_ag1_m_01	2337.0604	seeing how the school was functioning and how-	2339.5385
+1853	DCB_se3_ag1_m_01	2339.5385	(pause 0.83)	2340.3645
+1854	DCB_se3_ag1_m_01	2340.3645	and how the kids learn and	2342.1835
+1855	DCB_se3_ag1_m_01	2342.1835	(pause 0.33)	2342.5131
+1856	DCB_se3_ag1_m_01	2342.5131	all that different stuff. She did that for a whole day.	2344.7407
+1857	DCB_se3_ag1_m_01	2344.7407	(pause 0.40)	2345.1416
+1858	DCB_se3_ag1_m_01	2345.1416	She took off from work	2346.1741
+1859	DCB_se3_ag1_m_01	2346.1741	(pause 0.70)	2346.8771
+1860	DCB_se3_ag1_m_01	2346.8771	and she	2347.5098
+1861	DCB_se3_ag1_m_01	2347.5098	(pause 0.69)	2348.1952
+1862	DCB_se3_ag1_m_01	2348.1952	toured the school.	2349.0916
+1863	DCB_se3_ag1_m_01	2349.0916	(pause 0.87)	2349.9659
+1864	DCB_se3_ag1_m_01	2349.9659	And then	2350.6074
+1865	DCB_se3_ag1_m_01	2350.6074	(pause 0.51)	2351.1215
+1866	DCB_se3_ag1_m_01	2351.1215	like	2351.4132
+1867	DCB_se3_ag1_m_01	2351.4132	(pause 0.25)	2351.6663
+1868	DCB_se3_ag1_m_01	2351.6663	a week, I don't even think it was a week.	2353.2052
+1869	DCB_se3_ag1_m_01	2353.2052	(pause 0.86)	2354.0620
+1870	DCB_se3_ag1_m_01	2354.0620	The next day I think I was at /RD-SCHOOL-3/.	2355.8019
+1871	DCB_se3_ag1_m_01	2355.8019	(pause 0.96)	2356.7597
+1872	DCB_se3_ag1_m_01	2356.7597	I don't think it even was a week.	2358.3898
+1873	DCB_int_01	2359.6025	So let me ask you a couple of other [questions.]	2362.7934
+1874	DCB_se3_ag1_m_01	2362.5210	[Mm-hm.]	2362.8649
+1875	DCB_int_01	2363.3558	Um, what do you do for fun?	2364.8716
+1876	DCB_int_01	2364.8716	(pause 0.31)	2365.1836
+1877	DCB_int_01	2365.1836	What's like your	2366.1019
+1878	DCB_int_01	2366.1019	(pause 1.01)	2367.1080
+1879	DCB_int_01	2367.1080	hobby or	2368.2866
+1880	DCB_int_01	2368.2866	(pause 0.33)	2368.6206
+1881	DCB_int_01	2368.6206	the thing that gets you really excited?	2370.4375
+1882	DCB_se3_ag1_m_01	2370.3956	I like to read.	2371.4238
+1883	DCB_se3_ag1_m_01	2372.0960	And I like watching law	2373.1241
+1884	DCB_se3_ag1_m_01	2373.1241	(pause 0.14)	2373.2672
+1885	DCB_se3_ag1_m_01	2373.2672	TV shows.	2374.0644
+1886	DCB_se3_ag1_m_01	2374.0644	(pause 0.55)	2374.6136
+1887	DCB_se3_ag1_m_01	2374.6136	And right now I'm in a law camp, so	2376.2799
+1888	DCB_se3_ag1_m_01	2376.2799	(pause 0.36)	2376.6446
+1889	DCB_se3_ag1_m_01	2376.6446	that's- that has- that has a lot of my attention right now.	2379.4346
+1890	DCB_int_01	2380.4056	Tell me about law camp.	2381.4491
+1891	DCB_se3_ag1_m_01	2382.6596	So it's for people that-	2383.7815
+1892	DCB_se3_ag1_m_01	2383.7815	(pause 0.40)	2384.1810
+1893	DCB_se3_ag1_m_01	2384.1810	for anybody. You don't-	2385.3717
+1894	DCB_se3_ag1_m_01	2385.3717	(pause 0.43)	2385.7978
+1895	DCB_se3_ag1_m_01	2385.7978	it c- it's for actors, it's for anybody.	2387.7179
+1896	DCB_se3_ag1_m_01	2387.7179	(pause 0.42)	2388.1397
+1897	DCB_se3_ag1_m_01	2388.1397	But you don't have to be-	2389.5325
+1898	DCB_se3_ag1_m_01	2389.5325	(pause 0.46)	2389.9939
+1899	DCB_se3_ag1_m_01	2389.9939	or you don't have to wanna be a lawyer.	2391.4921
+1900	DCB_se3_ag1_m_01	2391.4921	(pause 1.12)	2392.6092
+1901	DCB_se3_ag1_m_01	2392.6092	And then	2393.2156
+1902	DCB_se3_ag1_m_01	2393.2156	(pause 0.18)	2393.3957
+1903	DCB_se3_ag1_m_01	2393.3957	it's	2393.7701
+1904	DCB_se3_ag1_m_01	2393.7701	(pause 0.35)	2394.1207
+1905	DCB_se3_ag1_m_01	2394.1207	ran	2394.7621
+1906	DCB_se3_ag1_m_01	2394.7621	(pause 0.37)	2395.1312
+1907	DCB_se3_ag1_m_01	2395.1312	by, uh, DC Superior Court.	2396.8448
+1908	DCB_se3_ag1_m_01	2396.8448	(pause 1.93)	2398.7780
+1909	DCB_se3_ag1_m_01	2398.7780	And it's like, uh, wanna say like,	2400.5190
+1910	DCB_se3_ag1_m_01	2400.5190	(pause 2.44)	2402.9575
+1911	DCB_se3_ag1_m_01	2402.9575	mm,	2404.8688
+1912	DCB_se3_ag1_m_01	2404.8688	(pause 0.24)	2405.1105
+1913	DCB_se3_ag1_m_01	2405.1105	six month program.	2406.1738
+1914	DCB_se3_ag1_m_01	2406.1738	(pause 0.78)	2406.9558
+1915	DCB_se3_ag1_m_01	2406.9558	And they teach you about the law from-	2408.6640
+1916	DCB_se3_ag1_m_01	2408.6640	(pause 0.52)	2409.1846
+1917	DCB_se3_ag1_m_01	2409.1846	from-	2409.6723
+1918	DCB_se3_ag1_m_01	2409.6723	(pause 0.43)	2410.0985
+1919	DCB_se3_ag1_m_01	2410.0985	from right	2411.2804
+1920	DCB_se3_ag1_m_01	2411.2804	(pause 0.72)	2411.9965
+1921	DCB_se3_ag1_m_01	2411.9965	to, um,	2413.3411
+1922	DCB_se3_ag1_m_01	2413.3411	(pause 1.01)	2414.3472
+1923	DCB_se3_ag1_m_01	2414.3472	to-	2414.9799
+1924	DCB_se3_ag1_m_01	2414.9799	(pause 1.55)	2416.5276
+1925	DCB_se3_ag1_m_01	2416.5276	to how to act in a courtroom, how to dress in a courtroom.	2420.4380
+1926	DCB_se3_ag1_m_01	2420.4380	(pause 0.90)	2421.3343
+1927	DCB_se3_ag1_m_01	2421.3343	Leadership skills,	2423.4257
+1928	DCB_se3_ag1_m_01	2423.4257	(pause 0.84)	2424.2704
+1929	DCB_se3_ag1_m_01	2424.2704	reading writing skills, stuff like that.	2426.4855
+1930	DCB_se3_ag1_m_01	2426.4855	(pause 1.26)	2427.7502
+1931	DCB_se3_ag1_m_01	2427.7502	And they teach you that within that-	2429.4814
+1932	DCB_se3_ag1_m_01	2429.4814	(pause 0.15)	2429.6308
+1933	DCB_se3_ag1_m_01	2429.6308	when- within	2430.6873
+1934	DCB_se3_ag1_m_01	2430.6873	(pause 0.20)	2430.8830
+1935	DCB_se3_ag1_m_01	2430.8830	those six months.	2432.4395
+1936	DCB_se3_ag1_m_01	2432.4395	(pause 0.97)	2433.4105
+1937	DCB_se3_ag1_m_01	2433.4105	And after that they have a mock trial	2435.1592
+1938	DCB_se3_ag1_m_01	2435.1592	(pause 0.40)	2435.5546
+1939	DCB_se3_ag1_m_01	2435.5546	in which you're	2436.2049
+1940	DCB_se3_ag1_m_01	2436.2049	(pause 1.04)	2437.2462
+1941	DCB_se3_ag1_m_01	2437.2462	the plaintiff,	2438.0986
+1942	DCB_se3_ag1_m_01	2438.0986	(pause 0.22)	2438.3183
+1943	DCB_se3_ag1_m_01	2438.3183	defendant,	2439.0213
+1944	DCB_se3_ag1_m_01	2439.0213	(pause 1.44)	2440.4591
+1945	DCB_se3_ag1_m_01	2440.4591	or in our case I think it is gonna be defendant and prosecution.	2443.5699
+1946	DCB_se3_ag1_m_01	2443.5699	(pause 1.00)	2444.5672
+1947	DCB_se3_ag1_m_01	2444.5672	And then from there-	2445.5119
+1948	DCB_se3_ag1_m_01	2445.5119	(pause 0.46)	2445.9732
+1949	DCB_se3_ag1_m_01	2445.9732	from what we learn in that six month	2447.6988
+1950	DCB_se3_ag1_m_01	2447.6988	(pause 0.42)	2448.1185
+1951	DCB_se3_ag1_m_01	2448.1185	time period,	2448.9485
+1952	DCB_se3_ag1_m_01	2448.9485	(pause 0.75)	2449.6958
+1953	DCB_se3_ag1_m_01	2449.6958	we have a mock trial with real actual judges.	2452.4551
+1954	DCB_se3_ag1_m_01	2452.4551	(pause 0.20)	2452.6572
+1955	DCB_se3_ag1_m_01	2452.6572	And they decide	2453.4349
+1956	DCB_se3_ag1_m_01	2453.4349	(pause 0.57)	2454.0061
+1957	DCB_se3_ag1_m_01	2454.0061	what side wins or what side loses.	2455.9228
+1958	DCB_int_01	2457.8473	How'd you get- how'd you get involved?	2459.5696
+1959	DCB_se3_ag1_m_01	2459.5828	My godsister, she wants to be a lawyer also.	2461.7577
+1960	DCB_int_01	2462.6903	And so she's like, you should go to this camp?	2464.2373
+1961	DCB_se3_ag1_m_01	2464.2193	Right.	2464.5664
+1962	DCB_int_01	2466.0646	Um,	2466.6842
+1963	DCB_int_01	2466.6842	(pause 2.99)	2469.6763
+1964	DCB_int_01	2469.6763	so how're you gonna decide which college you're gonna go to?	2471.9497
+1965	DCB_se3_ag1_m_01	2473.9261	Whichever college-	2475.4727
+1966	DCB_se3_ag1_m_01	2475.4727	(pause 1.26)	2476.7337
+1967	DCB_se3_ag1_m_01	2476.7337	I really wanna go to a school that has my major.	2479.0020
+1968	DCB_se3_ag1_m_01	2479.0020	(pause 0.18)	2479.1821
+1969	DCB_se3_ag1_m_01	2479.1821	Or one of- or my major is one of the	2481.1373
+1970	DCB_se3_ag1_m_01	2481.1373	(pause 0.35)	2481.4844
+1971	DCB_se3_ag1_m_01	2481.4844	most top	2482.0257
+1972	DCB_se3_ag1_m_01	2482.0257	(pause 0.25)	2482.2753
+1973	DCB_se3_ag1_m_01	2482.2753	majors.	2482.9850
+1974	DCB_se3_ag1_m_01	2482.9850	(pause 0.74)	2483.7252
+1975	DCB_se3_ag1_m_01	2483.7252	But I guess more I wanna sit down with my family, I wanna narrow it down by choices	2487.0631
+1976	DCB_se3_ag1_m_01	2487.0631	(pause 0.64)	2487.6983
+1977	DCB_se3_ag1_m_01	2487.6983	with	2487.9619
+1978	DCB_se3_ag1_m_01	2487.9619	(pause 0.19)	2488.1508
+1979	DCB_se3_ag1_m_01	2488.1508	what	2488.5946
+1980	DCB_se3_ag1_m_01	2488.5946	(pause 0.20)	2488.7967
+1981	DCB_se3_ag1_m_01	2488.7967	I feel like	2489.5217
+1982	DCB_se3_ag1_m_01	2489.5217	(pause 1.17)	2490.6904
+1983	DCB_se3_ag1_m_01	2490.6904	that I can do	2491.7449
+1984	DCB_se3_ag1_m_01	2491.7449	(pause 0.37)	2492.1183
+1985	DCB_se3_ag1_m_01	2492.1183	and what they feel like they can do.	2493.1618
+1986	DCB_int_01	2493.8714	What're your top- what're your top three schools?	2496.2326
+1987	DCB_se3_ag1_m_01	2496.5923	Hampton, Howard,	2497.6821
+1988	DCB_se3_ag1_m_01	2497.6821	(pause 2.83)	2500.5115
+1989	DCB_se3_ag1_m_01	2500.5115	and I wanna say-	2501.7109
+1990	DCB_se3_ag1_m_01	2501.7109	(pause 2.11)	2503.8210
+1991	DCB_se3_ag1_m_01	2503.8210	I wanna say Bowie.	2504.8140
+1992	DCB_int_01	2506.7297	Mkay, so Hampton is the farthest away.	2509.1750
+1993	DCB_se3_ag1_m_01	2509.2341	Right.	2509.5559
+1994	DCB_int_01	2509.6175	So you don't wanna go too far from [home?]	2510.9708
+1995	DCB_se3_ag1_m_01	2510.7510	[No], mm-mm.	2511.5608
+1996	DCB_int_01	2512.3855	Why?	2512.6799
+1997	DCB_se3_ag1_m_01	2512.6447	No.	2512.9962
+1998	DCB_se3_ag1_m_01	2513.3126	Because-	2513.7871
+1999	DCB_se3_ag1_m_01	2513.7871	(pause 0.72)	2514.5121
+2000	DCB_se3_ag1_m_01	2514.5121	it's not- it's not no reason why, I just-	2516.9765
+2001	DCB_se3_ag1_m_01	2516.9765	(pause 0.65)	2517.6228
+2002	DCB_se3_ag1_m_01	2517.6228	I mean, that- that-	2518.4631
+2003	DCB_se3_ag1_m_01	2518.4631	(pause 0.24)	2518.7004
+2004	DCB_se3_ag1_m_01	2518.7004	that never was me, never w- never was- I wasn't	2521.0247
+2005	DCB_se3_ag1_m_01	2521.0247	(pause 0.28)	2521.3015
+2006	DCB_se3_ag1_m_01	2521.3015	the type of person like,	2522.3363
+2007	DCB_se3_ag1_m_01	2522.3363	(pause 0.59)	2522.9228
+2008	DCB_se3_ag1_m_01	2522.9228	s-	2523.3226
+2009	DCB_se3_ag1_m_01	2523.3226	(pause 0.15)	2523.4764
+2010	DCB_se3_ag1_m_01	2523.4764	um, a few of my other friends. I don't have to go	2525.8984
+2011	DCB_se3_ag1_m_01	2525.8984	(pause 0.51)	2526.4037
+2012	DCB_se3_ag1_m_01	2526.4037	all the way	2526.9661
+2013	DCB_se3_ag1_m_01	2526.9661	(pause 0.96)	2527.9283
+2014	DCB_se3_ag1_m_01	2527.9283	over	2528.4072
+2015	DCB_se3_ag1_m_01	2528.4072	(pause 0.32)	2528.7236
+2016	DCB_se3_ag1_m_01	2528.7236	to	2529.0762
+2017	DCB_se3_ag1_m_01	2529.0762	(pause 0.78)	2529.8528
+2018	DCB_se3_ag1_m_01	2529.8528	travel or to learn.	2531.5623
+2019	DCB_se3_ag1_m_01	2531.5623	(pause 0.15)	2531.7113
+2020	DCB_se3_ag1_m_01	2531.7113	I can do all of that here.	2532.8897
+2021	DCB_se3_ag1_m_01	2532.8897	(pause 0.82)	2533.7116
+2022	DCB_se3_ag1_m_01	2533.7116	And while later on in life where I have money of my own I can	2536.9146
+2023	DCB_se3_ag1_m_01	2536.9146	(pause 0.38)	2537.2968
+2024	DCB_se3_ag1_m_01	2537.2968	go out and explore and travel and see new cities. I-	2539.8364
+2025	DCB_se3_ag1_m_01	2539.8364	(pause 0.42)	2540.2582
+2026	DCB_se3_ag1_m_01	2540.2582	I've been to every city on the east coast.	2542.3892
+2027	DCB_se3_ag1_m_01	2542.3892	(pause 0.37)	2542.7637
+2028	DCB_se3_ag1_m_01	2542.7637	Or I'm sorry, every state on the east coast.	2544.8244
+2029	DCB_se3_ag1_m_01	2544.8244	(pause 1.73)	2546.5511
+2030	DCB_se3_ag1_m_01	2546.5511	/So/	2546.8921
+2031	DCB_se3_ag1_m_01	2546.8921	(pause 0.46)	2547.3508
+2032	DCB_se3_ag1_m_01	2547.3508	it's nothing new.	2548.3965
+2033	DCB_se3_ag1_m_01	2548.3965	(pause 0.49)	2548.8842
+2034	DCB_se3_ag1_m_01	2548.8842	I've traveled places.	2550.0584
+2035	DCB_int_01	2553.3142	Let me ask you a couple of questions about- about the city and a few other questions.	2557.7705
+2036	DCB_int_01	2557.7705	(pause 0.25)	2558.0253
+2037	DCB_int_01	2558.0253	Have you been a tourist in your own backyard? Right, people come from all over the world to tour DC.	2562.1705
+2038	DCB_se3_ag1_m_01	2562.2638	Right.	2562.6211
+2039	DCB_int_01	2562.5651	Have you- have you been a tourist in DC?	2564.7931
+2040	DCB_se3_ag1_m_01	2564.9122	No.	2565.2808
+2041	DCB_int_01	2566.2499	Why not?	2566.6534
+2042	DCB_se3_ag1_m_01	2566.8104	Because I've lived here for so long I've been to	2569.2837
+2043	DCB_se3_ag1_m_01	2569.2837	(pause 0.37)	2569.6543
+2044	DCB_se3_ag1_m_01	2569.6543	every museum that it is downtown.	2571.4995
+2045	DCB_int_01	2571.6256	Mm-hm.	2572.0040
+2046	DCB_se3_ag1_m_01	2572.6555	I've been to	2573.4963
+2047	DCB_se3_ag1_m_01	2573.4963	(pause 0.72)	2574.2180
+2048	DCB_se3_ag1_m_01	2574.2180	the Capitol, I've been to the w-	2575.7070
+2049	DCB_se3_ag1_m_01	2575.7070	(pause 0.53)	2576.2358
+2050	DCB_se3_ag1_m_01	2576.2358	White House.	2576.9934
+2051	DCB_se3_ag1_m_01	2576.9934	(pause 1.14)	2578.1301
+2052	DCB_se3_ag1_m_01	2578.1301	I've been to everywhere in DC.	2579.6434
+2053	DCB_se3_ag1_m_01	2579.6434	(pause 0.90)	2580.5473
+2054	DCB_se3_ag1_m_01	2580.5473	I've- I've-	2581.2619
+2055	DCB_se3_ag1_m_01	2581.2619	(pause 0.37)	2581.6333
+2056	DCB_se3_ag1_m_01	2581.6333	I've ate at like, the most significant places that you eat at	2584.5995
+2057	DCB_se3_ag1_m_01	2584.5995	(pause 0.18)	2584.7817
+2058	DCB_se3_ag1_m_01	2584.7817	Ben's Chili Bowl,	2585.9447
+2059	DCB_se3_ag1_m_01	2585.9447	(pause 0.52)	2586.4632
+2060	DCB_se3_ag1_m_01	2586.4632	and stuff like that.	2587.2962
+2061	DCB_se3_ag1_m_01	2587.2962	(pause 0.33)	2587.6263
+2062	DCB_se3_ag1_m_01	2587.6263	So,	2587.9020
+2063	DCB_se3_ag1_m_01	2587.9020	(pause 0.22)	2588.1237
+2064	DCB_se3_ag1_m_01	2588.1237	I've n- I've never toured DC, I've always been in DC so,	2591.9657
+2065	DCB_se3_ag1_m_01	2591.9657	(pause 0.79)	2592.7575
+2066	DCB_se3_ag1_m_01	2592.7575	oh,	2593.0798
+2067	DCB_se3_ag1_m_01	2593.0798	(pause 0.16)	2593.2409
+2068	DCB_se3_ag1_m_01	2593.2409	this is a new building, or, I never seen that place before. I've never	2596.4874
+2069	DCB_se3_ag1_m_01	2596.4874	(pause 0.27)	2596.7606
+2070	DCB_se3_ag1_m_01	2596.7606	actually sat down and	2597.9898
+2071	DCB_se3_ag1_m_01	2597.9898	(pause 0.22)	2598.2110
+2072	DCB_se3_ag1_m_01	2598.2110	like,	2598.4842
+2073	DCB_se3_ag1_m_01	2598.4842	(pause 0.36)	2598.8485
+2074	DCB_se3_ag1_m_01	2598.8485	or I wanna go here, I wanna see that, I wanna see that. I never did that.	2601.8218
+2075	DCB_se3_ag1_m_01	2601.8218	(pause 0.28)	2602.1020
+2076	DCB_se3_ag1_m_01	2602.1020	It's always- like you say, it's always been in my backyard.	2604.2180
+2077	DCB_se3_ag1_m_01	2604.2180	(pause 0.93)	2605.1498
+2078	DCB_se3_ag1_m_01	2605.1498	When,	2605.4763
+2079	DCB_se3_ag1_m_01	2605.4763	(pause 0.65)	2606.1307
+2080	DCB_se3_ag1_m_01	2606.1307	um,	2606.6772
+2081	DCB_se3_ag1_m_01	2606.6772	(pause 0.63)	2607.3033
+2082	DCB_se3_ag1_m_01	2607.3033	I go home, I have a driveway in my backyard.	2609.9217
+2083	DCB_se3_ag1_m_01	2609.9217	(pause 0.53)	2610.4492
+2084	DCB_se3_ag1_m_01	2610.4492	And I have a fire-	2611.4931
+2085	DCB_se3_ag1_m_01	2611.4931	(pause 0.44)	2611.9345
+2086	DCB_se3_ag1_m_01	2611.9345	a fire pit that's build in.	2613.6676
+2087	DCB_se3_ag1_m_01	2613.6676	(pause 0.77)	2614.4383
+2088	DCB_se3_ag1_m_01	2614.4383	And if you stand on top of the fire pit you can see the Capitol, you can see the Monument	2618.9505
+2089	DCB_se3_ag1_m_01	2618.9505	(pause 0.28)	2619.2332
+2090	DCB_se3_ag1_m_01	2619.2332	at night from my house.	2620.1867
+2091	DCB_int_01	2621.2861	So it's- you always see it.	2622.5153
+2092	DCB_se3_ag1_m_01	2622.6454	Right.	2622.9327
+2093	DCB_int_01	2623.3250	What's your favorite-	2624.5759
+2094	DCB_int_01	2624.5759	(pause 1.29)	2625.8638
+2095	DCB_int_01	2625.8638	two things, what's your favorite museum or monument?	2628.2163
+2096	DCB_se3_ag1_m_01	2628.8135	I like the news museum cause it gives us information on past histories,	2632.4944
+2097	DCB_se3_ag1_m_01	2632.4944	(pause 1.29)	2633.7836
+2098	DCB_se3_ag1_m_01	2633.7836	on past h-	2634.6243
+2099	DCB_se3_ag1_m_01	2634.6243	(pause 0.27)	2634.8906
+2100	DCB_se3_ag1_m_01	2634.8906	history events that we	2636.2760
+2101	DCB_se3_ag1_m_01	2636.2760	(pause 0.11)	2636.3885
+2102	DCB_se3_ag1_m_01	2636.3885	didn't know nothing about or	2637.5555
+2103	DCB_se3_ag1_m_01	2637.5555	(pause 0.32)	2637.8778
+2104	DCB_se3_ag1_m_01	2637.8778	we can	2638.2632
+2105	DCB_se3_ag1_m_01	2638.2632	(pause 0.19)	2638.4524
+2106	DCB_se3_ag1_m_01	2638.4524	draw more attention- that has- draw more attention to us.	2641.2479
+2107	DCB_se3_ag1_m_01	2641.2479	(pause 0.64)	2641.8855
+2108	DCB_se3_ag1_m_01	2641.8855	And the African American History Museum	2643.5415
+2109	DCB_se3_ag1_m_01	2643.5415	(pause 0.36)	2643.9059
+2110	DCB_se3_ag1_m_01	2643.9059	cause it's been a long time coming	2645.2947
+2111	DCB_se3_ag1_m_01	2645.2947	(pause 0.87)	2646.1689
+2112	DCB_se3_ag1_m_01	2646.1689	I feel like. And I feel like	2647.4301
+2113	DCB_se3_ag1_m_01	2647.4301	(pause 2.92)	2650.3473
+2114	DCB_se3_ag1_m_01	2650.3473	we shoulda-	2650.9218
+2115	DCB_se3_ag1_m_01	2650.9218	(pause 0.71)	2651.6364
+2116	DCB_se3_ag1_m_01	2651.6364	we should've been got that	2652.7645
+2117	DCB_se3_ag1_m_01	2652.7645	(pause 0.71)	2653.4721
+2118	DCB_se3_ag1_m_01	2653.4721	for all the things that we've been through in history.	2655.7824
+2119	DCB_se3_ag1_m_01	2655.7824	(pause 1.06)	2656.8447
+2120	DCB_se3_ag1_m_01	2656.8447	And all the things that we will still and	2658.6383
+2121	DCB_se3_ag1_m_01	2658.6383	(pause 0.30)	2658.9396
+2122	DCB_se3_ag1_m_01	2658.9396	currently	2659.5422
+2123	DCB_se3_ag1_m_01	2659.5422	(pause 0.24)	2659.7804
+2124	DCB_se3_ag1_m_01	2659.7804	overcoming	2660.5161
+2125	DCB_se3_ag1_m_01	2660.5161	(pause 0.39)	2660.9039
+2126	DCB_se3_ag1_m_01	2660.9039	in our present and future lives.	2662.5154
+2127	DCB_int_01	2663.5453	How many times have you been?	2664.5467
+2128	DCB_se3_ag1_m_01	2665.0938	Four.	2665.4812
+2129	DCB_se3_ag1_m_01	2665.4812	(pause 0.94)	2666.4250
+2130	DCB_se3_ag1_m_01	2666.4250	[And I still] haven't toured everything.	2667.9199
+2131	DCB_int_01	2666.4250	[What's your-]	2666.8339
+2132	DCB_int_01	2668.0670	Really?	2668.6695
+2133	DCB_se3_ag1_m_01	2668.6345	No.	2668.9901
+2134	DCB_int_01	2670.2110	What's your favorite part of it?	2671.3981
+2135	DCB_se3_ag1_m_01	2671.8810	I like the fraternities part.	2673.8498
+2136	DCB_se3_ag1_m_01	2673.8498	(pause 1.51)	2675.3632
+2137	DCB_se3_ag1_m_01	2675.3632	And also, um,	2676.5052
+2138	DCB_se3_ag1_m_01	2676.5052	(pause 2.45)	2678.9530
+2139	DCB_se3_ag1_m_01	2678.9530	I like	2679.5415
+2140	DCB_se3_ag1_m_01	2679.5415	(pause 1.52)	2681.0619
+2141	DCB_se3_ag1_m_01	2681.0619	the entertainment part. But my favorite part is- it's this room.	2683.8855
+2142	DCB_se3_ag1_m_01	2683.8855	(pause 0.34)	2684.2288
+2143	DCB_se3_ag1_m_01	2684.2288	And it's-	2684.5957
+2144	DCB_se3_ag1_m_01	2684.5957	(pause 0.13)	2684.7218
+2145	DCB_se3_ag1_m_01	2684.7218	it has a circular pool.	2686.2702
+2146	DCB_se3_ag1_m_01	2686.2702	(pause 0.31)	2686.5785
+2147	DCB_se3_ag1_m_01	2686.5785	Well, it's like a fountain.	2687.5734
+2148	DCB_se3_ag1_m_01	2687.5734	(pause 0.34)	2687.9167
+2149	DCB_se3_ag1_m_01	2687.9167	And it has water dripping from the ceiling.	2689.6823
+2150	DCB_se3_ag1_m_01	2689.6823	(pause 0.44)	2690.1192
+2151	DCB_se3_ag1_m_01	2690.1192	And it has like-	2690.9880
+2152	DCB_se3_ag1_m_01	2690.9880	(pause 0.34)	2691.3243
+2153	DCB_se3_ag1_m_01	2691.3243	you can	2691.7539
+2154	DCB_se3_ag1_m_01	2691.7539	(pause 0.28)	2692.0320
+2155	DCB_se3_ag1_m_01	2692.0320	fling a penny in there. It's like so soothing and calming and I think it has like quotes on the wall and stuff.	2696.7543
+2156	DCB_se3_ag1_m_01	2696.7543	(pause 1.16)	2697.9129
+2157	DCB_se3_ag1_m_01	2697.9129	And I love how	2698.5084
+2158	DCB_se3_ag1_m_01	2698.5084	(pause 1.46)	2699.9657
+2159	DCB_se3_ag1_m_01	2699.9657	it's no person in history that's African American	2702.6702
+2160	DCB_se3_ag1_m_01	2702.6702	(pause 0.95)	2703.6186
+2161	DCB_se3_ag1_m_01	2703.6186	that's not in that museum.	2704.6625
+2162	DCB_se3_ag1_m_01	2704.6625	(pause 0.27)	2704.9358
+2163	DCB_se3_ag1_m_01	2704.9358	From Oprah Winfrey to Magic Johnson to Martin Luther King to Malcolm X.	2708.4950
+2164	DCB_se3_ag1_m_01	2708.4950	(pause 0.39)	2708.8899
+2165	DCB_se3_ag1_m_01	2708.8899	Everybody	2709.4714
+2166	DCB_se3_ag1_m_01	2709.4714	(pause 0.59)	2710.0600
+2167	DCB_se3_ag1_m_01	2710.0600	is in that museum.	2710.8495
+2168	DCB_se3_ag1_m_01	2710.8495	(pause 2.22)	2713.0657
+2169	DCB_se3_ag1_m_01	2713.0657	Jackie Robinson.	2714.1587
+2170	DCB_int_01	2715.5555	Do you think that- Um, what's your favorite- So you say you've been to the restaurants. So we know about Ben's. What's your favorite restaurant in DC?	2722.7166
+2171	DCB_se3_ag1_m_01	2723.7415	Ted's Bulletin.	2724.7139
+2172	DCB_int_01	2725.2899	/Me/	2725.6223
+2173	DCB_int_01	2725.6223	(pause 0.17)	2725.7944
+2174	DCB_int_01	2725.7944	I love Ted's. It's not my favorite but I love [Ted's.]	2728.2842
+2175	DCB_se3_ag1_m_01	2728.1090	[Yeah] I like [Ted's]	2729.0596
+2176	DCB_int_01	2728.6695	[Why do you] like Ted's?	2729.6375
+2177	DCB_se3_ag1_m_01	2730.1899	Um,	2730.6033
+2178	DCB_se3_ag1_m_01	2730.6033	(pause 0.41)	2731.0167
+2179	DCB_se3_ag1_m_01	2731.0167	I like-	2731.3432
+2180	DCB_se3_ag1_m_01	2731.3432	(pause 0.17)	2731.5141
+2181	DCB_se3_ag1_m_01	2731.5141	it's like-	2731.9836
+2182	DCB_se3_ag1_m_01	2731.9836	(pause 0.42)	2732.4039
+2183	DCB_se3_ag1_m_01	2732.4039	it's like a-	2733.0338
+2184	DCB_se3_ag1_m_01	2733.0338	(pause 0.16)	2733.1912
+2185	DCB_se3_ag1_m_01	2733.1912	it reminds me of a old diner.	2734.8978
+2186	DCB_int_01	2735.3632	Yup.	2735.7753
+2187	DCB_se3_ag1_m_01	2736.1269	It reminds me of a old diner and I l-	2737.8995
+2188	DCB_se3_ag1_m_01	2737.8995	(pause 0.33)	2738.2288
+2189	DCB_se3_ag1_m_01	2738.2288	and I like that. And when you walk in they-	2740.3273
+2190	DCB_se3_ag1_m_01	2740.3273	(pause 0.54)	2740.8657
+2191	DCB_se3_ag1_m_01	2740.8657	they have like the donuts and stuff. It's- I like the r-	2742.8906
+2192	DCB_se3_ag1_m_01	2742.8906	(pause 0.22)	2743.1078
+2193	DCB_se3_ag1_m_01	2743.1078	I like the set up and the food is so good.	2744.9715
+2194	DCB_se3_ag1_m_01	2744.9715	(pause 1.05)	2746.0179
+2195	DCB_se3_ag1_m_01	2746.0179	It's real good.	2746.7396
+2196	DCB_int_01	2746.9148	What's your favorite meal?	2747.7637
+2197	DCB_se3_ag1_m_01	2748.3300	I like the pancakes.	2749.5071
+2198	DCB_se3_ag1_m_01	2749.5071	(pause 0.27)	2749.7804
+2199	DCB_se3_ag1_m_01	2749.7804	Whenever I go to a restaurant I make up my own meal.	2751.7167
+2200	DCB_se3_ag1_m_01	2751.7167	(pause 1.25)	2752.9638
+2201	DCB_se3_ag1_m_01	2752.9638	Even though they may charge you for extra, but I like to make up my own plates	2756.9715
+2202	DCB_se3_ag1_m_01	2756.9715	(pause 0.56)	2757.5275
+2203	DCB_se3_ag1_m_01	2757.5275	when I go to restaurants. I don't-	2758.6905
+2204	DCB_se3_ag1_m_01	2758.6905	(pause 0.92)	2759.6084
+2205	DCB_se3_ag1_m_01	2759.6084	/?/ this may come with it but I want this.	2761.4658
+2206	DCB_int_01	2762.5186	Do you like their pop tarts?	2763.7203
+2207	DCB_se3_ag1_m_01	2764.1511	Yes I like the pop [tarts. Y-] you gotta eat 'em hot.	2766.3990
+2208	DCB_int_01	2765.2370	[Me too.]	2765.5854
+2209	DCB_int_01	2766.9886	Yes. I love the pop tarts.	2768.9173
+2210	DCB_int_01	2768.9173	(pause 0.76)	2769.6816
+2211	DCB_int_01	2769.6816	Um,	2770.5154
+2212	DCB_int_01	2770.5154	(pause 0.29)	2770.8026
+2213	DCB_int_01	2770.8026	okay so let me ask you two more questions about DC and then I want you to do something for me.	2774.8804
+2214	DCB_se3_ag1_m_01	2774.9670	Mkay.	2775.3593
+2215	DCB_int_01	2777.1670	<ts>	2777.2791
+2216	DCB_int_01	2777.2791	(pause 0.67)	2777.9517
+2217	DCB_int_01	2777.9517	Do you like go go music?	2779.0167
+2218	DCB_se3_ag1_m_01	2783.2581	It's okay.	2783.8536
+2219	DCB_int_01	2784.6243	It's okay, tell me why is it okay.	2786.2805
+2220	DCB_se3_ag1_m_01	2786.9950	It's- it's vey loud.	2788.1160
+2221	DCB_se3_ag1_m_01	2788.1160	(pause 0.41)	2788.5224
+2222	DCB_se3_ag1_m_01	2788.5224	And that's one of the things /you're/ from DC, yeah everybody likes go go music.	2791.3740
+2223	DCB_se3_ag1_m_01	2791.3740	(pause 0.53)	2791.9020
+2224	DCB_se3_ag1_m_01	2791.9020	It- I- I will listen to it but it's not my preference.	2794.6695
+2225	DCB_int_01	2794.8657	Okay what's your [preference?]	2796.0288
+2226	DCB_se3_ag1_m_01	2795.7765	[I like] R and B.	2796.6052
+2227	DCB_se3_ag1_m_01	2797.6472	And rap, like the nineties rap music.	2799.6536
+2228	DCB_se3_ag1_m_01	2799.6536	(pause 0.94)	2800.5925
+2229	DCB_se3_ag1_m_01	2800.5925	Not today's rap music.	2801.9097
+2230	DCB_int_01	2802.0918	Nineties like Tupac, Biggie?	2803.6824
+2231	DCB_se3_ag1_m_01	2803.7173	Right.	2804.0396
+2232	DCB_int_01	2805.4294	Who's your favorite artist?	2806.5434
+2233	DCB_se3_ag1_m_01	2807.4682	Tu-	2807.7065
+2234	DCB_se3_ag1_m_01	2807.7065	(pause 0.23)	2807.9377
+2235	DCB_se3_ag1_m_01	2807.9377	no, Biggie.	2808.4703
+2236	DCB_se3_ag1_m_01	2808.4703	(pause 0.41)	2808.8835
+2237	DCB_se3_ag1_m_01	2808.8835	Biggie, then Tupac.	2810.1727
+2238	DCB_int_01	2810.5090	Oh Biggie then Tupac.	2811.4995
+2239	DCB_se3_ag1_m_01	2811.4644	Uh-huh.	2811.7727
+2240	DCB_int_01	2811.7377	Oh okay.	2812.1397
+2241	DCB_int_01	2813.2721	Favorite song?	2813.8424
+2242	DCB_se3_ag1_m_01	2814.5402	By?	2814.8740
+2243	DCB_int_01	2816.3269	I'm just gonna let you- Favorite song. I'm not even gonna say a by, you can tell me.	2819.5803
+2244	DCB_se3_ag1_m_01	2819.7205	By Biggie,	2820.7224
+2245	DCB_se3_ag1_m_01	2820.7224	(pause 0.55)	2821.2759
+2246	DCB_se3_ag1_m_01	2821.2759	Juicy.	2821.8084
+2247	DCB_int_01	2822.5676	Yes, it was all a dream.	2824.4815
+2248	DCB_se3_ag1_m_01	2824.5854	Right.	2824.9778
+2249	DCB_int_01	2824.9288	Mm.	2825.1950
+2250	DCB_se3_ag1_m_01	2825.8326	That song my favorite.	2826.7364
+2251	DCB_int_01	2826.7364	You didn't know I knew that.	2827.4446
+2252	DCB_se3_ag1_m_01	2827.6472	Cause it talks about the struggle.	2829.1676
+2253	DCB_int_01	2829.6886	Mm.	2830.0964
+2254	DCB_se3_ag1_m_01	2830.1651	And actually l- he actually lived the struggle.	2832.3942
+2255	DCB_se3_ag1_m_01	2832.3942	(pause 0.51)	2832.9046
+2256	DCB_se3_ag1_m_01	2832.9046	Instead of-	2833.4370
+2257	DCB_se3_ag1_m_01	2833.4370	(pause 0.86)	2834.2988
+2258	DCB_se3_ag1_m_01	2834.2988	he wasn't-	2834.9678
+2259	DCB_se3_ag1_m_01	2834.9678	(pause 1.03)	2835.9969
+2260	DCB_se3_ag1_m_01	2835.9969	he wasn't proud about it but it was something that he talked about, he wasn't ashamed about it.	2839.9442
+2261	DCB_se3_ag1_m_01	2839.9442	(pause 0.45)	2840.3899
+2262	DCB_se3_ag1_m_01	2840.3899	Nowadays people wanna live the struggle,	2842.4103
+2263	DCB_se3_ag1_m_01	2842.4103	(pause 0.57)	2842.9848
+2264	DCB_se3_ag1_m_01	2842.9848	to think that it's cool or	2844.6944
+2265	DCB_se3_ag1_m_01	2844.6944	(pause 0.49)	2845.1848
+2266	DCB_se3_ag1_m_01	2845.1848	that's- that's what's in.	2846.2602
+2267	DCB_se3_ag1_m_01	2846.2602	(pause 0.28)	2846.5440
+2268	DCB_se3_ag1_m_01	2846.5440	No.	2846.9127
+2269	DCB_se3_ag1_m_01	2846.9127	(pause 0.87)	2847.7867
+2270	DCB_se3_ag1_m_01	2847.7867	[It's not a-]	2848.2322
+2271	DCB_int_01	2847.8918	[It's the struggle.]	2848.6084
+2272	DCB_se3_ag1_m_01	2848.5644	It's the struggle.	2849.4472
+2273	DCB_se3_ag1_m_01	2849.8256	It's not about that. People	2851.3670
+2274	DCB_se3_ag1_m_01	2851.3670	(pause 0.32)	2851.6823
+2275	DCB_se3_ag1_m_01	2851.6823	if they could avoid the struggle they- /??/ pretty sure they would have.	2854.7256
+2276	DCB_int_01	2854.8797	That's right.	2855.2090
+2277	DCB_se3_ag1_m_01	2855.1740	But nowadays you rap about	2856.5122
+2278	DCB_se3_ag1_m_01	2856.9045	the struggle and having all these different girls and	2859.1701
+2279	DCB_se3_ag1_m_01	2859.1701	(pause 0.35)	2859.5205
+2280	DCB_se3_ag1_m_01	2859.5205	calling 'em out of their names which is wrong.	2861.7555
+2281	DCB_se3_ag1_m_01	2861.7555	(pause 0.20)	2861.9517
+2282	DCB_se3_ag1_m_01	2861.9517	Cause they're women first of all.	2863.3391
+2283	DCB_se3_ag1_m_01	2863.3391	(pause 2.58)	2865.9198
+2284	DCB_se3_ag1_m_01	2865.9198	Now,	2866.4173
+2285	DCB_se3_ag1_m_01	2866.4173	(pause 4.14)	2870.5581
+2286	DCB_se3_ag1_m_01	2870.5581	it may be a meaning behind-	2872.3682
+2287	DCB_se3_ag1_m_01	2872.3682	(pause 0.46)	2872.8236
+2288	DCB_se3_ag1_m_01	2872.8236	it may be a meaning behind your message.	2875.0150
+2289	DCB_se3_ag1_m_01	2875.0150	(pause 1.50)	2876.5115
+2290	DCB_se3_ag1_m_01	2876.5115	But your message is not-	2878.0810
+2291	DCB_se3_ag1_m_01	2878.0810	(pause 0.96)	2879.0408
+2292	DCB_se3_ag1_m_01	2879.0408	it's not accurate.	2879.9377
+2293	DCB_se3_ag1_m_01	2879.9377	(pause 1.61)	2881.5491
+2294	DCB_se3_ag1_m_01	2881.5491	While you may-	2882.2358
+2295	DCB_se3_ag1_m_01	2882.2358	(pause 1.14)	2883.3733
+2296	DCB_se3_ag1_m_01	2883.3733	while you may-	2884.2631
+2297	DCB_se3_ag1_m_01	2884.2631	(pause 0.60)	2884.8657
+2298	DCB_se3_ag1_m_01	2884.8657	you claim that you may go home and the fridge might not be nothing	2888.7122
+2299	DCB_se3_ag1_m_01	2888.7122	(pause 0.21)	2888.9179
+2300	DCB_se3_ag1_m_01	2888.9179	while you had sardines and-	2890.3752
+2301	DCB_se3_ag1_m_01	2890.3752	(pause 0.80)	2891.1740
+2302	DCB_se3_ag1_m_01	2891.1740	sardines and rice and stuff,	2892.9082
+2303	DCB_se3_ag1_m_01	2892.9082	(pause 0.58)	2893.4931
+2304	DCB_se3_ag1_m_01	2893.4931	and beans and stuff	2894.4740
+2305	DCB_se3_ag1_m_01	2894.4740	(pause 0.30)	2894.7778
+2306	DCB_se3_ag1_m_01	2894.7778	was waiting for you at dinner.	2895.8568
+2307	DCB_se3_ag1_m_01	2895.8568	(pause 0.14)	2895.9969
+2308	DCB_se3_ag1_m_01	2895.9969	You had a maid and a butler and stuff like that.	2897.9633
+2309	DCB_se3_ag1_m_01	2897.9633	(pause 0.42)	2898.3810
+2310	DCB_se3_ag1_m_01	2898.3810	So,	2898.6944
+2311	DCB_se3_ag1_m_01	2898.6944	(pause 0.78)	2899.4791
+2312	DCB_se3_ag1_m_01	2899.4791	it-	2899.7033
+2313	DCB_se3_ag1_m_01	2899.7033	(pause 0.15)	2899.8504
+2314	DCB_se3_ag1_m_01	2899.8504	you don't-	2900.2988
+2315	DCB_se3_ag1_m_01	2900.2988	(pause 0.39)	2900.6842
+2316	DCB_se3_ag1_m_01	2900.6842	you don't have to-	2901.5134
+2317	DCB_se3_ag1_m_01	2901.5134	(pause 1.06)	2902.5784
+2318	DCB_se3_ag1_m_01	2902.5784	you don't have to talk about the struggle to be popular.	2904.8264
+2319	DCB_int_01	2905.5491	Mm.	2905.9003
+2320	DCB_se3_ag1_m_01	2906.1237	If that's not your reality, that's not your reality.	2908.5501
+2321	DCB_se3_ag1_m_01	2908.5501	(pause 0.43)	2908.9778
+2322	DCB_se3_ag1_m_01	2908.9778	That was his reality.	2910.2459
+2323	DCB_se3_ag1_m_01	2910.2459	(pause 0.46)	2910.7084
+2324	DCB_se3_ag1_m_01	2910.7084	That was Tupac's reality.	2912.2365
+2325	DCB_se3_ag1_m_01	2912.2365	(pause 1.38)	2913.6115
+2326	DCB_se3_ag1_m_01	2913.6115	That was Lil' Kim,	2914.8517
+2327	DCB_se3_ag1_m_01	2914.8517	(pause 0.60)	2915.4472
+2328	DCB_se3_ag1_m_01	2915.4472	and all the people that	2916.5472
+2329	DCB_se3_ag1_m_01	2916.5472	(pause 0.17)	2916.7154
+2330	DCB_se3_ag1_m_01	2916.7154	grew up during the Bad Boy era and that was on-	2918.4880
+2331	DCB_se3_ag1_m_01	2918.4880	(pause 0.68)	2919.1701
+2332	DCB_se3_ag1_m_01	2919.1701	that was on the label, that was their reality.	2921.0338
+2333	DCB_se3_ag1_m_01	2921.0338	(pause 0.15)	2921.1880
+2334	DCB_se3_ag1_m_01	2921.1880	That may not be your reality.	2922.7365
+2335	DCB_se3_ag1_m_01	2922.7365	(pause 0.45)	2923.1848
+2336	DCB_se3_ag1_m_01	2923.1848	So rap about what- rap about-	2925.0337
+2337	DCB_se3_ag1_m_01	2925.0337	(pause 0.28)	2925.3103
+2338	DCB_se3_ag1_m_01	2925.3103	about you.	2925.9969
+2339	DCB_se3_ag1_m_01	2925.9969	(pause 1.90)	2927.8956
+2340	DCB_se3_ag1_m_01	2927.8956	Rap about how you gonna go out here and be successful in life.	2930.2778
+2341	DCB_se3_ag1_m_01	2930.2778	(pause 0.63)	2930.9084
+2342	DCB_se3_ag1_m_01	2930.9084	It's not all about, I got all the money in the world. It's not about that.	2933.9306
+2343	DCB_se3_ag1_m_01	2933.9306	(pause 0.34)	2934.2670
+2344	DCB_se3_ag1_m_01	2934.2670	Cause money don't make you happy at night.	2935.7593
+2345	DCB_se3_ag1_m_01	2935.7593	(pause 0.69)	2936.4529
+2346	DCB_se3_ag1_m_01	2936.4529	It-	2936.6631
+2347	DCB_se3_ag1_m_01	2936.6631	(pause 0.30)	2936.9669
+2348	DCB_se3_ag1_m_01	2936.9669	it don't.	2937.3523
+2349	DCB_se3_ag1_m_01	2937.3523	(pause 0.90)	2938.2491
+2350	DCB_se3_ag1_m_01	2938.2491	Having all the money it's-	2939.2791
+2351	DCB_se3_ag1_m_01	2939.2791	(pause 0.55)	2939.8326
+2352	DCB_se3_ag1_m_01	2939.8326	it's not all that.	2940.5963
+2353	DCB_se3_ag1_m_01	2940.5963	(pause 0.19)	2940.7854
+2354	DCB_se3_ag1_m_01	2940.7854	people have-	2941.3319
+2355	DCB_se3_ag1_m_01	2941.3319	(pause 1.05)	2942.3829
+2356	DCB_se3_ag1_m_01	2942.3829	A lot of celebrities and stars have money and be miserable.	2945.0268
+2357	DCB_se3_ag1_m_01	2945.0268	(pause 0.97)	2946.0007
+2358	DCB_se3_ag1_m_01	2946.0007	Just because you can go out here and buy	2947.3670
+2359	DCB_se3_ag1_m_01	2947.3670	(pause 0.36)	2947.7243
+2360	DCB_se3_ag1_m_01	2947.7243	whatever you want, yeah that may be good for a few days	2950.1657
+2361	DCB_se3_ag1_m_01	2950.1657	(pause 0.63)	2950.7956
+2362	DCB_se3_ag1_m_01	2950.7956	but after a while,	2951.4332
+2363	DCB_se3_ag1_m_01	2951.4332	(pause 0.39)	2951.8255
+2364	DCB_se3_ag1_m_01	2951.8255	it's not gonna make you happy.	2953.0697
+2365	DCB_int_01	2953.5631	Mm.	2953.8761
+2366	DCB_se3_ag1_m_01	2955.2822	Going out here and getting the latest Gucci and Prada	2957.6714
+2367	DCB_se3_ag1_m_01	2957.6714	(pause 0.36)	2958.0357
+2368	DCB_se3_ag1_m_01	2958.0357	and Fendi and Hermes and stuff, that's not gonna make you happy.	2960.8943
+2369	DCB_se3_ag1_m_01	2960.8943	(pause 0.97)	2961.8638
+2370	DCB_se3_ag1_m_01	2961.8638	It's gonna make you happy for that quick second but it's not gonna t-	2964.2669
+2371	DCB_se3_ag1_m_01	2964.2669	(pause 0.61)	2964.8765
+2372	DCB_se3_ag1_m_01	2964.8765	externally and internally really make you happy.	2967.7797
+2373	DCB_se3_ag1_m_01	2967.7797	(pause 2.47)	2970.2459
+2374	DCB_se3_ag1_m_01	2970.2459	It's not.	2970.7431
+2375	DCB_se3_ag1_m_01	2970.7431	(pause 2.32)	2973.0650
+2376	DCB_se3_ag1_m_01	2973.0650	Mm-mm.	2973.4294
+2377	DCB_se3_ag1_m_01	2973.4294	(pause 0.81)	2974.2421
+2378	DCB_se3_ag1_m_01	2974.2421	Be yourself.	2975.1107
+2379	DCB_se3_ag1_m_01	2975.1107	(pause 0.34)	2975.4542
+2380	DCB_se3_ag1_m_01	2975.4542	And then go out here and change the world.	2977.0424
+2381	DCB_se3_ag1_m_01	2977.0424	(pause 2.40)	2979.4434
+2382	DCB_se3_ag1_m_01	2979.4434	That's w- that's what makes me happy, if I can take away from myself to give to somebody else that needs it,	2983.8224
+2383	DCB_se3_ag1_m_01	2983.8224	(pause 0.18)	2984.0071
+2384	DCB_se3_ag1_m_01	2984.0071	that actually needs it	2985.1491
+2385	DCB_se3_ag1_m_01	2985.1491	(pause 0.44)	2985.5905
+2386	DCB_se3_ag1_m_01	2985.5905	and is in need of it	2986.8556
+2387	DCB_se3_ag1_m_01	2986.8556	(pause 0.77)	2987.6224
+2388	DCB_se3_ag1_m_01	2987.6224	I would do it.	2988.2109
+2389	DCB_se3_ag1_m_01	2988.2109	(pause 2.76)	2990.9739
+2390	DCB_se3_ag1_m_01	2990.9739	I would.	2991.4374
+2391	DCB_int_01	2994.9396	What about	2995.6822
+2392	DCB_int_01	2995.6822	(pause 2.87)	2998.5504
+2393	DCB_int_01	2998.5504	mumbo sauce?	2999.6390
+2394	DCB_se3_ag1_m_01	3000.5892	Okay. That's one of my favorites.	3002.0606
+2395	DCB_int_01	3002.3083	Oh, okay let's talk about mumbo [sauce.]	3003.7426
+2396	DCB_se3_ag1_m_01	3003.4294	[They was-] they was- that w- they was telling the truth when they was like, what's mumbo sauce, that's	3006.8905
+2397	DCB_se3_ag1_m_01	3007.1848	that's one of	3007.5947
+2398	DCB_se3_ag1_m_01	3007.5947	(pause 0.15)	3007.7429
+2399	DCB_se3_ag1_m_01	3007.7429	people's	3008.0941
+2400	DCB_se3_ag1_m_01	3008.0941	(pause 0.13)	3008.2234
+2401	DCB_se3_ag1_m_01	3008.2234	DC	3008.7111
+2402	DCB_se3_ag1_m_01	3008.7111	(pause 0.42)	3009.1351
+2403	DCB_se3_ag1_m_01	3009.1351	favorite memories and moments,	3010.6134
+2404	DCB_se3_ag1_m_01	3010.6134	(pause 0.53)	3011.1389
+2405	DCB_se3_ag1_m_01	3011.1389	when they go to carry out.	3012.0848
+2406	DCB_se3_ag1_m_01	3012.0848	(pause 0.15)	3012.2319
+2407	DCB_se3_ag1_m_01	3012.2319	You don't even have to tell 'em.	3013.3233
+2408	DCB_se3_ag1_m_01	3013.3233	(pause 0.94)	3014.2638
+2409	DCB_se3_ag1_m_01	3014.2638	It comes with it when you order carry out.	3015.8523
+2410	DCB_se3_ag1_m_01	3015.8523	(pause 0.42)	3016.2771
+2411	DCB_se3_ag1_m_01	3016.2771	The mumbo sauce comes in the bag.	3017.6644
+2412	DCB_se3_ag1_m_01	3017.6644	(pause 0.49)	3018.1548
+2413	DCB_se3_ag1_m_01	3018.1548	You don't even have to say mumbo sauce.	3019.5211
+2414	DCB_se3_ag1_m_01	3019.5211	(pause 0.41)	3019.9345
+2415	DCB_se3_ag1_m_01	3019.9345	You say wings, mumbo sauce is in the bag.	3021.7907
+2416	DCB_int_01	3022.9638	Now what's the right way, do you get it on your chicken or do you get it [in the bag?]	3026.4064
+2417	DCB_se3_ag1_m_01	3025.8714	[See,]	3026.3203
+2418	DCB_se3_ag1_m_01	3026.8758	I'm- I'm old school, I like to dip it I don't like to pour it all over the chicken.	3030.7903
+2419	DCB_int_01	3032.3872	It's okay, me too, I don't li- I like it	3034.2071
+2420	DCB_int_01	3034.2071	(pause 0.20)	3034.4102
+2421	DCB_int_01	3034.4102	on the side.	3035.0164
+2422	DCB_se3_ag1_m_01	3034.9563	Right.	3035.4262
+2423	DCB_se3_ag1_m_01	3035.5523	To dip it.	3036.2599
+2424	DCB_int_01	3036.4911	Cause I can make my-	3037.4370
+2425	DCB_int_01	3037.4370	(pause 0.16)	3037.5981
+2426	DCB_int_01	3037.5981	I can decide how much I want.	3038.8173
+2427	DCB_se3_ag1_m_01	3038.8109	Exactly.	3039.5765
+2428	DCB_int_01	3039.6886	I don't want my chicken all soggy.	3041.0058
+2429	DCB_se3_ag1_m_01	3040.9848	Right.	3041.3540
+2430	DCB_se3_ag1_m_01	3041.7975	And [say if you] don't eat it. You gonna-	3043.0867
+2431	DCB_int_01	3041.9096	[/?/]	3042.1785
+2432	DCB_int_01	3043.1147	/?/ You wanna eat it late.	3044.1239
+2433	DCB_se3_ag1_m_01	3044.1376	[Right.] (laughing)	3044.7710
+2434	DCB_int_01	3044.3574	[/That's/] right.	3045.1351
+2435	DCB_int_01	3045.3873	So describe mumbo sauce for me.	3047.1175
+2436	DCB_se3_ag1_m_01	3047.3911	It's- it's r- mostly it's red, if it's not red, it's- it's- mm, I wouldn't eat it.	3051.4153
+2437	DCB_se3_ag1_m_01	3051.4153	(pause 0.81)	3052.2211
+2438	DCB_se3_ag1_m_01	3052.2211	It's red,	3052.9848
+2439	DCB_se3_ag1_m_01	3052.9848	(pause 1.54)	3054.5262
+2440	DCB_se3_ag1_m_01	3054.5262	and it's- it has like a sweet and a s- like, taste to it.	3057.6746
+2441	DCB_se3_ag1_m_01	3057.6746	(pause 2.38)	3060.0497
+2442	DCB_se3_ag1_m_01	3060.0497	Mm, and then	3061.3783
+2443	DCB_se3_ag1_m_01	3061.3783	(pause 1.71)	3063.0930
+2444	DCB_se3_ag1_m_01	3063.0930	it's like juicy also.	3064.4663
+2445	DCB_se3_ag1_m_01	3064.4663	(pause 1.06)	3065.5243
+2446	DCB_se3_ag1_m_01	3065.5243	I've seen people eat mumbo	3066.5822
+2447	DCB_se3_ag1_m_01	3066.5822	(pause 0.32)	3066.9045
+2448	DCB_se3_ag1_m_01	3066.9045	sauce	3067.3731
+2449	DCB_se3_ag1_m_01	3067.3731	(pause 0.47)	3067.8434
+2450	DCB_se3_ag1_m_01	3067.8434	by itself.	3068.4120
+2451	DCB_se3_ag1_m_01	3068.4120	(pause 2.49)	3070.9007
+2452	DCB_se3_ag1_m_01	3070.9007	You know, it's- it's- it's good.	3072.2556
+2453	DCB_se3_ag1_m_01	3072.2556	(pause 0.79)	3073.0446
+2454	DCB_se3_ag1_m_01	3073.0446	It's red,	3073.7733
+2455	DCB_se3_ag1_m_01	3073.7733	(pause 0.27)	3074.0395
+2456	DCB_se3_ag1_m_01	3074.0395	it's red and it's saucy and it has like- um,	3076.7112
+2457	DCB_se3_ag1_m_01	3076.7112	(pause 0.56)	3077.2720
+2458	DCB_se3_ag1_m_01	3077.2720	it has like a sweet	3078.4444
+2459	DCB_se3_ag1_m_01	3078.4444	(pause 0.45)	3078.8975
+2460	DCB_se3_ag1_m_01	3078.8975	taste to it.	3079.6612
+2461	DCB_se3_ag1_m_01	3079.6612	(pause 2.61)	3082.2701
+2462	DCB_se3_ag1_m_01	3082.2701	Yeah.	3082.5434
+2463	DCB_int_01	3083.1809	And where do you get it?	3083.9516
+2464	DCB_se3_ag1_m_01	3084.4631	You get it from the carry out.	3085.5141
+2465	DCB_int_01	3085.5211	Is that the only place you can get it?	3086.7725
+2466	DCB_se3_ag1_m_01	3087.3453	No you can get it from other people, like I know this lady she made her own mumbo sauce.	3090.6560
+2467	DCB_int_01	3091.1217	Was it good?	3091.6703
+2468	DCB_se3_ag1_m_01	3091.6612	It was good.	3092.2217
+2469	DCB_int_01	3092.3338	Okay.	3092.8421
+2470	DCB_se3_ag1_m_01	3092.9179	Yeah.	3093.2480
+2471	DCB_int_01	3093.7306	Sometimes, mm.	3094.9077
+2472	DCB_se3_ag1_m_01	3095.4472	Yeah she made her own [mumbo sauce,]	3096.8005
+2473	DCB_int_01	3096.2509	[/Suspect/.]	3096.9577
+2474	DCB_se3_ag1_m_01	3097.0236	with her picture on it and everything.	3098.2918
+2475	DCB_int_01	3098.4414	Oh, her little-	3099.1070
+2476	DCB_int_01	3099.1070	(pause 1.33)	3100.4383
+2477	DCB_int_01	3100.4383	Maggie's mumbo sauce.	3101.7104
+2478	DCB_se3_ag1_m_01	3101.7625	Right.	3102.1268
+2479	DCB_int_01	3102.4561	How do you spell it?	3103.2126
+2480	DCB_se3_ag1_m_01	3105.0370	I don't know, people spell it- it's different ways you can spell it.	3107.7832
+2481	DCB_se3_ag1_m_01	3107.7832	(pause 0.84)	3108.6242
+2482	DCB_se3_ag1_m_01	3108.6242	But I w-	3109.1922
+2483	DCB_se3_ag1_m_01	3109.1922	(pause 0.62)	3109.8153
+2484	DCB_se3_ag1_m_01	3109.8153	mumbo- I would spell it M-A	3112.0109
+2485	DCB_se3_ag1_m_01	3112.0109	(pause 0.95)	3112.9567
+2486	DCB_se3_ag1_m_01	3112.9567	B-O,	3113.4472
+2487	DCB_se3_ag1_m_01	3113.4472	(pause 0.46)	3113.9096
+2488	DCB_se3_ag1_m_01	3113.9096	and then sauce.	3114.6593
+2489	DCB_se3_ag1_m_01	3114.6593	(pause 1.39)	3116.0465
+2490	DCB_se3_ag1_m_01	3116.0465	S-A-U-C-E.	3117.8357
+2491	DCB_int_01	3118.1650	Okay.	3118.5752

@@ -1,0 +1,613 @@
+Line	Spkr	StTime	Content	EnTime
+1	DCB_int_01	0.3970	Are you into professional basketball? Like, NBA?	3.1839
+2	DCB_se3_ag4_m_02	4.8232	I watch it during the playoffs,	6.3948
+3	DCB_se3_ag4_m_02	6.3948	(pause 0.23)	6.6213
+4	DCB_se3_ag4_m_02	6.6213	but	6.8761
+5	DCB_se3_ag4_m_02	6.8761	(pause 0.19)	7.0672
+6	DCB_se3_ag4_m_02	7.0672	not like- I used to watch it regularly. I don't-	9.2122
+7	DCB_se3_ag4_m_02	9.2122	(pause 0.16)	9.3750
+8	DCB_se3_ag4_m_02	9.3750	I don't watch it like I used to.	11.2267
+9	DCB_se3_ag4_m_02	11.2267	(pause 0.45)	11.6798
+10	DCB_se3_ag4_m_02	11.6798	Um,	12.3523
+11	DCB_se3_ag4_m_02	12.3523	(pause 0.51)	12.8620
+12	DCB_se3_ag4_m_02	12.8620	<ts>	12.9894
+13	DCB_se3_ag4_m_02	12.9894	(pause 1.00)	13.9875
+14	DCB_se3_ag4_m_02	13.9875	part of the difference is is that the-	15.8422
+15	DCB_se3_ag4_m_02	15.8422	(pause 0.24)	16.0799
+16	DCB_se3_ag4_m_02	16.0799	the- the change in-	17.1772
+17	DCB_se3_ag4_m_02	17.1772	(pause 0.74)	17.9134
+18	DCB_se3_ag4_m_02	17.9134	in college basketball I think has affected,	20.9478
+19	DCB_se3_ag4_m_02	20.9478	(pause 0.52)	21.4711
+20	DCB_se3_ag4_m_02	21.4711	um,	21.9242
+21	DCB_se3_ag4_m_02	21.9242	(pause 0.32)	22.2428
+22	DCB_se3_ag4_m_02	22.2428	how certainly I view professional [basketball.]	24.8620
+23	DCB_int_01	24.6388	[Mm.]	24.9207
+24	DCB_se3_ag4_m_02	25.3929	So,	26.0300
+25	DCB_se3_ag4_m_02	26.0300	(pause 0.79)	26.8228
+26	DCB_se3_ag4_m_02	26.8228	um,	27.2900
+27	DCB_se3_ag4_m_02	27.2900	(pause 0.66)	27.9525
+28	DCB_se3_ag4_m_02	27.9525	in college	29.0356
+29	DCB_se3_ag4_m_02	29.0356	(pause 0.52)	29.5594
+30	DCB_se3_ag4_m_02	29.5594	and	29.9134
+31	DCB_se3_ag4_m_02	29.9134	(pause 0.32)	30.2319
+32	DCB_se3_ag4_m_02	30.2319	after college,	31.4070
+33	DCB_se3_ag4_m_02	31.4070	(pause 0.62)	32.0229
+34	DCB_se3_ag4_m_02	32.0229	um,	32.3839
+35	DCB_se3_ag4_m_02	32.3839	(pause 1.39)	33.7785
+36	DCB_se3_ag4_m_02	33.7785	because	34.4581
+37	DCB_se3_ag4_m_02	34.4581	(pause 0.60)	35.0568
+38	DCB_se3_ag4_m_02	35.0568	you sort of follow people's careers	37.3504
+39	DCB_se3_ag4_m_02	37.3504	(pause 0.62)	37.9663
+40	DCB_se3_ag4_m_02	37.9663	in college because they were in college for four years,	40.0546
+41	DCB_se3_ag4_m_02	40.0546	(pause 0.94)	40.9931
+42	DCB_se3_ag4_m_02	40.9931	um,	41.3895
+43	DCB_se3_ag4_m_02	41.3895	(pause 0.21)	41.5948
+44	DCB_se3_ag4_m_02	41.5948	you felt like you sort of had a connection with them and you knew them,	43.8176
+45	DCB_se3_ag4_m_02	43.8176	(pause 0.52)	44.3344
+46	DCB_se3_ag4_m_02	44.3344	And when they went- Then,	45.5874
+47	DCB_se3_ag4_m_02	45.5874	(pause 0.45)	46.0375
+48	DCB_se3_ag4_m_02	46.0375	graduated college or f- completed their college years and went to the pros,	49.9946
+49	DCB_se3_ag4_m_02	49.9946	(pause 1.37)	51.3608
+50	DCB_se3_ag4_m_02	51.3608	you felt like you had a connection and you f-	52.9931
+51	DCB_se3_ag4_m_02	52.9931	(pause 0.23)	53.2196
+52	DCB_se3_ag4_m_02	53.2196	followed them through their	54.6142
+53	DCB_se3_ag4_m_02	54.6142	(pause 0.35)	54.9611
+54	DCB_se3_ag4_m_02	54.9611	pro career.	55.6690
+55	DCB_se3_ag4_m_02	55.6690	(pause 0.35)	56.0158
+56	DCB_se3_ag4_m_02	56.0158	And that for me was some of the attraction to watching	59.5240
+57	DCB_se3_ag4_m_02	59.5240	(pause 0.62)	60.1470
+58	DCB_se3_ag4_m_02	60.1470	the	60.3806
+59	DCB_se3_ag4_m_02	60.3806	(pause 0.35)	60.7275
+60	DCB_se3_ag4_m_02	60.7275	pro	61.2796
+61	DCB_se3_ag4_m_02	61.2796	(pause 0.54)	61.8176
+62	DCB_se3_ag4_m_02	61.8176	basketball because	62.9219
+63	DCB_se3_ag4_m_02	62.9219	(pause 0.45)	63.3750
+64	DCB_se3_ag4_m_02	63.3750	there were people that I	64.4793
+65	DCB_se3_ag4_m_02	64.4793	(pause 0.38)	64.8586
+66	DCB_se3_ag4_m_02	64.8586	felt like I knew, certainly knew of,	66.5646
+67	DCB_se3_ag4_m_02	66.5646	(pause 0.51)	67.0743
+68	DCB_se3_ag4_m_02	67.0743	uh,	67.5840
+69	DCB_se3_ag4_m_02	67.5840	(pause 0.14)	67.7256
+70	DCB_se3_ag4_m_02	67.7256	had watched them in college,	69.2192
+71	DCB_se3_ag4_m_02	69.2192	(pause 0.28)	69.5024
+72	DCB_se3_ag4_m_02	69.5024	and	69.9767
+73	DCB_se3_ag4_m_02	69.9767	(pause 0.37)	70.3489
+74	DCB_se3_ag4_m_02	70.3489	who I'm now interested in watching them progress and play in the pros and I would follow	74.8795
+75	DCB_se3_ag4_m_02	74.8795	(pause 0.69)	75.5661
+76	DCB_se3_ag4_m_02	75.5661	pro basketball more closely because of that.	77.6798
+77	DCB_se3_ag4_m_02	77.6798	(pause 1.62)	79.3009
+78	DCB_se3_ag4_m_02	79.3009	I don't know who these	80.2353
+79	DCB_se3_ag4_m_02	80.2353	(pause 1.20)	81.4316
+80	DCB_se3_ag4_m_02	81.4316	pro players are anymore because	83.0639
+81	DCB_se3_ag4_m_02	83.0639	(pause 0.38)	83.4391
+82	DCB_se3_ag4_m_02	83.4391	you don't-	83.8992
+83	DCB_se3_ag4_m_02	83.8992	(pause 0.37)	84.2673
+84	DCB_se3_ag4_m_02	84.2673	They're- they're one and done in college,	86.3131
+85	DCB_se3_ag4_m_02	86.3131	(pause 0.40)	86.7096
+86	DCB_se3_ag4_m_02	86.7096	and then they're in the pros and you hear their name and you go,	90.6779
+87	DCB_se3_ag4_m_02	90.6779	(pause 0.57)	91.2442
+88	DCB_se3_ag4_m_02	91.2442	well who was that and where did they come from?	92.8936
+89	DCB_se3_ag4_m_02	92.8936	(pause 1.76)	94.6533
+90	DCB_se3_ag4_m_02	94.6533	And so, I- I- I don't	97.4354
+91	DCB_se3_ag4_m_02	97.4354	(pause 0.42)	97.8530
+92	DCB_se3_ag4_m_02	97.8530	follow	98.5963
+93	DCB_se3_ag4_m_02	98.5963	(pause 0.93)	99.5236
+94	DCB_se3_ag4_m_02	99.5236	it like I-	100.4085
+95	DCB_se3_ag4_m_02	100.4085	(pause 0.20)	100.6038
+96	DCB_se3_ag4_m_02	100.6038	like I used to and	101.6939
+97	DCB_se3_ag4_m_02	101.6939	(pause 0.59)	102.2815
+98	DCB_se3_ag4_m_02	102.2815	I-	102.6071
+99	DCB_se3_ag4_m_02	102.6071	(pause 0.38)	102.9894
+100	DCB_se3_ag4_m_02	102.9894	I'd sort of know the- the- the names were household names.	106.5188
+101	DCB_se3_ag4_m_02	106.5188	(pause 0.57)	107.0851
+102	DCB_se3_ag4_m_02	107.0851	Um,	107.6444
+103	DCB_se3_ag4_m_02	107.6444	(pause 0.33)	107.9771
+104	DCB_se3_ag4_m_02	107.9771	but	108.3169
+105	DCB_se3_ag4_m_02	108.3169	(pause 0.27)	108.5859
+106	DCB_se3_ag4_m_02	108.5859	when you start	109.1947
+107	DCB_se3_ag4_m_02	109.1947	(pause 0.14)	109.3362
+108	DCB_se3_ag4_m_02	109.3362	going past some of them and you ask me about so and so,	111.9484
+109	DCB_se3_ag4_m_02	111.9484	(pause 0.51)	112.4622
+110	DCB_se3_ag4_m_02	112.4622	I don't know who that is,	113.4745
+111	DCB_se3_ag4_m_02	113.4745	(pause 0.17)	113.6444
+112	DCB_se3_ag4_m_02	113.6444	and who they play for or- or	115.2230
+113	DCB_se3_ag4_m_02	115.2230	(pause 0.77)	115.9946
+114	DCB_se3_ag4_m_02	115.9946	any of that.	116.5751
+115	DCB_se3_ag4_m_02	116.5751	(pause 0.51)	117.0847
+116	DCB_se3_ag4_m_02	117.0847	So I don't- I don't follow it as- as much as I used to, and	119.8992
+117	DCB_se3_ag4_m_02	119.8992	(pause 0.38)	120.2815
+118	DCB_se3_ag4_m_02	120.2815	even with college now, I mean, I- I'll- I'll follow	123.5520
+119	DCB_se3_ag4_m_02	123.5520	(pause 0.45)	124.0050
+120	DCB_se3_ag4_m_02	124.0050	the- the, um,	125.1418
+121	DCB_se3_ag4_m_02	125.1418	(pause 0.21)	125.3541
+122	DCB_se3_ag4_m_02	125.3541	March Madness.	126.2036
+123	DCB_int_01	126.6213	Mm-hm.	127.0248
+124	DCB_se3_ag4_m_02	127.0743	But i- during the season- the season is still so long,	129.4529
+125	DCB_se3_ag4_m_02	129.4529	(pause 0.42)	129.8746
+126	DCB_se3_ag4_m_02	129.8746	there's so many games, it's hard to keep up [with them.]	131.7810
+127	DCB_int_01	131.5665	[It's a lot] of teams.	132.4372
+128	DCB_se3_ag4_m_02	132.4301	And	133.0956
+129	DCB_se3_ag4_m_02	133.2301	there are- there are a lot of teams and there are a lot of players, and,	136.2245
+130	DCB_se3_ag4_m_02	136.2245	(pause 0.63)	136.8537
+131	DCB_se3_ag4_m_02	136.8537	you know, they- they-	137.7527
+132	DCB_se3_ag4_m_02	137.7527	(pause 0.17)	137.9275
+133	DCB_se3_ag4_m_02	137.9275	they come and go so quickly, you just can't keep up with them and	141.1201
+134	DCB_se3_ag4_m_02	141.1201	(pause 0.37)	141.4882
+135	DCB_se3_ag4_m_02	141.4882	so you don't have the opportunity to sort of	143.1276
+136	DCB_se3_ag4_m_02	143.1276	(pause 0.83)	143.9559
+137	DCB_se3_ag4_m_02	143.9559	become a fan of either a particular player or a particular team,	148.5289
+138	DCB_se3_ag4_m_02	148.5289	(pause 0.67)	149.1984
+139	DCB_se3_ag4_m_02	149.1984	um, in the way that we used to-	151.2513
+140	DCB_se3_ag4_m_02	151.2513	(pause 0.74)	151.9946
+141	DCB_se3_ag4_m_02	151.9946	used to do that.	152.6954
+142	DCB_int_01	153.6269	Yeah, I'm- I don't- I don't do college anymore. I- I mean I'm a Hoya so	157.9592
+143	DCB_int_01	157.9592	(pause 0.63)	158.5892
+144	DCB_int_01	158.5892	of course I'll always prefer Georgetown even in our situation	161.7152
+145	DCB_se3_ag4_m_02	161.6727	[Yes.]	162.2107
+146	DCB_int_01	161.9063	[right now.]	162.5788
+147	DCB_se3_ag4_m_02	162.6708	Yes.	163.0885
+148	DCB_int_01	163.1239	Um,	163.7751
+149	DCB_int_01	163.7751	(pause 0.16)	163.9309
+150	DCB_int_01	163.9309	but I do follow the NBA,	165.7926
+151	DCB_int_01	165.7926	(pause 0.45)	166.2386
+152	DCB_int_01	166.2386	so I, you know- I was really excited when I was listening you knew all about basketball. I was like, yeah, [okay.]	171.3821
+153	DCB_se3_ag4_m_02	171.1980	[<laugh>]	173.5453
+154	DCB_int_01	172.0445	[And then you were like, no.]	172.7383
+155	DCB_int_01	172.7383	(pause 0.21)	172.9506
+156	DCB_int_01	172.9506	[Mm-mm.]	173.2904
+157	DCB_int_01	173.5948	I don't really follow basketball.	174.7629
+158	DCB_int_01	174.7629	(pause 0.18)	174.9469
+159	DCB_int_01	174.9469	So no.	175.3009
+160	DCB_int_01	175.3009	(pause 0.48)	175.7822
+161	DCB_int_01	175.7822	Um, do you still hate musicals?	177.4104
+162	DCB_se3_ag4_m_02	178.9860	I'm not a fan of musicals. I've never really sort of been a fan of musicals. [Every now and then,]	184.4203
+163	DCB_int_01	183.2688	[No, you said /?/, you were like], [I hate, I hate musicals.]	185.7081
+164	DCB_se3_ag4_m_02	184.5983	[I- I hate- I know I-] I- [I listened to] that and I'm like- and I was thinking to myself, did I really say that like that? Oh I guess-	190.8303
+165	DCB_int_01	186.1117	[I hate musicals.]	186.9080
+166	DCB_se3_ag4_m_02	191.2904	I guess I did.	192.0432
+167	DCB_se3_ag4_m_02	192.0432	(pause 0.23)	192.2744
+168	DCB_se3_ag4_m_02	192.2744	And I- and I don't think that I've become-	194.0158
+169	DCB_se3_ag4_m_02	194.0158	(pause 0.18)	194.1999
+170	DCB_se3_ag4_m_02	194.1999	I'm- I'm more tolerant of them. And then some of them I- I've actually come to enjoy.	197.4603
+171	DCB_se3_ag4_m_02	197.4603	(pause 0.37)	197.8284
+172	DCB_se3_ag4_m_02	197.8284	So I w- I don't say that I hate them.	199.4424
+173	DCB_se3_ag4_m_02	199.4424	(pause 0.33)	199.7681
+174	DCB_se3_ag4_m_02	199.7681	I'm- I'm probably more selective about which ones I- I find interesting and I'm interested in seeing.	204.2603
+175	DCB_se3_ag4_m_02	204.2603	(pause 0.44)	204.6991
+176	DCB_se3_ag4_m_02	204.6991	But I- I- I do not hate musicals.	206.8991
+177	DCB_int_01	206.9927	Which- which one-	207.8634
+178	DCB_int_01	207.8634	(pause 0.29)	208.1507
+179	DCB_int_01	208.1507	Tell- tell me which one that you may-	209.4886
+180	DCB_int_01	209.4886	(pause 0.30)	209.7860
+181	DCB_int_01	209.7860	that you may enjoy.	210.6142
+182	DCB_se3_ag4_m_02	210.9611	[Um-]	211.5140
+183	DCB_int_01	211.0460	[Tell me one you] have enjoyed.	212.2919
+184	DCB_se3_ag4_m_02	212.8087	I think it was Fela.	213.7968
+185	DCB_se3_ag4_m_02	213.7968	(pause 1.90)	215.6939
+186	DCB_se3_ag4_m_02	215.6939	Fela?	216.2603
+187	DCB_se3_ag4_m_02	216.2603	(pause 0.22)	216.4797
+188	DCB_se3_ag4_m_02	216.4797	[Uh-]	216.8690
+189	DCB_int_01	216.4797	[Fela?]	216.8478
+190	DCB_se3_ag4_m_02	217.3646	Wasn't it called Fela? What was that musical called?	219.7431
+191	DCB_se3_ag4_m_02	219.7431	(pause 2.55)	222.2886
+192	DCB_se3_ag4_m_02	222.2886	I thought it was Fela. I can't remember the [name of it.]	224.4264
+193	DCB_int_01	223.8601	[Where were you?]	224.3839
+194	DCB_se3_ag4_m_02	225.0635	Over here at the-	226.0192
+195	DCB_se3_ag4_m_02	226.0192	(pause 0.24)	226.2569
+196	DCB_se3_ag4_m_02	226.2569	here in-	226.7949
+197	DCB_se3_ag4_m_02	226.7949	(pause 0.22)	227.0144
+198	DCB_se3_ag4_m_02	227.0144	it was playing-	227.6515
+199	DCB_se3_ag4_m_02	227.6515	(pause 0.91)	228.5576
+200	DCB_se3_ag4_m_02	228.5576	it was playing around the country but it was playing at the theater right up here, seventh and-	231.4953
+201	DCB_se3_ag4_m_02	231.4953	(pause 0.27)	231.7685
+202	DCB_se3_ag4_m_02	231.7685	across from the Verizon Center.	232.9506
+203	DCB_int_01	233.3825	Oh, um, <ts>	234.5151
+204	DCB_int_01	234.5151	(pause 0.17)	234.6850
+205	DCB_int_01	234.6850	uh, Shakespeare.	235.7681
+206	DCB_se3_ag4_m_02	235.9734	No, it was- it's at the theater but it's-	237.5378
+207	DCB_se3_ag4_m_02	237.5378	(pause 0.32)	237.8564
+208	DCB_se3_ag4_m_02	237.8564	it was not a [Shakespeare]	238.8940
+209	DCB_int_01	238.6533	[It-] it wasn't [Shakespeare.]	239.7329
+210	DCB_se3_ag4_m_02	239.5453	[No.]	240.0949
+211	DCB_se3_ag4_m_02	240.2390	No, it wasn't a Shakespeare play. It was- I thought it was called Fela.	243.1343
+212	DCB_int_01	243.6410	No but I'm saying it was at the [Shakespeare Theater.]	245.2126
+213	DCB_se3_ag4_m_02	244.6816	[It was actually] at [the Shakespeare Theater. Yeah,] yeah.	247.1805
+214	DCB_int_01	245.5240	[Yeah yeah yes. Yes yes. Okay.]	246.8336
+215	DCB_se3_ag4_m_02	247.5132	That was one I really enjoyed.	248.7450
+216	DCB_se3_ag4_m_02	248.7450	(pause 0.44)	249.1839
+217	DCB_se3_ag4_m_02	249.1839	Um, and there- there have been a few ones I can't remember. I haven't been to the theater in awhile.	252.5576
+218	DCB_se3_ag4_m_02	252.5576	(pause 0.40)	252.9611
+219	DCB_se3_ag4_m_02	252.9611	But there were a few others that I've- I've really enjoyed, and so	255.2830
+220	DCB_se3_ag4_m_02	255.2830	(pause 0.30)	255.5844
+221	DCB_se3_ag4_m_02	255.5844	from time to time I- I-	257.0781
+222	DCB_se3_ag4_m_02	257.0781	(pause 0.84)	257.9205
+223	DCB_se3_ag4_m_02	257.9205	I-	258.3027
+224	DCB_se3_ag4_m_02	258.3027	(pause 0.63)	258.9328
+225	DCB_se3_ag4_m_02	258.9328	[/you know/.]	259.1664
+226	DCB_int_01	258.9328	[Do you like] go go music?	260.1291
+227	DCB_se3_ag4_m_02	261.7502	<exhale>	262.7241
+228	DCB_se3_ag4_m_02	262.7241	(pause 0.60)	263.3258
+229	DCB_se3_ag4_m_02	263.3258	There's- there- from time to time I do like go go music. From time to time,	266.9290
+230	DCB_se3_ag4_m_02	266.9290	(pause 0.50)	267.4245
+231	DCB_se3_ag4_m_02	267.4245	and some of them- I certainly enjoyed Chuck Brown.	269.2975
+232	DCB_se3_ag4_m_02	269.2975	(pause 0.72)	270.0196
+233	DCB_se3_ag4_m_02	270.0196	And- and- and- and Rare Essence and	272.3627
+234	DCB_se3_ag4_m_02	272.3627	(pause 0.42)	272.7804
+235	DCB_se3_ag4_m_02	272.7804	some of the traditional kind of go go music cause it was-	275.3046
+236	DCB_se3_ag4_m_02	275.3046	(pause 0.49)	275.7930
+237	DCB_se3_ag4_m_02	275.7930	I mean I- I-	276.4160
+238	DCB_se3_ag4_m_02	276.4160	(pause 0.60)	277.0177
+239	DCB_se3_ag4_m_02	277.0177	I was sort of-	277.8459
+240	DCB_se3_ag4_m_02	277.8459	(pause 0.37)	278.2140
+241	DCB_se3_ag4_m_02	278.2140	I was grown then, I wasn't part of the-	280.1466
+242	DCB_se3_ag4_m_02	280.1466	(pause 0.39)	280.5401
+243	DCB_se3_ag4_m_02	280.5401	the go go crowds I was sort of past that	282.5859
+244	DCB_se3_ag4_m_02	282.5859	(pause 0.40)	282.9823
+245	DCB_se3_ag4_m_02	282.9823	but it was, you know- it was- it was	284.9786
+246	DCB_se3_ag4_m_02	284.9786	(pause 0.33)	285.3113
+247	DCB_se3_ag4_m_02	285.3113	DC music.	285.9909
+248	DCB_se3_ag4_m_02	285.9909	(pause 1.50)	287.4886
+249	DCB_se3_ag4_m_02	287.4886	You know? And so,	288.9540
+250	DCB_se3_ag4_m_02	288.9540	(pause 0.58)	289.5345
+251	DCB_se3_ag4_m_02	289.5345	um,	290.1149
+252	DCB_se3_ag4_m_02	290.1149	(pause 0.68)	290.7945
+253	DCB_se3_ag4_m_02	290.7945	some of it I like.	291.5236
+254	DCB_int_01	291.8463	How were you introduced to go go?	293.1630
+255	DCB_se3_ag4_m_02	294.4372	<ts>	294.5646
+256	DCB_se3_ag4_m_02	294.5646	(pause 0.44)	295.0035
+257	DCB_se3_ag4_m_02	295.0035	Gosh, on the radio.	296.1432
+258	DCB_se3_ag4_m_02	296.1432	(pause 1.87)	298.0099
+259	DCB_se3_ag4_m_02	298.0099	On the radio.	298.6533
+260	DCB_int_01	301.2938	Were you-	301.6690
+261	DCB_int_01	301.6690	(pause 0.40)	302.0725
+262	DCB_int_01	302.0725	so but you were still- you were	304.0404
+263	DCB_int_01	304.0404	(pause 0.48)	304.5188
+264	DCB_int_01	304.5188	<ts> [high school?]	305.9488
+265	DCB_se3_ag4_m_02	304.7949	[I was-]	305.1701
+266	DCB_se3_ag4_m_02	305.1701	(pause 0.76)	305.9275
+267	DCB_se3_ag4_m_02	305.9275	No, go go came after I was out of high school.	308.1362
+268	DCB_se3_ag4_m_02	308.3769	We didn't have go go then.	309.3396
+269	DCB_se3_ag4_m_02	309.3396	(pause 0.81)	310.1507
+270	DCB_se3_ag4_m_02	310.1507	I was-	310.5967
+271	DCB_int_01	310.5967	You were [gone] and [came back?]	311.8166
+272	DCB_se3_ag4_m_02	310.7524	[I-]	310.8940
+273	DCB_se3_ag4_m_02	310.8940	(pause 0.43)	311.3258
+274	DCB_se3_ag4_m_02	311.3258	[I was g- gone] and came- I had gone and come back, yeah.	313.7893
+275	DCB_se3_ag4_m_02	314.1786	[Yeah, go go-]	314.7450
+276	DCB_int_01	314.1928	[Seventies.]	314.9007
+277	DCB_int_01	315.0989	Late [seventies.]	315.8739
+278	DCB_se3_ag4_m_02	315.2830	[S- late s- late] seventies, [right.]	316.7949
+279	DCB_int_01	316.6816	[Mm-hm.]	317.0356
+280	DCB_se3_ag4_m_02	317.0568	That's right.	317.3825
+281	DCB_int_01	317.3966	I- I was a decade off.	318.4372
+282	DCB_se3_ag4_m_02	318.6567	Yeah.	318.9681
+283	DCB_se3_ag4_m_02	318.9681	(pause 0.56)	319.5274
+284	DCB_se3_ag4_m_02	319.5274	Yeah.	319.7397
+285	DCB_int_01	320.2919	So you-	320.9219
+286	DCB_int_01	320.9219	(pause 0.50)	321.4175
+287	DCB_int_01	321.4175	you weren't in the thick of it. [You weren't like], <sound effect>.	324.1328
+288	DCB_se3_ag4_m_02	322.9223	[No I was not.]	323.7223
+289	DCB_se3_ag4_m_02	324.2178	No, no I was [not.]	325.4000
+290	DCB_int_01	325.0531	[<clears throat>]	325.7327
+291	DCB_int_01	325.9167	So you more so like it because it's a DC thing as opposed to, I like it because I like it.	329.8666
+292	DCB_se3_ag4_m_02	330.0196	I'm n- Both. I mean, I- I like it because- I like some of it because I like it,	334.0404
+293	DCB_se3_ag4_m_02	334.0404	(pause 0.44)	334.4834
+294	DCB_se3_ag4_m_02	334.4834	and then, you know,	335.7223
+295	DCB_se3_ag4_m_02	335.7223	(pause 0.17)	335.8921
+296	DCB_se3_ag4_m_02	335.8921	th- that that I like is usually	338.0654
+297	DCB_se3_ag4_m_02	338.0654	(pause 0.28)	338.3415
+298	DCB_se3_ag4_m_02	338.3415	more traditional	339.6369
+299	DCB_se3_ag4_m_02	339.6369	(pause 0.51)	340.1507
+300	DCB_se3_ag4_m_02	340.1507	and- and more	340.9506
+301	DCB_se3_ag4_m_02	340.9506	(pause 0.34)	341.2904
+302	DCB_se3_ag4_m_02	341.2904	characteristic of	342.3806
+303	DCB_se3_ag4_m_02	342.3806	(pause 0.45)	342.8266
+304	DCB_se3_ag4_m_02	342.8266	wh- how it started here in DC and what it was all about.	345.1697
+305	DCB_int_01	346.2923	You said Rare Essence.	347.1747
+306	DCB_se3_ag4_m_02	347.5807	Yeah.	347.8426
+307	DCB_int_01	348.2461	[Why do you like them?]	348.9044
+308	DCB_se3_ag4_m_02	348.2603	[They w- they were-]	348.9044
+309	DCB_se3_ag4_m_02	349.2655	they were- they were local, and they were, you know- they were a part of that	351.6015
+310	DCB_se3_ag4_m_02	351.6015	(pause 0.26)	351.8605
+311	DCB_se3_ag4_m_02	351.8605	original	352.8799
+312	DCB_se3_ag4_m_02	352.8799	(pause 0.55)	353.4320
+313	DCB_se3_ag4_m_02	353.4320	development of- of- of go go. They were part of one of the original groups.	357.4113
+314	DCB_int_01	357.5095	What makes go go distinctive from	359.2692
+315	DCB_int_01	359.2692	(pause 0.79)	360.0550
+316	DCB_int_01	360.0550	hip hop or	361.3716
+317	DCB_se3_ag4_m_02	361.5982	[<exhale>]	362.3273
+318	DCB_int_01	361.6690	[pop or-]	362.6034
+319	DCB_se3_ag4_m_02	362.4406	[I-] I don't- I don't know cause I'm not that-	364.0687
+320	DCB_se3_ag4_m_02	364.3985	[I'm- I'm-] I'm not that in tune to all of that.	366.9257
+321	DCB_int_01	364.4268	[In-]	364.6675
+322	DCB_se3_ag4_m_02	367.2867	Um,	367.8530
+323	DCB_se3_ag4_m_02	367.8530	(pause 0.38)	368.2282
+324	DCB_se3_ag4_m_02	368.2282	I just remember that it was	369.7997
+325	DCB_se3_ag4_m_02	369.7997	(pause 0.59)	370.3914
+326	DCB_se3_ag4_m_02	370.3914	very	370.8374
+327	DCB_se3_ag4_m_02	370.8374	(pause 0.42)	371.2550
+328	DCB_se3_ag4_m_02	371.2550	distinctive	372.2107
+329	DCB_se3_ag4_m_02	372.2107	(pause 0.13)	372.3452
+330	DCB_se3_ag4_m_02	372.3452	certainly when it first came out.	373.8035
+331	DCB_se3_ag4_m_02	373.8035	(pause 0.59)	374.3981
+332	DCB_se3_ag4_m_02	374.3981	Um,	374.9856
+333	DCB_se3_ag4_m_02	374.9856	(pause 0.45)	375.4316
+334	DCB_se3_ag4_m_02	375.4316	and	376.2781
+335	DCB_se3_ag4_m_02	376.2781	(pause 0.31)	376.5896
+336	DCB_se3_ag4_m_02	376.5896	when people talked about go go, you knew that	379.8813
+337	DCB_se3_ag4_m_02	379.8813	(pause 0.17)	380.0512
+338	DCB_se3_ag4_m_02	380.0512	there was that DC connection,	382.0162
+339	DCB_se3_ag4_m_02	382.0162	(pause 0.52)	382.5330
+340	DCB_se3_ag4_m_02	382.5330	which, um,	383.5382
+341	DCB_se3_ag4_m_02	383.5382	(pause 0.55)	384.0904
+342	DCB_se3_ag4_m_02	384.0904	you know, there's a- there's a element of pride there, you know.	387.7643
+343	DCB_se3_ag4_m_02	387.7643	(pause 0.44)	388.2032
+344	DCB_se3_ag4_m_02	388.2032	It's- it's a- we- we own that.	390.3310
+345	DCB_int_01	390.5505	Are you a proud Washingtonian?	391.8459
+346	DCB_se3_ag4_m_02	391.9238	I am.	392.4760
+347	DCB_se3_ag4_m_02	392.4760	(pause 0.84)	393.3184
+348	DCB_se3_ag4_m_02	393.3184	[I am.]	393.8103
+349	DCB_int_01	393.4316	[Why?]	393.8776
+350	DCB_se3_ag4_m_02	394.9909	W- W- Washington is a-	396.6638
+351	DCB_se3_ag4_m_02	396.6638	(pause 1.31)	397.9734
+352	DCB_se3_ag4_m_02	397.9734	<ts>	398.0866
+353	DCB_se3_ag4_m_02	398.0866	(pause 0.96)	399.0423
+354	DCB_se3_ag4_m_02	399.0423	If you step away from	400.7737
+355	DCB_se3_ag4_m_02	400.7737	(pause 0.47)	401.2409
+356	DCB_se3_ag4_m_02	401.2409	the world view of DC,	402.8761
+357	DCB_se3_ag4_m_02	402.8761	(pause 0.91)	403.7893
+358	DCB_se3_ag4_m_02	403.7893	the	404.3131
+359	DCB_se3_ag4_m_02	404.3131	(pause 0.59)	404.9078
+360	DCB_se3_ag4_m_02	404.9078	nation's capital,	406.0162
+361	DCB_se3_ag4_m_02	406.0162	(pause 0.59)	406.6038
+362	DCB_se3_ag4_m_02	406.6038	the	407.2338
+363	DCB_se3_ag4_m_02	407.2338	(pause 0.93)	408.1682
+364	DCB_se3_ag4_m_02	408.1682	political center of-	410.1362
+365	DCB_se3_ag4_m_02	410.1362	(pause 0.16)	410.2990
+366	DCB_se3_ag4_m_02	410.2990	of the- of the world,	411.8564
+367	DCB_se3_ag4_m_02	411.8564	(pause 0.37)	412.2286
+368	DCB_se3_ag4_m_02	412.2286	in some ways.	413.0214
+369	DCB_se3_ag4_m_02	413.0214	(pause 0.31)	413.3329
+370	DCB_se3_ag4_m_02	413.3329	And you-	413.8921
+371	DCB_se3_ag4_m_02	413.8921	(pause 0.16)	414.0550
+372	DCB_se3_ag4_m_02	414.0550	you look at	415.0319
+373	DCB_se3_ag4_m_02	415.0319	(pause 0.58)	415.6123
+374	DCB_se3_ag4_m_02	415.6123	the city	416.3698
+375	DCB_se3_ag4_m_02	416.3698	(pause 0.83)	417.1980
+376	DCB_se3_ag4_m_02	417.1980	and	417.9767
+377	DCB_se3_ag4_m_02	417.9767	(pause 0.21)	418.1820
+378	DCB_se3_ag4_m_02	418.1820	what it was like,	419.2338
+379	DCB_se3_ag4_m_02	419.2338	(pause 0.30)	419.5382
+380	DCB_se3_ag4_m_02	419.5382	what it meant	420.1258
+381	DCB_se3_ag4_m_02	420.1258	(pause 0.60)	420.7275
+382	DCB_se3_ag4_m_02	420.7275	for black people,	421.7964
+383	DCB_se3_ag4_m_02	421.7964	(pause 2.24)	424.0375
+384	DCB_se3_ag4_m_02	424.0375	it's special.	424.9294
+385	DCB_se3_ag4_m_02	424.9294	(pause 0.96)	425.8851
+386	DCB_se3_ag4_m_02	425.8851	You-	426.2319
+387	DCB_se3_ag4_m_02	426.2319	(pause 0.19)	426.4231
+388	DCB_se3_ag4_m_02	426.4231	if you- if you live and work here in DC,	428.5538
+389	DCB_se3_ag4_m_02	428.5538	(pause 0.97)	429.5236
+390	DCB_se3_ag4_m_02	429.5236	and	430.1408
+391	DCB_se3_ag4_m_02	430.1408	(pause 0.22)	430.3560
+392	DCB_se3_ag4_m_02	430.3560	you	430.8940
+393	DCB_se3_ag4_m_02	430.8940	(pause 0.66)	431.5524
+394	DCB_se3_ag4_m_02	431.5524	leave and go some place else,	433.3221
+395	DCB_se3_ag4_m_02	433.3221	(pause 0.35)	433.6760
+396	DCB_se3_ag4_m_02	433.6760	and- and I'm sure this has happened to you,	435.6015
+397	DCB_se3_ag4_m_02	435.6015	(pause 0.38)	435.9808
+398	DCB_se3_ag4_m_02	435.9808	and you- you go to another city,	438.1045
+399	DCB_se3_ag4_m_02	438.1045	(pause 0.42)	438.5222
+400	DCB_se3_ag4_m_02	438.5222	and you look around and the first thing you say is	440.6246
+401	DCB_se3_ag4_m_02	440.6246	(pause 0.38)	441.0069
+402	DCB_se3_ag4_m_02	441.0069	where are all the black people and where are all the black professionals?	443.8992
+403	DCB_se3_ag4_m_02	443.8992	(pause 0.41)	444.3098
+404	DCB_se3_ag4_m_02	444.3098	We- we've-	445.0885
+405	DCB_se3_ag4_m_02	445.0885	(pause 0.64)	445.7256
+406	DCB_se3_ag4_m_02	445.7256	DC is just so unique in that way, and we take it for granted	449.2904
+407	DCB_se3_ag4_m_02	449.2904	(pause 0.39)	449.6798
+408	DCB_se3_ag4_m_02	449.6798	until you go away	450.8549
+409	DCB_se3_ag4_m_02	450.8549	(pause 0.26)	451.1168
+410	DCB_se3_ag4_m_02	451.1168	and you look around	452.2707
+411	DCB_se3_ag4_m_02	452.2707	(pause 0.43)	452.7025
+412	DCB_se3_ag4_m_02	452.7025	and you see what's missing.	454.4227
+413	DCB_se3_ag4_m_02	454.4227	(pause 0.48)	454.9011
+414	DCB_se3_ag4_m_02	454.9011	I mean	455.2692
+415	DCB_se3_ag4_m_02	455.2692	(pause 0.28)	455.5453
+416	DCB_se3_ag4_m_02	455.5453	this is an incredible- it's been an incredible place	458.3344
+417	DCB_se3_ag4_m_02	458.3344	(pause 0.35)	458.6812
+418	DCB_se3_ag4_m_02	458.6812	for, um,	460.1109
+419	DCB_se3_ag4_m_02	460.1109	(pause 0.54)	460.6533
+420	DCB_se3_ag4_m_02	460.6533	the- the-	461.0781
+421	DCB_se3_ag4_m_02	461.0781	(pause 0.43)	461.5099
+422	DCB_se3_ag4_m_02	461.5099	professional growth and development for all sorts of people,	464.4122
+423	DCB_se3_ag4_m_02	464.4122	(pause 0.39)	464.8016
+424	DCB_se3_ag4_m_02	464.8016	but especially for black people.	466.2923
+425	DCB_se3_ag4_m_02	466.2923	(pause 0.33)	466.6179
+426	DCB_se3_ag4_m_02	466.6179	We've got a huge black- Well, had and it's- it's-	469.1664
+427	DCB_se3_ag4_m_02	469.1664	(pause 0.23)	469.4000
+428	DCB_se3_ag4_m_02	469.4000	to some degree still have	470.9078
+429	DCB_se3_ag4_m_02	470.9078	(pause 0.30)	471.2051
+430	DCB_se3_ag4_m_02	471.2051	a huge black middle class	473.0214
+431	DCB_se3_ag4_m_02	473.0214	(pause 0.79)	473.8143
+432	DCB_se3_ag4_m_02	473.8143	here.	474.2532
+433	DCB_se3_ag4_m_02	474.2532	(pause 0.29)	474.5434
+434	DCB_se3_ag4_m_02	474.5434	There have been all kinds of opportunities. People have been able to succeed in life and	478.4905
+435	DCB_se3_ag4_m_02	478.4905	(pause 0.30)	478.7949
+436	DCB_se3_ag4_m_02	478.7949	do all kinds of things	480.0479
+437	DCB_se3_ag4_m_02	480.0479	(pause 0.43)	480.4797
+438	DCB_se3_ag4_m_02	480.4797	in- in large part because the government was willing to	483.7502
+439	DCB_se3_ag4_m_02	483.7502	(pause 0.30)	484.0516
+440	DCB_se3_ag4_m_02	484.0516	hire black people and give people an opportunity and,	487.0885
+441	DCB_se3_ag4_m_02	487.0885	(pause 0.43)	487.5203
+442	DCB_se3_ag4_m_02	487.5203	you know.	487.9875
+443	DCB_se3_ag4_m_02	487.9875	(pause 0.25)	488.2353
+444	DCB_se3_ag4_m_02	488.2353	We- we	488.8087
+445	DCB_se3_ag4_m_02	488.8087	(pause 0.79)	489.5944
+446	DCB_se3_ag4_m_02	489.5944	had a strong city government at the- at- for a long time	493.0602
+447	DCB_se3_ag4_m_02	493.0602	(pause 0.44)	493.4991
+448	DCB_se3_ag4_m_02	493.4991	and, um,	494.9149
+449	DCB_se3_ag4_m_02	494.9149	(pause 0.57)	495.4882
+450	DCB_se3_ag4_m_02	495.4882	there was a- there was a place where, uh, you could find your niche in-	499.5840
+451	DCB_se3_ag4_m_02	499.5840	(pause 0.31)	499.8955
+452	DCB_se3_ag4_m_02	499.8955	in politics and-	501.0706
+453	DCB_se3_ag4_m_02	501.0706	(pause 0.35)	501.4216
+454	DCB_se3_ag4_m_02	501.4216	and have an impact and	503.0568
+455	DCB_se3_ag4_m_02	503.0568	(pause 0.35)	503.4037
+456	DCB_se3_ag4_m_02	503.4037	just do all kinds of-	504.9540
+457	DCB_se3_ag4_m_02	504.9540	(pause 0.35)	505.3009
+458	DCB_se3_ag4_m_02	505.3009	all kinds of things	506.4285
+459	DCB_se3_ag4_m_02	506.4285	(pause 0.39)	506.8228
+460	DCB_se3_ag4_m_02	506.8228	and so	508.1678
+461	DCB_se3_ag4_m_02	508.1678	(pause 0.44)	508.6109
+462	DCB_se3_ag4_m_02	508.6109	absolutely I'm a proud Washingtonian.	510.6691
+463	DCB_se3_ag4_m_02	510.6691	(pause 3.99)	514.6604
+464	DCB_se3_ag4_m_02	514.6604	Now what I can say to you is I worry about my city.	518.0441
+465	DCB_int_01	519.9979	Why?	520.2811
+466	DCB_se3_ag4_m_02	520.8940	Because it is changing	522.5505
+467	DCB_se3_ag4_m_02	522.5505	(pause 0.35)	522.8974
+468	DCB_se3_ag4_m_02	522.8974	and I'm not so sure	524.2848
+469	DCB_se3_ag4_m_02	524.2848	(pause 0.36)	524.6459
+470	DCB_se3_ag4_m_02	524.6459	that all the changes	526.3873
+471	DCB_se3_ag4_m_02	526.3873	(pause 0.23)	526.6179
+472	DCB_se3_ag4_m_02	526.6179	are for the-	527.3258
+473	DCB_se3_ag4_m_02	527.3258	(pause 0.40)	527.7223
+474	DCB_se3_ag4_m_02	527.7223	for the best.	528.6354
+475	DCB_int_01	529.3292	What does that mean?	530.0374
+476	DCB_se3_ag4_m_02	530.5892	That means that	531.9201
+477	DCB_se3_ag4_m_02	531.9201	(pause 1.37)	533.2904
+478	DCB_se3_ag4_m_02	533.2904	DC	534.1682
+479	DCB_se3_ag4_m_02	534.1682	(pause 0.35)	534.5151
+480	DCB_se3_ag4_m_02	534.5151	used to be	535.5769
+481	DCB_se3_ag4_m_02	535.5769	(pause 0.47)	536.0512
+482	DCB_se3_ag4_m_02	536.0512	a warm	536.9927
+483	DCB_se3_ag4_m_02	536.9927	(pause 0.38)	537.3679
+484	DCB_se3_ag4_m_02	537.3679	and friendly	538.3448
+485	DCB_se3_ag4_m_02	538.3448	(pause 0.27)	538.6109
+486	DCB_se3_ag4_m_02	538.6109	city.	539.1276
+487	DCB_se3_ag4_m_02	539.1276	(pause 0.95)	540.0762
+488	DCB_se3_ag4_m_02	540.0762	You walk down the street,	541.2655
+489	DCB_se3_ag4_m_02	541.2655	(pause 0.60)	541.8672
+490	DCB_se3_ag4_m_02	541.8672	everybody speaks.	542.9078
+491	DCB_se3_ag4_m_02	542.9078	(pause 1.28)	544.1855
+492	DCB_se3_ag4_m_02	544.1855	You greet everybody. You make contact. You say hello.	546.5859
+493	DCB_se3_ag4_m_02	546.5859	(pause 1.21)	547.7964
+494	DCB_se3_ag4_m_02	547.7964	You	548.4830
+495	DCB_se3_ag4_m_02	548.4830	(pause 0.69)	549.1768
+496	DCB_se3_ag4_m_02	549.1768	are polite,	549.8393
+497	DCB_se3_ag4_m_02	549.8393	(pause 0.49)	550.3277
+498	DCB_se3_ag4_m_02	550.3277	you're courteous.	551.3966
+499	DCB_se3_ag4_m_02	551.3966	(pause 0.44)	551.8355
+500	DCB_se3_ag4_m_02	551.8355	Um,	552.5080
+501	DCB_se3_ag4_m_02	552.5080	(pause 0.38)	552.8832
+502	DCB_se3_ag4_m_02	552.8832	it-	553.0885
+503	DCB_se3_ag4_m_02	553.0885	(pause 0.28)	553.3646
+504	DCB_se3_ag4_m_02	553.3646	there w-	553.6902
+505	DCB_se3_ag4_m_02	553.6902	(pause 0.30)	553.9875
+506	DCB_se3_ag4_m_02	553.9875	there was-	554.8795
+507	DCB_se3_ag4_m_02	554.8795	(pause 0.40)	555.2830
+508	DCB_se3_ag4_m_02	555.2830	DC is south of the Mason Dixon Line,	557.2267
+509	DCB_se3_ag4_m_02	557.2267	(pause 0.58)	557.8072
+510	DCB_se3_ag4_m_02	557.8072	and	558.5080
+511	DCB_se3_ag4_m_02	558.5080	(pause 0.91)	559.4212
+512	DCB_se3_ag4_m_02	559.4212	there was a culture.	560.9573
+513	DCB_se3_ag4_m_02	560.9573	(pause 1.18)	562.1395
+514	DCB_se3_ag4_m_02	562.1395	Some of the best	563.2480
+515	DCB_se3_ag4_m_02	563.2480	(pause 0.23)	563.4816
+516	DCB_se3_ag4_m_02	563.4816	parts of	564.5434
+517	DCB_se3_ag4_m_02	564.5434	(pause 0.42)	564.9611
+518	DCB_se3_ag4_m_02	564.9611	the Southern culture	566.2777
+519	DCB_se3_ag4_m_02	566.2777	(pause 1.10)	567.3785
+520	DCB_se3_ag4_m_02	567.3785	had manifested themselves and become a part of the culture in DC.	570.8407
+521	DCB_se3_ag4_m_02	570.8407	(pause 1.50)	572.3415
+522	DCB_se3_ag4_m_02	572.3415	We've lost that.	573.1485
+523	DCB_se3_ag4_m_02	573.1485	(pause 0.25)	573.3962
+524	DCB_se3_ag4_m_02	573.3962	We're losing that. It's become cold.	575.6231
+525	DCB_se3_ag4_m_02	575.6231	(pause 0.38)	575.9983
+526	DCB_se3_ag4_m_02	575.9983	People are rude. People are callous. People are indifferent.	579.3254
+527	DCB_se3_ag4_m_02	579.3254	(pause 0.38)	579.7077
+528	DCB_se3_ag4_m_02	579.7077	Um, people don't speak.	581.0639
+529	DCB_se3_ag4_m_02	581.0639	(pause 0.31)	581.3754
+530	DCB_se3_ag4_m_02	581.3754	You- you- you- you know all your- you used to- you grow up and you know all your neighbors.	585.7643
+531	DCB_se3_ag4_m_02	585.7643	(pause 1.14)	586.9011
+532	DCB_se3_ag4_m_02	586.9011	And	587.5948
+533	DCB_se3_ag4_m_02	587.5948	(pause 0.32)	587.9134
+534	DCB_se3_ag4_m_02	587.9134	everybody helped out and	590.0512
+535	DCB_se3_ag4_m_02	590.0512	(pause 0.27)	590.3202
+536	DCB_se3_ag4_m_02	590.3202	there was just a warmth and- and sense of camaraderie	593.7860
+537	DCB_se3_ag4_m_02	593.7860	(pause 0.33)	594.1187
+538	DCB_se3_ag4_m_02	594.1187	and pride and unity	596.2353
+539	DCB_se3_ag4_m_02	596.2353	(pause 0.64)	596.8724
+540	DCB_se3_ag4_m_02	596.8724	that	597.1909
+541	DCB_se3_ag4_m_02	597.1909	(pause 0.18)	597.3750
+542	DCB_se3_ag4_m_02	597.3750	I remember	598.2457
+543	DCB_se3_ag4_m_02	598.2457	(pause 0.51)	598.7595
+544	DCB_se3_ag4_m_02	598.7595	growing up here	599.6444
+545	DCB_se3_ag4_m_02	599.6444	(pause 0.69)	600.3381
+546	DCB_se3_ag4_m_02	600.3381	that I think is	601.4566
+547	DCB_se3_ag4_m_02	601.4566	(pause 1.03)	602.4901
+548	DCB_se3_ag4_m_02	602.4901	being	602.9240
+549	DCB_se3_ag4_m_02	602.9240	(pause 0.17)	603.0989
+550	DCB_se3_ag4_m_02	603.0989	eroded	603.7006
+551	DCB_se3_ag4_m_02	603.7006	(pause 0.82)	604.5188
+552	DCB_se3_ag4_m_02	604.5188	not so slowly.	605.4249
+553	DCB_se3_ag4_m_02	605.4249	(pause 0.92)	606.3452
+554	DCB_se3_ag4_m_02	606.3452	Um,	607.1026
+555	DCB_se3_ag4_m_02	607.1026	(pause 0.96)	608.0583
+556	DCB_se3_ag4_m_02	608.0583	you know, you had	609.0352
+557	DCB_se3_ag4_m_02	609.0352	(pause 0.64)	609.6764
+558	DCB_se3_ag4_m_02	609.6764	people here who	611.0002
+559	DCB_se3_ag4_m_02	611.0002	(pause 0.88)	611.8851
+560	DCB_se3_ag4_m_02	611.8851	couldn't wait to get here	612.9894
+561	DCB_se3_ag4_m_02	612.9894	(pause 0.93)	613.9238
+562	DCB_se3_ag4_m_02	613.9238	because	614.8936
+563	DCB_se3_ag4_m_02	614.8936	(pause 0.82)	615.7148
+564	DCB_se3_ag4_m_02	615.7148	th- they	616.4439
+565	DCB_se3_ag4_m_02	616.4439	(pause 0.93)	617.3754
+566	DCB_se3_ag4_m_02	617.3754	recognizably that there was opportunity	619.5699
+567	DCB_se3_ag4_m_02	619.5699	(pause 0.40)	619.9734
+568	DCB_se3_ag4_m_02	619.9734	and if they worked hard, they could-	621.5166
+569	DCB_se3_ag4_m_02	621.5166	(pause 0.44)	621.9555
+570	DCB_se3_ag4_m_02	621.9555	they could succeed	623.0214
+571	DCB_se3_ag4_m_02	623.0214	(pause 0.36)	623.3825
+572	DCB_se3_ag4_m_02	623.3825	and- and do well and grow and develop and	626.3131
+573	DCB_se3_ag4_m_02	626.3131	(pause 0.48)	626.7945
+574	DCB_se3_ag4_m_02	626.7945	there were all kinds of opportunities here and	629.0498
+575	DCB_se3_ag4_m_02	629.0498	(pause 0.67)	629.7152
+576	DCB_se3_ag4_m_02	629.7152	all of that. And	630.6354
+577	DCB_se3_ag4_m_02	630.6354	(pause 0.49)	631.1239
+578	DCB_se3_ag4_m_02	631.1239	I don't think that there's that sense of-	633.1485
+579	DCB_se3_ag4_m_02	633.1485	(pause 0.83)	633.9738
+580	DCB_se3_ag4_m_02	633.9738	of hope	634.6109
+581	DCB_se3_ag4_m_02	634.6109	(pause 0.27)	634.8799
+582	DCB_se3_ag4_m_02	634.8799	that sense of, um,	637.0531
+583	DCB_se3_ag4_m_02	637.0531	(pause 2.35)	639.4033
+584	DCB_se3_ag4_m_02	639.4033	<ts>	639.5449
+585	DCB_se3_ag4_m_02	639.5449	(pause 1.75)	641.2904
+586	DCB_se3_ag4_m_02	641.2904	being able to be part of something.	643.2584
+587	DCB_se3_ag4_m_02	643.2584	(pause 0.70)	643.9592
+588	DCB_se3_ag4_m_02	643.9592	I think th- the- the view of the city is a lot more transient.	647.1276
+589	DCB_se3_ag4_m_02	647.1276	(pause 0.36)	647.4886
+590	DCB_se3_ag4_m_02	647.4886	There- people here are a lot more transient.	649.4637
+591	DCB_se3_ag4_m_02	649.4637	(pause 0.46)	649.9238
+592	DCB_se3_ag4_m_02	649.9238	Um,	650.7237
+593	DCB_se3_ag4_m_02	650.7237	(pause 0.40)	651.1272
+594	DCB_se3_ag4_m_02	651.1272	there- there	651.9767
+595	DCB_se3_ag4_m_02	651.9767	(pause 0.21)	652.1820
+596	DCB_se3_ag4_m_02	652.1820	there are people here who	653.9629
+597	DCB_se3_ag4_m_02	653.9629	(pause 1.07)	655.0319
+598	DCB_se3_ag4_m_02	655.0319	don't come in with a- an understanding or appreciation	658.1012
+599	DCB_se3_ag4_m_02	658.1012	(pause 0.40)	658.5047
+600	DCB_se3_ag4_m_02	658.5047	of the, um-	659.9063
+601	DCB_se3_ag4_m_02	659.9063	(pause 0.69)	660.6000
+602	DCB_se3_ag4_m_02	660.6000	what was	661.2088
+603	DCB_se3_ag4_m_02	661.2088	(pause 0.23)	661.4424
+604	DCB_se3_ag4_m_02	661.4424	sort of the culture of the city.	662.9219
+605	DCB_se3_ag4_m_02	662.9219	(pause 1.04)	663.9667
+606	DCB_se3_ag4_m_02	663.9667	And I- I think that's-	666.0408
+607	DCB_se3_ag4_m_02	666.0408	(pause 1.01)	667.0460
+608	DCB_se3_ag4_m_02	667.0460	t- to lose that	668.1079
+609	DCB_se3_ag4_m_02	668.1079	(pause 0.29)	668.3981
+610	DCB_se3_ag4_m_02	668.3981	is, um,	669.4316
+611	DCB_se3_ag4_m_02	669.4316	(pause 2.03)	671.4603
+612	DCB_se3_ag4_m_02	671.4603	to lose some of what was the best part of the city.	673.8247

@@ -1,0 +1,446 @@
+Line	Spkr	StTime	Content	EnTime
+1	DCA_int_01	3.1550	Okay one more question then we're gonna go on to another thing.	7.1619
+2	DCA_int_01	7.1619	(pause 1.95)	9.1097
+3	DCA_int_01	9.1097	How do you celebrate Christmas?	10.8570
+4	DCA_se2_ag1_m_05	11.5909	How do we celebrate Christmas?	13.3614
+5	DCA_int_01	12.8875	/inaudible/	16.8828
+6	DCA_se2_ag1_m_05	16.9854	Oh are you talking about my age now?	19.1651
+7	DCA_int_01	19.9307	Uh or whichever you remember the best.	22.2469
+8	DCA_se2_ag1_m_05	22.6264	Well wh-	23.2809
+9	DCA_se2_ag1_m_05	23.2809	(pause 0.15)	23.4268
+10	DCA_se2_ag1_m_05	23.4268	when I was uh smaller you know younger	26.0651
+11	DCA_se2_ag1_m_05	26.0651	(pause 1.30)	27.3646
+12	DCA_se2_ag1_m_05	27.3646	smaller younger, when I was younger you know we used to	30.6900
+13	DCA_se2_ag1_m_05	30.6900	(pause 1.12)	31.8069
+14	DCA_se2_ag1_m_05	31.8069	well	32.7393
+15	DCA_se2_ag1_m_05	32.7393	(pause 0.84)	33.5755
+16	DCA_se2_ag1_m_05	33.5755	Christmas time I think around Christmas Eve you know everybody had that yule tide	38.2336
+17	DCA_se2_ag1_m_05	38.2336	(pause 0.30)	38.5378
+18	DCA_se2_ag1_m_05	38.5378	feeling you know.	39.4662
+19	DCA_int_01	39.4662	Mm-hm.	40.0190
+20	DCA_se2_ag1_m_05	41.5632	What am I going to get for Christmas?	43.6888
+21	DCA_se2_ag1_m_05	43.6888	(pause 0.58)	44.2684
+22	DCA_se2_ag1_m_05	44.2684	What is Daddy gonna get me, Mommy gonna get me	47.0537
+23	DCA_se2_ag1_m_05	47.0537	(pause 1.06)	48.1092
+24	DCA_se2_ag1_m_05	48.1092	and we all would talk to one another you know all my friends you know, I'm gonna get this I bet	52.6393
+25	DCA_se2_ag1_m_05	52.6393	(pause 0.18)	52.8153
+26	DCA_se2_ag1_m_05	52.8153	you know I'm gonna get this.	54.3101
+27	DCA_se2_ag1_m_05	54.3101	(pause 0.39)	54.7018
+28	DCA_se2_ag1_m_05	54.7018	I know I'm gonna get this	56.0304
+29	DCA_se2_ag1_m_05	56.0304	(pause 0.10)	56.1265
+30	DCA_se2_ag1_m_05	56.1265	you know I'm'a get me some guns, No I'll get a bicycle	58.7676
+31	DCA_se2_ag1_m_05	58.7676	(pause 1.12)	59.8882
+32	DCA_se2_ag1_m_05	59.8882	I'll get a bicycle too, I would get a English Racer you know	62.9213
+33	DCA_se2_ag1_m_05	62.9213	(pause 0.15)	63.0737
+34	DCA_se2_ag1_m_05	63.0737	four speed or seven speed you know	65.1546
+35	DCA_se2_ag1_m_05	65.1546	(pause 1.02)	66.1791
+36	DCA_se2_ag1_m_05	66.1791	twelve speeds.	67.2817
+37	DCA_se2_ag1_m_05	67.2817	(pause 0.79)	68.0680
+38	DCA_se2_ag1_m_05	68.0680	I'm getting the same thing that's what my father told me you know you always try and outdo the other fellas you know and uh	73.2679
+39	DCA_se2_ag1_m_05	73.2679	(pause 1.08)	74.3429
+40	DCA_se2_ag1_m_05	74.3429	when Christmas night came you know	76.4490
+41	DCA_se2_ag1_m_05	76.4490	(pause 0.54)	76.9841
+42	DCA_se2_ag1_m_05	76.9841	everyone took their bath and uhh	80.3460
+43	DCA_se2_ag1_m_05	80.3460	(pause 0.88)	81.2223
+44	DCA_se2_ag1_m_05	81.2223	jumped in bed	82.5029
+45	DCA_se2_ag1_m_05	82.5029	(pause 0.85)	83.3513
+46	DCA_se2_ag1_m_05	83.3513	you know.	84.1324
+47	DCA_se2_ag1_m_05	84.1324	(pause 2.76)	86.8889
+48	DCA_se2_ag1_m_05	86.8889	Couldn't sleep, no.	88.0075
+49	DCA_se2_ag1_m_05	88.0075	(pause 0.48)	88.4879
+50	DCA_se2_ag1_m_05	88.4879	couldn't sleep	89.3180
+51	DCA_se2_ag1_m_05	89.3180	(pause 1.13)	90.4488
+52	DCA_se2_ag1_m_05	90.4488	you know cause we hearing the people downstairs you know	92.5626
+53	DCA_int_01	92.6174	Mm-hm.	93.2108
+54	DCA_se2_ag1_m_05	94.6995	and- and by that time you know we knew that there wasn't any Santa Claus you kne- we knew who Santa Claus was, you know	99.9249
+55	DCA_int_01	99.9249	Mm-hm.	100.3737
+56	DCA_se2_ag1_m_05	101.1745	but you knew something fishy was going on downstairs while you were upstairs, you understand	105.3469
+57	DCA_se2_ag1_m_05	105.3469	(pause 0.25)	105.5953
+58	DCA_se2_ag1_m_05	105.5953	so what we used to do	106.8834
+59	DCA_se2_ag1_m_05	106.8834	(pause 0.50)	107.3801
+60	DCA_se2_ag1_m_05	107.3801	all get together we say if you wake up first in the morning you wake me up or if I wake up earlier than you I wake you up.	112.3129
+61	DCA_se2_ag1_m_05	112.3129	(pause 1.50)	113.8173
+62	DCA_se2_ag1_m_05	113.8173	We would wake up and come down and open gifts you know	116.8780
+63	DCA_se2_ag1_m_05	116.8780	(pause 0.97)	117.8512
+64	DCA_se2_ag1_m_05	117.8512	see what we had	118.7161
+65	DCA_se2_ag1_m_05	118.7161	(pause 1.78)	120.4985
+66	DCA_se2_ag1_m_05	120.4985	and we used to play until	122.2834
+67	DCA_se2_ag1_m_05	122.2834	(pause 0.18)	122.4594
+68	DCA_se2_ag1_m_05	122.4594	it got light outside <laugh>	124.6525
+69	DCA_se2_ag1_m_05	124.6525	(pause 0.06)	124.7085
+70	DCA_se2_ag1_m_05	124.7085	cause we used to get up early you know.	126.1482
+71	DCA_int_01	126.1532	Mm-hm.	126.3975
+72	DCA_se2_ag1_m_05	126.7449	My mother used to start cooking early around six-	129.0179
+73	DCA_se2_ag1_m_05	129.0179	(pause 0.98)	130.0024
+74	DCA_se2_ag1_m_05	130.0024	around six in the morning.	131.2750
+75	DCA_int_01	131.2830	Mm-hm.	131.9767
+76	DCA_se2_ag1_m_05	132.0895	Turkeys, pies, cakes.	134.0785
+77	DCA_se2_ag1_m_05	134.0785	(pause 0.42)	134.4997
+78	DCA_se2_ag1_m_05	134.4997	Mm.	135.0512
+79	DCA_se2_ag1_m_05	135.0512	(pause 0.47)	135.5162
+80	DCA_se2_ag1_m_05	135.5162	She's a great cook.	136.7120
+81	DCA_se2_ag1_m_05	136.7120	(pause 1.16)	137.8761
+82	DCA_se2_ag1_m_05	137.8761	My father's a chef cook	139.3956
+83	DCA_int_01	139.6850	Mm-hm.	139.9454
+84	DCA_se2_ag1_m_05	140.0401	he's great too.	141.0136
+85	DCA_se2_ag1_m_05	141.0136	(pause 1.67)	142.6863
+86	DCA_se2_ag1_m_05	142.6863	And uh	143.6180
+87	DCA_se2_ag1_m_05	143.6180	(pause 0.12)	143.7413
+88	DCA_se2_ag1_m_05	143.7413	when	144.3291
+89	DCA_se2_ag1_m_05	144.3291	(pause 1.48)	145.8063
+90	DCA_se2_ag1_m_05	145.8063	it got light outside we used to	147.3670
+91	DCA_se2_ag1_m_05	147.3670	(pause 0.08)	147.4470
+92	DCA_se2_ag1_m_05	147.4470	get outside and start making noise	149.3119
+93	DCA_se2_ag1_m_05	149.3119	(pause 0.22)	149.5280
+94	DCA_se2_ag1_m_05	149.5280	pretty soon everybody was out	150.8457
+95	DCA_int_01	150.8656	[<laugh>]	151.6933
+96	DCA_se2_ag1_m_05	151.3688	[you know.]	152.0904
+97	DCA_se2_ag1_m_05	153.0714	Uh we used to	154.0558
+98	DCA_se2_ag1_m_05	154.0558	(pause 0.10)	154.1519
+99	DCA_se2_ag1_m_05	154.1519	make so much noise.	155.6005
+100	DCA_int_01	155.8726	Hm.	156.4619
+101	DCA_int_01	156.4619	(pause 0.52)	156.9852
+102	DCA_int_01	156.9852	/inaudible/	158.2678
+103	DCA_se2_ag1_m_05	158.5299	That's right.	159.3449
+104	DCA_se2_ag1_m_05	159.3449	(pause 0.48)	159.8265
+105	DCA_se2_ag1_m_05	159.8265	[Now-]	160.6537
+106	DCA_int_01	159.8665	[/unintelligible/]	160.6188
+107	DCA_int_01	160.9470	go ahead.	161.6436
+108	DCA_se2_ag1_m_05	162.6198	Nowadays you know when	164.0595
+109	DCA_se2_ag1_m_05	164.0595	(pause 1.25)	165.3084
+110	DCA_se2_ag1_m_05	165.3084	you know grow up	166.3383
+111	DCA_se2_ag1_m_05	166.3383	(pause 0.16)	166.4955
+112	DCA_se2_ag1_m_05	166.4955	and y'all get together and I'll go ahead and	169.0502
+113	DCA_se2_ag1_m_05	169.0502	(pause 1.35)	170.4013
+114	DCA_se2_ag1_m_05	170.4013	socialize	171.3943
+115	DCA_se2_ag1_m_05	171.3943	(pause 0.72)	172.1129
+116	DCA_se2_ag1_m_05	172.1129	you know what I mean?	173.1012
+117	DCA_int_01	173.2655	Mm-hm.	173.7378
+118	DCA_se2_ag1_m_05	173.8657	Yeah.	174.5652
+119	DCA_int_01	176.5710	If somebody /inaudible/ or something	179.0816
+120	DCA_int_01	179.0816	(pause 1.31)	180.3884
+121	DCA_int_01	180.3884	use your imagination, if somebody could give you all the money you would want in the world	184.4882
+122	DCA_int_01	184.4882	(pause 0.51)	184.9978
+123	DCA_int_01	184.9978	what would you do with it?	186.2647
+124	DCA_se2_ag1_m_05	186.3584	Man <laugh>	187.7123
+125	DCA_se2_ag1_m_05	187.7123	(pause 0.55)	188.2579
+126	DCA_se2_ag1_m_05	188.2579	if somebody could do that	189.4185
+127	DCA_se2_ag1_m_05	189.4185	(pause 0.27)	189.6906
+128	DCA_se2_ag1_m_05	189.6906	right now as bad as I need it.	191.3525
+129	DCA_se2_ag1_m_05	191.3525	(pause 1.40)	192.7560
+130	DCA_se2_ag1_m_05	192.7560	First-	193.4526
+131	DCA_se2_ag1_m_05	193.4526	(pause 0.18)	193.6364
+132	DCA_se2_ag1_m_05	193.6364	all the money I needed?	194.6712
+133	DCA_int_01	194.5992	Mm-hm.	195.1245
+134	DCA_int_01	195.7597	/inaudible/	196.8568
+135	DCA_se2_ag1_m_05	197.7169	First,	198.2845
+136	DCA_se2_ag1_m_05	198.2845	(pause 1.57)	199.8496
+137	DCA_se2_ag1_m_05	199.8496	I think I would remodel my mother's house,	202.2812
+138	DCA_se2_ag1_m_05	202.2812	(pause 0.81)	203.0934
+139	DCA_se2_ag1_m_05	203.0934	buy my father a restaurant of his own.	205.4153
+140	DCA_se2_ag1_m_05	205.4153	(pause 0.66)	206.0708
+141	DCA_se2_ag1_m_05	206.0708	Buy myself a liquor store or something	208.1417
+142	DCA_se2_ag1_m_05	208.1417	(pause 0.06)	208.2057
+143	DCA_se2_ag1_m_05	208.2057	I can make a profit off of	209.7445
+144	DCA_se2_ag1_m_05	209.7445	(pause 0.23)	209.9792
+145	DCA_se2_ag1_m_05	209.9792	you know cause the money's not	211.2118
+146	DCA_se2_ag1_m_05	211.2118	(pause 0.08)	211.2919
+147	DCA_se2_ag1_m_05	211.2919	gonna you know	212.1771
+148	DCA_se2_ag1_m_05	212.1771	(pause 0.40)	212.5804
+149	DCA_se2_ag1_m_05	212.5804	last forever you know.	214.3263
+150	DCA_se2_ag1_m_05	214.3263	(pause 0.67)	214.9976
+151	DCA_se2_ag1_m_05	214.9976	Some kind of enterprise you know.	216.3236
+152	DCA_int_01	216.3984	Mm-hm.	216.9119
+153	DCA_se2_ag1_m_05	217.0225	You gotta have some kind of enterprise, after that you know I would mess around blase around for I'd say about	222.1068
+154	DCA_se2_ag1_m_05	222.1068	(pause 1.67)	223.7723
+155	DCA_se2_ag1_m_05	223.7723	uh well	224.9225
+156	DCA_se2_ag1_m_05	224.9225	(pause 0.26)	225.1809
+157	DCA_se2_ag1_m_05	225.1809	two three years and	226.5091
+158	DCA_se2_ag1_m_05	226.5091	(pause 0.94)	227.4445
+159	DCA_se2_ag1_m_05	227.4445	I would buy me a car you know	229.4691
+160	DCA_se2_ag1_m_05	229.4691	(pause 1.39)	230.8621
+161	DCA_se2_ag1_m_05	230.8621	something like a	231.9549
+162	DCA_se2_ag1_m_05	231.9549	(pause 0.64)	232.5989
+163	DCA_se2_ag1_m_05	232.5989	Cadillac	233.1991
+164	DCA_se2_ag1_m_05	233.1991	(pause 0.08)	233.2792
+165	DCA_se2_ag1_m_05	233.2792	Eldorado	234.2956
+166	DCA_se2_ag1_m_05	234.2956	(pause 0.54)	234.8399
+167	DCA_se2_ag1_m_05	234.8399	sports car.	235.8186
+168	DCA_se2_ag1_m_05	235.8186	(pause 0.14)	235.9627
+169	DCA_se2_ag1_m_05	235.9627	Oh that's	236.4474
+170	DCA_se2_ag1_m_05	236.4474	(pause 0.21)	236.6590
+171	DCA_se2_ag1_m_05	236.6590	fabulous.	237.2433
+172	DCA_int_01	237.2753	[/inaudible/]	238.3278
+173	DCA_se2_ag1_m_05	237.8996	[Oh] that's lovely you know I love that.	240.2067
+174	DCA_se2_ag1_m_05	241.5893	And I would buy me some- I would have a mean wardrobe, you know wardrobe?	245.4584
+175	DCA_int_01	245.5580	Mm-hm.	246.0740
+176	DCA_se2_ag1_m_05	246.0990	Ah it'd be mean you know.	247.9568
+177	DCA_int_01	248.5114	What would go into it?	249.7522
+178	DCA_se2_ag1_m_05	250.4483	My wardrobe?	251.1328
+179	DCA_int_01	251.1789	Yeah.	251.5267
+180	DCA_se2_ag1_m_05	251.5791	Oh	252.1335
+181	DCA_se2_ag1_m_05	252.1335	(pause 0.33)	252.4595
+182	DCA_se2_ag1_m_05	252.4595	<clears throat>	253.0545
+183	DCA_se2_ag1_m_05	253.0545	(pause 0.17)	253.2198
+184	DCA_se2_ag1_m_05	253.2198	I hate to talk about it	254.3884
+185	DCA_se2_ag1_m_05	254.3884	(pause 0.42)	254.8126
+186	DCA_se2_ag1_m_05	254.8126	I hate to talk about it	256.0170
+187	DCA_se2_ag1_m_05	256.0170	(pause 1.04)	257.0536
+188	DCA_se2_ag1_m_05	257.0536	Ooh I would be	257.9607
+189	DCA_se2_ag1_m_05	257.9607	(pause 0.06)	258.0167
+190	DCA_se2_ag1_m_05	258.0167	all different colors	259.2111
+191	DCA_se2_ag1_m_05	259.2111	(pause 0.32)	259.5294
+192	DCA_se2_ag1_m_05	259.5294	different kinds of shoes you know like uh	262.4268
+193	DCA_se2_ag1_m_05	262.4268	(pause 0.10)	262.5228
+194	DCA_se2_ag1_m_05	262.5228	Howard and Johnson	264.0474
+195	DCA_se2_ag1_m_05	264.0474	(pause 2.38)	266.4233
+196	DCA_se2_ag1_m_05	266.4233	not Howard and Johnson talking about Johnston and Murphy's	269.2300
+197	DCA_se2_ag1_m_05	269.2300	(pause 0.48)	269.7121
+198	DCA_se2_ag1_m_05	269.7121	shoes,	270.4145
+199	DCA_se2_ag1_m_05	270.4145	(pause 0.30)	270.7125
+200	DCA_se2_ag1_m_05	270.7125	Rich's,	271.6065
+201	misc	272.5854	/inaudible/	274.8024
+202	DCA_se2_ag1_m_05	274.7026	/unintelligible/ some suits I'd get me some suits.	278.7501
+203	DCA_se2_ag1_m_05	279.4155	sharkskin, silk,	281.6618
+204	DCA_se2_ag1_m_05	281.6618	(pause 1.21)	282.8731
+205	DCA_se2_ag1_m_05	282.8731	oh.	283.4668
+206	misc	283.5117	/inaudible/	284.6336
+207	DCA_se2_ag1_m_05	285.0981	I'd get me some suits, coats, y- I- everything you know, a whole complete wardrobe	289.6225
+208	DCA_int_01	289.6524	Mm-hm.	290.2906
+209	DCA_se2_ag1_m_05	290.7872	and I would just play it man you know	292.8000
+210	DCA_se2_ag1_m_05	292.8000	(pause 0.42)	293.2203
+211	DCA_se2_ag1_m_05	293.2203	cool as a tack.	294.3073
+212	DCA_se2_ag1_m_05	294.3073	(pause 0.13)	294.4369
+213	DCA_se2_ag1_m_05	294.4369	All the money I wanted?	295.6646
+214	DCA_se2_ag1_m_05	295.6646	(pause 0.52)	296.1817
+215	DCA_se2_ag1_m_05	296.1817	Huh.	296.6867
+216	DCA_se2_ag1_m_05	296.6867	(pause 0.09)	296.7788
+217	DCA_se2_ag1_m_05	296.7788	/Think I'd be worried about it running out?/	298.4733
+218	DCA_se2_ag1_m_05	298.4733	(pause 0.07)	298.5396
+219	DCA_se2_ag1_m_05	298.5396	I'd be clean you know.	299.7848
+220	DCA_int_01	299.8048	Yeah yeah.	300.5776
+221	DCA_se2_ag1_m_05	300.8687	Ooh I would be matched up so pretty every day that	303.2734
+222	DCA_se2_ag1_m_05	303.2734	(pause 0.36)	303.6380
+223	DCA_se2_ag1_m_05	303.6380	I don't know I think the newspaper m-	305.0066
+224	DCA_se2_ag1_m_05	305.0066	(pause 0.11)	305.1152
+225	DCA_se2_ag1_m_05	305.1152	men might be just waiting for me to come out	306.8795
+226	DCA_int_01	306.9078	[<laugh>]	307.8751
+227	DCA_se2_ag1_m_05	307.3037	[snap my picture] you know when I walk	309.0965
+228	DCA_int_01	309.1915	Yeah.	309.7699
+229	DCA_se2_ag1_m_05	309.8152	time I come out they lay a copy down for me you know [with a big cigar /in my mouth, I went out/] talking trash, you know like uh uh what's his name? Groucho Marx?	316.5286
+230	DCA_int_01	311.5520	[<laugh>]	313.7492
+231	DCA_se2_ag1_m_05	316.7384	Oh that's a cool little cat	317.7978
+232	DCA_se2_ag1_m_05	317.7978	(pause 0.04)	317.8355
+233	DCA_se2_ag1_m_05	317.8355	you know.	318.5785
+234	DCA_se2_ag1_m_05	318.5785	(pause 0.29)	318.8660
+235	DCA_se2_ag1_m_05	318.8660	I digs Marx.	319.8201
+236	DCA_se2_ag1_m_05	319.8201	(pause 1.46)	321.2785
+237	DCA_se2_ag1_m_05	321.2785	<ts> Come here	322.1560
+238	DCA_se2_ag1_m_05	322.1560	(pause 1.42)	323.5765
+239	DCA_se2_ag1_m_05	323.5765	Come on, Pepper.	324.2814
+240	DCA_se2_ag1_m_05	324.2814	(pause 0.21)	324.4877
+241	DCA_se2_ag1_m_05	324.4877	Come on, Pepper.	325.1700
+242	DCA_se2_ag1_m_05	325.1700	(pause 0.46)	325.6280
+243	DCA_se2_ag1_m_05	325.6280	Stop it come on.	326.4817
+244	DCA_se2_ag1_m_05	326.4817	(pause 0.72)	327.1976
+245	DCA_se2_ag1_m_05	327.1976	Call him over there, Ma.	328.0393
+246	misc	328.2565	Come on Pepper, come on dog.	329.3971
+247	misc	329.3971	(pause 1.32)	330.7182
+248	misc	330.7182	Come on.	331.2769
+249	misc	331.2769	(pause 0.36)	331.6407
+250	misc	331.6407	/inaudible/	333.7344
+251	DCA_int_01	333.7344	This might be a depressing /inaudible/.	335.2188
+252	misc	334.5461	Come here /??/.	335.2904
+253	DCA_se2_ag1_m_05	338.4170	Hey would you tell them to be quiet	339.9336
+254	DCA_se2_ag1_m_05	339.9336	(pause 0.36)	340.2967
+255	DCA_se2_ag1_m_05	340.2967	please?	340.6927
+256	DCA_int_01	341.0934	Were you ever in a situation where you thought	342.8107
+257	DCA_int_01	342.8107	(pause 0.69)	343.4977
+258	DCA_int_01	343.4977	okay this is it	344.5091
+259	DCA_int_01	344.5091	(pause 0.28)	344.7906
+260	DCA_int_01	344.7906	/I've had it/ I'm gonna die, I'm	346.6989
+261	DCA_int_01	346.6989	(pause 1.02)	347.7197
+262	DCA_int_01	347.7197	/either/ a accident or [I don't know.]	349.7774
+263	DCA_se2_ag1_m_05	348.7760	[<laugh>]	351.2736
+264	DCA_se2_ag1_m_05	351.7794	Have I?	352.4092
+265	DCA_int_01	352.4521	Yeah you ever have an experience like that?	354.4272
+266	DCA_se2_ag1_m_05	354.8852	Well I	355.8590
+267	DCA_se2_ag1_m_05	355.8590	(pause 0.70)	356.5598
+268	DCA_se2_ag1_m_05	356.5598	had some very	357.6386
+269	DCA_se2_ag1_m_05	357.6386	(pause 1.05)	358.6882
+270	DCA_se2_ag1_m_05	358.6882	peculiar happenings	359.7712
+271	DCA_se2_ag1_m_05	359.7712	(pause 0.05)	359.8237
+272	DCA_se2_ag1_m_05	359.8237	happen-	360.2387
+273	DCA_se2_ag1_m_05	360.2387	(pause 0.52)	360.7635
+274	DCA_se2_ag1_m_05	360.7635	you know happen to me.	362.0612
+275	DCA_se2_ag1_m_05	362.0612	(pause 1.07)	363.1346
+276	DCA_se2_ag1_m_05	363.1346	For instance I used to get knocked down just about every day by a car or	366.2954
+277	DCA_se2_ag1_m_05	366.2954	(pause 0.35)	366.6410
+278	DCA_se2_ag1_m_05	366.6410	something	367.1802
+279	DCA_se2_ag1_m_05	367.1802	(pause 0.28)	367.4568
+280	DCA_se2_ag1_m_05	367.4568	you know	367.9197
+281	DCA_se2_ag1_m_05	367.9197	(pause 0.05)	367.9720
+282	DCA_se2_ag1_m_05	367.9720	on my bicycle	369.0010
+283	DCA_se2_ag1_m_05	369.0010	(pause 1.34)	370.3373
+284	DCA_se2_ag1_m_05	370.3373	A m-	370.6569
+285	DCA_se2_ag1_m_05	370.6569	(pause 0.07)	370.7237
+286	DCA_se2_ag1_m_05	370.7237	as a matter of fact one time I was coming down a steep hill following the bigger guys you know,	374.9066
+287	DCA_se2_ag1_m_05	374.9066	(pause 1.26)	376.1670
+288	DCA_se2_ag1_m_05	376.1670	my chain popped	377.1611
+289	DCA_int_01	377.1981	Hm.	377.4873
+290	DCA_se2_ag1_m_05	377.5332	I had no brakes	378.2675
+291	DCA_se2_ag1_m_05	378.2675	(pause 0.08)	378.3490
+292	DCA_se2_ag1_m_05	378.3490	and I got caught on the street car tracks.	380.0731
+293	DCA_int_01	380.1007	Oh no.	381.0644
+294	DCA_se2_ag1_m_05	381.9041	I could see a car turning up and coming straight up the hill	384.7332
+295	DCA_se2_ag1_m_05	384.7332	(pause 1.46)	386.1976
+296	DCA_se2_ag1_m_05	386.1976	I was waving at him to move	387.9406
+297	DCA_se2_ag1_m_05	387.9406	(pause 0.67)	388.6067
+298	DCA_se2_ag1_m_05	388.6067	he wouldn't move.	389.3958
+299	DCA_se2_ag1_m_05	389.3958	(pause 0.92)	390.3146
+300	DCA_se2_ag1_m_05	390.3146	he just	390.7970
+301	DCA_se2_ag1_m_05	390.7970	(pause 0.10)	390.9014
+302	DCA_se2_ag1_m_05	390.9014	stopped.	391.9420
+303	DCA_se2_ag1_m_05	391.9420	(pause 1.23)	393.1760
+304	DCA_se2_ag1_m_05	393.1760	and I came down and whammo.	395.3782
+305	DCA_se2_ag1_m_05	395.3782	(pause 2.29)	397.6708
+306	DCA_se2_ag1_m_05	397.6708	That's all I remember I-I remember I was in the air like that.	400.0378
+307	DCA_se2_ag1_m_05	400.0378	(pause 1.41)	401.4445
+308	DCA_se2_ag1_m_05	401.4445	Before I hit the ground I had fainted or something	403.4168
+309	DCA_se2_ag1_m_05	403.4168	(pause 0.26)	403.6725
+310	DCA_se2_ag1_m_05	403.6725	you know unconscious until about	405.4663
+311	DCA_se2_ag1_m_05	405.4663	(pause 0.35)	405.8172
+312	DCA_se2_ag1_m_05	405.8172	two days afterwards.	406.8113
+313	DCA_se2_ag1_m_05	406.8113	(pause 1.53)	408.3410
+314	DCA_se2_ag1_m_05	408.3410	Uh	409.2073
+315	DCA_se2_ag1_m_05	409.2073	(pause 0.32)	409.5289
+316	DCA_se2_ag1_m_05	409.5289	I accumulated some scars.	411.4779
+317	DCA_int_01	411.9817	Mm-hm.	412.5895
+318	DCA_se2_ag1_m_05	413.8233	And	414.4339
+319	DCA_se2_ag1_m_05	414.4339	(pause 0.08)	414.5150
+320	DCA_se2_ag1_m_05	414.5150	I was- you know how you get in the hospital man and you a	416.8432
+321	DCA_se2_ag1_m_05	416.8432	(pause 0.06)	416.9052
+322	DCA_se2_ag1_m_05	416.9052	kid and you wanna be with the rest of the kids you and you /getting real mad and you just saying/	421.1255
+323	misc	420.3181	Boy.	420.9297
+324	DCA_se2_ag1_m_05	421.3200	I'm'a g- I'm gonna die, you know.	423.0566
+325	DCA_se2_ag1_m_05	423.0566	(pause 0.12)	423.1756
+326	DCA_se2_ag1_m_05	423.1756	Nobody wanna come see me now because I'm gonna die, you know	426.1637
+327	DCA_se2_ag1_m_05	426.1637	(pause 0.80)	426.9662
+328	DCA_se2_ag1_m_05	426.9662	you don't see your friends you know they- you figure they- that- that they know that you were gonna die you're not gonna make it	431.4977
+329	DCA_se2_ag1_m_05	431.4977	(pause 0.12)	431.6130
+330	DCA_se2_ag1_m_05	431.6130	you know.	432.2182
+331	DCA_se2_ag1_m_05	432.2182	(pause 2.45)	434.6700
+332	DCA_se2_ag1_m_05	434.6700	And then you know	435.6162
+333	DCA_se2_ag1_m_05	435.6162	(pause 0.26)	435.8796
+334	DCA_se2_ag1_m_05	435.8796	you start feeling better you meet people at the hospital you know and you start	439.2240
+335	DCA_se2_ag1_m_05	439.2240	(pause 0.11)	439.3318
+336	DCA_se2_ag1_m_05	439.3318	making your own friends there.	440.7772
+337	DCA_int_01	440.8346	Mm-hm.	441.4528
+338	DCA_se2_ag1_m_05	441.4977	Cause people are sick you know still they wanna be friendly you know.	444.5816
+339	DCA_se2_ag1_m_05	444.5816	(pause 0.12)	444.7026
+340	DCA_se2_ag1_m_05	444.7026	Cause they get well, and they get ready to go home just like you do.	447.6176
+341	DCA_se2_ag1_m_05	447.6176	(pause 1.04)	448.6526
+342	DCA_se2_ag1_m_05	448.6526	I made a lot of friends in the hospital.	450.1888
+343	DCA_se2_ag1_m_05	450.1888	(pause 0.15)	450.3415
+344	DCA_se2_ag1_m_05	450.3415	The nurses are nice	451.6056
+345	DCA_se2_ag1_m_05	451.6056	(pause 0.10)	451.7010
+346	DCA_se2_ag1_m_05	451.7010	they were nice at the time /I don't know/ about-	453.6108
+347	DCA_se2_ag1_m_05	453.6108	(pause 0.09)	453.6999
+348	DCA_se2_ag1_m_05	453.6999	about now I don't know	454.6926
+349	DCA_se2_ag1_m_05	454.6926	(pause 0.18)	454.8688
+350	DCA_se2_ag1_m_05	454.8688	about now uh	455.6467
+351	DCA_se2_ag1_m_05	455.6467	(pause 2.41)	458.0583
+352	DCA_se2_ag1_m_05	458.0583	uh.	459.0161
+353	DCA_int_01	459.4752	Did you hear people say, well whatever's gonna happen is gonna happen you know since we're /gonna die/ do you agree with that statement?	465.7582
+354	DCA_int_01	465.7582	(pause 1.20)	466.9546
+355	DCA_int_01	466.9546	/inaudible/	469.1851
+356	DCA_se2_ag1_m_05	470.1690	Uh to a extent I agree with that statement.	472.3159
+357	DCA_se2_ag1_m_05	472.3159	(pause 0.12)	472.4352
+358	DCA_se2_ag1_m_05	472.4352	I know it's a superstitious	473.8110
+359	DCA_se2_ag1_m_05	473.8110	(pause 0.23)	474.0430
+360	DCA_se2_ag1_m_05	474.0430	statement	474.7033
+361	DCA_se2_ag1_m_05	474.7033	(pause 0.72)	475.4234
+362	DCA_se2_ag1_m_05	475.4234	but I agree with it to a- an extent.	477.3202
+363	DCA_se2_ag1_m_05	477.3202	(pause 4.31)	481.6320
+364	DCA_se2_ag1_m_05	481.6320	If something happens you know you figure	483.8760
+365	DCA_se2_ag1_m_05	483.8760	(pause 0.73)	484.6012
+366	DCA_se2_ag1_m_05	484.6012	with the older people	485.7462
+367	DCA_se2_ag1_m_05	485.7462	(pause 0.22)	485.9657
+368	DCA_se2_ag1_m_05	485.9657	you know	486.4618
+369	DCA_se2_ag1_m_05	486.4618	(pause 0.23)	486.6908
+370	DCA_se2_ag1_m_05	486.6908	I don't agree with it	487.6095
+371	DCA_se2_ag1_m_05	487.6095	(pause 0.21)	487.8241
+372	DCA_se2_ag1_m_05	487.8241	one hundred percent.	488.6590
+373	DCA_se2_ag1_m_05	488.6590	(pause 0.24)	488.8975
+374	DCA_se2_ag1_m_05	488.8975	I give about five percent.	490.2238
+375	DCA_se2_ag1_m_05	490.2238	(pause 0.44)	490.6627
+376	DCA_se2_ag1_m_05	490.6627	Just when uh	491.3361
+377	DCA_se2_ag1_m_05	491.3361	(pause 0.26)	491.5978
+378	DCA_se2_ag1_m_05	491.5978	you know everything's turned against me and I say you know I- it was gonna happen anyway you know.	495.8759
+379	DCA_se2_ag1_m_05	495.8759	(pause 0.10)	495.9761
+380	DCA_se2_ag1_m_05	495.9761	it was meant	496.6011
+381	DCA_se2_ag1_m_05	496.6011	(pause 0.05)	496.6488
+382	DCA_se2_ag1_m_05	496.6488	t- to happen to me cause everything else has happened you know.	499.2966
+383	DCA_se2_ag1_m_05	499.2966	(pause 0.73)	500.0266
+384	DCA_se2_ag1_m_05	500.0266	But	500.4634
+385	DCA_se2_ag1_m_05	500.4634	(pause 1.18)	501.6476
+386	DCA_se2_ag1_m_05	501.6476	take my mother for i-	502.6399
+387	DCA_se2_ag1_m_05	502.6399	(pause 0.06)	502.6971
+388	DCA_se2_ag1_m_05	502.6971	instance you know	503.7232
+389	DCA_se2_ag1_m_05	503.7232	(pause 1.30)	505.0251
+390	DCA_se2_ag1_m_05	505.0251	she would say	506.0079
+391	DCA_se2_ag1_m_05	506.0079	(pause 0.82)	506.8237
+392	DCA_se2_ag1_m_05	506.8237	she's older you know	508.0572
+393	DCA_se2_ag1_m_05	508.0572	(pause 0.16)	508.2137
+394	DCA_se2_ag1_m_05	508.2137	and older people are more s-	510.2077
+395	DCA_se2_ag1_m_05	510.2077	(pause 0.12)	510.3272
+396	DCA_se2_ag1_m_05	510.3272	superstitious than the younger generation	512.6618
+397	DCA_se2_ag1_m_05	512.6618	(pause 1.27)	513.9357
+398	DCA_se2_ag1_m_05	513.9357	/or are/	514.6932
+399	DCA_se2_ag1_m_05	514.6932	(pause 1.85)	516.5470
+400	DCA_se2_ag1_m_05	516.5470	she might say, yeah, I knew it was gonna happen to you.	519.0422
+401	DCA_se2_ag1_m_05	519.0422	(pause 1.57)	520.6166
+402	DCA_se2_ag1_m_05	520.6166	I knew it was gonna happen to you.	521.7746
+403	DCA_se2_ag1_m_05	521.7746	(pause 0.46)	522.2336
+404	DCA_se2_ag1_m_05	522.2336	I don't doubt her	523.3264
+405	DCA_se2_ag1_m_05	523.3264	(pause 0.54)	523.8700
+406	DCA_se2_ag1_m_05	523.8700	I'm- I'm- I'm- I'm- I'm- I'm not doubting her you know	526.6521
+407	DCA_se2_ag1_m_05	526.6521	(pause 0.93)	527.5806
+408	DCA_se2_ag1_m_05	527.5806	cause sometimes I have heard her say- come on /RD-NAME-1/ stop the noise now	530.9343
+409	DCA_se2_ag1_m_05	530.9343	(pause 1.47)	532.4037
+410	DCA_se2_ag1_m_05	532.4037	sometime I have heard her say uh	534.3223
+411	DCA_se2_ag1_m_05	534.3223	(pause 0.79)	535.1114
+412	DCA_se2_ag1_m_05	535.1114	to my brothers you know,	536.2087
+413	DCA_se2_ag1_m_05	536.2087	(pause 0.19)	536.3995
+414	DCA_se2_ag1_m_05	536.3995	if you don't stop this	537.5232
+415	DCA_se2_ag1_m_05	537.5232	(pause 1.41)	538.9376
+416	DCA_se2_ag1_m_05	538.9376	something's gonna happen to you	540.5731
+417	DCA_se2_ag1_m_05	540.5731	(pause 0.28)	540.8533
+418	DCA_se2_ag1_m_05	540.8533	you know	541.4120
+419	DCA_se2_ag1_m_05	541.4120	(pause 0.29)	541.7025
+420	DCA_se2_ag1_m_05	541.7025	and she'd tell 'em about	542.6821
+421	DCA_se2_ag1_m_05	542.6821	(pause 0.04)	542.7234
+422	DCA_se2_ag1_m_05	542.7234	what she dreamed about.	543.8623
+423	misc	543.8623	be careful, um-	545.4723
+424	DCA_se2_ag1_m_05	545.4723	/unintelligible/ a couple days later-	547.9006
+425	DCA_se2_ag1_m_05	549.8211	something's wrong, you know	551.0452
+426	DCA_int_01	551.0806	Hm.	551.5203
+427	DCA_se2_ag1_m_05	551.5577	just the same thing that she described to 'em in the dream you know.	554.2236
+428	DCA_se2_ag1_m_05	554.2236	(pause 2.13)	556.3541
+429	DCA_se2_ag1_m_05	556.3541	And uh	557.2161
+430	DCA_se2_ag1_m_05	557.2161	(pause 1.44)	558.6536
+431	DCA_se2_ag1_m_05	558.6536	well	559.1950
+432	DCA_se2_ag1_m_05	559.1950	(pause 0.12)	559.3168
+433	DCA_se2_ag1_m_05	559.3168	I don't go along with it.	560.5373
+434	DCA_se2_ag1_m_05	560.5373	(pause 0.55)	561.0893
+435	DCA_se2_ag1_m_05	561.0893	I think it's a fallacy /in it/	562.7019
+436	DCA_int_01	564.6119	Part way.	565.5279
+437	DCA_int_01	565.5279	(pause 1.02)	566.5489
+438	DCA_int_01	566.5489	Not the whole way.	567.6546
+439	DCA_se2_ag1_m_05	567.9420	Hm?	568.2856
+440	DCA_int_01	568.2998	You go along with it part way then?	569.8114
+441	DCA_se2_ag1_m_05	569.8612	Yeah just- just a	570.8613
+442	DCA_se2_ag1_m_05	570.8613	(pause 0.18)	571.0408
+443	DCA_se2_ag1_m_05	571.0408	fraction	571.6837
+444	DCA_se2_ag1_m_05	571.6837	(pause 0.34)	572.0284
+445	DCA_se2_ag1_m_05	572.0284	small fraction of the way.	573.3437

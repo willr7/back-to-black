@@ -1,0 +1,2210 @@
+Line	Spkr	StTime	Content	EnTime
+1	ATL_int_01	0.1058	Yeah, I'm here with-	1.5134
+2	ATL_int_01	1.5134	(pause 0.70)	2.2147
+3	ATL_int_01	2.2147	um,	2.8455
+4	ATL_int_01	2.8455	(pause 1.53)	4.3718
+5	ATL_int_01	4.3718	who am-	4.7140
+6	ATL_int_01	4.7140	(pause 0.10)	4.8135
+7	ATL_int_01	4.8135	who am I with?	5.6812
+8	ATL_int_01	5.6812	(pause 0.26)	5.9417
+9	ATL_int_01	5.9417	[um],	6.2297
+10	ATL_se0_ag1_m_02	6.0722	[/RD-NAME-2/] mother fucking /RD-NAME-2/.	8.0950
+11	ATL_int_01	8.1939	Okay, and can I get your government name as well?	10.5431
+12	ATL_se0_ag1_m_02	10.7171	Oh dang.	11.3739
+13	ATL_int_01	11.7568	It's-	12.0221
+14	ATL_int_01	12.0221	(pause 0.23)	12.2527
+15	ATL_int_01	12.2527	it's still cool too.	13.1053
+16	ATL_se0_ag1_m_02	13.4099	Well,	13.6317
+17	ATL_se0_ag1_m_02	13.6317	(pause 0.66)	14.2874
+18	ATL_se0_ag1_m_02	14.2874	my name is /RD-NAME-2/.	15.4272
+19	ATL_int_01	15.6926	Mm-hm.	16.0275
+20	ATL_se0_ag1_m_02	16.4103	Okay,	16.8845
+21	ATL_se0_ag1_m_02	16.8845	(pause 0.37)	17.2586
+22	ATL_se0_ag1_m_02	17.2586	AKA /RD-NAME-4/.	19.0802
+23	ATL_int_01	21.7165	[Okay.]	22.2238
+24	ATL_se0_ag1_m_02	21.8967	[I'm tuning] in.	22.6383
+25	ATL_int_01	23.4152	[And, uh],	23.7658
+26	ATL_se0_ag1_m_02	23.5338	[/RD-NAME-4/]	24.5546
+27	ATL_int_01	24.7041	yeah.	25.1114
+28	ATL_se0_ag1_m_02	25.1527	/RD-NAME-2/	25.7250
+29	ATL_se0_ag1_m_02	25.7250	(pause 0.21)	25.9312
+30	ATL_se0_ag1_m_02	25.9312	<laugh>	26.2767
+31	ATL_int_01	26.4365	Yeah, and, um,	27.2563
+32	ATL_int_01	27.2563	(pause 1.47)	28.7250
+33	ATL_int_01	28.7250	I'm conducting this interview.	30.3027
+34	ATL_int_01	30.3027	(pause 1.59)	31.8900
+35	ATL_int_01	31.8900	Um,	32.4571
+36	ATL_int_01	32.4571	(pause 2.15)	34.6057
+37	ATL_int_01	34.6057	/RD-NAME-2/,	35.1161
+38	ATL_int_01	35.1161	(pause 0.40)	35.5183
+39	ATL_int_01	35.5183	tell me, um,	36.5082
+40	ATL_int_01	36.5082	(pause 0.45)	36.9568
+41	ATL_int_01	36.9568	how do you know the person that's interviewing you?	38.8747
+42	ATL_se0_ag1_m_02	40.3074	<exhale>	42.0913
+43	ATL_se0_ag1_m_02	42.0913	(pause 0.33)	42.4257
+44	ATL_se0_ag1_m_02	42.4257	How do I know him?	43.6167
+45	ATL_se0_ag1_m_02	43.6167	(pause 0.87)	44.4829
+46	ATL_se0_ag1_m_02	44.4829	Well,	44.8954
+47	ATL_se0_ag1_m_02	44.8954	(pause 3.73)	48.6271
+48	ATL_se0_ag1_m_02	48.6271	it was	49.1737
+49	ATL_se0_ag1_m_02	49.1737	(pause 0.18)	49.3541
+50	ATL_se0_ag1_m_02	49.3541	all	50.0914
+51	ATL_se0_ag1_m_02	50.0914	(pause 0.45)	50.5400
+52	ATL_se0_ag1_m_02	50.5400	based on the m-	51.3841
+53	ATL_se0_ag1_m_02	51.3841	(pause 1.01)	52.3895
+54	ATL_se0_ag1_m_02	52.3895	one word,	53.1216
+55	ATL_se0_ag1_m_02	53.1216	(pause 0.19)	53.3124
+56	ATL_se0_ag1_m_02	53.3124	struggle.	53.8177
+57	ATL_se0_ag1_m_02	53.8177	(pause 0.23)	54.0445
+58	ATL_se0_ag1_m_02	54.0445	<laugh>	55.2922
+59	ATL_se0_ag1_m_02	55.2922	(pause 0.97)	56.2667
+60	ATL_se0_ag1_m_02	56.2667	Met you at a low point, man. I had lost my job	59.0546
+61	ATL_se0_ag1_m_02	59.0546	(pause 0.58)	59.6372
+62	ATL_se0_ag1_m_02	59.6372	and	60.0548
+63	ATL_se0_ag1_m_02	60.0548	(pause 0.32)	60.3797
+64	ATL_se0_ag1_m_02	60.3797	pretty- nah, actually I was working at /RD-WORK-3/ getting eight dollars an hour.	63.7863
+65	ATL_se0_ag1_m_02	63.7863	(pause 0.26)	64.0492
+66	ATL_se0_ag1_m_02	64.0492	CNN, downtown, ATL.	66.1683
+67	ATL_int_01	66.4725	Okay, you was [grinding.]	67.3954
+68	ATL_se0_ag1_m_02	67.2716	[And-] and, you know what I'm saying, I was on the food stamps.	70.3386
+69	ATL_int_01	70.5081	[Mm-hm.]	70.8785
+70	ATL_se0_ag1_m_02	70.8329	[I'm-] I'm tryna, you know, figure things out, like what's going on.	74.0745
+71	ATL_se0_ag1_m_02	74.8273	You know, they	75.6471
+72	ATL_se0_ag1_m_02	75.6471	(pause 0.22)	75.8688
+73	ATL_se0_ag1_m_02	75.8688	got that SNAP works two point o.	77.6166
+74	ATL_se0_ag1_m_02	77.6166	(pause 0.79)	78.4106
+75	ATL_se0_ag1_m_02	78.4106	Tryna find a job,	79.5397
+76	ATL_se0_ag1_m_02	79.5397	(pause 0.83)	80.3691
+77	ATL_se0_ag1_m_02	80.3691	you know, get better pay, all that good stuff.	82.5500
+78	ATL_se0_ag1_m_02	82.5500	(pause 0.75)	83.2962
+79	ATL_se0_ag1_m_02	83.2962	But then hear this nigga /RD-NAME-1/,	84.4872
+80	ATL_se0_ag1_m_02	84.4872	(pause 0.69)	85.1730
+81	ATL_se0_ag1_m_02	85.1730	god damn,	85.9463
+82	ATL_se0_ag1_m_02	85.9463	(pause 0.14)	86.0856
+83	ATL_se0_ag1_m_02	86.0856	talking about some business shit. And I was like,	87.9107
+84	ATL_se0_ag1_m_02	87.9107	(pause 0.42)	88.3283
+85	ATL_se0_ag1_m_02	88.3283	oh shit,	89.2203
+86	ATL_se0_ag1_m_02	89.2203	(pause 0.23)	89.4458
+87	ATL_se0_ag1_m_02	89.4458	hold up now.	90.2552
+88	ATL_se0_ag1_m_02	90.2552	(pause 1.88)	92.1371
+89	ATL_se0_ag1_m_02	92.1371	He talking production.	93.1167
+90	ATL_se0_ag1_m_02	93.1167	(pause 0.35)	93.4622
+91	ATL_se0_ag1_m_02	93.4622	He talking about some shit	94.4280
+92	ATL_se0_ag1_m_02	94.4280	(pause 0.08)	94.5115
+93	ATL_se0_ag1_m_02	94.5115	that	94.7566
+94	ATL_se0_ag1_m_02	94.7566	(pause 0.14)	94.8955
+95	ATL_se0_ag1_m_02	94.8955	I can instantly benefit off of. So I'm like, okay, let me see what this man talking about.	99.0033
+96	ATL_int_01	99.2972	<laugh>	99.7767
+97	ATL_se0_ag1_m_02	99.9623	Yeah I got a record c- a record label, this that /??/. Old big shot sounding ass nigga, you know, you know, little flex.	106.5913
+98	ATL_se0_ag1_m_02	106.5913	(pause 0.43)	107.0257
+99	ATL_se0_ag1_m_02	107.0257	Little sauce and juice on it.	108.2786
+100	ATL_se0_ag1_m_02	108.2786	(pause 0.75)	109.0262
+101	ATL_se0_ag1_m_02	109.0262	I was like, alright, bruh. Let me- let me- w- let me holler at you real quick, you know what I'm saying.	112.8570
+102	ATL_se0_ag1_m_02	112.8570	(pause 0.38)	113.2371
+103	ATL_se0_ag1_m_02	113.2371	We talked,	113.7321
+104	ATL_se0_ag1_m_02	113.7321	(pause 0.60)	114.3353
+105	ATL_se0_ag1_m_02	114.3353	and it was just like,	115.2634
+106	ATL_se0_ag1_m_02	115.2634	(pause 0.29)	115.5573
+107	ATL_se0_ag1_m_02	115.5573	you know, I could	116.1656
+108	ATL_se0_ag1_m_02	116.1656	(pause 0.20)	116.3667
+109	ATL_se0_ag1_m_02	116.3667	instantly feel,	117.2948
+110	ATL_se0_ag1_m_02	117.2948	(pause 0.97)	118.2641
+111	ATL_se0_ag1_m_02	118.2641	you know, that- just that-	119.2681
+112	ATL_se0_ag1_m_02	119.2681	(pause 0.49)	119.7630
+113	ATL_se0_ag1_m_02	119.7630	that	120.0426
+114	ATL_se0_ag1_m_02	120.0426	(pause 0.10)	120.1458
+115	ATL_se0_ag1_m_02	120.1458	spirit,	120.6859
+116	ATL_se0_ag1_m_02	120.6859	(pause 0.26)	120.9490
+117	ATL_se0_ag1_m_02	120.9490	you know what I'm saying. I could feel your energy.	122.9340
+118	ATL_se0_ag1_m_02	122.9340	(pause 0.55)	123.4856
+119	ATL_se0_ag1_m_02	123.4856	And I was like,	124.2384
+120	ATL_se0_ag1_m_02	124.2384	(pause 0.36)	124.6031
+121	ATL_se0_ag1_m_02	124.6031	shit, god damn. Bruh, this n-	126.2736
+122	ATL_se0_ag1_m_02	126.2736	(pause 0.26)	126.5314
+123	ATL_se0_ag1_m_02	126.5314	I mean, you know,	127.2790
+124	ATL_se0_ag1_m_02	127.2790	(pause 0.27)	127.5522
+125	ATL_se0_ag1_m_02	127.5522	the fact that you're older, that always	129.3980
+126	ATL_se0_ag1_m_02	129.3980	(pause 0.47)	129.8716
+127	ATL_se0_ag1_m_02	129.8716	said something to me cause I was a- I was always looking for somebody who-	132.5939
+128	ATL_se0_ag1_m_02	132.5939	(pause 0.46)	133.0566
+129	ATL_se0_ag1_m_02	133.0566	who would be	133.7675
+130	ATL_se0_ag1_m_02	133.7675	(pause 0.08)	133.8495
+131	ATL_se0_ag1_m_02	133.8495	like my manager	134.8250
+132	ATL_se0_ag1_m_02	134.8250	(pause 0.58)	135.4025
+133	ATL_se0_ag1_m_02	135.4025	and	135.8768
+134	ATL_se0_ag1_m_02	135.8768	(pause 0.28)	136.1552
+135	ATL_se0_ag1_m_02	136.1552	would be older than me	137.4081
+136	ATL_se0_ag1_m_02	137.4081	(pause 0.18)	137.5834
+137	ATL_se0_ag1_m_02	137.5834	but not too old to where he in a whole nother generation.	140.5473
+138	ATL_se0_ag1_m_02	140.5473	(pause 0.50)	141.0474
+139	ATL_se0_ag1_m_02	141.0474	You know what I'm saying, like,	142.0373
+140	ATL_se0_ag1_m_02	142.0373	(pause 0.12)	142.1618
+141	ATL_se0_ag1_m_02	142.1618	you right there,	143.0626
+142	ATL_se0_ag1_m_02	143.0626	(pause 0.46)	143.5267
+143	ATL_se0_ag1_m_02	143.5267	so it was perfect. And then the fact that you listen, that you	146.4744
+144	ATL_se0_ag1_m_02	146.4744	(pause 0.33)	146.8044
+145	ATL_se0_ag1_m_02	146.8044	humble	147.2736
+146	ATL_se0_ag1_m_02	147.2736	(pause 0.47)	147.7479
+147	ATL_se0_ag1_m_02	147.7479	you know what I'm saying. You ain't even cocky at all.	149.6452
+148	ATL_se0_ag1_m_02	149.6452	(pause 0.73)	150.3774
+149	ATL_se0_ag1_m_02	150.3774	Like people wouldn't know,	151.4168
+150	ATL_se0_ag1_m_02	151.4168	(pause 0.08)	151.4947
+151	ATL_se0_ag1_m_02	151.4947	you know what I'm saying, til they start talking to you.	153.3406
+152	ATL_se0_ag1_m_02	153.3406	(pause 0.75)	154.0933
+153	ATL_se0_ag1_m_02	154.0933	But,	154.3718
+154	ATL_se0_ag1_m_02	154.3718	(pause 0.34)	154.7069
+155	ATL_se0_ag1_m_02	154.7069	you know,	155.1039
+156	ATL_se0_ag1_m_02	155.1039	(pause 0.15)	155.2534
+157	ATL_se0_ag1_m_02	155.2534	that's just what it is.	156.4908
+158	ATL_se0_ag1_m_02	156.4908	(pause 0.61)	157.1043
+159	ATL_se0_ag1_m_02	157.1043	But-	157.2758
+160	ATL_se0_ag1_m_02	157.2758	(pause 0.17)	157.4411
+161	ATL_se0_ag1_m_02	157.4411	but	157.6500
+162	ATL_se0_ag1_m_02	157.6500	(pause 0.36)	158.0078
+163	ATL_se0_ag1_m_02	158.0078	just	158.2794
+164	ATL_se0_ag1_m_02	158.2794	(pause 0.11)	158.3878
+165	ATL_se0_ag1_m_02	158.3878	because you have that hermetic type of vibe,	160.6907
+166	ATL_se0_ag1_m_02	160.6907	(pause 0.55)	161.2372
+167	ATL_se0_ag1_m_02	161.2372	you know, I could tell that I can	162.6035
+168	ATL_se0_ag1_m_02	162.6035	(pause 0.19)	162.7891
+169	ATL_se0_ag1_m_02	162.7891	get good leadership from you	164.2431
+170	ATL_se0_ag1_m_02	164.2431	(pause 0.73)	164.9752
+171	ATL_se0_ag1_m_02	164.9752	because you know how to listen as well as l- knowing how to	167.9848
+172	ATL_se0_ag1_m_02	167.9848	(pause 0.46)	168.4489
+173	ATL_se0_ag1_m_02	168.4489	f- you know,	169.0727
+174	ATL_se0_ag1_m_02	169.0727	(pause 0.78)	169.8564
+175	ATL_se0_ag1_m_02	169.8564	lead.	170.3411
+176	ATL_se0_ag1_m_02	170.3411	(pause 0.24)	170.5782
+177	ATL_se0_ag1_m_02	170.5782	<laugh>	170.9288
+178	ATL_se0_ag1_m_02	170.9288	(pause 0.24)	171.1711
+179	ATL_se0_ag1_m_02	171.1711	You know	171.5596
+180	ATL_se0_ag1_m_02	171.5596	(pause 0.08)	171.6385
+181	ATL_se0_ag1_m_02	171.6385	something,	172.1816
+182	ATL_se0_ag1_m_02	172.1816	(pause 0.07)	172.2491
+183	ATL_se0_ag1_m_02	172.2491	you know, that I don't know.	173.5576
+184	ATL_se0_ag1_m_02	173.5576	(pause 0.36)	173.9134
+185	ATL_se0_ag1_m_02	173.9134	I know that,	174.7331
+186	ATL_se0_ag1_m_02	174.7331	(pause 0.63)	175.3659
+187	ATL_se0_ag1_m_02	175.3659	you know, with	176.0568
+188	ATL_se0_ag1_m_02	176.0568	(pause 0.68)	176.7374
+189	ATL_se0_ag1_m_02	176.7374	just	177.0570
+190	ATL_se0_ag1_m_02	177.0570	(pause 0.20)	177.2529
+191	ATL_se0_ag1_m_02	177.2529	/RD-WORK-4/	178.2920
+192	ATL_se0_ag1_m_02	178.2920	(pause 0.09)	178.3869
+193	ATL_se0_ag1_m_02	178.3869	period	178.8822
+194	ATL_se0_ag1_m_02	178.8822	(pause 0.80)	179.6865
+195	ATL_se0_ag1_m_02	179.6865	that, you know, I know,	181.1714
+196	ATL_se0_ag1_m_02	181.1714	(pause 0.72)	181.8866
+197	ATL_se0_ag1_m_02	181.8866	hm,	182.1032
+198	ATL_se0_ag1_m_02	182.1032	(pause 1.17)	183.2684
+199	ATL_se0_ag1_m_02	183.2684	as a independent artist,	184.4594
+200	ATL_se0_ag1_m_02	184.4594	(pause 0.47)	184.9286
+201	ATL_se0_ag1_m_02	184.9286	you know, we have our egos about ourselves, and we feel like	187.7010
+202	ATL_se0_ag1_m_02	187.7010	(pause 0.55)	188.2476
+203	ATL_se0_ag1_m_02	188.2476	god damn, pretty much	189.6448
+204	ATL_se0_ag1_m_02	189.6448	(pause 0.74)	190.3872
+205	ATL_se0_ag1_m_02	190.3872	I could do it on my own.	191.4700
+206	ATL_se0_ag1_m_02	191.4700	(pause 0.60)	192.0680
+207	ATL_se0_ag1_m_02	192.0680	We hear o- everybody on the- on the radio talking about some I did it on my own I did it my own. Self made.	196.2796
+208	ATL_se0_ag1_m_02	196.2796	(pause 0.53)	196.8093
+209	ATL_se0_ag1_m_02	196.8093	You know, all this and that.	197.7425
+210	ATL_se0_ag1_m_02	197.7425	(pause 1.06)	198.8023
+211	ATL_se0_ag1_m_02	198.8023	But they really got a whole team behind them.	200.5782
+212	ATL_se0_ag1_m_02	200.5782	(pause 1.33)	201.9084
+213	ATL_se0_ag1_m_02	201.9084	<clears throat>	202.2384
+214	ATL_se0_ag1_m_02	202.2384	(pause 0.93)	203.1702
+215	ATL_se0_ag1_m_02	203.1702	You got another question?	203.8817
+216	ATL_int_01	204.4128	<laugh> [Yeah], I got plenty more.	206.1297
+217	ATL_se0_ag1_m_02	204.9541	[<laugh>]	205.1449
+218	ATL_int_01	206.3307	Um,	207.0629
+219	ATL_int_01	207.0629	(pause 0.87)	207.9342
+220	ATL_int_01	207.9342	and that was well spoken	209.3404
+221	ATL_int_01	209.3404	(pause 0.48)	209.8199
+222	ATL_int_01	209.8199	I- I might add	211.0160
+223	ATL_int_01	211.0160	(pause 0.42)	211.4388
+224	ATL_int_01	211.4388	in m- in [my, um, opinion.]	213.3877
+225	ATL_se0_ag1_m_02	212.1554	[Thank you, thank you.]	212.9134
+226	ATL_int_01	214.2539	Um,	214.7938
+227	ATL_int_01	214.7938	(pause 0.77)	215.5621
+228	ATL_int_01	215.5621	so how long have you been living in Atlanta?	217.9492
+229	ATL_se0_ag1_m_02	218.7948	Well,	219.5372
+230	ATL_se0_ag1_m_02	219.5372	(pause 1.23)	220.7629
+231	ATL_se0_ag1_m_02	220.7629	man, I started actually l-	222.1189
+232	ATL_se0_ag1_m_02	222.1189	(pause 0.47)	222.5932
+233	ATL_se0_ag1_m_02	222.5932	legit living in Atlanta	224.9649
+234	ATL_se0_ag1_m_02	224.9649	(pause 0.82)	225.7847
+235	ATL_se0_ag1_m_02	225.7847	really Decatur	227.2012
+236	ATL_se0_ag1_m_02	227.2012	(pause 0.26)	227.4589
+237	ATL_se0_ag1_m_02	227.4589	east side Atlanta,	229.0882
+238	ATL_se0_ag1_m_02	229.0882	(pause 0.72)	229.8100
+239	ATL_se0_ag1_m_02	229.8100	uh, what was- this was like twenty fifteen.	232.1559
+240	ATL_se0_ag1_m_02	232.1559	(pause 0.36)	232.5154
+241	ATL_se0_ag1_m_02	232.5154	This w- this around twenty fifteen,	234.4076
+242	ATL_se0_ag1_m_02	234.4076	(pause 0.44)	234.8459
+243	ATL_se0_ag1_m_02	234.8459	I s- I came here	236.0677
+244	ATL_se0_ag1_m_02	236.0677	(pause 0.08)	236.1443
+245	ATL_se0_ag1_m_02	236.1443	when I-	236.7020
+246	ATL_se0_ag1_m_02	236.7020	(pause 0.75)	237.4496
+247	ATL_se0_ag1_m_02	237.4496	right around November	238.9382
+248	ATL_se0_ag1_m_02	238.9382	(pause 1.05)	239.9848
+249	ATL_se0_ag1_m_02	239.9848	twenty fifteen, man.	241.1277
+250	ATL_se0_ag1_m_02	241.1277	(pause 0.10)	241.2249
+251	ATL_se0_ag1_m_02	241.2249	And, uh, you know, it was just like	242.8669
+252	ATL_se0_ag1_m_02	242.8669	(pause 1.04)	243.9033
+253	ATL_se0_ag1_m_02	243.9033	obviously Atlanta is	245.2888
+254	ATL_se0_ag1_m_02	245.2888	(pause 0.41)	245.6961
+255	ATL_se0_ag1_m_02	245.6961	the land of opportunity, so,	247.8564
+256	ATL_se0_ag1_m_02	247.8564	(pause 0.64)	248.5009
+257	ATL_se0_ag1_m_02	248.5009	you know,	248.9708
+258	ATL_se0_ag1_m_02	248.9708	(pause 0.12)	249.0872
+259	ATL_se0_ag1_m_02	249.0872	coming from where I come from,	250.5013
+260	ATL_se0_ag1_m_02	250.5013	(pause 0.25)	250.7474
+261	ATL_se0_ag1_m_02	250.7474	which is	251.3610
+262	ATL_se0_ag1_m_02	251.3610	(pause 0.40)	251.7580
+263	ATL_se0_ag1_m_02	251.7580	Rockdale county AKA Trapdale,	254.0059
+264	ATL_se0_ag1_m_02	254.0059	(pause 1.14)	255.1505
+265	ATL_se0_ag1_m_02	255.1505	you know, everybody is kind of in this closed box. I- [it's no-]	258.6551
+266	ATL_int_01	258.2473	[And Rockdale's] in [Georgia?]	259.7343
+267	ATL_se0_ag1_m_02	259.6656	[Rockdale's] in Georgia. [It's pretty much]	261.8002
+268	ATL_int_01	261.0585	[Mm-hm.]	261.3778
+269	ATL_se0_ag1_m_02	262.4639	at the end of the east side, like, you know what I'm saying. It's like the literally, like,	266.2146
+270	ATL_se0_ag1_m_02	266.2146	(pause 0.08)	266.2931
+271	ATL_se0_ag1_m_02	266.2931	you know	266.7097
+272	ATL_se0_ag1_m_02	266.7097	(pause 0.13)	266.8360
+273	ATL_se0_ag1_m_02	266.8360	two counties over. (laughing)	268.0637
+274	ATL_int_01	268.1024	Far east [side.]	269.1341
+275	ATL_se0_ag1_m_02	268.9756	[Yeah], far east side.	270.0526
+276	ATL_int_01	270.0589	[Mm-hm.]	270.4092
+277	ATL_se0_ag1_m_02	270.3147	[It's] just far east side. That's all.	271.8719
+278	ATL_se0_ag1_m_02	272.4957	So,	273.0746
+279	ATL_se0_ag1_m_02	273.0746	(pause 0.19)	273.2606
+280	ATL_se0_ag1_m_02	273.2606	you know,	273.9528
+281	ATL_int_01	274.0611	And [how long- how long have you] been, um,	276.1669
+282	ATL_se0_ag1_m_02	274.3138	[everybody has this-]	275.2183
+283	ATL_se0_ag1_m_02	276.4969	[What's that?]	276.8111
+284	ATL_int_01	276.6902	[in] Rockdale?	277.4891
+285	ATL_se0_ag1_m_02	278.0214	I've been in Rockdale since I was in the fifth grade, man. [It was-]	281.2115
+286	ATL_int_01	280.8815	[Okay.]	281.3816
+287	ATL_se0_ag1_m_02	281.7270	Yeah I grew up in Rockdale, so,	283.8203
+288	ATL_se0_ag1_m_02	283.8203	(pause 0.63)	284.4493
+289	ATL_se0_ag1_m_02	284.4493	you know, that's- that's definitely where I- where I'm-	287.3528
+290	ATL_se0_ag1_m_02	287.3528	(pause 0.10)	287.4502
+291	ATL_se0_ag1_m_02	287.4502	where I'm hailing from right now.	289.0167
+292	ATL_se0_ag1_m_02	289.0167	(pause 0.54)	289.5541
+293	ATL_se0_ag1_m_02	289.5541	[That is-]	289.8556
+294	ATL_int_01	289.5786	[So] where did you came from before that?	291.4282
+295	ATL_se0_ag1_m_02	291.9077	Well, Milwaukee, Wisconsin.	293.5421
+296	ATL_se0_ag1_m_02	293.5421	(pause 0.40)	293.9443
+297	ATL_se0_ag1_m_02	293.9443	Milwaukee, Wisconsin /is/ my	295.5632
+298	ATL_se0_ag1_m_02	295.5632	(pause 1.06)	296.6239
+299	ATL_se0_ag1_m_02	296.6239	state	297.3354
+300	ATL_se0_ag1_m_02	297.3354	(pause 0.27)	297.6035
+301	ATL_se0_ag1_m_02	297.6035	I was born in,	298.7481
+302	ATL_int_01	298.9801	Okay.	299.3973
+303	ATL_se0_ag1_m_02	299.4280	you know what I'm saying.	300.2984
+304	ATL_int_01	300.4338	[Mm-hm.]	300.7911
+305	ATL_se0_ag1_m_02	300.6516	[So],	301.1404
+306	ATL_se0_ag1_m_02	301.3305	you know, my family- I got strong ties in Milwaukee.	304.3931
+307	ATL_se0_ag1_m_02	304.3931	(pause 0.56)	304.9561
+308	ATL_se0_ag1_m_02	304.9561	That's- you know, that's my- my pop's side of the family,	307.4927
+309	ATL_int_01	307.6062	Mm-hm.	307.9980
+310	ATL_se0_ag1_m_02	308.0599	and that's the side that I got- I was blessed to,	310.1470
+311	ATL_se0_ag1_m_02	310.1470	(pause 0.07)	310.2204
+312	ATL_se0_ag1_m_02	310.2204	you know, get to know.	311.1379
+313	ATL_se0_ag1_m_02	311.1379	(pause 0.48)	311.6212
+314	ATL_se0_ag1_m_02	311.6212	And, you know, just even just seeing the leadership from my	314.5858
+315	ATL_se0_ag1_m_02	314.5858	(pause 0.31)	314.9003
+316	ATL_se0_ag1_m_02	314.9003	grandfather, that's what even brought me to this place right now,	317.5438
+317	ATL_se0_ag1_m_02	317.5438	(pause 0.36)	317.8996
+318	ATL_se0_ag1_m_02	317.8996	why I have confidence to do what I do.	319.9155
+319	ATL_int_01	321.0688	[That's real.] That's real. I will definitely wanna,	323.3641
+320	ATL_se0_ag1_m_02	321.1162	[<clears throat>]	321.3861
+321	ATL_int_01	324.1787	you know, touch more on	325.7461
+322	ATL_int_01	325.7461	(pause 0.11)	325.8581
+323	ATL_int_01	325.8581	family or how you feel	327.3894
+324	ATL_int_01	327.3894	(pause 0.18)	327.5647
+325	ATL_int_01	327.5647	about your relationship with your family.	329.4981
+326	ATL_se0_ag1_m_02	330.3798	I feel like my relationship with my family	332.5232
+327	ATL_se0_ag1_m_02	332.5232	(pause 0.42)	332.9460
+328	ATL_se0_ag1_m_02	332.9460	is distant	333.7709
+329	ATL_se0_ag1_m_02	333.7709	(pause 0.25)	334.0184
+330	ATL_se0_ag1_m_02	334.0184	cause I've always been distant,	335.3383
+331	ATL_se0_ag1_m_02	335.3383	(pause 0.76)	336.1014
+332	ATL_se0_ag1_m_02	336.1014	you know. And that's n-	337.4677
+333	ATL_se0_ag1_m_02	337.4677	(pause 0.14)	337.6120
+334	ATL_se0_ag1_m_02	337.6120	that word in itself, distant, explains everything.	339.9926
+335	ATL_se0_ag1_m_02	339.9926	(pause 0.53)	340.5185
+336	ATL_se0_ag1_m_02	340.5185	You know, [every-]	341.2916
+337	ATL_int_01	341.1681	[<clears throat>]	341.5025
+338	ATL_se0_ag1_m_02	341.7535	like	342.0421
+339	ATL_se0_ag1_m_02	342.0421	(pause 0.11)	342.1506
+340	ATL_se0_ag1_m_02	342.1506	everything wasn't in my will to be how it is right now.	344.8745
+341	ATL_se0_ag1_m_02	344.8745	(pause 0.76)	345.6324
+342	ATL_se0_ag1_m_02	345.6324	You know, some- certain things my parents done, you know, right or wrong,	349.2195
+343	ATL_se0_ag1_m_02	349.2195	(pause 1.88)	351.1014
+344	ATL_se0_ag1_m_02	351.1014	led me to this point	352.0655
+345	ATL_se0_ag1_m_02	352.0655	(pause 0.56)	352.6268
+346	ATL_se0_ag1_m_02	352.6268	of where I'm at with my family.	353.9415
+347	ATL_se0_ag1_m_02	353.9415	(pause 0.93)	354.8747
+348	ATL_se0_ag1_m_02	354.8747	So,	355.3542
+349	ATL_se0_ag1_m_02	355.3542	(pause 0.39)	355.7409
+350	ATL_se0_ag1_m_02	355.7409	you know,	356.4000
+351	ATL_se0_ag1_m_02	356.4000	(pause 0.39)	356.7913
+352	ATL_se0_ag1_m_02	356.7913	at the end of the day,	357.5750
+353	ATL_se0_ag1_m_02	357.5750	(pause 2.89)	360.4674
+354	ATL_se0_ag1_m_02	360.4674	I love 'em.	361.1325
+355	ATL_se0_ag1_m_02	361.1325	(pause 0.29)	361.4213
+356	ATL_se0_ag1_m_02	361.4213	They love me.	362.2617
+357	ATL_se0_ag1_m_02	362.2617	(pause 0.13)	362.3943
+358	ATL_se0_ag1_m_02	362.3943	You know, I know that.	363.2708
+359	ATL_se0_ag1_m_02	363.2708	(pause 0.66)	363.9308
+360	ATL_se0_ag1_m_02	363.9308	You know,	364.3381
+361	ATL_se0_ag1_m_02	364.3381	(pause 0.14)	364.4773
+362	ATL_se0_ag1_m_02	364.4773	at the end of the day, they don't want me to die. They want me to stay alive, so, you know,	367.5141
+363	ATL_se0_ag1_m_02	367.5141	(pause 0.55)	368.0644
+364	ATL_se0_ag1_m_02	368.0644	<laugh>	368.5438
+365	ATL_int_01	368.7552	That's [definitely love.]	369.9823
+366	ATL_se0_ag1_m_02	369.2089	[But, um],	369.8122
+367	ATL_se0_ag1_m_02	370.0408	you know, I- I keep them in mind, man. They always-	372.4508
+368	ATL_se0_ag1_m_02	372.4508	(pause 0.08)	372.5340
+369	ATL_se0_ag1_m_02	372.5340	they- you know,	373.2563
+370	ATL_se0_ag1_m_02	373.2563	(pause 0.65)	373.9097
+371	ATL_se0_ag1_m_02	373.9097	throughout my life, they've definitely checked in, have definitely helped me	377.5703
+372	ATL_se0_ag1_m_02	377.5703	(pause 0.48)	378.0498
+373	ATL_se0_ag1_m_02	378.0498	and reached out.	378.8026
+374	ATL_se0_ag1_m_02	378.8026	(pause 0.20)	379.0036
+375	ATL_se0_ag1_m_02	379.0036	So it's just like, as the- as-	380.4871
+376	ATL_se0_ag1_m_02	380.4871	(pause 0.98)	381.4667
+377	ATL_se0_ag1_m_02	381.4667	we solid,	382.2282
+378	ATL_se0_ag1_m_02	382.2282	(pause 0.07)	382.3017
+379	ATL_se0_ag1_m_02	382.3017	you know.	382.7454
+380	ATL_se0_ag1_m_02	382.7454	(pause 0.37)	383.1166
+381	ATL_se0_ag1_m_02	383.1166	And /just/ as long as I'm c- as far as I'm concerned	385.3903
+382	ATL_se0_ag1_m_02	385.3903	(pause 0.92)	386.3067
+383	ATL_se0_ag1_m_02	386.3067	the- the important things-	387.5389
+384	ATL_se0_ag1_m_02	387.5389	(pause 0.42)	387.9617
+385	ATL_se0_ag1_m_02	387.9617	they're there for the important things for sure.	389.7714
+386	ATL_int_01	390.2148	So you have	390.8696
+387	ATL_int_01	390.8696	(pause 0.32)	391.1944
+388	ATL_int_01	391.1944	siblings?	391.9420
+389	ATL_se0_ag1_m_02	392.3118	I have siblings, man.	393.6111
+390	ATL_se0_ag1_m_02	393.6111	(pause 0.41)	394.0236
+391	ATL_se0_ag1_m_02	394.0236	I'm actually the oldest	395.1114
+392	ATL_se0_ag1_m_02	395.1114	(pause 0.51)	395.6167
+393	ATL_se0_ag1_m_02	395.6167	of five.	396.7716
+394	ATL_int_01	397.5811	Ah, nice.	398.2256
+395	ATL_se0_ag1_m_02	400.1370	Yeah man, like	400.8227
+396	ATL_se0_ag1_m_02	400.8227	(pause 0.51)	401.3331
+397	ATL_se0_ag1_m_02	401.3331	and it's just like, <laugh> I'm the oldest, but	403.2896
+398	ATL_se0_ag1_m_02	403.2896	(pause 0.55)	403.8429
+399	ATL_se0_ag1_m_02	403.8429	I grew up like	404.5604
+400	ATL_se0_ag1_m_02	404.5604	(pause 0.09)	404.6507
+401	ATL_se0_ag1_m_02	404.6507	as the only child	405.6994
+402	ATL_se0_ag1_m_02	405.6994	(pause 0.63)	406.3285
+403	ATL_se0_ag1_m_02	406.3285	slick.	406.7615
+404	ATL_int_01	408.1625	You that much older?	409.0597
+405	ATL_se0_ag1_m_02	410.0650	Mm,	410.4878
+406	ATL_se0_ag1_m_02	410.4878	(pause 2.22)	412.7048
+407	ATL_se0_ag1_m_02	412.7048	not that I'm that much older, like	414.3013
+408	ATL_int_01	414.4460	Mm-hm.	414.7632
+409	ATL_se0_ag1_m_02	414.8150	it's just- we're just all far apart.	416.9053
+410	ATL_se0_ag1_m_02	416.9053	(pause 0.09)	416.9979
+411	ATL_se0_ag1_m_02	416.9979	Like m- me and my brother	418.3027
+412	ATL_int_01	418.6326	[Mm-hm.]	419.0142
+413	ATL_se0_ag1_m_02	418.8801	[that-]	419.2597
+414	ATL_se0_ag1_m_02	419.4685	you know, my mom o- had- only had two kids. My da- my dad had other,	422.7508
+415	ATL_se0_ag1_m_02	422.7508	(pause 0.75)	423.5035
+416	ATL_se0_ag1_m_02	423.5035	uh, children. So,	424.6842
+417	ATL_se0_ag1_m_02	424.6842	(pause 0.34)	425.0193
+418	ATL_se0_ag1_m_02	425.0193	um,	425.5851
+419	ATL_se0_ag1_m_02	425.5851	(pause 1.38)	426.9617
+420	ATL_se0_ag1_m_02	426.9617	you know, with that,	427.7609
+421	ATL_se0_ag1_m_02	427.7609	(pause 1.25)	429.0086
+422	ATL_se0_ag1_m_02	429.0086	um, like	429.8129
+423	ATL_se0_ag1_m_02	429.8129	(pause 1.87)	431.6837
+424	ATL_se0_ag1_m_02	431.6837	my brother actually ran away	433.4161
+425	ATL_se0_ag1_m_02	433.4161	(pause 0.62)	434.0334
+426	ATL_se0_ag1_m_02	434.0334	when I was in middle school,	435.2491
+427	ATL_se0_ag1_m_02	435.2491	(pause 0.12)	435.3678
+428	ATL_se0_ag1_m_02	435.3678	and he ended up	436.1215
+429	ATL_se0_ag1_m_02	436.1215	(pause 0.80)	436.9258
+430	ATL_se0_ag1_m_02	436.9258	going to his dad's.	438.0962
+431	ATL_se0_ag1_m_02	438.0962	(pause 0.81)	438.9057
+432	ATL_se0_ag1_m_02	438.9057	And from that point on, from middle school on	441.4203
+433	ATL_se0_ag1_m_02	441.4203	(pause 0.53)	441.9462
+434	ATL_se0_ag1_m_02	441.9462	up, I was, you know,	443.2249
+435	ATL_se0_ag1_m_02	443.2249	(pause 0.28)	443.5084
+436	ATL_se0_ag1_m_02	443.5084	at the crib by myself.	444.6685
+437	ATL_se0_ag1_m_02	444.6685	(pause 0.82)	445.4934
+438	ATL_se0_ag1_m_02	445.4934	So it was just like, you know, I had other siblings, but I didn't have	448.5082
+439	ATL_se0_ag1_m_02	448.5082	(pause 0.48)	448.9877
+440	ATL_se0_ag1_m_02	448.9877	the time to ha- have 'em all under my wing, and	451.3778
+441	ATL_se0_ag1_m_02	451.3778	(pause 0.08)	451.4544
+442	ATL_se0_ag1_m_02	451.4544	me be able to touch them all how I want to	453.5492
+443	ATL_int_01	453.7400	[Ooh.]	454.1834
+444	ATL_se0_ag1_m_02	453.9565	[and affect] them like that,	455.1475
+445	ATL_se0_ag1_m_02	455.3538	you know.	455.6941
+446	ATL_int_01	455.8333	Mm.	456.1735
+447	ATL_se0_ag1_m_02	456.3695	Which I really wish, but, you know, that- that's not,	458.8996
+448	ATL_se0_ag1_m_02	458.8996	(pause 0.76)	459.6627
+449	ATL_se0_ag1_m_02	459.6627	you know,	460.1679
+450	ATL_se0_ag1_m_02	460.1679	(pause 0.47)	460.6371
+451	ATL_se0_ag1_m_02	460.6371	it is what it is, man.	461.6941
+452	ATL_int_01	461.9776	Nah, definitely,	462.9108
+453	ATL_se0_ag1_m_02	463.1735	[<clears throat>]	463.4876
+454	ATL_int_01	463.4309	[definitely.]	463.8612
+455	ATL_int_01	465.1323	On a- um,	465.8713
+456	ATL_int_01	465.8713	(pause 0.17)	466.0391
+457	ATL_int_01	466.0391	on another note,	466.8853
+458	ATL_int_01	466.8853	(pause 0.50)	467.3840
+459	ATL_int_01	467.3840	tell me about growing up	468.7291
+460	ATL_int_01	468.7291	(pause 0.20)	468.9290
+461	ATL_int_01	468.9290	in school.	469.6887
+462	ATL_se0_ag1_m_02	470.2300	Oh man.	471.2457
+463	ATL_int_01	471.4829	I guess we could start with, um,	473.4000
+464	ATL_int_01	473.4000	(pause 0.47)	473.8738
+465	ATL_int_01	473.8738	maybe like	474.5802
+466	ATL_int_01	474.5802	(pause 1.85)	476.4311
+467	ATL_int_01	476.4311	middle school.	477.3128
+468	ATL_se0_ag1_m_02	478.6533	Mm,	479.0142
+469	ATL_se0_ag1_m_02	479.0142	(pause 3.22)	482.2352
+470	ATL_se0_ag1_m_02	482.2352	Mm,	482.7380
+471	ATL_se0_ag1_m_02	482.7380	(pause 0.18)	482.9153
+472	ATL_se0_ag1_m_02	482.9153	/inaudible/	483.7613
+473	ATL_se0_ag1_m_02	483.7613	(pause 0.59)	484.3542
+474	ATL_se0_ag1_m_02	484.3542	growing up in middle school,	485.8539
+475	ATL_se0_ag1_m_02	485.8539	(pause 2.83)	488.6882
+476	ATL_se0_ag1_m_02	488.6882	it was	489.3067
+477	ATL_se0_ag1_m_02	489.3067	(pause 0.52)	489.8225
+478	ATL_se0_ag1_m_02	489.8225	tough cause I was a weirdo, man.	491.4827
+479	ATL_se0_ag1_m_02	491.4827	(pause 0.24)	491.7198
+480	ATL_se0_ag1_m_02	491.7198	And I'm still a weirdo, and that's okay.	493.5450
+481	ATL_int_01	494.0076	[<laugh>]	495.5131
+482	ATL_se0_ag1_m_02	494.3221	[Everybo- everybody], that is okay.	496.5959
+483	ATL_int_01	496.9104	Okay, [I-]	497.7869
+484	ATL_se0_ag1_m_02	497.5068	[That's] okay.	498.2158
+485	ATL_int_01	498.2306	I think it's very okay to be a [weirdo.]	500.3435
+486	ATL_se0_ag1_m_02	499.8266	[I- honestly], I feel like in this [generation],	502.2717
+487	ATL_int_01	501.5705	[I think it's more-]	502.5708
+488	ATL_int_01	502.8189	[it's way] cooler to be a weirdo now. Not so much back then though	506.4820
+489	ATL_se0_ag1_m_02	502.9323	[/they-/]	503.3486
+490	ATL_se0_ag1_m_02	506.8841	[Nah, not-] not- not- not at all back [then.]	509.0908
+491	ATL_int_01	507.0852	[/?/]	507.3997
+492	ATL_int_01	507.3997	(pause 1.59)	508.9929
+493	ATL_int_01	508.9929	[/Damn/] not [at all.]	509.8900
+494	ATL_se0_ag1_m_02	509.5293	[Like I was] suffering back then.	511.1480
+495	ATL_se0_ag1_m_02	511.9544	My middle school- like, bruh,	514.0786
+496	ATL_se0_ag1_m_02	514.0786	(pause 0.51)	514.5876
+497	ATL_se0_ag1_m_02	514.5876	my shit was so dry, bruh.	516.1640
+498	ATL_int_01	516.1992	They say the meek shall inherit the earth, so you just never [peaked yet, man.]	519.9593
+499	ATL_se0_ag1_m_02	519.1756	[And I- I'm a late] bloomer.	520.5925
+500	ATL_int_01	520.6136	You a late [bloomer. I am too, man.]	522.5888
+501	ATL_se0_ag1_m_02	521.4596	[I'm a late bloomer. It] is what it is, [you know] what [I'm saying.]	524.3661
+502	ATL_int_01	523.5257	[S-]	523.7374
+503	ATL_int_01	523.7374	(pause 0.15)	523.8856
+504	ATL_int_01	523.8856	[it's something to] be [proud of.]	525.1034
+505	ATL_se0_ag1_m_02	524.8199	[Like],	525.4231
+506	ATL_se0_ag1_m_02	525.9593	I developed myself	527.4081
+507	ATL_se0_ag1_m_02	527.4081	(pause 0.12)	527.5255
+508	ATL_se0_ag1_m_02	527.5255	to where I started to find out,	529.2075
+509	ATL_se0_ag1_m_02	529.2075	(pause 0.88)	530.0877
+510	ATL_se0_ag1_m_02	530.0877	uh, more about myself in middle school because of poetry.	533.3617
+511	ATL_int_01	533.9391	Okay.	534.3413
+512	ATL_se0_ag1_m_02	534.5114	In middle school,	535.4292
+513	ATL_se0_ag1_m_02	535.4292	(pause 0.16)	535.5928
+514	ATL_se0_ag1_m_02	535.5928	in- growing up in school,	536.8456
+515	ATL_se0_ag1_m_02	536.8456	(pause 0.29)	537.1344
+516	ATL_se0_ag1_m_02	537.1344	that was my biggest background was poetry	539.4648
+517	ATL_se0_ag1_m_02	539.4648	(pause 0.47)	539.9391
+518	ATL_se0_ag1_m_02	539.9391	because	540.5991
+519	ATL_se0_ag1_m_02	540.5991	(pause 0.21)	540.8105
+520	ATL_se0_ag1_m_02	540.8105	sixth grade	541.6500
+521	ATL_se0_ag1_m_02	541.6500	(pause 0.38)	542.0310
+522	ATL_se0_ag1_m_02	542.0310	the curriculum came,	543.0364
+523	ATL_se0_ag1_m_02	543.0364	(pause 0.27)	543.3045
+524	ATL_se0_ag1_m_02	543.3045	shout out to Miss /RD-NAME-4/,	544.8100
+525	ATL_int_01	545.2947	[Mm-hm.]	545.6813
+526	ATL_se0_ag1_m_02	545.4545	[you know] what I'm saying, she the one taught me that shit.	547.6185
+527	ATL_se0_ag1_m_02	548.3661	So	548.7838
+528	ATL_se0_ag1_m_02	548.7838	(pause 1.77)	550.5522
+529	ATL_se0_ag1_m_02	550.5522	from that point,	551.3823
+530	ATL_se0_ag1_m_02	551.3823	(pause 0.97)	552.3568
+531	ATL_se0_ag1_m_02	552.3568	you know, she encouraged me to keep going,	555.1189
+532	ATL_se0_ag1_m_02	555.1189	(pause 0.59)	555.7118
+533	ATL_se0_ag1_m_02	555.7118	and from there, I was like, okay.	557.3978
+534	ATL_se0_ag1_m_02	557.3978	(pause 0.46)	557.8568
+535	ATL_se0_ag1_m_02	557.8568	So I- I-	558.8121
+536	ATL_se0_ag1_m_02	558.8121	(pause 0.09)	558.8973
+537	ATL_se0_ag1_m_02	558.8973	I loved-	559.6500
+538	ATL_se0_ag1_m_02	559.6500	(pause 2.24)	561.8871
+539	ATL_se0_ag1_m_02	561.8871	I loved the fact that	563.3020
+540	ATL_se0_ag1_m_02	563.3020	(pause 0.10)	563.4002
+541	ATL_se0_ag1_m_02	563.4002	it was	564.1454
+542	ATL_se0_ag1_m_02	564.1454	(pause 2.19)	566.3356
+543	ATL_se0_ag1_m_02	566.3356	everything that	567.4080
+544	ATL_se0_ag1_m_02	567.4080	(pause 0.44)	567.8514
+545	ATL_se0_ag1_m_02	567.8514	I needed at that point.	569.3362
+546	ATL_se0_ag1_m_02	569.3362	(pause 2.88)	572.2170
+547	ATL_se0_ag1_m_02	572.2170	Poetry provided	573.3100
+548	ATL_se0_ag1_m_02	573.3100	(pause 0.40)	573.7122
+549	ATL_se0_ag1_m_02	573.7122	the	574.3566
+550	ATL_se0_ag1_m_02	574.3566	(pause 1.07)	575.4291
+551	ATL_se0_ag1_m_02	575.4291	organization and-	576.7321
+552	ATL_int_01	578.0438	Mm.	578.3029
+553	ATL_se0_ag1_m_02	578.3356	and- and- and substance and	580.3927
+554	ATL_se0_ag1_m_02	580.3927	(pause 1.14)	581.5315
+555	ATL_se0_ag1_m_02	581.5315	the therapy that I needed at that time because,	584.1197
+556	ATL_se0_ag1_m_02	584.1197	(pause 0.65)	584.7731
+557	ATL_se0_ag1_m_02	584.7731	you know, it was just like-	585.7527
+558	ATL_se0_ag1_m_02	585.7527	(pause 1.51)	587.2582
+559	ATL_se0_ag1_m_02	587.2582	you know, it was six grade, like I said, I'm- being the only child,	590.3620
+560	ATL_se0_ag1_m_02	590.3620	(pause 2.41)	592.7736
+561	ATL_se0_ag1_m_02	592.7736	my parents-	593.5456
+562	ATL_se0_ag1_m_02	593.5456	(pause 0.07)	593.6172
+563	ATL_se0_ag1_m_02	593.6172	like my mom- I was living with my mom and her boyfriend,	596.8776
+564	ATL_se0_ag1_m_02	596.8776	(pause 0.57)	597.4434
+565	ATL_se0_ag1_m_02	597.4434	so it was just like,	598.7993
+566	ATL_se0_ag1_m_02	598.7993	(pause 1.00)	599.7944
+567	ATL_se0_ag1_m_02	599.7944	you know, they weren't	601.1556
+568	ATL_se0_ag1_m_02	601.1556	(pause 1.52)	602.6765
+569	ATL_se0_ag1_m_02	602.6765	too like	604.1340
+570	ATL_se0_ag1_m_02	604.1340	(pause 0.09)	604.2243
+571	ATL_se0_ag1_m_02	604.2243	involved	604.9695
+572	ATL_se0_ag1_m_02	604.9695	(pause 0.44)	605.4129
+573	ATL_se0_ag1_m_02	605.4129	with my personal life.	606.4698
+574	ATL_int_01	606.9906	Okay.	607.5732
+575	ATL_se0_ag1_m_02	607.9083	Yeah like, so it was just like, we all lived in that house, but	610.7220
+576	ATL_se0_ag1_m_02	610.7220	(pause 0.37)	611.0881
+577	ATL_se0_ag1_m_02	611.0881	it's like we didn't really actually communicate with each other.	613.7536
+578	ATL_int_01	614.6102	[H-]	614.8340
+579	ATL_se0_ag1_m_02	614.6511	[So-]	615.3035
+580	ATL_se0_ag1_m_02	615.5126	yeah, so,	616.7942
+581	ATL_se0_ag1_m_02	616.7942	(pause 1.07)	617.8614
+582	ATL_se0_ag1_m_02	617.8614	you know,	618.8050
+583	ATL_se0_ag1_m_02	618.8050	(pause 0.45)	619.2587
+584	ATL_se0_ag1_m_02	619.2587	school was really	620.7178
+585	ATL_se0_ag1_m_02	620.7178	(pause 0.67)	621.3866
+586	ATL_se0_ag1_m_02	621.3866	the only thing that provided me some type of hope towards	624.4801
+587	ATL_se0_ag1_m_02	624.4801	(pause 0.37)	624.8514
+588	ATL_se0_ag1_m_02	624.8514	a better future and this that and the other which is,	626.9137
+589	ATL_se0_ag1_m_02	626.9137	(pause 0.56)	627.4691
+590	ATL_se0_ag1_m_02	627.4691	you know, crazy cause I still don't-	629.3815
+591	ATL_se0_ag1_m_02	629.3815	(pause 0.10)	629.4818
+592	ATL_se0_ag1_m_02	629.4818	I don't fuck with school.	630.6451
+593	ATL_int_01	630.7328	You really [enjoyed] going to school like that [though.]	634.2071
+594	ATL_se0_ag1_m_02	631.8000	[<laugh>]	632.0991
+595	ATL_se0_ag1_m_02	632.0991	(pause 2.00)	634.0969
+596	ATL_se0_ag1_m_02	634.0969	[Only] because it provided things that weren't provided at my home.	637.4148
+597	ATL_int_01	637.4186	Oh, man. (whispered)	638.2913
+598	ATL_se0_ag1_m_02	638.3046	You see what I'm saying.	639.1244
+599	ATL_se0_ag1_m_02	639.1244	(pause 1.08)	640.2071
+600	ATL_se0_ag1_m_02	640.2071	Like I said, poetry like came along and,	643.6447
+601	ATL_se0_ag1_m_02	643.6447	(pause 0.51)	644.1499
+602	ATL_se0_ag1_m_02	644.1499	you know, once I found out how to start writing, bruh, like	647.2280
+603	ATL_int_01	647.9787	[When were y- when] were you- when were you poetry guy, like when were you the best at the [poetry?]	652.3920
+604	ATL_se0_ag1_m_02	648.0444	[/from-/]	648.4966
+605	ATL_se0_ag1_m_02	648.4966	(pause 3.52)	652.0127
+606	ATL_se0_ag1_m_02	652.0127	[Um],	652.6926
+607	ATL_int_01	652.8509	Or were you	653.4328
+608	ATL_int_01	653.4328	(pause 0.14)	653.5726
+609	ATL_int_01	653.5726	even the best at the [poetry]	655.0524
+610	ATL_se0_ag1_m_02	654.9029	[<exhale>] [man, I- I] don't	656.6346
+611	ATL_int_01	655.7839	[back then?]	656.2376
+612	ATL_se0_ag1_m_02	656.8150	know every	657.8926
+613	ATL_se0_ag1_m_02	657.8926	(pause 0.19)	658.0782
+614	ATL_se0_ag1_m_02	658.0782	person who made poetry	659.2589
+615	ATL_int_01	659.5342	[Mm-hm.]	659.8447
+616	ATL_se0_ag1_m_02	659.7624	[cause], you know,	660.4743
+617	ATL_se0_ag1_m_02	660.6785	poets aren't like artists like rappers.	663.1192
+618	ATL_int_01	663.4337	They [don't s-]	664.0628
+619	ATL_se0_ag1_m_02	663.5730	[They don't just] be [like],	664.4850
+620	ATL_int_01	664.3191	[/??/]	664.8097
+621	ATL_se0_ag1_m_02	664.5973	[I write] poetry, you know what I'm saying, and be spitting poetry bars.	668.2486
+622	ATL_se0_ag1_m_02	668.6346	[Like motherfuckers] write that shit in they class,	670.9186
+623	ATL_int_01	668.7074	[Okay.]	669.1863
+624	ATL_se0_ag1_m_02	671.3258	it's like, in the back.	672.8521
+625	ATL_se0_ag1_m_02	672.8521	(pause 0.07)	672.9210
+626	ATL_se0_ag1_m_02	672.9210	N-	673.0298
+627	ATL_int_01	673.0624	t- [s-]	673.4285
+628	ATL_se0_ag1_m_02	673.1150	[you know] what I'm [saying, just] ch- /y- [in a cut/]	674.8205
+629	ATL_int_01	673.6399	[/right/],	673.9286
+630	ATL_int_01	673.9286	(pause 0.38)	674.3050
+631	ATL_int_01	674.3050	[on some cool] [ass shit.]	675.7950
+632	ATL_se0_ag1_m_02	675.2949	[on some cool] shit, you know what I'm saying. [Like]	677.2837
+633	ATL_int_01	676.9980	[Mm-hm.]	677.2731
+634	ATL_se0_ag1_m_02	677.7226	and	678.2846
+635	ATL_se0_ag1_m_02	678.2846	(pause 0.13)	678.4186
+636	ATL_se0_ag1_m_02	678.4186	at that time, like ninth grade- like ninth grade's when I started	681.5630
+637	ATL_se0_ag1_m_02	681.5630	(pause 0.35)	681.9084
+638	ATL_se0_ag1_m_02	681.9084	full-fledge	682.7990
+639	ATL_se0_ag1_m_02	682.7990	(pause 0.13)	682.9331
+640	ATL_se0_ag1_m_02	682.9331	everything. The poetry, the rap,	684.8122
+641	ATL_int_01	684.9475	[Okay.]	685.3607
+642	ATL_se0_ag1_m_02	685.2311	[you know] what I'm saying. It fused together to where,	687.5527
+643	ATL_int_01	687.7821	[Mm-hm.]	688.1175
+644	ATL_se0_ag1_m_02	687.9011	[you know] what I'm saying, from ninth grade on, I propelled	690.5468
+645	ATL_se0_ag1_m_02	690.8562	from there,	691.6811
+646	ATL_se0_ag1_m_02	691.6811	(pause 0.32)	692.0008
+647	ATL_se0_ag1_m_02	692.0008	you know what I'm saying, /but/-	692.9752
+648	ATL_se0_ag1_m_02	692.9752	(pause 0.29)	693.2691
+649	ATL_se0_ag1_m_02	693.2691	middle school, I had the foundation	695.1812
+650	ATL_se0_ag1_m_02	695.1812	(pause 0.20)	695.3771
+651	ATL_se0_ag1_m_02	695.3771	of poetry.	696.1711
+652	ATL_int_01	696.6300	Nah, that's perfect cause	697.8196
+653	ATL_int_01	697.8196	(pause 0.16)	697.9795
+654	ATL_int_01	697.9795	that's like evidence you was doing it before it was trendy,	701.0615
+655	ATL_int_01	701.0615	(pause 0.16)	701.2230
+656	ATL_int_01	701.2230	before it was cool [and shit like] that. Nah, [definitely.]	704.0111
+657	ATL_se0_ag1_m_02	702.2272	[<laugh>]	702.9026
+658	ATL_se0_ag1_m_02	702.9026	(pause 0.68)	703.5831
+659	ATL_se0_ag1_m_02	703.5831	[Right], right.	704.5269
+660	ATL_int_01	704.5349	Those people I think are the rawest. I'm-	706.2951
+661	ATL_int_01	706.2951	(pause 0.15)	706.4439
+662	ATL_int_01	706.4439	I-	706.5121
+663	ATL_int_01	706.5121	(pause 0.09)	706.5973
+664	ATL_int_01	706.5973	I was definitely doing this beat shit before there was YouTube	709.5979
+665	ATL_int_01	709.5979	(pause 0.15)	709.7526
+666	ATL_int_01	709.7526	tutorial [videos /inaudible/, so.]	712.8358
+667	ATL_se0_ag1_m_02	710.9075	[Yeah, like] (breathy)	713.0059
+668	ATL_se0_ag1_m_02	713.6968	it came natural, you know what I'm saying, like this-	715.8984
+669	ATL_se0_ag1_m_02	715.8984	(pause 0.06)	715.9595
+670	ATL_se0_ag1_m_02	715.9595	it [wasn't]	716.5621
+671	ATL_int_01	716.4495	[Struggle.]	716.8020
+672	ATL_se0_ag1_m_02	717.0700	forced.	717.8658
+673	ATL_se0_ag1_m_02	717.8658	(pause 0.23)	718.0985
+674	ATL_se0_ag1_m_02	718.0985	Like it was a gift that was already given to me, and	721.1301
+675	ATL_se0_ag1_m_02	721.1301	(pause 0.44)	721.5677
+676	ATL_se0_ag1_m_02	721.5677	through me learning poetry, of course I'm gonna learn poetry in rhythm,	725.5157
+677	ATL_se0_ag1_m_02	725.5157	(pause 0.34)	725.8559
+678	ATL_se0_ag1_m_02	725.8559	rhythm in poetry.	726.9335
+679	ATL_int_01	728.5576	[You gotta really] be somebody to take it there cause some people scared to take it there with the poetry shit.	733.3821
+680	ATL_se0_ag1_m_02	728.6465	[Mm-hm.]	729.0474
+681	ATL_se0_ag1_m_02	734.0059	Yeah, bruh. I mean,	735.3155
+682	ATL_se0_ag1_m_02	735.3155	(pause 0.56)	735.8768
+683	ATL_se0_ag1_m_02	735.8768	that's	736.3150
+684	ATL_se0_ag1_m_02	736.3150	(pause 0.28)	736.5935
+685	ATL_se0_ag1_m_02	736.5935	where it all started.	737.5628
+686	ATL_int_01	737.9804	So what- what-	738.7383
+687	ATL_int_01	738.7383	(pause 0.59)	739.3247
+688	ATL_int_01	739.3247	what is it w- about poetry that some rhyme and some doesn't?	743.1709
+689	ATL_se0_ag1_m_02	744.4702	Some rhyme and some doesn't?	745.6701
+690	ATL_se0_ag1_m_02	745.6701	(pause 1.29)	746.9642
+691	ATL_se0_ag1_m_02	746.9642	[Cause you just say what-]	747.8820
+692	ATL_int_01	747.1327	[What's your preference?]	748.2429
+693	ATL_se0_ag1_m_02	748.2635	whatever comes. I mean,	749.5280
+694	ATL_se0_ag1_m_02	749.5280	(pause 0.22)	749.7465
+695	ATL_se0_ag1_m_02	749.7465	there is no preference	750.7280
+696	ATL_se0_ag1_m_02	750.7280	(pause 0.36)	751.0889
+697	ATL_se0_ag1_m_02	751.0889	because with poetry, it's so-	752.7065
+698	ATL_se0_ag1_m_02	752.7065	(pause 0.09)	752.8001
+699	ATL_se0_ag1_m_02	752.8001	it's infinite,	753.5365
+700	ATL_se0_ag1_m_02	753.5365	(pause 0.88)	754.4182
+701	ATL_se0_ag1_m_02	754.4182	you know what I'm saying, infinite possibilities on what type of poem you can make.	757.4329
+702	ATL_se0_ag1_m_02	757.4329	(pause 0.73)	758.1651
+703	ATL_se0_ag1_m_02	758.1651	So it's just like,	759.0312
+704	ATL_se0_ag1_m_02	759.0312	(pause 0.77)	759.8046
+705	ATL_se0_ag1_m_02	759.8046	you know, the poetry	760.7189
+706	ATL_se0_ag1_m_02	760.7189	(pause 0.29)	761.0056
+707	ATL_se0_ag1_m_02	761.0056	that rhymes,	761.8979
+708	ATL_se0_ag1_m_02	761.8979	(pause 0.59)	762.4856
+709	ATL_se0_ag1_m_02	762.4856	you know, some- some poetry is just literally you s- you talking	766.2686
+710	ATL_se0_ag1_m_02	766.2686	(pause 0.43)	766.7017
+711	ATL_se0_ag1_m_02	766.7017	through,	767.3359
+712	ATL_se0_ag1_m_02	767.3359	(pause 0.86)	768.1969
+713	ATL_se0_ag1_m_02	768.1969	you know, stream of consciousness.	769.9021
+714	ATL_se0_ag1_m_02	769.9021	(pause 1.06)	770.9642
+715	ATL_se0_ag1_m_02	770.9642	So you just saying things- you saying- you saying whatever-	774.3207
+716	ATL_se0_ag1_m_02	774.3207	(pause 0.60)	774.9219
+717	ATL_se0_ag1_m_02	774.9219	it- it may be- you may use poetic terms,	777.2794
+718	ATL_se0_ag1_m_02	777.2794	(pause 0.44)	777.7177
+719	ATL_se0_ag1_m_02	777.7177	you [know, things] like that to [make it sound] like a actual poem, but like	781.0786
+720	ATL_int_01	777.8671	[Mm-hm.]	778.2332
+721	ATL_int_01	778.2332	(pause 0.62)	778.8505
+722	ATL_int_01	778.8505	[Okay.]	779.2098
+723	ATL_se0_ag1_m_02	781.2937	it may not even rhyme.	782.5157
+724	ATL_se0_ag1_m_02	782.5157	(pause 0.80)	783.3195
+725	ATL_se0_ag1_m_02	783.3195	[You know, but then-]	784.4852
+726	ATL_int_01	783.4065	[Yeah, like I'm tryna-]	784.5677
+727	ATL_int_01	784.6454	like anything can be a poem if that's the case though, right?	787.5271
+728	ATL_int_01	787.5271	(pause 1.11)	788.6394
+729	ATL_int_01	788.6394	If it don't have to rhyme and	790.1655
+730	ATL_se0_ag1_m_02	790.7739	Well [you gotta think about],	792.2124
+731	ATL_int_01	791.0427	[don't have to-]	791.7201
+732	ATL_se0_ag1_m_02	792.7118	let's say	793.4285
+733	ATL_se0_ag1_m_02	793.4285	(pause 0.26)	793.6863
+734	ATL_se0_ag1_m_02	793.6863	for instance, a speech	795.0113
+735	ATL_se0_ag1_m_02	795.0113	(pause 1.26)	796.2679
+736	ATL_se0_ag1_m_02	796.2679	a speech has	797.3816
+737	ATL_se0_ag1_m_02	797.3816	(pause 0.97)	798.3561
+738	ATL_se0_ag1_m_02	798.3561	logos, pathos, and ethos.	800.1400
+739	ATL_int_01	800.5473	Okay.	801.0474
+740	ATL_int_01	801.0474	(pause 0.16)	801.2072
+741	ATL_int_01	801.2072	I don't know what that is,	802.1801
+742	ATL_int_01	802.1801	(pause 0.12)	802.3001
+743	ATL_int_01	802.3001	but I heard [that before.]	803.2579
+744	ATL_se0_ag1_m_02	802.7660	[Alright.]	803.2099
+745	ATL_se0_ag1_m_02	803.2991	So these are different terminologies in speech	805.5986
+746	ATL_se0_ag1_m_02	805.5986	(pause 0.34)	805.9389
+747	ATL_se0_ag1_m_02	805.9389	that people learn but it's also used in poetry as well.	808.7120
+748	ATL_se0_ag1_m_02	808.7120	(pause 0.34)	809.0523
+749	ATL_se0_ag1_m_02	809.0523	It's,	809.4803
+750	ATL_se0_ag1_m_02	809.4803	(pause 0.27)	809.7484
+751	ATL_se0_ag1_m_02	809.7484	you know, the logical, emotional,	811.6185
+752	ATL_se0_ag1_m_02	811.6185	(pause 0.52)	812.1341
+753	ATL_se0_ag1_m_02	812.1341	and the- shit I forgot the other one,	813.8046
+754	ATL_se0_ag1_m_02	813.8046	(pause 0.16)	813.9696
+755	ATL_se0_ag1_m_02	813.9696	<laugh>	814.3391
+756	ATL_se0_ag1_m_02	814.3391	(pause 0.27)	814.6075
+757	ATL_se0_ag1_m_02	814.6075	but, you know, around that- that concept.	816.6300
+758	ATL_se0_ag1_m_02	816.6300	(pause 1.58)	818.2070
+759	ATL_se0_ag1_m_02	818.2070	So it's just like, they use	820.0940
+760	ATL_se0_ag1_m_02	820.0940	(pause 0.42)	820.5103
+761	ATL_se0_ag1_m_02	820.5103	like,	820.9382
+762	ATL_se0_ag1_m_02	820.9382	(pause 2.51)	823.4439
+763	ATL_se0_ag1_m_02	823.4439	you know, I'm'a have to read something.	824.8979
+764	ATL_int_01	825.3877	Okay.	825.8247
+765	ATL_se0_ag1_m_02	825.8930	I got- I gotta read you something.	827.5775
+766	ATL_se0_ag1_m_02	827.5775	(pause 0.64)	828.2169
+767	ATL_se0_ag1_m_02	828.2169	I dismiss myself from nigga the king,	830.2895
+768	ATL_se0_ag1_m_02	830.2895	(pause 0.34)	830.6298
+769	ATL_se0_ag1_m_02	830.6298	so dismiss me as a nigga when I call you queen.	833.2424
+770	ATL_se0_ag1_m_02	833.2424	(pause 0.39)	833.6291
+771	ATL_se0_ag1_m_02	833.6291	Apple isn't far from the tree which means	836.0317
+772	ATL_se0_ag1_m_02	836.0317	(pause 0.40)	836.4287
+773	ATL_se0_ag1_m_02	836.4287	I'm a /world/ away from niggas falling towards me.	838.8255
+774	ATL_se0_ag1_m_02	838.8255	(pause 0.64)	839.4700
+775	ATL_se0_ag1_m_02	839.4700	Out in the sun we catch vitamin D.	841.4653
+776	ATL_se0_ag1_m_02	841.4653	(pause 0.31)	841.7784
+777	ATL_se0_ag1_m_02	841.7784	Offer you the finer things.	843.3715
+778	ATL_se0_ag1_m_02	843.3715	(pause 0.21)	843.5829
+779	ATL_se0_ag1_m_02	843.5829	Could you catch the experience if I offered it for free?	845.8309
+780	ATL_se0_ag1_m_02	845.8309	(pause 0.52)	846.3516
+781	ATL_se0_ag1_m_02	846.3516	Liberation at its best	847.6500
+782	ATL_se0_ag1_m_02	847.6500	(pause 0.28)	847.9331
+783	ATL_se0_ag1_m_02	847.9331	couldn't catch a thing.	848.8611
+784	ATL_se0_ag1_m_02	848.8611	(pause 0.55)	849.4128
+785	ATL_se0_ag1_m_02	849.4128	It was separating materials and physicalities	851.6504
+786	ATL_se0_ag1_m_02	851.6504	(pause 0.37)	852.0165
+787	ATL_se0_ag1_m_02	852.0165	just to see if your mentality on knowledge of diamonds	854.5724
+788	ATL_se0_ag1_m_02	854.5724	(pause 0.28)	854.8508
+789	ATL_se0_ag1_m_02	854.8508	that determines if it's Zeus or Poseidon.	856.7017
+790	ATL_se0_ag1_m_02	856.7017	(pause 0.21)	856.9131
+791	ATL_se0_ag1_m_02	856.9131	I show you ocean.	857.9701
+792	ATL_se0_ag1_m_02	857.9701	(pause 0.33)	858.3000
+793	ATL_se0_ag1_m_02	858.3000	Do you wanna fly like lightning, or is your mind set to coasting?	861.2684
+794	ATL_se0_ag1_m_02	861.2684	(pause 0.42)	861.6912
+795	ATL_se0_ag1_m_02	861.6912	All retrospective just to see who you are.	864.1402
+796	ATL_se0_ag1_m_02	864.1402	(pause 0.44)	864.5836
+797	ATL_se0_ag1_m_02	864.5836	I just gotta aks the questions to explore your spectrum.	867.3818
+798	ATL_se0_ag1_m_02	867.3818	(pause 0.70)	868.0779
+799	ATL_se0_ag1_m_02	868.0779	So from now on what we talk about ain't out the rectum.	870.8981
+800	ATL_se0_ag1_m_02	870.8981	(pause 0.55)	871.4432
+801	ATL_se0_ag1_m_02	871.4432	Rectifying,	872.3971
+802	ATL_se0_ag1_m_02	872.3971	(pause 0.71)	873.1034
+803	ATL_se0_ag1_m_02	873.1034	electrifying,	874.4078
+804	ATL_se0_ag1_m_02	874.4078	(pause 0.62)	875.0317
+805	ATL_se0_ag1_m_02	875.0317	conversation just to prove you're mine.	877.4962
+806	ATL_se0_ag1_m_02	877.4962	(pause 2.04)	879.5365
+807	ATL_se0_ag1_m_02	879.5365	You know what I'm saying,	880.3614
+808	ATL_se0_ag1_m_02	880.3614	(pause 0.72)	881.0781
+809	ATL_se0_ag1_m_02	881.0781	boom boom.	881.8773
+810	ATL_se0_ag1_m_02	881.8773	(pause 0.87)	882.7434
+811	ATL_se0_ag1_m_02	882.7434	<laugh>	883.2540
+812	ATL_int_01	883.2703	That was dope.	883.8616
+813	ATL_int_01	883.8616	(pause 0.54)	884.3978
+814	ATL_int_01	884.3978	That was dope to the max.	886.0579
+815	ATL_int_01	886.0579	(pause 1.14)	887.1960
+816	ATL_int_01	887.1960	Gonna be rich.	888.0416
+817	ATL_int_01	888.0416	(pause 0.19)	888.2323
+818	ATL_int_01	888.2323	[<laugh>]	889.4955
+819	ATL_se0_ag1_m_02	888.4282	[<laugh>]	889.4078
+820	ATL_int_01	890.9598	That was really cool.	892.0889
+821	ATL_int_01	892.0889	(pause 0.30)	892.3917
+822	ATL_int_01	892.3917	So how old are you?	893.4177
+823	ATL_se0_ag1_m_02	893.9745	I am twenty-three years old.	895.7584
+824	ATL_int_01	896.0833	Twenty-three.	896.8721
+825	ATL_int_01	896.8721	(pause 0.47)	897.3464
+826	ATL_int_01	897.3464	That's a good number	898.1250
+827	ATL_int_01	898.1250	(pause 0.64)	898.7687
+828	ATL_int_01	898.7687	<laugh>	899.3902
+829	ATL_int_01	899.3902	(pause 0.91)	900.2993
+830	ATL_int_01	900.2993	I think	900.7737
+831	ATL_int_01	900.7737	(pause 1.63)	902.4029
+832	ATL_int_01	902.4029	regardless.	903.2588
+833	ATL_int_01	903.2588	(pause 1.50)	904.7629
+834	ATL_int_01	904.7629	Twenty-three, man. What you- um,	906.8149
+835	ATL_int_01	906.8149	(pause 0.21)	907.0263
+836	ATL_int_01	907.0263	whatchu got planned	908.1606
+837	ATL_int_01	908.1606	(pause 0.98)	909.1402
+838	ATL_int_01	909.1402	five years from now?	910.3054
+839	ATL_se0_ag1_m_02	913.2171	Well,	913.5677
+840	ATL_se0_ag1_m_02	913.5677	(pause 0.15)	913.7224
+841	ATL_se0_ag1_m_02	913.7224	five years?	914.4648
+842	ATL_se0_ag1_m_02	914.4648	(pause 0.44)	914.9030
+843	ATL_se0_ag1_m_02	914.9030	Well,	915.2882
+844	ATL_se0_ag1_m_02	915.2882	(pause 0.09)	915.3765
+845	ATL_se0_ag1_m_02	915.3765	<exhale>	916.0786
+846	ATL_int_01	916.5361	Whatchu [see for yourself?]	917.9075
+847	ATL_se0_ag1_m_02	917.1032	[in f-]	917.4125
+848	ATL_se0_ag1_m_02	917.4125	(pause 0.29)	917.7064
+849	ATL_se0_ag1_m_02	917.7064	[in five] years, it's a- it's almost like,	919.9698
+850	ATL_se0_ag1_m_02	921.3825	you know, tomorrow's not promised. Of course I have	923.8405
+851	ATL_se0_ag1_m_02	923.8405	(pause 0.51)	924.3457
+852	ATL_se0_ag1_m_02	924.3457	my plans in my head of [how things] are supposed to go or what I would like,	928.9640
+853	ATL_int_01	926.7112	[Mm.]	927.0525
+854	ATL_int_01	929.1548	Mm-hm.	929.5569
+855	ATL_se0_ag1_m_02	929.8302	you know,	930.2551
+856	ATL_se0_ag1_m_02	930.2551	(pause 0.09)	930.3476
+857	ATL_se0_ag1_m_02	930.3476	but	930.6757
+858	ATL_se0_ag1_m_02	930.6757	(pause 1.05)	931.7224
+859	ATL_se0_ag1_m_02	931.7224	I'm- at this point in time,	933.6403
+860	ATL_se0_ag1_m_02	933.6403	(pause 0.70)	934.3415
+861	ATL_se0_ag1_m_02	934.3415	I'm just kind of letting things evolve as-	936.6076
+862	ATL_se0_ag1_m_02	936.6076	(pause 0.13)	936.7370
+863	ATL_se0_ag1_m_02	936.7370	as	937.1707
+864	ATL_se0_ag1_m_02	937.1707	(pause 0.21)	937.3769
+865	ATL_se0_ag1_m_02	937.3769	I'm going	938.2225
+866	ATL_se0_ag1_m_02	938.2225	(pause 0.36)	938.5834
+867	ATL_se0_ag1_m_02	938.5834	because my biggest	939.5527
+868	ATL_se0_ag1_m_02	939.5527	(pause 0.23)	939.7873
+869	ATL_se0_ag1_m_02	939.7873	focus now is to keep	941.2269
+870	ATL_se0_ag1_m_02	941.2269	(pause 0.14)	941.3713
+871	ATL_se0_ag1_m_02	941.3713	moving,	941.9900
+872	ATL_se0_ag1_m_02	941.9900	(pause 0.54)	942.5262
+873	ATL_se0_ag1_m_02	942.5262	to keep	942.9541
+874	ATL_se0_ag1_m_02	942.9541	(pause 0.10)	943.0573
+875	ATL_se0_ag1_m_02	943.0573	m-	943.2068
+876	ATL_se0_ag1_m_02	943.2068	(pause 0.80)	944.0111
+877	ATL_se0_ag1_m_02	944.0111	consisting, you know what I'm saying.	945.6094
+878	ATL_se0_ag1_m_02	945.6094	(pause 0.45)	946.0617
+879	ATL_se0_ag1_m_02	946.0617	Being persistent in what I'm	947.5311
+880	ATL_se0_ag1_m_02	947.5311	(pause 0.81)	948.3406
+881	ATL_se0_ag1_m_02	948.3406	looking to do for the rest of my life.	950.2534
+882	ATL_se0_ag1_m_02	950.2534	(pause 0.19)	950.4442
+883	ATL_se0_ag1_m_02	950.4442	Like,	950.7329
+884	ATL_se0_ag1_m_02	950.7329	(pause 0.51)	951.2382
+885	ATL_se0_ag1_m_02	951.2382	you know, this is- like I explained earlier,	953.4486
+886	ATL_se0_ag1_m_02	953.4486	(pause 0.55)	953.9952
+887	ATL_se0_ag1_m_02	953.9952	you know, this is a-	955.3099
+888	ATL_se0_ag1_m_02	955.3099	(pause 1.01)	956.3153
+889	ATL_se0_ag1_m_02	956.3153	a-	956.8205
+890	ATL_se0_ag1_m_02	956.8205	(pause 1.73)	958.5515
+891	ATL_se0_ag1_m_02	958.5515	going towards legacy,	959.8405
+892	ATL_se0_ag1_m_02	959.8405	(pause 0.27)	960.1137
+893	ATL_se0_ag1_m_02	960.1137	classic,	960.6499
+894	ATL_se0_ag1_m_02	960.6499	(pause 2.26)	962.9082
+895	ATL_se0_ag1_m_02	962.9082	things of that nature,	964.0012
+896	ATL_se0_ag1_m_02	964.0012	(pause 1.19)	965.1908
+897	ATL_se0_ag1_m_02	965.1908	longevity.	966.1344
+898	ATL_int_01	967.0989	[Okay.]	967.4790
+899	ATL_se0_ag1_m_02	967.4439	[You] know, why would I- why would I aim for-	969.6197
+900	ATL_se0_ag1_m_02	970.3511	aim-	970.7997
+901	ATL_se0_ag1_m_02	970.7997	(pause 0.26)	971.0626
+902	ATL_se0_ag1_m_02	971.0626	aim short?	971.6865
+903	ATL_se0_ag1_m_02	971.6865	(pause 0.65)	972.3413
+904	ATL_se0_ag1_m_02	972.3413	For what?	972.7950
+905	ATL_int_01	974.0980	Okay.	974.7013
+906	ATL_se0_ag1_m_02	974.8817	You know, if you gonna do something that's,	976.5728
+907	ATL_se0_ag1_m_02	976.5728	(pause 0.54)	977.1142
+908	ATL_se0_ag1_m_02	977.1142	you know, outside of going to college and, you know, going to	981.6190
+909	ATL_se0_ag1_m_02	981.6190	(pause 0.35)	981.9696
+910	ATL_se0_ag1_m_02	981.9696	outside the norm,	983.1039
+911	ATL_se0_ag1_m_02	983.1039	(pause 0.56)	983.6659
+912	ATL_se0_ag1_m_02	983.6659	m- well might as well be great at it.	985.2023
+913	ATL_int_01	985.4639	You might m-	986.0207
+914	ATL_int_01	986.0207	(pause 0.14)	986.1651
+915	ATL_int_01	986.1651	make it worth it.	986.9127
+916	ATL_se0_ag1_m_02	986.9436	Make it worth it,	988.0187
+917	ATL_se0_ag1_m_02	988.0187	(pause 0.09)	988.1133
+918	ATL_se0_ag1_m_02	988.1133	totally worth it.	989.0046
+919	ATL_int_01	989.0089	Definitely.	989.6607
+920	ATL_se0_ag1_m_02	990.5372	I mean, come on, we live in a whole different generation now, like	993.6860
+921	ATL_se0_ag1_m_02	993.6860	(pause 0.31)	994.0005
+922	ATL_se0_ag1_m_02	994.0005	you see what type of money out here.	995.5834
+923	ATL_int_01	996.3104	Real [money.]	996.8826
+924	ATL_se0_ag1_m_02	996.7641	[Like]	997.1817
+925	ATL_se0_ag1_m_02	997.4240	when you get to a point to where	999.2743
+926	ATL_se0_ag1_m_02	999.2743	(pause 0.57)	999.8466
+927	ATL_se0_ag1_m_02	999.8466	you have the advantage, and you can just take advantage whenever you want	1002.7417
+928	ATL_se0_ag1_m_02	1002.7417	(pause 0.11)	1002.8522
+929	ATL_se0_ag1_m_02	1002.8522	at will,	1003.3614
+930	ATL_se0_ag1_m_02	1003.3614	(pause 0.70)	1004.0626
+931	ATL_se0_ag1_m_02	1004.0626	you can make	1004.6917
+932	ATL_se0_ag1_m_02	1004.6917	(pause 0.30)	1004.9958
+933	ATL_se0_ag1_m_02	1004.9958	the- the moves you-	1006.0115
+934	ATL_se0_ag1_m_02	1006.0115	(pause 0.32)	1006.3357
+935	ATL_se0_ag1_m_02	1006.3357	you need to make.	1007.1761
+936	ATL_int_01	1007.6349	I got the moves.	1008.8329
+937	ATL_se0_ag1_m_02	1008.8555	There's money out here n- like sitting.	1010.7214
+938	ATL_se0_ag1_m_02	1010.7214	(pause 0.15)	1010.8748
+939	ATL_se0_ag1_m_02	1010.8748	You know what I'm saying, like-	1011.7685
+940	ATL_se0_ag1_m_02	1011.7685	(pause 0.62)	1012.3872
+941	ATL_se0_ag1_m_02	1012.3872	so it's just like,	1013.1503
+942	ATL_se0_ag1_m_02	1013.1503	(pause 2.10)	1015.2487
+943	ATL_se0_ag1_m_02	1015.2487	let's get it	1015.8042
+944	ATL_se0_ag1_m_02	1015.8042	(pause 0.30)	1016.1083
+945	ATL_se0_ag1_m_02	1016.1083	I'm o- n- [like], my focus is on the now really.	1019.8721
+946	ATL_int_01	1016.7064	[<laugh> Let's get it.]	1017.8121
+947	ATL_int_01	1019.9288	Ay, even though we don't-	1021.2281
+948	ATL_int_01	1021.2281	(pause 0.50)	1021.7268
+949	ATL_int_01	1021.7268	we don't really need nobody else but god,	1024.4491
+950	ATL_int_01	1024.4491	(pause 0.79)	1025.2431
+951	ATL_int_01	1025.2431	I still think we need to rock with, um,	1027.7268
+952	ATL_int_01	1027.7268	(pause 0.49)	1028.2218
+953	ATL_int_01	1028.2218	that, um, Mr. Hudson cat,	1029.7587
+954	ATL_int_01	1029.7587	(pause 0.16)	1029.9186
+955	ATL_int_01	1029.9186	the chess player	1030.8513
+956	ATL_int_01	1030.8513	(pause 0.84)	1031.6865
+957	ATL_int_01	1031.6865	cause he might	1032.7383
+958	ATL_int_01	1032.7383	(pause 0.32)	1033.0631
+959	ATL_int_01	1033.0631	could really get our-	1034.1679
+960	ATL_int_01	1034.1679	(pause 0.09)	1034.2612
+961	ATL_int_01	1034.2612	our minds sharp enough to like we can use the resources we got to really,	1038.9084
+962	ATL_int_01	1038.9084	(pause 0.99)	1039.9021
+963	ATL_int_01	1039.9021	you know, do some damage and turn up.	1041.7737
+964	ATL_se0_ag1_m_02	1044.7383	Okay.	1045.2126
+965	ATL_se0_ag1_m_02	1045.2126	(pause 1.15)	1046.3610
+966	ATL_se0_ag1_m_02	1046.3610	Why not?	1046.9047
+967	ATL_se0_ag1_m_02	1046.9047	(pause 0.13)	1047.0364
+968	ATL_se0_ag1_m_02	1047.0364	I mean, you know,	1048.0933
+969	ATL_se0_ag1_m_02	1048.0933	(pause 0.47)	1048.5677
+970	ATL_se0_ag1_m_02	1048.5677	just off of what you said, I trust it. I mean,	1050.9961
+971	ATL_se0_ag1_m_02	1050.9961	(pause 0.90)	1051.8970
+972	ATL_se0_ag1_m_02	1051.8970	w-	1052.2888
+973	ATL_se0_ag1_m_02	1052.2888	(pause 0.47)	1052.7631
+974	ATL_se0_ag1_m_02	1052.7631	is-	1053.3922
+975	ATL_int_01	1053.6242	I mean, just [something] to	1054.8306
+976	ATL_se0_ag1_m_02	1054.1191	[you know.]	1054.5058
+977	ATL_se0_ag1_m_02	1055.2078	[You gotta- you gotta-]	1056.0113
+978	ATL_int_01	1055.2317	[/try/ /?/.]	1055.8669
+979	ATL_se0_ag1_m_02	1056.1969	gotta be around 'em, gotta find out.	1058.2285
+980	ATL_se0_ag1_m_02	1058.2285	(pause 0.12)	1058.3520
+981	ATL_se0_ag1_m_02	1058.3520	I mean, you know,	1059.0519
+982	ATL_se0_ag1_m_02	1059.0519	(pause 1.67)	1060.7184
+983	ATL_se0_ag1_m_02	1060.7184	definitely it sounds like a worthwhile- I mean, [t-]	1062.9921
+984	ATL_int_01	1062.8728	[I] mean, it sure seem like [/??/]	1064.6774
+985	ATL_se0_ag1_m_02	1064.1154	[iron sharpen] iron. That dude sound like some steel to me, man. I'm- [<laugh>]	1067.6586
+986	ATL_int_01	1067.5220	[Yeah.]	1068.1277
+987	ATL_se0_ag1_m_02	1068.1467	<laugh>]	1068.9038
+988	ATL_int_01	1068.3300	[/?/]	1068.6681
+989	ATL_int_01	1069.0430	And, um, he definitely agree that it would-	1071.2902
+990	ATL_int_01	1071.2902	(pause 0.33)	1071.6160
+991	ATL_int_01	1071.6160	that's definitely one of the ways to get better, just being around people who better and stuff.	1075.8157
+992	ATL_int_01	1075.8157	(pause 1.75)	1077.5686
+993	ATL_int_01	1077.5686	That's one person I can	1079.1927
+994	ATL_int_01	1079.1927	(pause 0.60)	1079.7960
+995	ATL_int_01	1079.7960	safely say is a l-	1080.9598
+996	ATL_int_01	1080.9598	(pause 0.47)	1081.4290
+997	ATL_int_01	1081.4290	bit better than me.	1082.3003
+998	ATL_int_01	1082.3003	(pause 0.49)	1082.7953
+999	ATL_int_01	1082.7953	So	1083.2026
+1000	ATL_int_01	1083.2026	(pause 0.75)	1083.9502
+1001	ATL_int_01	1083.9502	I'm not even good like that.	1085.2855
+1002	ATL_int_01	1085.2855	(pause 0.44)	1085.7238
+1003	ATL_int_01	1085.7238	But, um,	1086.1723
+1004	ATL_int_01	1086.1723	(pause 1.41)	1087.5836
+1005	ATL_int_01	1087.5836	let's see,	1088.1972
+1006	ATL_int_01	1088.1972	(pause 1.03)	1089.2284
+1007	ATL_int_01	1089.2284	what, um,	1089.9089
+1008	ATL_int_01	1089.9089	(pause 0.55)	1090.4606
+1009	ATL_int_01	1090.4606	you prefer to do	1091.6464
+1010	ATL_int_01	1091.6464	(pause 0.32)	1091.9661
+1011	ATL_int_01	1091.9661	/when it's just/	1092.7704
+1012	ATL_int_01	1092.7704	(pause 0.43)	1093.1970
+1013	ATL_int_01	1093.1970	for fun	1093.8105
+1014	ATL_int_01	1093.8105	(pause 0.88)	1094.6921
+1015	ATL_int_01	1094.6921	just when you're not doing poetry and	1096.4658
+1016	ATL_se0_ag1_m_02	1096.7287	[<laugh>]	1097.1618
+1017	ATL_int_01	1097.0845	[your] artis- stry and	1098.8890
+1018	ATL_se0_ag1_m_02	1099.0165	Listening to music. (laughing)	1100.7901
+1019	ATL_int_01	1101.1716	Listening to music.	1102.2492
+1020	ATL_se0_ag1_m_02	1102.3523	[Yeah, like]	1103.6103
+1021	ATL_int_01	1102.5637	[You can't get away from] music, huh?	1104.5436
+1022	ATL_se0_ag1_m_02	1104.5989	I- it's not that I can't get away from music cause I watch anime.	1107.9450
+1023	ATL_int_01	1108.4709	Okay.	1108.9298
+1024	ATL_se0_ag1_m_02	1109.2494	You know what I'm saying, that's- that's a [whole] [nother-]	1111.3516
+1025	ATL_int_01	1110.6759	[I-]	1110.8454
+1026	ATL_int_01	1110.8454	(pause 0.18)	1111.0303
+1027	ATL_int_01	1111.0303	[I mean], but anime got some of the [dopest music in that.]	1113.9295
+1028	ATL_se0_ag1_m_02	1112.7385	[That's what I do- yeah], that's what I do outside of-	1115.5433
+1029	ATL_se0_ag1_m_02	1115.8998	I watch anime.	1116.8013
+1030	ATL_int_01	1116.9598	[Okay.]	1117.4290
+1031	ATL_se0_ag1_m_02	1117.2434	[But] [I- I mean],	1118.3106
+1032	ATL_int_01	1117.6661	[Anime, that's] cool.	1118.5993
+1033	ATL_se0_ag1_m_02	1119.5171	I watch anime. I watch shows that- that are interesting on Netflix.	1122.9612
+1034	ATL_se0_ag1_m_02	1122.9612	(pause 0.64)	1123.6050
+1035	ATL_se0_ag1_m_02	1123.6050	Um,	1124.1309
+1036	ATL_se0_ag1_m_02	1124.1309	(pause 0.37)	1124.5021
+1037	ATL_se0_ag1_m_02	1124.5021	[<ts>]	1124.7856
+1038	ATL_int_01	1124.6000	[You heard] of American Gods?	1126.0591
+1039	ATL_se0_ag1_m_02	1126.7538	Mm, no.	1127.5904
+1040	ATL_int_01	1127.9293	No? Okay.	1128.9295
+1041	ATL_int_01	1128.9295	(pause 0.40)	1129.3265
+1042	ATL_int_01	1129.3265	It's pretty insane,	1130.3268
+1043	ATL_se0_ag1_m_02	1130.6619	But, [um],	1131.5229
+1044	ATL_int_01	1131.4043	[what] I've seen.	1132.0076
+1045	ATL_se0_ag1_m_02	1132.4702	Okay.	1132.9033
+1046	ATL_se0_ag1_m_02	1132.9033	(pause 0.26)	1133.1599
+1047	ATL_se0_ag1_m_02	1133.1599	Might have to check it out.	1133.9654
+1048	ATL_int_01	1134.0479	Mm-hm.	1134.5532
+1049	ATL_se0_ag1_m_02	1134.8986	But I don't be like-	1135.8524
+1050	ATL_int_01	1136.0838	What else?	1136.6509
+1051	ATL_se0_ag1_m_02	1137.4397	yeah,	1137.9399
+1052	ATL_se0_ag1_m_02	1137.9399	(pause 0.77)	1138.7132
+1053	ATL_se0_ag1_m_02	1138.7132	um,	1139.2649
+1054	ATL_se0_ag1_m_02	1139.2649	(pause 0.79)	1140.0537
+1055	ATL_se0_ag1_m_02	1140.0537	my m- like	1140.7137
+1056	ATL_se0_ag1_m_02	1140.7137	(pause 0.52)	1141.2382
+1057	ATL_se0_ag1_m_02	1141.2382	I listen to music. I'm a l- music listener as well, you [know.]	1143.9811
+1058	ATL_int_01	1143.8058	[Okay], you listen to music.	1145.0484
+1059	ATL_se0_ag1_m_02	1145.0845	Like, it's- it's just like	1146.3940
+1060	ATL_int_01	1146.4803	You're a fan of [music.]	1147.5733
+1061	ATL_se0_ag1_m_02	1147.3259	[I'm a fan] of [music, you know what I'm] saying, that-	1149.2335
+1062	ATL_int_01	1148.2127	[That's great.]	1148.8791
+1063	ATL_se0_ag1_m_02	1149.4913	that's what- that's what-	1150.5843
+1064	ATL_se0_ag1_m_02	1150.5843	(pause 0.33)	1150.9143
+1065	ATL_se0_ag1_m_02	1150.9143	that's what it all started from. I was a fan of music	1152.9663
+1066	ATL_int_01	1153.2176	you [came in here playing] [a bunch of other] people's stuff other than your own stuff.	1157.5536
+1067	ATL_se0_ag1_m_02	1153.3826	[way back in]	1154.5621
+1068	ATL_se0_ag1_m_02	1154.5621	(pause 0.08)	1154.6413
+1069	ATL_se0_ag1_m_02	1154.6413	[elementary.]	1155.6614
+1070	ATL_se0_ag1_m_02	1158.0331	[Yeah.]	1158.4720
+1071	ATL_int_01	1158.2864	[Uzi], Future,	1159.9285
+1072	ATL_se0_ag1_m_02	1160.5220	[Yeah],	1161.0110
+1073	ATL_int_01	1160.6921	[fan] of [music.]	1161.5377
+1074	ATL_se0_ag1_m_02	1161.2444	[I'm-]	1161.6924
+1075	ATL_se0_ag1_m_02	1162.1048	I'm a fan of music,	1163.1154
+1076	ATL_int_01	1163.3216	Yachty.	1163.9403
+1077	ATL_se0_ag1_m_02	1164.0555	you know.	1164.5765
+1078	ATL_se0_ag1_m_02	1164.5765	(pause 0.14)	1164.7195
+1079	ATL_se0_ag1_m_02	1164.7195	I love good music.	1165.7906
+1080	ATL_se0_ag1_m_02	1165.7906	(pause 0.23)	1166.0174
+1081	ATL_se0_ag1_m_02	1166.0174	I mean, I love to make good music, but I love good music.	1168.5115
+1082	ATL_se0_ag1_m_02	1168.5115	(pause 0.37)	1168.8827
+1083	ATL_se0_ag1_m_02	1168.8827	I mean, [if it's good music-]	1170.1509
+1084	ATL_int_01	1169.3364	[Rock with the cool stuff.]	1170.4861
+1085	ATL_se0_ag1_m_02	1170.3467	[if it-] you know what I'm saying, got a good rhythm, if I can feel it,	1172.9042
+1086	ATL_se0_ag1_m_02	1173.3683	I mean, and the thing is, who	1175.0270
+1087	ATL_se0_ag1_m_02	1175.0270	(pause 0.20)	1175.2281
+1088	ATL_se0_ag1_m_02	1175.2281	are you to tell me what	1176.4243
+1089	ATL_se0_ag1_m_02	1176.4243	(pause 0.42)	1176.8471
+1090	ATL_se0_ag1_m_02	1176.8471	feels good to me.	1177.7184
+1091	ATL_int_01	1178.5095	Alright, now I'm'a let you hear [that one] beat cause	1181.1044
+1092	ATL_se0_ag1_m_02	1179.9045	[<laugh>]	1180.2021
+1093	ATL_int_01	1181.4962	/RD-NAME-2/ said that beat was wack. He wasn't fucking with it at all.	1184.5743
+1094	ATL_se0_ag1_m_02	1184.7334	[Okay.]	1185.1613
+1095	ATL_int_01	1184.9138	[But I'm-] I'm'a let you hear it. You can let me know what you think [honestly] and shit like that. I-	1189.4290
+1096	ATL_se0_ag1_m_02	1187.8991	[Okay.]	1188.3219
+1097	ATL_int_01	1189.5372	I wasn't, um,	1190.3292
+1098	ATL_int_01	1190.3292	(pause 0.09)	1190.4150
+1099	ATL_int_01	1190.4150	upset either way.	1191.5686
+1100	ATL_int_01	1191.5686	(pause 0.59)	1192.1564
+1101	ATL_int_01	1192.1564	It's a	1192.4761
+1102	ATL_int_01	1192.4761	(pause 0.51)	1192.9865
+1103	ATL_int_01	1192.9865	lot of beats for everybody and [shit.]	1194.8206
+1104	ATL_se0_ag1_m_02	1194.6518	[Absolutely.]	1195.4496
+1105	ATL_int_01	1196.0477	But, um,	1196.6612
+1106	ATL_int_01	1196.6612	(pause 0.24)	1196.8984
+1107	ATL_int_01	1196.8984	let's [see],	1197.5068
+1108	ATL_se0_ag1_m_02	1197.2541	[You know] how that go.	1198.0739
+1109	ATL_int_01	1200.1569	can you hoop?	1200.7807
+1110	ATL_int_01	1200.7807	(pause 1.16)	1201.9394
+1111	ATL_int_01	1201.9394	You pretty tall. How tall are you?	1203.3418
+1112	ATL_se0_ag1_m_02	1203.6563	I'm about six four.	1206.4198
+1113	ATL_se0_ag1_m_02	1206.4198	(pause 1.10)	1207.5166
+1114	ATL_se0_ag1_m_02	1207.5166	Nah- I had- I had my time hooping,	1210.0327
+1115	ATL_se0_ag1_m_02	1210.0327	(pause 0.36)	1210.3936
+1116	ATL_se0_ag1_m_02	1210.3936	but	1210.6283
+1117	ATL_se0_ag1_m_02	1210.6283	(pause 0.14)	1210.7680
+1118	ATL_se0_ag1_m_02	1210.7680	I'm the football player	1211.9197
+1119	ATL_int_01	1212.1569	Okay.	1212.6077
+1120	ATL_se0_ag1_m_02	1212.6260	that	1212.9472
+1121	ATL_se0_ag1_m_02	1212.9472	(pause 0.21)	1213.1609
+1122	ATL_se0_ag1_m_02	1213.1609	hooped.	1213.6249
+1123	ATL_int_01	1214.2591	[Okay.]	1214.8417
+1124	ATL_se0_ag1_m_02	1214.3471	[And I was]	1215.1136
+1125	ATL_se0_ag1_m_02	1215.2768	physical.	1215.8522
+1126	ATL_int_01	1216.2647	Oh, okay. [How- um,]	1217.8166
+1127	ATL_se0_ag1_m_02	1217.1205	[I was real physical.] I- I- honestly I was more like, I'm getting fouled out,	1221.3830
+1128	ATL_se0_ag1_m_02	1221.6202	cause I'm so [physical],	1222.6162
+1129	ATL_int_01	1222.4554	[That's] [cool too though.]	1223.6722
+1130	ATL_se0_ag1_m_02	1222.9747	[and I think everybody] else need to get they weight up.	1225.2382
+1131	ATL_int_01	1225.6146	Okay.	1226.1409
+1132	ATL_se0_ag1_m_02	1226.1619	And it's not like I'm thinking that cause I saw a video /where it was/ this dude talking about- I forgot his name.	1230.4920
+1133	ATL_int_01	1230.5487	[<laugh>]	1232.0986
+1134	ATL_se0_ag1_m_02	1230.9592	[But, uh, yeah-] but, uh, yeah, it was just like, I was- I felt so guilty, cause I was like, oh my god,	1235.6413
+1135	ATL_se0_ag1_m_02	1235.8522	[that's-]	1236.1241
+1136	ATL_int_01	1235.8668	[<laugh>]	1236.3837
+1137	ATL_se0_ag1_m_02	1236.1972	[that's] me.	1236.7292
+1138	ATL_int_01	1237.5991	[/unintelligible/]	1240.0120
+1139	ATL_se0_ag1_m_02	1237.9806	[I like- I didn't- you know, they used to call me Shaq.]	1240.4193
+1140	ATL_int_01	1240.7029	[Yeah.]	1241.3835
+1141	ATL_se0_ag1_m_02	1241.1309	[They used to] call me Shaq. [Like I-]	1242.5564
+1142	ATL_int_01	1242.0744	[Shaq.] (laughing)	1242.8670
+1143	ATL_se0_ag1_m_02	1242.9125	cause I spe- I had- you know, I spent my time playing basketball cause I was like, shoot,	1247.0020
+1144	ATL_int_01	1247.1071	Yeah.	1247.4894
+1145	ATL_se0_ag1_m_02	1247.5018	you know, back in high school, like I was tryna-	1249.7899
+1146	ATL_se0_ag1_m_02	1249.7899	(pause 1.19)	1250.9757
+1147	ATL_se0_ag1_m_02	1250.9757	you know, I was doing football.	1252.3575
+1148	ATL_int_01	1252.5701	[Mm.]	1252.9911
+1149	ATL_se0_ag1_m_02	1252.6588	[But it was] like, they wouldn't let me play basketball.	1255.2949
+1150	ATL_int_01	1255.4474	[Yeah.]	1255.8639
+1151	ATL_se0_ag1_m_02	1255.8017	[Like], it was just like, come on, man. Like I'm- I'm telling the coach like, come on, if you just train me how to-	1260.7962
+1152	ATL_se0_ag1_m_02	1261.0629	like, here I [am.]	1262.2797
+1153	ATL_int_01	1261.9497	[You said], if you just [train me.] (laughing)	1263.5635
+1154	ATL_se0_ag1_m_02	1263.1149	[If you ju-]	1263.6545
+1155	ATL_se0_ag1_m_02	1263.7373	here I am. I'm like six two. I'm like six one- six two in ninth grade,	1267.7125
+1156	ATL_int_01	1267.7383	Mm-hm.	1268.1250
+1157	ATL_se0_ag1_m_02	1268.1611	you know what I'm saying. And it's just like,	1269.5944
+1158	ATL_se0_ag1_m_02	1269.5944	(pause 0.39)	1269.9863
+1159	ATL_se0_ag1_m_02	1269.9863	here I am	1270.9143
+1160	ATL_se0_ag1_m_02	1270.9143	(pause 0.70)	1271.6155
+1161	ATL_se0_ag1_m_02	1271.6155	ready to learn a sport,	1273.1918
+1162	ATL_se0_ag1_m_02	1273.1918	(pause 0.15)	1273.3465
+1163	ATL_se0_ag1_m_02	1273.3465	you know what I'm saying. Like	1274.4240
+1164	ATL_se0_ag1_m_02	1274.4240	(pause 0.22)	1274.6406
+1165	ATL_se0_ag1_m_02	1274.6406	I'm like, hey,	1275.6305
+1166	ATL_se0_ag1_m_02	1275.6305	(pause 0.53)	1276.1564
+1167	ATL_se0_ag1_m_02	1276.1564	but [they ain't wanna take] that time	1277.8578
+1168	ATL_int_01	1276.3366	[/inaudible/]	1277.1652
+1169	ATL_int_01	1277.8883	They [dropped the ball.]	1278.8103
+1170	ATL_se0_ag1_m_02	1278.0692	[and that says a lot] about they coaching.	1279.6661
+1171	ATL_se0_ag1_m_02	1279.8981	And, you know, it is what it is, cause I don't really give a fuck. I ain't in school no more. What they [gonna do, write me] up?	1284.7498
+1172	ATL_int_01	1283.8114	[<laugh>]	1284.3579
+1173	ATL_int_01	1285.3175	[Yeah, definitely.]	1286.2333
+1174	ATL_se0_ag1_m_02	1285.4983	[Like, you know what I'm] saying.	1286.6485
+1175	ATL_int_01	1286.6952	[Definitely.]	1287.2902
+1176	ATL_se0_ag1_m_02	1287.0863	[It is] what it is. It's just like, you know,	1289.0332
+1177	ATL_se0_ag1_m_02	1289.1095	fuck you. Fuck you too. You ain't wanna take time, you [know, to teach me],	1292.4137
+1178	ATL_int_01	1291.7950	[<laugh>]	1292.3158
+1179	ATL_se0_ag1_m_02	1292.7385	fuck you. Like, you know what I'm saying, so it was like, with b- with-	1295.1154
+1180	ATL_se0_ag1_m_02	1295.1154	(pause 0.26)	1295.3732
+1181	ATL_se0_ag1_m_02	1295.3732	with school basketball, they never,	1297.2485
+1182	ATL_se0_ag1_m_02	1297.2485	(pause 0.41)	1297.6610
+1183	ATL_se0_ag1_m_02	1297.6610	you know,	1298.3020
+1184	ATL_se0_ag1_m_02	1298.3020	(pause 0.13)	1298.4366
+1185	ATL_se0_ag1_m_02	1298.4366	p- put me on the team.	1299.7903
+1186	ATL_se0_ag1_m_02	1299.7903	(pause 0.19)	1299.9811
+1187	ATL_se0_ag1_m_02	1299.9811	I never [made] the team.	1301.1154
+1188	ATL_int_01	1300.2640	[Yup.]	1300.5892
+1189	ATL_se0_ag1_m_02	1301.4557	/RD-NAME-2/ didn't make the cut.	1302.6312
+1190	ATL_se0_ag1_m_02	1302.6312	(pause 0.52)	1303.1529
+1191	ATL_se0_ag1_m_02	1303.1529	[<laugh>]	1303.4662
+1192	ATL_int_01	1303.4055	[Oh] my [god.]	1304.0810
+1193	ATL_se0_ag1_m_02	1303.8370	[And it] is what it is,	1305.1431
+1194	ATL_int_01	1305.1576	[Yeah.]	1305.5699
+1195	ATL_se0_ag1_m_02	1305.5401	[but]	1305.9422
+1196	ATL_se0_ag1_m_02	1306.1072	football was [my thing.]	1307.3549
+1197	ATL_int_01	1306.9702	[Was-]	1307.2456
+1198	ATL_int_01	1307.3982	did somebody dunk? Did you go to tryouts?	1309.6685
+1199	ATL_se0_ag1_m_02	1310.3181	I went to tryouts, but [I wasn't a basketball] player,	1313.4255
+1200	ATL_int_01	1311.6071	[/Were niggas em-/]	1312.3031
+1201	ATL_int_01	1312.3031	(pause 1.09)	1313.3894
+1202	ATL_int_01	1313.3894	were the [folks embarrassing] [you?]	1314.8178
+1203	ATL_se0_ag1_m_02	1313.6230	[like I don't-]	1314.1527
+1204	ATL_se0_ag1_m_02	1314.1527	(pause 0.48)	1314.6322
+1205	ATL_se0_ag1_m_02	1314.6322	[the thing] is-	1315.4863
+1206	ATL_se0_ag1_m_02	1315.6685	not- not folks embarrassing me, [no no no.]	1317.9319
+1207	ATL_int_01	1317.2919	[Okay.]	1317.7850
+1208	ATL_se0_ag1_m_02	1318.2052	It's more like	1318.9837
+1209	ATL_se0_ag1_m_02	1318.9837	(pause 0.48)	1319.4683
+1210	ATL_se0_ag1_m_02	1319.4683	out of ignorance	1320.6064
+1211	ATL_se0_ag1_m_02	1320.6064	(pause 0.12)	1320.7250
+1212	ATL_se0_ag1_m_02	1320.7250	like	1320.9573
+1213	ATL_se0_ag1_m_02	1320.9573	(pause 0.12)	1321.0775
+1214	ATL_se0_ag1_m_02	1321.0775	of the game.	1322.1119
+1215	ATL_int_01	1322.9575	Oh yeah, they dropped the ball. You coulda-	1324.9528
+1216	ATL_int_01	1324.9528	(pause 0.74)	1325.6952
+1217	ATL_int_01	1325.6952	any person that-	1326.6064
+1218	ATL_int_01	1326.6064	(pause 0.14)	1326.7508
+1219	ATL_int_01	1326.7508	is- actually come to- you got people that's good b- that don't come to the coach like, [hey, just teach me]	1331.8866
+1220	ATL_se0_ag1_m_02	1330.9373	[But I'm telling him like], [ay],	1332.5605
+1221	ATL_int_01	1332.4202	[whatever.]	1333.1368
+1222	ATL_se0_ag1_m_02	1332.9667	[like] I [ain't- I don't know nothing],	1334.9110
+1223	ATL_int_01	1333.5029	[And at your size too.]	1335.0193
+1224	ATL_se0_ag1_m_02	1335.4627	you know what I'm saying, I don't know nothing, and I'm six- I'm like six one, six [two.]	1338.7508
+1225	ATL_int_01	1338.5394	[Well] [fuck your mentality.]	1340.3955
+1226	ATL_se0_ag1_m_02	1339.0395	[I'm like, boy, I'm like], man, I'm like, i-	1341.3854
+1227	ATL_se0_ag1_m_02	1341.6122	I'm like, as a coa- like, as somebody who-	1344.2108
+1228	ATL_se0_ag1_m_02	1344.2108	(pause 0.60)	1344.8075
+1229	ATL_se0_ag1_m_02	1344.8075	I actually invest my time in people,	1346.8595
+1230	ATL_int_01	1346.9368	Mm-hm.	1347.3235
+1231	ATL_se0_ag1_m_02	1347.4266	you know what I'm saying. I'm not saying that I am a coach,	1349.6075
+1232	ATL_se0_ag1_m_02	1349.6075	(pause 0.30)	1349.9117
+1233	ATL_se0_ag1_m_02	1349.9117	but,	1350.4531
+1234	ATL_se0_ag1_m_02	1350.4531	(pause 0.38)	1350.8332
+1235	ATL_se0_ag1_m_02	1350.8332	you know,	1351.2595
+1236	ATL_se0_ag1_m_02	1351.2595	(pause 0.19)	1351.4472
+1237	ATL_se0_ag1_m_02	1351.4472	I coach people,	1352.4883
+1238	ATL_int_01	1352.5553	[Mm-hm.]	1353.0681
+1239	ATL_se0_ag1_m_02	1352.8079	[you know], and it's just like	1353.9525
+1240	ATL_se0_ag1_m_02	1354.6228	as-	1355.1229
+1241	ATL_se0_ag1_m_02	1355.1229	(pause 0.30)	1355.4271
+1242	ATL_se0_ag1_m_02	1355.4271	like	1355.8451
+1243	ATL_se0_ag1_m_02	1355.8451	(pause 0.10)	1355.9445
+1244	ATL_se0_ag1_m_02	1355.9445	if it's somebody	1356.8598
+1245	ATL_se0_ag1_m_02	1356.8598	(pause 0.07)	1356.9330
+1246	ATL_se0_ag1_m_02	1356.9330	with that size, if I was a f-	1358.5394
+1247	ATL_se0_ag1_m_02	1358.5394	(pause 0.36)	1358.9003
+1248	ATL_se0_ag1_m_02	1358.9003	basketball coach,	1360.0088
+1249	ATL_int_01	1360.2305	[Mm-hm.]	1360.5708
+1250	ATL_se0_ag1_m_02	1360.3852	[I woulda] taught that kid how to freaking play.	1362.2347
+1251	ATL_int_01	1362.7039	Easy.	1363.1473
+1252	ATL_se0_ag1_m_02	1363.3999	Easy.	1363.9722
+1253	ATL_se0_ag1_m_02	1363.9722	(pause 0.62)	1364.5886
+1254	ATL_se0_ag1_m_02	1364.5886	Easy.	1365.6324
+1255	ATL_se0_ag1_m_02	1365.6324	(pause 1.36)	1366.9929
+1256	ATL_se0_ag1_m_02	1366.9929	[And-]	1367.6219
+1257	ATL_int_01	1367.4508	[But] you gotta think about it.	1368.5860
+1258	ATL_se0_ag1_m_02	1368.7098	[yeah.]	1369.1789
+1259	ATL_int_01	1368.9727	[It's] people like around your age right now, a little bit [older-]	1372.4154
+1260	ATL_se0_ag1_m_02	1372.1576	[They team] wasn't that damn big.	1373.5136
+1261	ATL_int_01	1373.7044	No, I'm just- I'm just saying,	1375.1996
+1262	ATL_int_01	1375.1996	(pause 0.36)	1375.5605
+1263	ATL_int_01	1375.5605	they- um,	1376.7243
+1264	ATL_int_01	1376.7243	(pause 0.92)	1377.6472
+1265	ATL_int_01	1377.6472	[like at twenty-four], twenty-five, twenty-six, like it's some,	1380.8747
+1266	ATL_se0_ag1_m_02	1377.6987	[Oh.]	1378.2401
+1267	ATL_int_01	1381.6894	you know, people around our age that just don't give a fuck	1384.2034
+1268	ATL_int_01	1384.2034	(pause 0.14)	1384.3456
+1269	ATL_int_01	1384.3456	about the kids.	1385.2867
+1270	ATL_int_01	1385.2867	(pause 0.29)	1385.5755
+1271	ATL_int_01	1385.5755	So	1386.0498
+1272	ATL_int_01	1386.0498	(pause 0.36)	1386.4056
+1273	ATL_int_01	1386.4056	even if somebody-	1387.5141
+1274	ATL_int_01	1387.5141	(pause 0.12)	1387.6378
+1275	ATL_int_01	1387.6378	some kids did come to them, be like, oh,	1389.3246
+1276	ATL_int_01	1389.3246	(pause 0.08)	1389.4071
+1277	ATL_int_01	1389.4071	<ts> like, get out of here, little nigga, or some shit like that,	1391.5755
+1278	ATL_se0_ag1_m_02	1391.7714	Oh yeah.	1392.5664
+1279	ATL_int_01	1392.5909	[so.]	1392.9985
+1280	ATL_se0_ag1_m_02	1392.6300	[Well I guess] I care and shit, [so.]	1394.2777
+1281	ATL_int_01	1394.1437	[You] care.	1394.8835
+1282	ATL_int_01	1395.4832	[They]	1395.9147
+1283	ATL_se0_ag1_m_02	1395.5598	[Yeah.]	1396.0131
+1284	ATL_int_01	1396.0216	apparently [didn't, so.]	1397.5394
+1285	ATL_se0_ag1_m_02	1396.9774	[Well, I mean], you [know],	1398.5499
+1286	ATL_int_01	1398.3024	[That shouldn't] even be [too-]	1399.4051
+1287	ATL_se0_ag1_m_02	1399.0964	[that is] true that, you know, everybody got n-	1401.1037
+1288	ATL_se0_ag1_m_02	1401.1649	different-	1401.7916
+1289	ATL_se0_ag1_m_02	1401.7916	(pause 0.52)	1402.3071
+1290	ATL_se0_ag1_m_02	1402.3071	yeah, that's real shit.	1403.2971
+1291	ATL_se0_ag1_m_02	1403.2971	(pause 0.36)	1403.6528
+1292	ATL_se0_ag1_m_02	1403.6528	At the end of the day though,	1404.7252
+1293	ATL_se0_ag1_m_02	1404.7252	(pause 0.25)	1404.9727
+1294	ATL_se0_ag1_m_02	1404.9727	um,	1405.6378
+1295	ATL_se0_ag1_m_02	1405.6378	(pause 0.59)	1406.2300
+1296	ATL_se0_ag1_m_02	1406.2300	you know, that was what it was.	1407.5551
+1297	ATL_se0_ag1_m_02	1407.5551	(pause 0.54)	1408.0913
+1298	ATL_se0_ag1_m_02	1408.0913	I wasn't supposed to be on that basketball team.	1410.7916
+1299	ATL_se0_ag1_m_02	1410.7916	(pause 0.45)	1411.2453
+1300	ATL_se0_ag1_m_02	1411.2453	I was supposed to be on the football team.	1412.8694
+1301	ATL_int_01	1413.3024	It's politics definitely in a lot of that school sport shit big time.	1417.3903
+1302	ATL_se0_ag1_m_02	1417.4831	I could believe it. The coach is talking like, uh-uh,	1419.7348
+1303	ATL_se0_ag1_m_02	1419.7348	(pause 0.19)	1419.9256
+1304	ATL_se0_ag1_m_02	1419.9256	I don't want him, mm-mm.	1421.0650
+1305	ATL_int_01	1421.3022	[Yeah.]	1421.6734
+1306	ATL_se0_ag1_m_02	1421.4878	[But] I mean, at the same time it's just like, but still really,	1424.1881
+1307	ATL_se0_ag1_m_02	1424.4562	there's kids that actually- you know what I'm saying, but I- I know what you mean by that,	1427.9673
+1308	ATL_se0_ag1_m_02	1427.9673	(pause 0.29)	1428.2612
+1309	ATL_se0_ag1_m_02	1428.2612	the politics behind it.	1429.3181
+1310	ATL_se0_ag1_m_02	1429.3181	(pause 0.31)	1429.6275
+1311	ATL_se0_ag1_m_02	1429.6275	But, um,	1430.4562
+1312	ATL_se0_ag1_m_02	1430.4562	(pause 0.32)	1430.7810
+1313	ATL_se0_ag1_m_02	1430.7810	it's just like, so, you know,	1432.0854
+1314	ATL_int_01	1432.3845	[/??/ politics.] (whispered)	1433.5755
+1315	ATL_se0_ag1_m_02	1432.5082	[because basketball didn't] do it,	1433.9879
+1316	ATL_se0_ag1_m_02	1434.3437	football did it for me.	1435.5089
+1317	ATL_se0_ag1_m_02	1435.5089	(pause 0.26)	1435.7667
+1318	ATL_se0_ag1_m_02	1435.7667	And I was like, alright. They taught me how to play.	1437.9050
+1319	ATL_se0_ag1_m_02	1437.9050	(pause 0.38)	1438.2865
+1320	ATL_se0_ag1_m_02	1438.2865	They was like, alright come on,	1439.3692
+1321	ATL_int_01	1439.4620	[Mm-hm.]	1439.9931
+1322	ATL_se0_ag1_m_02	1439.6167	[we gonna] get it,	1440.2818
+1323	ATL_se0_ag1_m_02	1440.4365	[let's go],	1441.0810
+1324	ATL_int_01	1440.5410	[Okay.]	1440.9980
+1325	ATL_se0_ag1_m_02	1441.1989	[put on the pants.]	1442.1011
+1326	ATL_int_01	1441.3093	[What, um, what] position you play in football?	1443.4829
+1327	ATL_se0_ag1_m_02	1443.7279	Man, football was- I started off defense.	1446.3718
+1328	ATL_se0_ag1_m_02	1446.3718	(pause 0.26)	1446.6357
+1329	ATL_se0_ag1_m_02	1446.6357	Defense.	1447.1791
+1330	ATL_se0_ag1_m_02	1447.1791	(pause 0.24)	1447.4183
+1331	ATL_se0_ag1_m_02	1447.4183	[I was a- I] was a defensive, um,	1449.3115
+1332	ATL_int_01	1447.5214	[Okay.]	1447.9133
+1333	ATL_se0_ag1_m_02	1449.5961	end.	1449.9302
+1334	ATL_int_01	1450.1653	Oh, okay.	1451.0686
+1335	ATL_se0_ag1_m_02	1451.1800	Yeah.	1451.5677
+1336	ATL_se0_ag1_m_02	1451.5677	(pause 0.71)	1452.2802
+1337	ATL_se0_ag1_m_02	1452.2802	So	1452.9208
+1338	ATL_se0_ag1_m_02	1452.9208	(pause 0.18)	1453.0964
+1339	ATL_se0_ag1_m_02	1453.0964	I did defensive end pretty much til	1455.8522
+1340	ATL_se0_ag1_m_02	1455.8522	(pause 0.61)	1456.4615
+1341	ATL_se0_ag1_m_02	1456.4615	eleven grade, like	1457.9621
+1342	ATL_se0_ag1_m_02	1457.9621	(pause 0.14)	1458.0989
+1343	ATL_se0_ag1_m_02	1458.0989	and the- like half of the season eleven grade	1460.1407
+1344	ATL_int_01	1460.3388	[Mm-hm.]	1460.7409
+1345	ATL_se0_ag1_m_02	1460.6533	[cause] these mother f- like	1461.6676
+1346	ATL_se0_ag1_m_02	1462.4925	baby star	1463.3999
+1347	ATL_se0_ag1_m_02	1463.3999	(pause 0.86)	1464.2610
+1348	ATL_se0_ag1_m_02	1464.2610	which was	1464.8412
+1349	ATL_se0_ag1_m_02	1464.8412	(pause 0.13)	1464.9682
+1350	ATL_se0_ag1_m_02	1464.9682	coach star son	1466.4058
+1351	ATL_se0_ag1_m_02	1466.4058	(pause 0.16)	1466.5708
+1352	ATL_se0_ag1_m_02	1466.5708	took [me off of defe-]	1467.5490
+1353	ATL_int_01	1466.7244	[Baby star.] (whispered)	1467.3458
+1354	ATL_se0_ag1_m_02	1467.7862	defense, eleven grade, cause I got injured	1470.1114
+1355	ATL_se0_ag1_m_02	1470.1114	(pause 0.23)	1470.3383
+1356	ATL_se0_ag1_m_02	1470.3383	o-	1470.4724
+1357	ATL_se0_ag1_m_02	1470.4724	(pause 0.16)	1470.6373
+1358	ATL_se0_ag1_m_02	1470.6373	at practice.	1471.3024
+1359	ATL_int_01	1471.4004	His-	1471.6664
+1360	ATL_se0_ag1_m_02	1471.6790	A dude slid at my foot, bruh.	1473.5542
+1361	ATL_int_01	1474.3997	Ah, with the cleats on?	1475.7712
+1362	ATL_se0_ag1_m_02	1475.8433	No, he slid his body at my f-	1478.2563
+1363	ATL_se0_ag1_m_02	1478.2563	(pause 0.28)	1478.5347
+1364	ATL_se0_ag1_m_02	1478.5347	[at-]	1478.7602
+1365	ATL_int_01	1478.6209	[Oh.]	1479.7604
+1366	ATL_se0_ag1_m_02	1479.0179	[I'm the big nigga.] (laughing) [They] sliding at me. <laugh>	1482.6941
+1367	ATL_int_01	1480.1517	[Oh yeah, I-]	1481.2138
+1368	ATL_int_01	1482.9344	See that's [what they-]	1483.7233
+1369	ATL_se0_ag1_m_02	1483.5222	[Tryna] stop me and [shit.]	1484.7287
+1370	ATL_int_01	1484.6499	[yeah], [they be chop] [blocking.]	1486.2196
+1371	ATL_se0_ag1_m_02	1485.0329	[And they]	1485.5085
+1372	ATL_se0_ag1_m_02	1485.5085	(pause 0.20)	1485.7081
+1373	ATL_se0_ag1_m_02	1485.7081	[is-]	1486.0176
+1374	ATL_se0_ag1_m_02	1486.2290	chop blocking and shit, fucked my achilles up, bruh.	1489.2710
+1375	ATL_se0_ag1_m_02	1489.2710	(pause 0.37)	1489.6459
+1376	ATL_se0_ag1_m_02	1489.6459	It is what it is, but, you [know what I'm saying].	1491.6567
+1377	ATL_int_01	1491.0896	[It is] what it [is.]	1492.6827
+1378	ATL_se0_ag1_m_02	1492.1568	[just a little injury] and shit, you know.	1494.0697
+1379	ATL_se0_ag1_m_02	1494.7341	But, [um],	1495.5074
+1380	ATL_int_01	1495.1465	[Gladiator] sport, [man.]	1496.7448
+1381	ATL_se0_ag1_m_02	1496.4767	[on some] gladiator sport shit.	1497.8740
+1382	ATL_int_01	1497.9513	[<laugh>]	1498.7955
+1383	ATL_se0_ag1_m_02	1498.2813	[Like that's-] that's what took me off of defense.	1500.2494
+1384	ATL_se0_ag1_m_02	1500.5072	But	1500.7704
+1385	ATL_se0_ag1_m_02	1500.7704	(pause 0.10)	1500.8695
+1386	ATL_se0_ag1_m_02	1500.8695	the thing is, it was a blessing in disguise	1503.3532
+1387	ATL_se0_ag1_m_02	1503.3532	(pause 0.39)	1503.7399
+1388	ATL_se0_ag1_m_02	1503.7399	because the next year,	1505.1667
+1389	ATL_se0_ag1_m_02	1505.1667	(pause 0.94)	1506.1050
+1390	ATL_se0_ag1_m_02	1506.1050	I was a senior,	1507.8570
+1391	ATL_se0_ag1_m_02	1507.8570	(pause 0.11)	1507.9673
+1392	ATL_se0_ag1_m_02	1507.9673	and I was starting offense.	1509.6265
+1393	ATL_se0_ag1_m_02	1509.6265	(pause 0.46)	1510.0840
+1394	ATL_se0_ag1_m_02	1510.0840	Now mind you,	1511.0017
+1395	ATL_se0_ag1_m_02	1511.0017	(pause 0.27)	1511.2698
+1396	ATL_se0_ag1_m_02	1511.2698	I wasn't gonna play	1512.5897
+1397	ATL_se0_ag1_m_02	1512.5897	(pause 1.33)	1513.9147
+1398	ATL_se0_ag1_m_02	1513.9147	my twelfth grade year	1515.1057
+1399	ATL_int_01	1515.5904	[Mm-hm.]	1515.9255
+1400	ATL_se0_ag1_m_02	1515.7451	[cause] i- just because of the fact that they hit me with that bullshit.	1519.2187
+1401	ATL_se0_ag1_m_02	1519.5487	And then I was like, I already don't wanna play.	1522.0905
+1402	ATL_int_01	1523.0172	Yeah.	1523.4554
+1403	ATL_se0_ag1_m_02	1525.6621	You know what I'm saying.	1526.3221
+1404	ATL_int_01	1526.4252	Did you get more girls when you was playing on the team?	1528.8522
+1405	ATL_int_01	1528.8522	(pause 0.27)	1529.1203
+1406	ATL_int_01	1529.1203	D-	1529.2853
+1407	ATL_se0_ag1_m_02	1529.5740	I was always playing on the team. This is- [<laugh>]	1531.4456
+1408	ATL_int_01	1531.3167	[no] I just saying,	1532.2293
+1409	ATL_se0_ag1_m_02	1532.3270	I [was just known] as the football guy.	1533.9145
+1410	ATL_int_01	1532.4768	[um],	1532.8145
+1411	ATL_int_01	1533.9558	you was the football guy.	1535.1472
+1412	ATL_int_01	1535.1472	(pause 0.11)	1535.2568
+1413	ATL_int_01	1535.2568	[Okay.]	1535.6448
+1414	ATL_se0_ag1_m_02	1535.5896	[Yeah], that's the thing though,	1536.5795
+1415	ATL_se0_ag1_m_02	1536.7540	junior year, I started playing th- I was doing theater	1539.1566
+1416	ATL_se0_ag1_m_02	1539.1566	(pause 0.40)	1539.5588
+1417	ATL_se0_ag1_m_02	1539.5588	as well.	1540.0537
+1418	ATL_int_01	1540.2960	Oh okay, you started showing the range.	1542.0348
+1419	ATL_se0_ag1_m_02	1542.0391	Mind you, I-	1543.0132
+1420	ATL_se0_ag1_m_02	1543.0132	(pause 0.42)	1543.4308
+1421	ATL_se0_ag1_m_02	1543.4308	I did track,	1544.1306
+1422	ATL_int_01	1544.6152	[Mm-hm.]	1544.9968
+1423	ATL_se0_ag1_m_02	1544.9349	[shot] put and discus	1546.0847
+1424	ATL_int_01	1546.7755	[Oh, and shot put too, okay.]	1548.6007
+1425	ATL_se0_ag1_m_02	1546.8034	[from ninth grade too.]	1547.9060
+1426	ATL_se0_ag1_m_02	1547.9060	(pause 0.14)	1548.0469
+1427	ATL_se0_ag1_m_02	1548.0469	[I did- I] did, yeah, shot put and discus,	1550.4193
+1428	ATL_se0_ag1_m_02	1550.7441	defensive end	1551.6619
+1429	ATL_int_01	1551.7612	Okay.	1552.2177
+1430	ATL_se0_ag1_m_02	1552.2703	n- from ninth grade-	1553.5283
+1431	ATL_int_01	1553.7809	Letterman [guy.]	1554.6007
+1432	ATL_se0_ag1_m_02	1554.3996	[yeah], I was a definite le- letterman guy, for sure.	1557.1573
+1433	ATL_int_01	1557.2449	Okay.	1557.6832
+1434	ATL_se0_ag1_m_02	1557.9204	Yeah.	1558.2400
+1435	ATL_se0_ag1_m_02	1558.2400	(pause 0.19)	1558.4256
+1436	ATL_se0_ag1_m_02	1558.4256	So when- when- you can only be surprised on how- how surprised people were	1562.5953
+1437	ATL_int_01	1563.8121	Okay.	1564.3277
+1438	ATL_se0_ag1_m_02	1564.8419	when I started doing theater in eleventh grade.	1566.8269
+1439	ATL_int_01	1567.0158	[/Oh okay/],	1567.6560
+1440	ATL_se0_ag1_m_02	1567.0429	[<laugh>]	1567.8116
+1441	ATL_int_01	1567.7652	[oh] yeah, [you-]	1568.5180
+1442	ATL_se0_ag1_m_02	1568.2911	[They] was- cause they was like	1569.4873
+1443	ATL_int_01	1569.9860	Ay this dude is really taking it there.	1572.0546
+1444	ATL_se0_ag1_m_02	1572.0736	Mm-hm.	1572.6206
+1445	ATL_int_01	1572.7753	Football jock doing the theater shit, cool as shit.	1575.7915
+1446	ATL_se0_ag1_m_02	1577.7132	The football jock is doing theater, and he's actually good at [it.]	1580.4354
+1447	ATL_int_01	1580.3989	[And] he's actually [good. Come on, let's-]	1582.6731
+1448	ATL_se0_ag1_m_02	1581.3532	[He's actually good.]	1582.4566
+1449	ATL_int_01	1582.9605	[let's pay] attention to this shit. <laugh>	1585.4249
+1450	ATL_se0_ag1_m_02	1583.0469	[Like]	1583.5628
+1451	ATL_se0_ag1_m_02	1586.0385	I got awards for- for a- the plays I did. I did-	1589.3162
+1452	ATL_int_01	1589.3884	What school you was at?	1590.2339
+1453	ATL_se0_ag1_m_02	1590.8011	/RD-SCHOOL-2/ High School.	1591.7394
+1454	ATL_int_01	1591.8065	Ooh, /RD-SCHOOL-2/ High School (whispered)	1593.9255
+1455	ATL_se0_ag1_m_02	1598.1506	You know, I mean,	1599.3171
+1456	ATL_se0_ag1_m_02	1599.3171	(pause 0.30)	1599.6162
+1457	ATL_se0_ag1_m_02	1599.6162	n-	1599.8430
+1458	ATL_se0_ag1_m_02	1599.8430	(pause 0.47)	1600.3122
+1459	ATL_se0_ag1_m_02	1600.3122	people w-	1600.9914
+1460	ATL_se0_ag1_m_02	1600.9914	(pause 0.15)	1601.1461
+1461	ATL_se0_ag1_m_02	1601.1461	cause the- that's the thing, you know, as a- as a	1603.6490
+1462	ATL_se0_ag1_m_02	1603.6490	(pause 0.25)	1603.8993
+1463	ATL_se0_ag1_m_02	1603.8993	big black man,	1605.1006
+1464	ATL_int_01	1605.2604	Mm-hm.	1605.6419
+1465	ATL_se0_ag1_m_02	1606.3535	people put me in a box.	1607.8576
+1466	ATL_int_01	1608.1618	Yeah.	1608.5124
+1467	ATL_se0_ag1_m_02	1608.8939	And then a-	1609.3650
+1468	ATL_se0_ag1_m_02	1609.3650	(pause 0.10)	1609.4683
+1469	ATL_se0_ag1_m_02	1609.4683	as a artist,	1610.2911
+1470	ATL_se0_ag1_m_02	1610.2911	(pause 0.73)	1611.0232
+1471	ATL_se0_ag1_m_02	1611.0232	you already know, people	1612.0896
+1472	ATL_se0_ag1_m_02	1612.0896	(pause 0.14)	1612.2263
+1473	ATL_se0_ag1_m_02	1612.2263	automatically ain't gonna understand me	1613.8215
+1474	ATL_int_01	1614.0741	Mm-hm.	1614.4299
+1475	ATL_se0_ag1_m_02	1614.4763	cause they already- they looking for me to be a certain person.	1617.0129
+1476	ATL_se0_ag1_m_02	1617.0129	(pause 0.40)	1617.4099
+1477	ATL_se0_ag1_m_02	1617.4099	I'm doing	1618.0493
+1478	ATL_se0_ag1_m_02	1618.0493	(pause 0.31)	1618.3586
+1479	ATL_se0_ag1_m_02	1618.3586	football. I'm doing this that and the other, so they putting stereotypes on me	1621.8013
+1480	ATL_se0_ag1_m_02	1621.8013	(pause 0.27)	1622.0746
+1481	ATL_se0_ag1_m_02	1622.0746	that I'm this type of guy	1623.4357
+1482	ATL_se0_ag1_m_02	1623.4357	(pause 0.30)	1623.7348
+1483	ATL_se0_ag1_m_02	1623.7348	and that I'm bound to do this.	1625.8885
+1484	ATL_int_01	1626.1050	Okay.	1626.5588
+1485	ATL_se0_ag1_m_02	1627.1207	And they don't- they don't even	1628.4001
+1486	ATL_se0_ag1_m_02	1628.4001	(pause 0.08)	1628.4822
+1487	ATL_se0_ag1_m_02	1628.4822	think about I'm-	1629.2037
+1488	ATL_se0_ag1_m_02	1629.2037	(pause 0.15)	1629.3532
+1489	ATL_se0_ag1_m_02	1629.3532	I'm bound to be great in something else	1631.0687
+1490	ATL_int_01	1631.4915	[Mm-hm.]	1631.9813
+1491	ATL_se0_ag1_m_02	1631.7854	[cause] they- they so focused on this thing cause it's the popular-	1634.6469
+1492	ATL_se0_ag1_m_02	1634.9923	the football and the sports and stuff is popular.	1637.0223
+1493	ATL_se0_ag1_m_02	1637.0223	(pause 0.24)	1637.2646
+1494	ATL_se0_ag1_m_02	1637.2646	It's gonna get me a scholarship or whatever.	1639.0950
+1495	ATL_int_01	1639.5023	Oh yup yup, that's what [everybody talking about.]	1642.1008
+1496	ATL_se0_ag1_m_02	1640.9872	[So, you know, e- exactly.]	1642.7247
+1497	ATL_se0_ag1_m_02	1643.3935	And it was. And, you know, but-	1645.0537
+1498	ATL_int_01	1645.2909	They not thinking about down the line this person being on TV [/??/]	1649.4709
+1499	ATL_se0_ag1_m_02	1648.8470	[They don't think about]	1649.7905
+1500	ATL_se0_ag1_m_02	1650.2236	what actually makes me happy,	1651.6879
+1501	ATL_int_01	1652.6314	Nah, definitely [not.]	1653.9668
+1502	ATL_se0_ag1_m_02	1653.8636	[you] know what I'm saying.	1654.5855
+1503	ATL_se0_ag1_m_02	1654.9708	It's not about my actual-	1656.7289
+1504	ATL_int_01	1656.9970	[It's about-]	1657.6673
+1505	ATL_se0_ag1_m_02	1657.0589	[like setting me] up [for-]	1658.6159
+1506	ATL_int_01	1658.1364	[it's about] who can go to the NBA or the NFL.	1661.1203
+1507	ATL_se0_ag1_m_02	1661.7132	[exactly.]	1662.4196
+1508	ATL_int_01	1662.2803	[Make] some money off [this bitch.]	1663.7962
+1509	ATL_se0_ag1_m_02	1663.2136	[Who-]	1663.5033
+1510	ATL_se0_ag1_m_02	1663.5033	(pause 0.09)	1663.5899
+1511	ATL_se0_ag1_m_02	1663.5899	[who] can- who g- o- is setting me up to try to make,	1666.1936
+1512	ATL_se0_ag1_m_02	1666.7910	you know what I'm saying,	1667.5747
+1513	ATL_se0_ag1_m_02	1667.5747	(pause 0.46)	1668.0387
+1514	ATL_se0_ag1_m_02	1668.0387	more than a thousand dollars.	1669.3328
+1515	ATL_se0_ag1_m_02	1669.3328	(pause 0.07)	1669.3995
+1516	ATL_se0_ag1_m_02	1669.3995	<laugh>	1669.7617
+1517	ATL_se0_ag1_m_02	1669.7617	(pause 0.44)	1670.2028
+1518	ATL_se0_ag1_m_02	1670.2028	And-	1670.5691
+1519	ATL_se0_ag1_m_02	1670.5691	(pause 0.09)	1670.6636
+1520	ATL_se0_ag1_m_02	1670.6636	and honestly, you know, people mean well. I- I can't	1673.7551
+1521	ATL_int_01	1673.7697	I mean, [when you really think about] it though,	1675.4256
+1522	ATL_se0_ag1_m_02	1674.0645	[fault people.]	1674.9307
+1523	ATL_se0_ag1_m_02	1676.1512	I just know I wouldn't go about it that [way.]	1677.8939
+1524	ATL_int_01	1677.6980	[the basketball] stars is probably definitely getting paid	1680.6677
+1525	ATL_int_01	1681.5016	more than the, um, theater stars in high school,	1683.9042
+1526	ATL_se0_ag1_m_02	1684.1620	Honestly, bruh,	1685.0591
+1527	ATL_int_01	1685.1519	you know [/unintelligible/]	1686.2656
+1528	ATL_se0_ag1_m_02	1685.6005	[I'm paving the way] so that way, I can be on some Will and Jada, uh,	1688.8473
+1529	ATL_se0_ag1_m_02	1689.1927	new- real- Will and /Jalen/ shit.	1691.0219
+1530	ATL_se0_ag1_m_02	1691.0219	(pause 0.17)	1691.1878
+1531	ATL_se0_ag1_m_02	1691.1878	<laugh>	1691.6469
+1532	ATL_se0_ag1_m_02	1691.6469	(pause 0.33)	1691.9768
+1533	ATL_se0_ag1_m_02	1691.9768	[God damn], like on some shit, like my kid can do whatever the fuck he wants.	1695.4814
+1534	ATL_int_01	1692.1985	[/Sweet/.]	1692.6471
+1535	ATL_int_01	1695.5949	Whatever, right?	1696.4589
+1536	ATL_se0_ag1_m_02	1696.4755	Whatever [he wants.]	1697.4819
+1537	ATL_int_01	1697.0179	[That'd be lit.]	1697.6881
+1538	ATL_se0_ag1_m_02	1698.2810	Like that's lit.	1699.4566
+1539	ATL_int_01	1699.5236	That's-	1700.1461
+1540	ATL_se0_ag1_m_02	1700.3214	That's what I'm aiming for cause [I'm-]	1701.7046
+1541	ATL_int_01	1701.4453	[that's what] [parenting is supposed to be, bruh.]	1703.0385
+1542	ATL_se0_ag1_m_02	1701.9602	[I'm aiming to get it out the way]	1703.4510
+1543	ATL_int_01	1703.5283	[Yeah.]	1703.8944
+1544	ATL_se0_ag1_m_02	1703.7294	[so] that way th- you know what I'm saying, my kid can be	1705.7491
+1545	ATL_se0_ag1_m_02	1705.9965	who he's meant to be	1707.0380
+1546	ATL_se0_ag1_m_02	1707.0380	(pause 0.23)	1707.2700
+1547	ATL_se0_ag1_m_02	1707.2700	and not who he's-	1708.0950
+1548	ATL_se0_ag1_m_02	1708.0950	(pause 0.25)	1708.3476
+1549	ATL_se0_ag1_m_02	1708.3476	who	1708.9508
+1550	ATL_se0_ag1_m_02	1708.9508	(pause 0.23)	1709.1777
+1551	ATL_se0_ag1_m_02	1709.1777	like me and his mom or whoever	1711.2967
+1552	ATL_se0_ag1_m_02	1711.2967	(pause 0.29)	1711.5855
+1553	ATL_se0_ag1_m_02	1711.5855	is forcing him- like, you know what I'm saying, like	1713.6980
+1554	ATL_se0_ag1_m_02	1713.6980	(pause 0.12)	1713.8217
+1555	ATL_se0_ag1_m_02	1713.8217	subconsciously kind of forcing him into this person.	1716.4821
+1556	ATL_se0_ag1_m_02	1716.4821	(pause 0.27)	1716.7554
+1557	ATL_se0_ag1_m_02	1716.7554	We may not know what we doing, you know,	1718.6977
+1558	ATL_se0_ag1_m_02	1718.6977	(pause 0.29)	1718.9865
+1559	ATL_se0_ag1_m_02	1718.9865	just like parents, they- they're ignorant of what they do to you because	1722.4048
+1560	ATL_se0_ag1_m_02	1722.4048	(pause 0.44)	1722.8482
+1561	ATL_se0_ag1_m_02	1722.8482	in they- in they mind, they doing what's best.	1724.9091
+1562	ATL_int_01	1726.5848	Ay man,	1727.1364
+1563	ATL_int_01	1727.1364	(pause 0.76)	1727.8944
+1564	ATL_int_01	1727.8944	I just know that	1728.7863
+1565	ATL_int_01	1728.7863	(pause 1.03)	1729.8161
+1566	ATL_int_01	1729.8161	you	1730.5121
+1567	ATL_int_01	1730.5121	(pause 0.16)	1730.6720
+1568	ATL_int_01	1730.6720	legitly got a chance to pull the rap card out	1733.7191
+1569	ATL_int_01	1733.7191	(pause 0.35)	1734.0697
+1570	ATL_int_01	1734.0697	as a,	1734.7038
+1571	ATL_int_01	1734.7038	(pause 0.72)	1735.4205
+1572	ATL_int_01	1735.4205	you know, hustle to get some bread,	1737.0741
+1573	ATL_int_01	1737.0741	(pause 0.61)	1737.6877
+1574	ATL_int_01	1737.6877	as opposed to	1738.6570
+1575	ATL_int_01	1738.6570	(pause 0.18)	1738.8374
+1576	ATL_int_01	1738.8374	some of these other cats. That's what [I /??/]	1740.9998
+1577	ATL_se0_ag1_m_02	1740.6471	[Appreciate] it.	1741.2228
+1578	ATL_se0_ag1_m_02	1741.3749	Appreciate it.	1741.9759
+1579	ATL_se0_ag1_m_02	1741.9759	(pause 1.23)	1743.2082
+1580	ATL_se0_ag1_m_02	1743.2082	That Slay stamp.	1744.0640
+1581	ATL_int_01	1744.4559	Slayer stamp, man.	1746.1573
+1582	ATL_int_01	1746.1573	(pause 2.23)	1748.3884
+1583	ATL_int_01	1748.3884	But who knows, maybe that same talent,	1750.3992
+1584	ATL_int_01	1750.3992	(pause 0.20)	1750.6002
+1585	ATL_int_01	1750.6002	you know, might can, um, translate in	1752.5491
+1586	ATL_int_01	1752.5491	(pause 0.23)	1752.7812
+1587	ATL_int_01	1752.7812	a different type of department	1754.2646
+1588	ATL_int_01	1754.2646	(pause 0.89)	1755.1515
+1589	ATL_int_01	1755.1515	or [career or some shit.]	1756.3115
+1590	ATL_se0_ag1_m_02	1755.3886	[Not even just different.]	1756.9354
+1591	ATL_se0_ag1_m_02	1757.3942	Bruh, like	1758.3171
+1592	ATL_se0_ag1_m_02	1758.3171	(pause 1.29)	1759.6054
+1593	ATL_se0_ag1_m_02	1759.6054	rapping is just a step.	1761.1335
+1594	ATL_se0_ag1_m_02	1761.1335	(pause 0.15)	1761.2833
+1595	ATL_se0_ag1_m_02	1761.2833	Rapping	1761.8574
+1596	ATL_se0_ag1_m_02	1761.8574	(pause 0.11)	1761.9668
+1597	ATL_se0_ag1_m_02	1761.9668	r- d- like hip hop in itself is- is a skeleton. It's-	1766.3117
+1598	ATL_int_01	1766.6727	Mm-hm.	1766.9923
+1599	ATL_se0_ag1_m_02	1767.2192	it's not even the whole- you know, the whole body of	1769.8988
+1600	ATL_int_01	1770.0741	[Okay.]	1770.4763
+1601	ATL_se0_ag1_m_02	1770.4041	[the] work,	1771.0279
+1602	ATL_se0_ag1_m_02	1771.2548	you know what I'm [saying.]	1772.0446
+1603	ATL_int_01	1771.9385	[Mm-hm.]	1772.3225
+1604	ATL_se0_ag1_m_02	1773.0129	It's my foundation	1774.1627
+1605	ATL_se0_ag1_m_02	1774.1627	(pause 0.38)	1774.5433
+1606	ATL_se0_ag1_m_02	1774.5433	to be able to have opportunity to do more	1777.1723
+1607	ATL_se0_ag1_m_02	1777.1723	(pause 1.77)	1778.9459
+1608	ATL_se0_ag1_m_02	1778.9459	cause [once I'm known] as a	1780.8934
+1609	ATL_int_01	1779.1983	[Yeah.]	1779.7554
+1610	ATL_se0_ag1_m_02	1781.6410	hip hop artist	1782.7289
+1611	ATL_se0_ag1_m_02	1782.7289	(pause 0.34)	1783.0640
+1612	ATL_se0_ag1_m_02	1783.0640	and a legit hip hop artist,	1784.6572
+1613	ATL_se0_ag1_m_02	1784.6572	(pause 0.30)	1784.9614
+1614	ATL_se0_ag1_m_02	1784.9614	then	1785.5274
+1615	ATL_se0_ag1_m_02	1785.5274	(pause 0.14)	1785.6639
+1616	ATL_se0_ag1_m_02	1785.6639	other people are gonna be	1787.1203
+1617	ATL_se0_ag1_m_02	1787.1203	(pause 0.54)	1787.6616
+1618	ATL_se0_ag1_m_02	1787.6616	coming at	1788.3216
+1619	ATL_se0_ag1_m_02	1788.3216	(pause 0.13)	1788.4556
+1620	ATL_se0_ag1_m_02	1788.4556	us	1788.9970
+1621	ATL_se0_ag1_m_02	1788.9970	(pause 0.59)	1789.5899
+1622	ATL_se0_ag1_m_02	1789.5899	with opportunities of what we can do	1791.7605
+1623	ATL_int_01	1792.0633	[Mm-hm.]	1792.4397
+1624	ATL_se0_ag1_m_02	1792.3057	[with] them. Because they hear	1793.7184
+1625	ATL_se0_ag1_m_02	1793.8136	our shit,	1794.3366
+1626	ATL_se0_ag1_m_02	1794.3366	(pause 0.14)	1794.4759
+1627	ATL_se0_ag1_m_02	1794.4759	and they be like, okay,	1795.4920
+1628	ATL_se0_ag1_m_02	1795.4920	(pause 0.38)	1795.8683
+1629	ATL_se0_ag1_m_02	1795.8683	this is hot.	1796.4870
+1630	ATL_se0_ag1_m_02	1796.4870	(pause 0.56)	1797.0490
+1631	ATL_se0_ag1_m_02	1797.0490	Okay,	1797.6368
+1632	ATL_se0_ag1_m_02	1797.6368	(pause 0.40)	1798.0389
+1633	ATL_se0_ag1_m_02	1798.0389	I see he actually talking about something.	1799.7308
+1634	ATL_se0_ag1_m_02	1799.7308	(pause 0.06)	1799.7947
+1635	ATL_se0_ag1_m_02	1799.7947	We have concepts,	1800.8733
+1636	ATL_int_01	1801.1192	[Mm-hm.]	1801.4217
+1637	ATL_se0_ag1_m_02	1801.3476	[you] know what I'm saying. We are fishing	1802.9614
+1638	ATL_se0_ag1_m_02	1803.1367	for	1803.6626
+1639	ATL_se0_ag1_m_02	1803.6626	(pause 0.32)	1803.9822
+1640	ATL_se0_ag1_m_02	1803.9822	the people we want to involve ourselves with,	1805.9504
+1641	ATL_se0_ag1_m_02	1805.9504	(pause 0.92)	1806.8681
+1642	ATL_se0_ag1_m_02	1806.8681	and	1807.3387
+1643	ATL_se0_ag1_m_02	1807.3387	(pause 0.13)	1807.4657
+1644	ATL_se0_ag1_m_02	1807.4657	shit,	1807.9044
+1645	ATL_se0_ag1_m_02	1807.9044	(pause 0.19)	1808.0952
+1646	ATL_se0_ag1_m_02	1808.0952	we may get they competitors. We may be fishing for one type of person,	1811.3317
+1647	ATL_se0_ag1_m_02	1811.3317	(pause 0.28)	1811.6101
+1648	ATL_se0_ag1_m_02	1811.6101	and they competitors might hit us up.	1813.1053
+1649	ATL_se0_ag1_m_02	1813.1053	(pause 1.38)	1814.4870
+1650	ATL_se0_ag1_m_02	1814.4870	And the people we actually fish for, we may not even get them,	1817.1048
+1651	ATL_se0_ag1_m_02	1817.1048	(pause 0.27)	1817.3729
+1652	ATL_se0_ag1_m_02	1817.3729	and that's okay,	1818.2185
+1653	ATL_se0_ag1_m_02	1818.2185	(pause 0.25)	1818.4711
+1654	ATL_se0_ag1_m_02	1818.4711	<laugh>	1818.7753
+1655	ATL_int_01	1818.9094	That's true too.	1819.6466
+1656	ATL_se0_ag1_m_02	1819.6827	you know what I'm saying. (laughing)	1821.0232
+1657	ATL_se0_ag1_m_02	1821.0232	(pause 0.38)	1821.4048
+1658	ATL_se0_ag1_m_02	1821.4048	Like, you know, that- all that is what it is, but at the end of the day, all this is a foundation	1825.9869
+1659	ATL_se0_ag1_m_02	1825.9869	(pause 0.52)	1826.5077
+1660	ATL_se0_ag1_m_02	1826.5077	to	1826.8910
+1661	ATL_se0_ag1_m_02	1826.8910	(pause 0.12)	1827.0067
+1662	ATL_se0_ag1_m_02	1827.0067	get us	1827.6368
+1663	ATL_se0_ag1_m_02	1827.6368	(pause 0.20)	1827.8379
+1664	ATL_se0_ag1_m_02	1827.8379	to	1828.2194
+1665	ATL_se0_ag1_m_02	1828.2194	(pause 1.13)	1829.3493
+1666	ATL_se0_ag1_m_02	1829.3493	that money that's out here.	1830.4423
+1667	ATL_se0_ag1_m_02	1830.4423	(pause 0.26)	1830.7001
+1668	ATL_se0_ag1_m_02	1830.7001	[Like that's it.]	1831.5551
+1669	ATL_int_01	1830.7929	[<laugh>]	1831.4315
+1670	ATL_se0_ag1_m_02	1832.0563	Like [I said, like /I-/] this shit is out here.	1834.6274
+1671	ATL_int_01	1832.2996	[/unintelligible/]	1833.5499
+1672	ATL_int_01	1834.9265	Mm-hm.	1835.2513
+1673	ATL_se0_ag1_m_02	1835.4008	It's out here. Once we lay the foundation, bruh, like shit-	1838.4259
+1674	ATL_se0_ag1_m_02	1838.4259	(pause 0.42)	1838.8487
+1675	ATL_se0_ag1_m_02	1838.8487	universe will god damn	1840.9420
+1676	ATL_se0_ag1_m_02	1840.9420	(pause 1.17)	1842.1123
+1677	ATL_se0_ag1_m_02	1842.1123	shift for us.	1843.3085
+1678	ATL_se0_ag1_m_02	1843.3085	(pause 0.37)	1843.6835
+1679	ATL_se0_ag1_m_02	1843.6835	<laugh>	1843.9670
+1680	ATL_se0_ag1_m_02	1843.9670	(pause 0.77)	1844.7353
+1681	ATL_se0_ag1_m_02	1844.7353	As long as we	1845.6478
+1682	ATL_se0_ag1_m_02	1845.6478	(pause 0.38)	1846.0294
+1683	ATL_se0_ag1_m_02	1846.0294	consistently creating, as long as are,	1848.1845
+1684	ATL_se0_ag1_m_02	1848.1845	(pause 0.60)	1848.7870
+1685	ATL_se0_ag1_m_02	1848.7870	you know what I'm saying, consistently bringing out	1850.6844
+1686	ATL_se0_ag1_m_02	1850.6844	(pause 0.36)	1851.0401
+1687	ATL_se0_ag1_m_02	1851.0401	these positive vibes,	1852.2827
+1688	ATL_se0_ag1_m_02	1852.2827	(pause 0.41)	1852.6938
+1689	ATL_se0_ag1_m_02	1852.6938	you know,	1853.1475
+1690	ATL_int_01	1853.1681	Gotta [keep the positive vibes, especially now] more than ever.	1856.5607
+1691	ATL_se0_ag1_m_02	1853.5078	[we're- gotta keep the positive vibes]	1855.7667
+1692	ATL_se0_ag1_m_02	1856.9731	<exhale> /Boy what./	1858.1905
+1693	ATL_int_01	1858.2163	Cause I f- I see it, just like whatever we saying like	1861.2253
+1694	ATL_int_01	1861.2253	(pause 0.64)	1861.8698
+1695	ATL_int_01	1861.8698	it's coming about in	1863.1536
+1696	ATL_int_01	1863.1536	(pause 0.38)	1863.5351
+1697	ATL_int_01	1863.5351	different ways and stuff, so	1865.1526
+1698	ATL_int_01	1865.1526	(pause 0.69)	1865.8435
+1699	ATL_int_01	1865.8435	we need to keep that positive energy	1867.7306
+1700	ATL_int_01	1867.7306	(pause 0.34)	1868.0708
+1701	ATL_int_01	1868.0708	flowing, man.	1868.9370
+1702	ATL_int_01	1868.9370	(pause 0.73)	1869.6640
+1703	ATL_int_01	1869.6640	Mm.	1869.9476
+1704	ATL_int_01	1869.9476	(pause 2.94)	1872.8902
+1705	ATL_int_01	1872.8902	What type of food	1873.7120
+1706	ATL_int_01	1873.7120	(pause 0.10)	1873.8110
+1707	ATL_int_01	1873.8110	you into	1874.4472
+1708	ATL_int_01	1874.4472	(pause 0.25)	1874.6947
+1709	ATL_int_01	1874.6947	right about now?	1875.4371
+1710	ATL_se0_ag1_m_02	1875.6471	<ts>	1875.7312
+1711	ATL_se0_ag1_m_02	1875.7312	(pause 0.39)	1876.1177
+1712	ATL_se0_ag1_m_02	1876.1177	Man, actually	1877.7301
+1713	ATL_se0_ag1_m_02	1877.7301	(pause 2.18)	1879.9110
+1714	ATL_se0_ag1_m_02	1879.9110	I rock with	1880.6792
+1715	ATL_se0_ag1_m_02	1880.6792	(pause 1.46)	1882.1442
+1716	ATL_se0_ag1_m_02	1882.1442	Vietnamese pho,	1883.5600
+1717	ATL_se0_ag1_m_02	1883.5600	(pause 1.01)	1884.5705
+1718	ATL_se0_ag1_m_02	1884.5705	and it's spelled	1885.3490
+1719	ATL_se0_ag1_m_02	1885.3490	(pause 0.47)	1885.8182
+1720	ATL_se0_ag1_m_02	1885.8182	P-H-O.	1886.6071
+1721	ATL_se0_ag1_m_02	1886.6071	(pause 0.88)	1887.4835
+1722	ATL_se0_ag1_m_02	1887.4835	And I like-	1888.0112
+1723	ATL_se0_ag1_m_02	1888.0112	(pause 0.12)	1888.1264
+1724	ATL_se0_ag1_m_02	1888.1264	I like the shrimp pho.	1889.3286
+1725	ATL_se0_ag1_m_02	1889.3286	(pause 0.69)	1890.0195
+1726	ATL_se0_ag1_m_02	1890.0195	And [I like the-]	1890.6617
+1727	ATL_int_01	1890.2464	[<laugh>]	1891.1112
+1728	ATL_se0_ag1_m_02	1890.7964	[a- and] I like the beef pho.	1892.3176
+1729	ATL_int_01	1892.4878	I definitely [like the beef] pho.	1894.5037
+1730	ATL_se0_ag1_m_02	1893.4313	[Bruh],	1894.1944
+1731	ATL_int_01	1895.1843	I w- I- I wanna try the shrimp	1896.5145
+1732	ATL_int_01	1896.5145	(pause 0.40)	1896.9101
+1733	ATL_int_01	1896.9101	pho.	1897.2349
+1734	ATL_se0_ag1_m_02	1897.3741	Yeah,	1897.9299
+1735	ATL_se0_ag1_m_02	1897.9299	(pause 0.27)	1898.1990
+1736	ATL_se0_ag1_m_02	1898.1990	it's really good.	1899.0137
+1737	ATL_int_01	1899.4055	[<laugh>]	1899.9159
+1738	ATL_se0_ag1_m_02	1899.6221	[But], um, and I'll actually like it with the herbs and shit in it, like with all the	1903.6061
+1739	ATL_se0_ag1_m_02	1903.8897	not every- not e-	1904.7353
+1740	ATL_se0_ag1_m_02	1904.7353	(pause 0.15)	1904.8899
+1741	ATL_se0_ag1_m_02	1904.8899	all of them, but, yeah, I like- I- all with- even- yeah.	1907.8236
+1742	ATL_se0_ag1_m_02	1907.8236	(pause 0.23)	1908.0505
+1743	ATL_se0_ag1_m_02	1908.0505	All that shit.	1908.5248
+1744	ATL_se0_ag1_m_02	1908.5248	(pause 0.65)	1909.1744
+1745	ATL_se0_ag1_m_02	1909.1744	I put it all in there. I be like, yeah I want the-	1911.2405
+1746	ATL_se0_ag1_m_02	1911.2405	(pause 0.25)	1911.4932
+1747	ATL_se0_ag1_m_02	1911.4932	I want the authentic god [damn] (laughing)	1913.1276
+1748	ATL_int_01	1913.0193	[Authentic?] So you [feel] like you can go to actual /where/	1916.2815
+1749	ATL_se0_ag1_m_02	1914.0350	[a-]	1914.1948
+1750	ATL_se0_ag1_m_02	1917.2147	Oh I know a place [called So Ba.]	1918.7770
+1751	ATL_int_01	1917.8695	[Vietnam and shit?]	1918.9471
+1752	ATL_se0_ag1_m_02	1919.4833	It's a place called So Ba in, uh, East Atlanta Village.	1922.5136
+1753	ATL_int_01	1922.8023	So Ba.	1923.3333
+1754	ATL_se0_ag1_m_02	1923.7046	Too bad they ain't paying me for this.	1925.1843
+1755	ATL_se0_ag1_m_02	1925.1843	(pause 0.37)	1925.5555
+1756	ATL_se0_ag1_m_02	1925.5555	But hey,	1926.0453
+1757	ATL_int_01	1926.2154	I know right.	1926.9785
+1758	ATL_se0_ag1_m_02	1926.9991	[<laugh> I'm shouting] 'em out and shit	1928.9930
+1759	ATL_int_01	1927.6628	[/Definitely/.]	1928.2403
+1760	ATL_int_01	1929.1941	[<laugh>]	1929.5757
+1761	ATL_se0_ag1_m_02	1929.4983	[But], um,	1930.1840
+1762	ATL_se0_ag1_m_02	1930.3593	yeah, man,	1931.1533
+1763	ATL_se0_ag1_m_02	1931.1533	(pause 1.33)	1932.4829
+1764	ATL_se0_ag1_m_02	1932.4829	I rock with So Ba in East Atlanta Village, but	1935.0041
+1765	ATL_se0_ag1_m_02	1935.0041	(pause 0.66)	1935.6640
+1766	ATL_se0_ag1_m_02	1935.6640	there's this one in the city though.	1937.2094
+1767	ATL_se0_ag1_m_02	1937.2094	(pause 0.31)	1937.5187
+1768	ATL_se0_ag1_m_02	1937.5187	I ain't gonna even,	1938.5860
+1769	ATL_int_01	1939.1840	Okay.	1939.8043
+1770	ATL_int_01	1939.8043	(pause 0.09)	1939.8894
+1771	ATL_int_01	1939.8894	What el- [what else? What other type of cuisine?]	1942.3033
+1772	ATL_se0_ag1_m_02	1940.2668	[you know, /you gonna have to pull up/.]	1941.7568
+1773	ATL_se0_ag1_m_02	1942.3284	Um,	1942.9110
+1774	ATL_se0_ag1_m_02	1942.9110	(pause 0.35)	1943.2565
+1775	ATL_se0_ag1_m_02	1943.2565	<ts>	1943.3493
+1776	ATL_se0_ag1_m_02	1943.3493	(pause 0.10)	1943.4524
+1777	ATL_se0_ag1_m_02	1943.4524	the ramen	1944.2731
+1778	ATL_se0_ag1_m_02	1944.2731	(pause 0.06)	1944.3363
+1779	ATL_se0_ag1_m_02	1944.3363	because of Naruto. Shout out to Naruto,	1946.5226
+1780	ATL_se0_ag1_m_02	1946.5226	(pause 0.10)	1946.6208
+1781	ATL_se0_ag1_m_02	1946.6208	/???/.	1947.1890
+1782	ATL_int_01	1947.4158	Okay.	1947.9005
+1783	ATL_se0_ag1_m_02	1949.6019	Um,	1950.1587
+1784	ATL_se0_ag1_m_02	1950.1587	(pause 0.72)	1950.8754
+1785	ATL_se0_ag1_m_02	1950.8754	god damn	1952.0856
+1786	ATL_se0_ag1_m_02	1952.0856	(pause 0.40)	1952.4826
+1787	ATL_se0_ag1_m_02	1952.4826	<ts>	1952.6080
+1788	ATL_se0_ag1_m_02	1952.6080	(pause 0.07)	1952.6752
+1789	ATL_se0_ag1_m_02	1952.6752	man, honestly	1953.7046
+1790	ATL_se0_ag1_m_02	1953.7046	(pause 0.37)	1954.0706
+1791	ATL_se0_ag1_m_02	1954.0706	I	1954.2872
+1792	ATL_se0_ag1_m_02	1954.2872	(pause 0.10)	1954.3855
+1793	ATL_se0_ag1_m_02	1954.3855	cook.	1954.7409
+1794	ATL_se0_ag1_m_02	1954.7409	(pause 1.14)	1955.8803
+1795	ATL_se0_ag1_m_02	1955.8803	Like I just make sh- I just make whatever.	1958.2403
+1796	ATL_int_01	1958.2571	Cooking is great.	1959.1076
+1797	ATL_se0_ag1_m_02	1959.1199	I'm slick a alchemist, bruh.	1960.6273
+1798	ATL_se0_ag1_m_02	1960.6273	(pause 0.06)	1960.6896
+1799	ATL_se0_ag1_m_02	1960.6896	I just go in there and just whip up	1962.5196
+1800	ATL_se0_ag1_m_02	1962.5196	(pause 0.21)	1962.7310
+1801	ATL_se0_ag1_m_02	1962.7310	whatever's in the kitchen, like	1964.2970
+1802	ATL_int_01	1964.3537	And you just know how to [make it]	1965.7458
+1803	ATL_se0_ag1_m_02	1965.5138	[yeah],	1966.2881
+1804	ATL_int_01	1966.2459	[/???/]	1966.7695
+1805	ATL_se0_ag1_m_02	1966.4168	[and that's] shout out to Uncle /RD-NAME-1/	1968.3289
+1806	ATL_se0_ag1_m_02	1968.4887	because he the one who showed me	1970.1887
+1807	ATL_se0_ag1_m_02	1970.1887	(pause 0.35)	1970.5342
+1808	ATL_se0_ag1_m_02	1970.5342	that all- you know what I'm saying, all these different ways and m- mechanisms and making-	1974.6949
+1809	ATL_se0_ag1_m_02	1974.6949	(pause 0.29)	1974.9888
+1810	ATL_se0_ag1_m_02	1974.9888	making food. M- taught me how to make a omelette	1976.9764
+1811	ATL_se0_ag1_m_02	1976.9764	(pause 0.09)	1977.0713
+1812	ATL_se0_ag1_m_02	1977.0713	type [shit.]	1977.5842
+1813	ATL_int_01	1977.4829	[That's gonna] come in [handy. Shouts out-]	1979.2152
+1814	ATL_se0_ag1_m_02	1977.6782	[<laugh>]	1977.9211
+1815	ATL_se0_ag1_m_02	1977.9211	(pause 0.64)	1978.5656
+1816	ATL_se0_ag1_m_02	1978.5656	[That's definitely] gonna come in handy.	1980.1081
+1817	ATL_int_01	1980.1184	shouts out Uncle /RD-NAME-1/.	1981.1995
+1818	ATL_se0_ag1_m_02	1981.3129	Shout out Uncle /RD-NAME-1/	1982.6844
+1819	ATL_se0_ag1_m_02	1982.6844	(pause 0.53)	1983.2154
+1820	ATL_se0_ag1_m_02	1983.2154	definitely.	1983.9063
+1821	ATL_int_01	1985.4878	Oh man we flowing, god.	1986.8799
+1822	ATL_se0_ag1_m_02	1987.3387	[You know.]	1987.8337
+1823	ATL_int_01	1987.4934	[Thirty] three minutes of,	1988.7566
+1824	ATL_int_01	1988.9370	um,	1989.5454
+1825	ATL_int_01	1989.5454	(pause 0.69)	1990.2349
+1826	ATL_int_01	1990.2349	stuff.	1990.8430
+1827	ATL_se0_ag1_m_02	1990.8677	And we still on the mother fucking airwaves,	1992.9881
+1828	ATL_int_01	1993.2408	We still rolling.	1994.1327
+1829	ATL_se0_ag1_m_02	1994.2358	[<laugh>]	1994.6586
+1830	ATL_int_01	1994.4421	[<laugh>]	1995.1587
+1831	ATL_se0_ag1_m_02	1995.6382	Let's say this again. This is /RD-NAME-2/ AKA /RD-NAME-4/	1999.4573
+1832	ATL_int_01	1999.5192	<imitates music>	2000.2049
+1833	ATL_int_01	2000.2049	(pause 0.88)	2001.0814
+1834	ATL_int_01	2001.0814	Chilling with	2001.7516
+1835	ATL_int_01	2001.7516	(pause 1.03)	2002.7814
+1836	ATL_int_01	2002.7814	/RD-NAME-3/	2003.8538
+1837	ATL_int_01	2003.8538	(pause 0.78)	2004.6324
+1838	ATL_int_01	2004.6324	/RD-NAME-1/,	2005.3078
+1839	ATL_int_01	2005.3078	(pause 0.57)	2005.8749
+1840	ATL_int_01	2005.8749	you already know, /RD-NAME-8/ slaying	2008.9413
+1841	ATL_int_01	2008.9413	(pause 1.09)	2010.0343
+1842	ATL_int_01	2010.0343	everything	2010.7406
+1843	ATL_int_01	2010.7406	(pause 0.66)	2011.4006
+1844	ATL_int_01	2011.4006	including this interview.	2012.4318
+1845	ATL_int_01	2012.4318	(pause 1.97)	2014.4006
+1846	ATL_int_01	2014.4006	Gatorade or Powerade?	2016.0762
+1847	ATL_se0_ag1_m_02	2016.7723	Mm, that's a good one.	2019.0498
+1848	ATL_se0_ag1_m_02	2019.0498	(pause 0.69)	2019.7406
+1849	ATL_se0_ag1_m_02	2019.7406	See,	2020.4057
+1850	ATL_se0_ag1_m_02	2020.4057	(pause 0.67)	2021.0708
+1851	ATL_se0_ag1_m_02	2021.0708	I'm rocking Powerade because it's cheaper.	2023.2775
+1852	ATL_int_01	2023.4463	Mm-hm.	2023.8691
+1853	ATL_se0_ag1_m_02	2024.2506	But	2024.9157
+1854	ATL_int_01	2025.3488	[But.]	2026.0706
+1855	ATL_se0_ag1_m_02	2025.5808	[Gatorade] has a sweeter little taste to [it]	2028.5046
+1856	ATL_int_01	2028.4554	[It] slick do.	2029.1486
+1857	ATL_se0_ag1_m_02	2029.6783	that	2030.1124
+1858	ATL_se0_ag1_m_02	2030.1124	(pause 0.11)	2030.2216
+1859	ATL_se0_ag1_m_02	2030.2216	I really fuck with	2031.5693
+1860	ATL_se0_ag1_m_02	2031.5693	(pause 0.17)	2031.7413
+1861	ATL_se0_ag1_m_02	2031.7413	[because]	2032.6123
+1862	ATL_int_01	2032.3336	[<laugh>]	2032.8749
+1863	ATL_se0_ag1_m_02	2032.7077	[<laugh>]	2033.7411
+1864	ATL_int_01	2034.3031	[/unintelligible/ response.]	2036.2097
+1865	ATL_se0_ag1_m_02	2034.4887	[I actually fu-]	2035.3697
+1866	ATL_se0_ag1_m_02	2035.3697	(pause 0.43)	2035.7975
+1867	ATL_se0_ag1_m_02	2035.7975	[<laugh>]	2036.1250
+1868	ATL_int_01	2036.3850	[I-]	2036.8284
+1869	ATL_se0_ag1_m_02	2036.6535	[because-]	2037.6919
+1870	ATL_int_01	2037.6311	[that] was a great response.	2038.8588
+1871	ATL_se0_ag1_m_02	2039.4771	because,	2040.5031
+1872	ATL_se0_ag1_m_02	2040.5031	(pause 0.13)	2040.6372
+1873	ATL_se0_ag1_m_02	2040.6372	you know, I actually did play football, and I actually like did	2044.6742
+1874	ATL_se0_ag1_m_02	2044.6742	(pause 0.13)	2044.8031
+1875	ATL_se0_ag1_m_02	2044.8031	drink gatorade [during the game. <laugh>]	2047.9313
+1876	ATL_int_01	2046.2247	[Ooh, /unintelligible/]	2049.3904
+1877	ATL_se0_ag1_m_02	2048.3180	[We actually did have] po-	2049.9524
+1878	ATL_se0_ag1_m_02	2050.1895	like Gatorade, like [yeah.]	2052.4052
+1879	ATL_int_01	2051.9979	[Did y'all have] the Gatorade [powder mix?]	2054.3128
+1880	ATL_se0_ag1_m_02	2053.2043	[The- the-]	2053.7251
+1881	ATL_se0_ag1_m_02	2053.7251	(pause 0.33)	2054.0550
+1882	ATL_se0_ag1_m_02	2054.0550	[the] powder mix, bruh.	2055.5281
+1883	ATL_int_01	2055.5302	[<laugh>]	2056.1174
+1884	ATL_se0_ag1_m_02	2055.9833	[The] powder [mix.]	2057.3909
+1885	ATL_int_01	2056.9578	[Even the] powder [mix is sweeter]	2058.7764
+1886	ATL_se0_ag1_m_02	2057.7968	[We had the powder mix] [on lock], [bruh],	2060.2561
+1887	ATL_int_01	2059.1484	[/??/]	2059.6013
+1888	ATL_int_01	2059.6013	(pause 0.63)	2060.2303
+1889	ATL_int_01	2060.2303	[Okay] just [turning them joints up.]	2062.2102
+1890	ATL_se0_ag1_m_02	2061.0450	[definitely.]	2062.0864
+1891	ATL_se0_ag1_m_02	2062.6329	We was in that bitch with that shit, bruh.	2064.5031
+1892	ATL_se0_ag1_m_02	2064.5031	(pause 0.61)	2065.1115
+1893	ATL_se0_ag1_m_02	2065.1115	[Mm.]	2065.5704
+1894	ATL_int_01	2065.2597	[Yeah, we-] we got the Powerade sometime, but most time we had the Gatorade. And you can definitely tell the difference.	2070.4206
+1895	ATL_se0_ag1_m_02	2070.6990	Yeah,	2071.3323
+1896	ATL_se0_ag1_m_02	2071.3323	(pause 0.07)	2071.4070
+1897	ATL_se0_ag1_m_02	2071.4070	you can.	2072.1478
+1898	ATL_int_01	2072.9625	But Pa-	2073.3698
+1899	ATL_int_01	2073.3698	(pause 0.14)	2073.5090
+1900	ATL_int_01	2073.5090	Powerade rock out too, and	2075.1147
+1901	ATL_int_01	2075.1147	(pause 0.11)	2075.2270
+1902	ATL_int_01	2075.2270	it's	2075.4870
+1903	ATL_int_01	2075.4870	(pause 0.17)	2075.6546
+1904	ATL_int_01	2075.6546	definitely clutch.	2076.5341
+1905	ATL_se0_ag1_m_02	2076.7919	Absolutely.	2077.5704
+1906	ATL_se0_ag1_m_02	2077.5704	(pause 0.43)	2078.0035
+1907	ATL_se0_ag1_m_02	2078.0035	[Absolutely.]	2078.9571
+1908	ATL_int_01	2078.9294	[/?/]	2079.2429
+1909	ATL_se0_ag1_m_02	2079.0384	[Powerade]	2079.6740
+1910	ATL_se0_ag1_m_02	2079.9524	[has]	2080.4061
+1911	ATL_int_01	2079.9753	[/Lemon lime/ /??/.]	2081.1021
+1912	ATL_se0_ag1_m_02	2080.6690	[saved] my thirst	2082.0295
+1913	ATL_se0_ag1_m_02	2082.1687	and quenched my thirst so many times.	2084.2104
+1914	ATL_int_01	2084.8690	Look how huge the bottle is.	2087.0499
+1915	ATL_int_01	2087.0499	(pause 0.71)	2087.7553
+1916	ATL_int_01	2087.7553	[Why] [Gatorade] bottles don't be coming like this for real for [real?]	2090.8947
+1917	ATL_se0_ag1_m_02	2087.7802	[N-]	2087.9293
+1918	ATL_se0_ag1_m_02	2087.9293	(pause 0.14)	2088.0697
+1919	ATL_se0_ag1_m_02	2088.0697	[like]	2088.5812
+1920	ATL_se0_ag1_m_02	2088.5812	(pause 2.13)	2090.7157
+1921	ATL_se0_ag1_m_02	2090.7157	[you] n-	2091.0649
+1922	ATL_se0_ag1_m_02	2091.9981	you know they know [why.]	2093.1368
+1923	ATL_int_01	2093.0976	[They] [/?/]	2093.7562
+1924	ATL_se0_ag1_m_02	2093.3708	[They- you] know they know they got the [ingredient.]	2095.4422
+1925	ATL_int_01	2094.8802	[Oh because] Gatorade came out first, and,	2097.1739
+1926	ATL_se0_ag1_m_02	2099.9057	Oh really.	2100.6482
+1927	ATL_int_01	2101.0555	I mean, [they-]	2101.6226
+1928	ATL_se0_ag1_m_02	2101.5195	[I] could believe that.	2102.3341
+1929	ATL_int_01	2102.5648	I mean, they came out first but they-	2104.1528
+1930	ATL_int_01	2104.1528	(pause 0.34)	2104.4930
+1931	ATL_int_01	2104.4930	Powerade coulda made they shit a little bit sweeter, man,	2107.0607
+1932	ATL_se0_ag1_m_02	2107.0864	They could.	2107.7412
+1933	ATL_int_01	2107.8907	in a [cooler] way.	2108.8542
+1934	ATL_se0_ag1_m_02	2108.1685	[n-]	2108.4417
+1935	ATL_se0_ag1_m_02	2109.2099	They could.	2109.8235
+1936	ATL_int_01	2110.7258	Gatorade, when you thirsty,	2112.0907
+1937	ATL_int_01	2112.0907	(pause 0.70)	2112.7875
+1938	ATL_int_01	2112.7875	e-	2112.9139
+1939	ATL_int_01	2112.9139	(pause 0.11)	2113.0193
+1940	ATL_int_01	2113.0193	[it damn near tastes like Kool-Aid]	2114.7983
+1941	ATL_se0_ag1_m_02	2113.1072	[<exhale>]	2114.4013
+1942	ATL_se0_ag1_m_02	2114.8756	Bruh, what?	2115.7341
+1943	ATL_int_01	2115.7437	[<laugh>]	2116.6272
+1944	ATL_se0_ag1_m_02	2115.8857	[I ain't wanna say] that. I ain't wanna go there.	2118.0387
+1945	ATL_int_01	2118.0768	[<laugh> Obviously we] [already took it there]	2121.4376
+1946	ATL_se0_ag1_m_02	2118.3596	[I ain't wanna go to the hood days]	2120.1528
+1947	ATL_se0_ag1_m_02	2120.1528	(pause 0.34)	2120.4941
+1948	ATL_se0_ag1_m_02	2120.4941	[I was like ay, this-] [this shit]	2122.4774
+1949	ATL_int_01	2121.7367	[<laugh>]	2122.7974
+1950	ATL_se0_ag1_m_02	2122.5710	[really] kind of tastes like Kool-Aid, [but it's really] like	2125.3650
+1951	ATL_int_01	2124.2771	[Mm-hm.]	2124.9010
+1952	ATL_se0_ag1_m_02	2125.7465	thirst quencher type [shit.]	2127.0406
+1953	ATL_int_01	2126.9066	[Oh] my gosh I haven't had Kool-Aid in so [long.]	2129.3748
+1954	ATL_se0_ag1_m_02	2129.1686	[Like], bruh.	2130.1946
+1955	ATL_int_01	2130.9267	Why were we drinking that?	2132.1487
+1956	ATL_se0_ag1_m_02	2132.3645	<laugh>	2132.9523
+1957	ATL_int_01	2132.9781	<laugh>	2133.6638
+1958	ATL_int_01	2133.6638	(pause 0.60)	2134.2670
+1959	ATL_int_01	2134.2670	It like a pound of [sugar. It-]	2136.2045
+1960	ATL_se0_ag1_m_02	2135.5715	[Cause you could just] put the sugar in the mother fucking water in that bitch.	2138.5604
+1961	ATL_int_01	2138.8234	The-	2138.9884
+1962	ATL_se0_ag1_m_02	2139.4576	a-	2139.6896
+1963	ATL_se0_ag1_m_02	2139.6896	(pause 0.12)	2139.8082
+1964	ATL_se0_ag1_m_02	2139.8082	[and then],	2140.4372
+1965	ATL_int_01	2139.9783	[so] much sugar.	2141.4477
+1966	ATL_int_01	2141.7261	[<laugh>]	2142.8449
+1967	ATL_se0_ag1_m_02	2142.0870	[put packets in] that mother fucker	2143.7149
+1968	ATL_int_01	2144.0964	Yeah.	2144.5140
+1969	ATL_se0_ag1_m_02	2145.1276	and have a whole gallon.	2146.1691
+1970	ATL_int_01	2146.4689	I ain't even think about mixing it til later [on, like-]	2149.0616
+1971	ATL_se0_ag1_m_02	2148.5357	[That shit- you] save a lot of money, like drinking the Kool-Aid if you think about	2152.2929
+1972	ATL_se0_ag1_m_02	2153.1019	[it was only-]	2153.6489
+1973	ATL_int_01	2153.1516	[Oh yup.]	2153.7984
+1974	ATL_int_01	2153.8964	It was a staple of [the-]	2155.3039
+1975	ATL_se0_ag1_m_02	2155.1492	[it] was a- yeah it only amounted just about three [dollars.]	2157.7890
+1976	ATL_int_01	2157.6859	[/?/] that Kool-Aid.	2158.6899
+1977	ATL_se0_ag1_m_02	2159.3653	Make you some Kool-Aid every week	2161.0977
+1978	ATL_se0_ag1_m_02	2161.0977	(pause 0.35)	2161.4483
+1979	ATL_se0_ag1_m_02	2161.4483	and have- use half a pound	2162.8146
+1980	ATL_int_01	2162.9641	You [was happy-]	2163.9165
+1981	ATL_se0_ag1_m_02	2163.1755	[or a quarter] of-	2164.2362
+1982	ATL_se0_ag1_m_02	2164.3341	<laugh>	2164.5971
+1983	ATL_int_01	2164.6744	you was happy as shit you got fucking Kool-Aid,	2167.3348
+1984	ATL_se0_ag1_m_02	2167.5411	[<laugh>]	2168.0721
+1985	ATL_int_01	2167.8556	[rocking.]	2168.3196
+1986	ATL_se0_ag1_m_02	2169.6550	As long as a nigga had Kool-Aid, bruh,	2171.4478
+1987	ATL_int_01	2171.5973	[/unintelligible/] no sugar.	2173.2008
+1988	ATL_se0_ag1_m_02	2171.7881	[we good.]	2172.3758
+1989	ATL_se0_ag1_m_02	2173.3864	E- oh no, that- that's a whole nother stress right there.	2176.8033
+1990	ATL_int_01	2176.9322	Mm-hm.	2177.5303
+1991	ATL_se0_ag1_m_02	2178.0871	Kool-Aid no sugar.	2179.2008
+1992	ATL_int_01	2179.6287	Oh my god, that's the worst.	2181.0466
+1993	ATL_int_01	2181.0466	(pause 1.62)	2182.6641
+1994	ATL_int_01	2182.6641	I remember drinking Kool-Aid with no sugar and just how horrible that was tasting.	2186.7527
+1995	ATL_se0_ag1_m_02	2187.1755	[<exhale>]	2188.2826
+1996	ATL_int_01	2187.7220	[Ah.]	2188.6538
+1997	ATL_se0_ag1_m_02	2188.9113	<sound effect>	2190.4890
+1998	ATL_se0_ag1_m_02	2190.4890	(pause 1.59)	2192.0770
+1999	ATL_se0_ag1_m_02	2192.0770	Just might as well drink some water.	2193.3917
+2000	ATL_se0_ag1_m_02	2193.3917	(pause 0.46)	2193.8506
+2001	ATL_se0_ag1_m_02	2193.8506	[<laugh>]	2194.5762
+2002	ATL_int_01	2194.1946	[Nah, definitely]	2194.9355
+2003	ATL_int_01	2195.0199	all of that.	2195.7053
+2004	ATL_int_01	2195.7053	(pause 0.29)	2195.9940
+2005	ATL_int_01	2195.9940	You know about, um,	2197.2778
+2006	ATL_int_01	2197.2778	(pause 1.40)	2198.6802
+2007	ATL_int_01	2198.6802	the alkaline water and stuff like that?	2200.6277
+2008	ATL_se0_ag1_m_02	2201.8548	And that's	2202.3704
+2009	ATL_se0_ag1_m_02	2202.3704	(pause 0.12)	2202.4890
+2010	ATL_se0_ag1_m_02	2202.4890	pretty much the healthiest of the healthiest water. (whispered)	2204.6957
+2011	ATL_int_01	2207.4166	Okay.	2207.9734
+2012	ATL_int_01	2207.9734	(pause 0.39)	2208.3601
+2013	ATL_int_01	2208.3601	Brother conscious is woke up out this thing, man.	2211.6186
+2014	ATL_int_01	2211.6186	(pause 0.64)	2212.2565
+2015	ATL_int_01	2212.2565	If you don't mind,	2213.1278
+2016	ATL_int_01	2213.1278	(pause 0.47)	2213.5970
+2017	ATL_int_01	2213.5970	do you have any, um,	2215.3809
+2018	ATL_int_01	2215.3809	(pause 1.20)	2216.5823
+2019	ATL_int_01	2216.5823	brother conscious, um,	2218.3906
+2020	ATL_int_01	2218.3906	(pause 2.50)	2220.8860
+2021	ATL_int_01	2220.8860	I don't know	2221.4610
+2022	ATL_int_01	2221.4610	(pause 0.09)	2221.5476
+2023	ATL_int_01	2221.5476	soliloquies that you would like to,	2223.6650
+2024	ATL_int_01	2223.6650	(pause 2.06)	2225.7208
+2025	ATL_int_01	2225.7208	you know, go on.	2226.6488
+2026	ATL_se0_ag1_m_02	2227.7986	Well,	2228.2781
+2027	ATL_se0_ag1_m_02	2228.2781	(pause 2.01)	2230.2926
+2028	ATL_se0_ag1_m_02	2230.2926	actually,	2231.1072
+2029	ATL_se0_ag1_m_02	2231.1072	(pause 1.15)	2232.2621
+2030	ATL_se0_ag1_m_02	2232.2621	you know, there's	2233.0303
+2031	ATL_se0_ag1_m_02	2233.0303	(pause 1.06)	2234.0925
+2032	ATL_se0_ag1_m_02	2234.0925	o-	2234.3245
+2033	ATL_se0_ag1_m_02	2234.3245	(pause 0.19)	2234.5152
+2034	ATL_se0_ag1_m_02	2234.5152	there's [just-]	2235.0662
+2035	ATL_int_01	2234.9329	[you] definitely [been posting some cool shit on] your	2237.2774
+2036	ATL_se0_ag1_m_02	2235.4469	[biggest thing that- yeah.]	2237.0454
+2037	ATL_int_01	2237.6589	Instagram.	2238.3343
+2038	ATL_se0_ag1_m_02	2239.5769	And I'll go into that.	2240.4224
+2039	ATL_se0_ag1_m_02	2240.4224	(pause 1.15)	2241.5720
+2040	ATL_se0_ag1_m_02	2241.5720	[So-]	2242.1225
+2041	ATL_int_01	2241.6404	[/??/] still going.	2242.8649
+2042	ATL_se0_ag1_m_02	2243.3238	right, [right], right.	2245.7986
+2043	ATL_int_01	2244.1745	[<laugh>]	2244.8551
+2044	ATL_se0_ag1_m_02	2248.8288	Man, you know, my- my biggest	2251.0149
+2045	ATL_se0_ag1_m_02	2251.0149	(pause 0.94)	2251.9532
+2046	ATL_se0_ag1_m_02	2251.9532	advice to all the artists that's	2253.6750
+2047	ATL_se0_ag1_m_02	2253.6750	(pause 0.08)	2253.7535
+2048	ATL_se0_ag1_m_02	2253.7535	starting out	2254.6741
+2049	ATL_se0_ag1_m_02	2254.6741	(pause 0.19)	2254.8649
+2050	ATL_se0_ag1_m_02	2254.8649	and	2255.3599
+2051	ATL_se0_ag1_m_02	2255.3599	(pause 0.53)	2255.8858
+2052	ATL_se0_ag1_m_02	2255.8858	really looking to	2257.4738
+2053	ATL_se0_ag1_m_02	2257.4738	(pause 0.25)	2257.7264
+2054	ATL_se0_ag1_m_02	2257.7264	have longevity	2258.9638
+2055	ATL_se0_ag1_m_02	2258.9638	(pause 0.54)	2259.5051
+2056	ATL_se0_ag1_m_02	2259.5051	with what they doing,	2260.4937
+2057	ATL_se0_ag1_m_02	2260.4937	(pause 1.03)	2261.5248
+2058	ATL_se0_ag1_m_02	2261.5248	you know, just	2262.4220
+2059	ATL_se0_ag1_m_02	2262.4220	(pause 0.49)	2262.9169
+2060	ATL_se0_ag1_m_02	2262.9169	creating the mindset of	2264.6905
+2061	ATL_se0_ag1_m_02	2264.6905	(pause 0.47)	2265.1597
+2062	ATL_se0_ag1_m_02	2265.1597	consistency	2266.1638
+2063	ATL_se0_ag1_m_02	2266.1638	(pause 0.11)	2266.2736
+2064	ATL_se0_ag1_m_02	2266.2736	and	2266.7072
+2065	ATL_se0_ag1_m_02	2266.7072	(pause 0.12)	2266.8243
+2066	ATL_se0_ag1_m_02	2266.8243	persistence.	2267.6177
+2067	ATL_se0_ag1_m_02	2267.6177	(pause 0.63)	2268.2467
+2068	ATL_se0_ag1_m_02	2268.2467	You know,	2268.6210
+2069	ATL_se0_ag1_m_02	2268.6210	(pause 0.15)	2268.7677
+2070	ATL_se0_ag1_m_02	2268.7677	things happen to where	2270.7782
+2071	ATL_se0_ag1_m_02	2270.7782	(pause 1.17)	2271.9472
+2072	ATL_se0_ag1_m_02	2271.9472	the b-	2273.0039
+2073	ATL_se0_ag1_m_02	2273.0039	(pause 0.11)	2273.1144
+2074	ATL_se0_ag1_m_02	2273.1144	bumps in the road come, and you start	2275.3500
+2075	ATL_se0_ag1_m_02	2275.3500	(pause 0.57)	2275.9223
+2076	ATL_se0_ag1_m_02	2275.9223	thinking like,	2276.5304
+2077	ATL_se0_ag1_m_02	2276.5304	(pause 0.10)	2276.6295
+2078	ATL_se0_ag1_m_02	2276.6295	I can't do this anymore.	2278.0671
+2079	ATL_se0_ag1_m_02	2278.0671	(pause 0.44)	2278.5091
+2080	ATL_se0_ag1_m_02	2278.5091	What I'm doing right now	2279.9476
+2081	ATL_se0_ag1_m_02	2279.9476	(pause 1.75)	2281.6955
+2082	ATL_se0_ag1_m_02	2281.6955	is	2282.3090
+2083	ATL_se0_ag1_m_02	2282.3090	(pause 0.31)	2282.6183
+2084	ATL_se0_ag1_m_02	2282.6183	pretty much	2283.3041
+2085	ATL_se0_ag1_m_02	2283.3041	(pause 0.20)	2283.5051
+2086	ATL_se0_ag1_m_02	2283.5051	giving up on myself.	2284.6948
+2087	ATL_se0_ag1_m_02	2284.6948	(pause 2.30)	2286.9943
+2088	ATL_se0_ag1_m_02	2286.9943	I'm like, nah nah nah nah.	2288.3709
+2089	ATL_se0_ag1_m_02	2288.3709	(pause 0.75)	2289.1185
+2090	ATL_se0_ag1_m_02	2289.1185	I gotta find	2290.1084
+2091	ATL_se0_ag1_m_02	2290.1084	(pause 0.61)	2290.7154
+2092	ATL_se0_ag1_m_02	2290.7154	a better way	2291.4990
+2093	ATL_se0_ag1_m_02	2291.4990	(pause 0.12)	2291.6237
+2094	ATL_se0_ag1_m_02	2291.6237	to get this money	2292.4220
+2095	ATL_se0_ag1_m_02	2292.4220	(pause 0.42)	2292.8396
+2096	ATL_se0_ag1_m_02	2292.8396	because, you know, what it all comes down to is	2294.7627
+2097	ATL_se0_ag1_m_02	2294.7627	(pause 0.41)	2295.1752
+2098	ATL_se0_ag1_m_02	2295.1752	niggas be broke,	2295.9736
+2099	ATL_se0_ag1_m_02	2295.9736	(pause 0.10)	2296.0780
+2100	ATL_se0_ag1_m_02	2296.0780	and they be like, yo hold up.	2297.6434
+2101	ATL_se0_ag1_m_02	2297.6434	(pause 0.95)	2298.5973
+2102	ATL_se0_ag1_m_02	2298.5973	But there's	2299.3809
+2103	ATL_se0_ag1_m_02	2299.3809	(pause 0.22)	2299.6026
+2104	ATL_se0_ag1_m_02	2299.6026	a thing that we have to realize, you know.	2302.1960
+2105	ATL_se0_ag1_m_02	2302.1960	(pause 2.00)	2304.1951
+2106	ATL_se0_ag1_m_02	2304.1951	Whatever we do,	2305.6697
+2107	ATL_se0_ag1_m_02	2305.6697	(pause 0.10)	2305.7728
+2108	ATL_se0_ag1_m_02	2305.7728	our time is precious.	2307.2061
+2109	ATL_se0_ag1_m_02	2307.2061	(pause 3.05)	2310.2518
+2110	ATL_se0_ag1_m_02	2310.2518	It's all gonna add up in the end.	2311.7006
+2111	ATL_se0_ag1_m_02	2311.7006	(pause 0.46)	2312.1595
+2112	ATL_se0_ag1_m_02	2312.1595	And	2312.6647
+2113	ATL_se0_ag1_m_02	2312.6647	(pause 1.29)	2313.9589
+2114	ATL_se0_ag1_m_02	2313.9589	it's just like,	2314.6690
+2115	ATL_se0_ag1_m_02	2314.6690	(pause 0.65)	2315.3186
+2116	ATL_se0_ag1_m_02	2315.3186	you know,	2315.9322
+2117	ATL_se0_ag1_m_02	2315.9322	(pause 0.42)	2316.3549
+2118	ATL_se0_ag1_m_02	2316.3549	at the end of the day, what football taught me	2318.5204
+2119	ATL_se0_ag1_m_02	2318.5204	(pause 0.23)	2318.7472
+2120	ATL_se0_ag1_m_02	2318.7472	was just	2319.4433
+2121	ATL_se0_ag1_m_02	2319.4433	(pause 1.42)	2320.8649
+2122	ATL_se0_ag1_m_02	2320.8649	that struggle is, you know what I'm saying, necessary	2323.5769
+2123	ATL_se0_ag1_m_02	2323.5769	(pause 0.29)	2323.8656
+2124	ATL_se0_ag1_m_02	2323.8656	to get to the top	2324.9689
+2125	ATL_se0_ag1_m_02	2324.9689	(pause 0.12)	2325.0875
+2126	ATL_se0_ag1_m_02	2325.0875	of what you trying to get to.	2326.2668
+2127	ATL_se0_ag1_m_02	2326.2668	(pause 0.87)	2327.1330
+2128	ATL_se0_ag1_m_02	2327.1330	You have to struggle a little bit.	2328.8963
+2129	ATL_se0_ag1_m_02	2328.8963	(pause 3.15)	2332.0465
+2130	ATL_se0_ag1_m_02	2332.0465	Hold on.	2332.4215
+2131	ATL_se0_ag1_m_02	2332.4215	(pause 2.93)	2335.3552
+2132	ATL_se0_ag1_m_02	2335.3552	So	2335.9481
+2133	ATL_int_01	2338.1747	I [think-]	2338.7470
+2134	ATL_se0_ag1_m_02	2338.5253	[I heard] this poem,	2339.4585
+2135	ATL_se0_ag1_m_02	2340.4742	and this is	2341.4215
+2136	ATL_se0_ag1_m_02	2341.4215	(pause 0.37)	2341.7927
+2137	ATL_se0_ag1_m_02	2341.7927	a poem	2342.4888
+2138	ATL_se0_ag1_m_02	2342.4888	(pause 2.92)	2345.4121
+2139	ATL_se0_ag1_m_02	2345.4121	called Invictus,	2346.8815
+2140	ATL_se0_ag1_m_02	2346.8815	(pause 1.00)	2347.8855
+2141	ATL_se0_ag1_m_02	2347.8855	and this is by William Ernest Henley.	2350.2417
+2142	ATL_se0_ag1_m_02	2350.2417	(pause 0.79)	2351.0357
+2143	ATL_se0_ag1_m_02	2351.0357	<laugh>	2351.3245
+2144	ATL_se0_ag1_m_02	2351.3245	(pause 1.94)	2353.2675
+2145	ATL_se0_ag1_m_02	2353.2675	Out of the night that covers me,	2354.9844
+2146	ATL_se0_ag1_m_02	2354.9844	(pause 0.94)	2355.9265
+2147	ATL_se0_ag1_m_02	2355.9265	black as the pit from pole to pole,	2358.2467
+2148	ATL_se0_ag1_m_02	2358.2467	(pause 0.86)	2359.1077
+2149	ATL_se0_ag1_m_02	2359.1077	I thank whatever gods may be	2361.0102
+2150	ATL_se0_ag1_m_02	2361.0102	(pause 0.62)	2361.6275
+2151	ATL_se0_ag1_m_02	2361.6275	for my unconquerable soul.	2363.7878
+2152	ATL_se0_ag1_m_02	2363.7878	(pause 1.34)	2365.1232
+2153	ATL_se0_ag1_m_02	2365.1232	In the fell clutch of circumstance I have not winced nor cried aloud.	2369.0763
+2154	ATL_se0_ag1_m_02	2369.0763	(pause 1.07)	2370.1435
+2155	ATL_se0_ag1_m_02	2370.1435	Under the bludgeonings of chance	2372.0409
+2156	ATL_se0_ag1_m_02	2372.0409	(pause 0.52)	2372.5616
+2157	ATL_se0_ag1_m_02	2372.5616	my head is bloody	2373.6237
+2158	ATL_se0_ag1_m_02	2373.6237	(pause 0.64)	2374.2617
+2159	ATL_se0_ag1_m_02	2374.2617	but unbowed.	2375.2774
+2160	ATL_se0_ag1_m_02	2375.2774	(pause 1.24)	2376.5199
+2161	ATL_se0_ag1_m_02	2376.5199	Beyond this place of wrath and tears looms but the horror of the shade,	2379.9640
+2162	ATL_se0_ag1_m_02	2379.9640	(pause 0.55)	2380.5091
+2163	ATL_se0_ag1_m_02	2380.5091	and yet	2380.8752
+2164	ATL_se0_ag1_m_02	2380.8752	(pause 0.40)	2381.2722
+2165	ATL_se0_ag1_m_02	2381.2722	the menace of the years	2382.4220
+2166	ATL_se0_ag1_m_02	2382.4220	(pause 0.48)	2382.9015
+2167	ATL_se0_ag1_m_02	2382.9015	finds and shall find me	2384.5462
+2168	ATL_se0_ag1_m_02	2384.5462	(pause 0.54)	2385.0875
+2169	ATL_se0_ag1_m_02	2385.0875	unafraid.	2385.8867
+2170	ATL_se0_ag1_m_02	2385.8867	(pause 1.35)	2387.2413
+2171	ATL_se0_ag1_m_02	2387.2413	It matters not how strait	2388.6442
+2172	ATL_se0_ag1_m_02	2388.6442	(pause 0.08)	2388.7264
+2173	ATL_se0_ag1_m_02	2388.7264	the gate,	2389.0922
+2174	ATL_se0_ag1_m_02	2389.0922	(pause 0.90)	2389.9945
+2175	ATL_se0_ag1_m_02	2389.9945	how charged with punishments the scroll,	2392.2359
+2176	ATL_se0_ag1_m_02	2392.2359	(pause 1.26)	2393.4991
+2177	ATL_se0_ag1_m_02	2393.4991	I	2394.0978
+2178	ATL_se0_ag1_m_02	2394.0978	(pause 0.07)	2394.1694
+2179	ATL_se0_ag1_m_02	2394.1694	am the master of my fate.	2395.7367
+2180	ATL_se0_ag1_m_02	2395.7367	(pause 0.93)	2396.6699
+2181	ATL_se0_ag1_m_02	2396.6699	I am	2397.6083
+2182	ATL_se0_ag1_m_02	2397.6083	(pause 0.43)	2398.0348
+2183	ATL_se0_ag1_m_02	2398.0348	the captain of my soul.	2399.5094
+2184	ATL_se0_ag1_m_02	2399.5094	(pause 5.48)	2404.9938
+2185	ATL_se0_ag1_m_02	2404.9938	So	2405.4681
+2186	ATL_int_01	2405.8033	That was dope as well, man.	2407.0200
+2187	ATL_int_01	2407.0200	(pause 2.64)	2409.6584
+2188	ATL_int_01	2409.6584	Oh man, well,	2411.1588
+2189	ATL_int_01	2411.1588	(pause 0.53)	2411.6847
+2190	ATL_int_01	2411.6847	I appreciate you for your time [though, man]	2414.2935
+2191	ATL_se0_ag1_m_02	2413.4841	[Definitely], definitely.	2415.1597
+2192	ATL_int_01	2415.6481	and the words of wisdom	2417.4527
+2193	ATL_int_01	2417.4527	(pause 0.33)	2417.7826
+2194	ATL_int_01	2417.7826	and	2418.2673
+2195	ATL_int_01	2418.2673	(pause 1.17)	2419.4377
+2196	ATL_int_01	2419.4377	just, you know,	2420.3863
+2197	ATL_int_01	2420.3863	(pause 0.89)	2421.2731
+2198	ATL_int_01	2421.2731	everything. I'm excited	2422.9474
+2199	ATL_int_01	2422.9474	(pause 0.36)	2423.3031
+2200	ATL_int_01	2423.3031	about your future.	2424.3962
+2201	ATL_int_01	2424.3962	(pause 0.69)	2425.0819
+2202	ATL_int_01	2425.0819	Definitely gonna	2425.8604
+2203	ATL_se0_ag1_m_02	2425.9378	I appreciate [that.]	2426.9122
+2204	ATL_int_01	2426.7266	[be in] touch after this interview,	2428.5143
+2205	ATL_int_01	2429.0196	and, um,	2429.6589
+2206	ATL_int_01	2429.6589	(pause 1.28)	2430.9427
+2207	ATL_int_01	2430.9427	it's /RD-NAME-3/, and	2432.4121
+2208	ATL_int_01	2432.4121	(pause 0.70)	2433.1133
+2209	ATL_int_01	2433.1133	I'm signing off. This is a wrap.	2434.6288
