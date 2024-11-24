@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 from torch.utils.data import Dataset
 
-class AAVE_SAE_Dataset(Dataset):
+class Source_Target_Dataset(Dataset):
 
     def __init__(self, dataset, tokenizer_src, tokenizer_target, source_lang, target_lang, seq_len) -> None:
         """
