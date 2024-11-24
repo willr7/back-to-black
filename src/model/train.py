@@ -9,23 +9,20 @@ from config import get_config, get_weights_file_path
 from dataset import Source_Target_Dataset, causal_mask
 from datasets import Dataset as HuggingFaceDataset
 
-from dataset import Source_Target_Dataset, causal_mask
+
 from model import build_transformer
 from config import get_weights_file_path, get_config
 
-from datasets import load_dataset
 from tokenizers import Tokenizer
-from tokenizers.models import BPE
+from tokenizers.models import WordLevel
 from tokenizers.pre_tokenizers import Whitespace
-from tokenizers.trainers import BpeTrainer
+from tokenizers.trainers import WordLevelTrainer
 from torch.utils.data import DataLoader, Dataset, random_split
 from torch.utils.tensorboard import SummaryWriter
 from tqdm import tqdm
 
 from model import build_transformer
 
-SOURCE_LANGUAGE = "AAVE"
-TARGET_LANGUAGE = "SAE"
 
 def beam_search(model, beam_size, encoder_input, encoder_mask, tokenizer_source, tokenizer_target, max_len, device):
     """
@@ -101,6 +98,7 @@ def beam_search(model, beam_size, encoder_input, encoder_mask, tokenizer_source,
 
     # return the best beam after beam search
     return beam_list[0][0].squeeze()
+
 
 def greedy_decode(model, sentence, tokenizer_src, tokenizer_tgt, max_len, device):
     with torch.no_grad():
@@ -259,9 +257,9 @@ def get_all_sentences(ds, lang):
 def get_or_build_tokenizer(config, ds, lang):
     tokenizer_path = Path(config["tokenizer_file"].format(lang))
     if not Path.exists(tokenizer_path):
-        tokenizer = Tokenizer(BPE(unk_token="[UNK]"))
-        trainer = BpeTrainer(
-            vocab_size=500,
+        tokenizer = Tokenizer(WordLevel(unk_token="[UNK]"))
+        trainer = WordLevelTrainer(
+            vocab_size=config["vocab_size"],
             special_tokens=["[UNK]", "[PAD]", "[SOS]", "[EOS]"],
         )
         tokenizer.train_from_iterator(get_all_sentences(ds, lang), trainer=trainer)
@@ -289,7 +287,7 @@ def get_ds(config):
     source_file_path = f"{config['data_folder']}{config['lang_src']}_samples.txt"
     target_file_path = f"{config['data_folder']}{config['lang_tgt']}_samples.txt"
 
-    dataset_raw = load_source_target_dataset(source_file_path, target_file_path, SOURCE_LANGUAGE, TARGET_LANGUAGE)
+    dataset_raw = load_source_target_dataset(source_file_path, target_file_path, config["lang_src"], config["lang_tgt"])
 
     # Build tokenizers
     tokenizer_source = get_or_build_tokenizer(config, dataset_raw, config["lang_src"])

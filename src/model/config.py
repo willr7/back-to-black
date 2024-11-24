@@ -4,10 +4,10 @@ from pathlib import Path
 def get_config():
 
     return {
-        "batch_size": 7,
-        "num_epochs": 20,
-        "lr": 10**-4,
-        "seq_len": 135,
+        "batch_size": 16,
+        "num_epochs": 5,
+        "lr": 10**-6,
+        "seq_len": 250,
         "d_model": 512,
         "lang_src": "AAVE",
         "lang_tgt": "SAE",
