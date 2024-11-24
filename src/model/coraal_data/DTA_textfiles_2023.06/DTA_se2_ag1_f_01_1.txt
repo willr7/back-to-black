@@ -1,0 +1,1626 @@
+Line	Spkr	StTime	Content	EnTime
+1	DTA_int_04	0.6244	Uh, what kind of games do you usually play around here?	2.9501
+2	DTA_se2_ag1_f_01	3.8838	Sometimes we play tag	5.9684
+3	DTA_se2_ag1_f_01	5.9684	(pause 0.51)	6.4780
+4	DTA_se2_ag1_f_01	6.4780	or frozen tag.	7.8578
+5	DTA_se2_ag1_f_01	7.8578	(pause 2.32)	10.1828
+6	DTA_se2_ag1_f_01	10.1828	Or we'll go to the playground and swing.	12.7404
+7	DTA_int_04	12.8929	Mm-hm.	13.4292
+8	DTA_int_04	13.4292	(pause 0.53)	13.9585
+9	DTA_int_04	13.9585	Uh, how do you play frozen tag?	15.4519
+10	DTA_se2_ag1_f_01	16.4093	When somebody taps you,	17.9806
+11	DTA_se2_ag1_f_01	17.9806	(pause 0.27)	18.2522
+12	DTA_se2_ag1_f_01	18.2522	you supposed to stand still, then another person	21.0142
+13	DTA_se2_ag1_f_01	21.0142	(pause 0.32)	21.3315
+14	DTA_se2_ag1_f_01	21.3315	will run past and they will unfroze you.	23.8342
+15	DTA_se2_ag1_f_01	23.8342	(pause 0.25)	24.0844
+16	DTA_se2_ag1_f_01	24.0844	And then you can r- you can start back running again.	27.1149
+17	DTA_int_04	27.2430	Mm-hm.	27.5623
+18	DTA_int_04	27.5623	(pause 0.41)	27.9753
+19	DTA_int_04	27.9753	Any other games you play like that?	29.5932
+20	DTA_se2_ag1_f_01	30.8319	No.	31.2385
+21	DTA_int_04	32.7457	Do you ever play any games where you go and hide and somebody goes looking for you?	35.8013
+22	DTA_se2_ag1_f_01	36.0813	[Yes.]	36.7954
+23	DTA_int_04	36.6092	[Yeah.] How do you play that?	37.4826
+24	DTA_se2_ag1_f_01	37.9951	Hide and go seek.	38.9440
+25	DTA_se2_ag1_f_01	38.9440	(pause 1.18)	40.1243
+26	DTA_se2_ag1_f_01	40.1243	See first-	41.0669
+27	DTA_se2_ag1_f_01	41.0669	(pause 0.67)	41.7335
+28	DTA_se2_ag1_f_01	41.7335	one person hides his eyes	44.0318
+29	DTA_se2_ag1_f_01	44.0318	(pause 0.27)	44.3002
+30	DTA_se2_ag1_f_01	44.3002	and-	44.5626
+31	DTA_se2_ag1_f_01	44.5626	(pause 0.47)	45.0356
+32	DTA_se2_ag1_f_01	45.0356	and then,	45.9600
+33	DTA_se2_ag1_f_01	45.9600	(pause 2.33)	48.2949
+34	DTA_se2_ag1_f_01	48.2949	um,	48.7892
+35	DTA_se2_ag1_f_01	48.7892	(pause 0.48)	49.2720
+36	DTA_se2_ag1_f_01	49.2720	let's see. One person hides his eyes and the other	51.8899
+37	DTA_se2_ag1_f_01	51.8899	(pause 0.22)	52.1095
+38	DTA_se2_ag1_f_01	52.1095	person-	52.7328
+39	DTA_se2_ag1_f_01	52.7328	(pause 0.32)	53.0501
+40	DTA_se2_ag1_f_01	53.0501	the other kids have to go and hide.	55.0821
+41	DTA_int_04	55.7053	Mm-hm.	56.2087
+42	DTA_se2_ag1_f_01	56.8464	And then	57.5786
+43	DTA_se2_ag1_f_01	57.5786	(pause 0.31)	57.8929
+44	DTA_se2_ag1_f_01	57.8929	when	58.2385
+45	DTA_se2_ag1_f_01	58.2385	(pause 0.25)	58.4887
+46	DTA_se2_ag1_f_01	58.4887	the, uh,	58.8823
+47	DTA_se2_ag1_f_01	58.8823	(pause 0.18)	59.0653
+48	DTA_se2_ag1_f_01	59.0653	they'll, uh,	59.9623
+49	DTA_se2_ag1_f_01	59.9623	(pause 0.24)	60.2003
+50	DTA_se2_ag1_f_01	60.2003	try to catch	60.8777
+51	DTA_se2_ag1_f_01	60.8777	(pause 0.09)	60.9692
+52	DTA_se2_ag1_f_01	60.9692	them. And then they'll have to say,	62.5138
+53	DTA_se2_ag1_f_01	62.5138	(pause 0.38)	62.8922
+54	DTA_se2_ag1_f_01	62.8922	one two three, for somebody.	64.7999
+55	DTA_int_04	65.0897	Mm-hm.	65.4955
+56	DTA_int_04	65.4955	(pause 0.70)	66.1912
+57	DTA_int_04	66.1912	How do you pick the person who's it?	67.7063
+58	DTA_se2_ag1_f_01	68.5413	We have to- um,	69.6641
+59	DTA_se2_ag1_f_01	69.6641	(pause 0.20)	69.8685
+60	DTA_se2_ag1_f_01	69.8685	we have to say, uh, like I struck a match and it went out.	73.3605
+61	DTA_se2_ag1_f_01	73.3605	(pause 0.33)	73.6931
+62	DTA_se2_ag1_f_01	73.6931	And then we'll-	74.4559
+63	DTA_se2_ag1_f_01	74.4559	(pause 0.20)	74.6603
+64	DTA_se2_ag1_f_01	74.6603	then the last person	76.0463
+65	DTA_se2_ag1_f_01	76.0463	(pause 0.38)	76.4215
+66	DTA_se2_ag1_f_01	76.4215	will be it.	77.1935
+67	DTA_int_04	78.1851	Mm-hm.	78.5769
+68	DTA_int_04	78.5769	(pause 0.34)	78.9143
+69	DTA_int_04	78.9143	Anything else you say to pick the person who's it?	81.0600
+70	DTA_se2_ag1_f_01	81.8899	Engine engine number nine.	83.4790
+71	DTA_int_04	83.7793	Uh-huh. How's it go?	84.6183
+72	DTA_se2_ag1_f_01	85.0180	Engine engine number nine, going down	87.3102
+73	DTA_se2_ag1_f_01	87.3102	(pause 0.15)	87.4566
+74	DTA_se2_ag1_f_01	87.4566	/cla/-	87.7396
+75	DTA_se2_ag1_f_01	87.7396	(pause 0.19)	87.9295
+76	DTA_se2_ag1_f_01	87.9295	Chicago line. If the tree should-	89.7518
+77	DTA_se2_ag1_f_01	89.7518	(pause 0.49)	90.2461
+78	DTA_se2_ag1_f_01	90.2461	if the train should jump the track, do you want your money back?	93.1616
+79	DTA_se2_ag1_f_01	93.1616	(pause 0.76)	93.9173
+80	DTA_se2_ag1_f_01	93.9173	And then you have to answer yes or no.	96.2430
+81	DTA_int_04	96.6641	Uh-huh. Anything else you have to say?	98.3552
+82	DTA_se2_ag1_f_01	98.9959	No.	99.3986
+83	DTA_int_04	99.5909	Any other-	100.0646
+84	DTA_int_04	100.0646	(pause 0.12)	100.1850
+85	DTA_int_04	100.1850	any other rhymes you say to pick people?	102.3498
+86	DTA_int_04	102.3498	(pause 1.94)	104.2941
+87	DTA_int_04	104.2941	What are [the ones?]	105.2302
+88	DTA_se2_ag1_f_01	104.5108	[Hm.]	104.9044
+89	DTA_se2_ag1_f_01	106.0554	Um.	106.4414
+90	DTA_int_04	108.4963	/Think again/.	108.9976
+91	DTA_se2_ag1_f_01	109.9524	Bubble gum, bubble gum in the dish. How many bubble gums do you wish?	113.6511
+92	DTA_int_04	114.8014	Mm-hm.	115.2720
+93	DTA_int_04	115.2720	(pause 0.69)	115.9616
+94	DTA_int_04	115.9616	Uh, any other games you p- play like that with your friends around here?	119.0348
+95	DTA_se2_ag1_f_01	121.1286	Um,	121.7755
+96	DTA_se2_ag1_f_01	121.7755	(pause 0.51)	122.2850
+97	DTA_se2_ag1_f_01	122.2850	no.	122.6542
+98	DTA_int_04	122.6877	<laugh>	123.3582
+99	DTA_se2_ag1_f_01	123.9692	Which ones, /Pat/?	124.9151
+100	DTA_int_04	127.0646	Any games you play.	128.1660
+101	DTA_int_04	128.1660	(pause 1.18)	129.3498
+102	DTA_int_04	129.3498	Do you ever jump rope?	130.6809
+103	DTA_se2_ag1_f_01	130.8823	[Yes.]	131.5809
+104	DTA_int_04	131.3948	[Okay,] what do you do when you jump rope?	133.0130
+105	DTA_se2_ag1_f_01	133.7816	We have to d- we have to jump up and down.	136.3270
+106	DTA_se2_ag1_f_01	136.3270	(pause 0.24)	136.5680
+107	DTA_se2_ag1_f_01	136.5680	And then when you miss, the other person have to take an end.	140.2057
+108	DTA_int_04	140.5291	Uh-huh.	140.9227
+109	DTA_int_04	140.9227	(pause 0.81)	141.7373
+110	DTA_int_04	141.7373	What do you say when you jump up and down?	143.7188
+111	DTA_se2_ag1_f_01	144.2766	You can say, um,	145.5192
+112	DTA_se2_ag1_f_01	145.5192	(pause 0.21)	145.7297
+113	DTA_se2_ag1_f_01	145.7297	teddy bear	146.8718
+114	DTA_se2_ag1_f_01	146.8718	(pause 0.14)	147.0142
+115	DTA_se2_ag1_f_01	147.0142	or something like [that.]	148.2950
+116	DTA_int_04	147.8022	[How do you say] that?	148.4552
+117	DTA_se2_ag1_f_01	148.5344	Teddy bear, teddy bear turn all around.	150.8777
+118	DTA_se2_ag1_f_01	150.8777	(pause 0.30)	151.1810
+119	DTA_se2_ag1_f_01	151.1810	Teddy bear, teddy bear touch the ground.	153.3274
+120	DTA_se2_ag1_f_01	153.3274	(pause 0.47)	153.7953
+121	DTA_se2_ag1_f_01	153.7953	Teddy bear, teddy bear reads the news.	156.1942
+122	DTA_se2_ag1_f_01	156.1942	(pause 0.10)	156.2918
+123	DTA_se2_ag1_f_01	156.2918	Teddy bear, teddy bear	157.5253
+124	DTA_se2_ag1_f_01	157.5253	(pause 0.22)	157.7450
+125	DTA_se2_ag1_f_01	157.7450	shine your shoes.	158.8885
+126	DTA_se2_ag1_f_01	158.8885	(pause 0.12)	159.0050
+127	DTA_se2_ag1_f_01	159.0050	Teddy bear, teddy bear go up the stair.	161.1691
+128	DTA_se2_ag1_f_01	161.1691	(pause 0.32)	161.4894
+129	DTA_se2_ag1_f_01	161.4894	Teddy bear, teddy bear say your prayer.	163.8192
+130	DTA_se2_ag1_f_01	163.8192	(pause 0.30)	164.1173
+131	DTA_se2_ag1_f_01	164.1173	S- teddy bear, teddy bear	165.9517
+132	DTA_se2_ag1_f_01	165.9517	(pause 0.27)	166.2202
+133	DTA_se2_ag1_f_01	166.2202	turn off the light.	167.0958
+134	DTA_se2_ag1_f_01	167.0958	(pause 0.13)	167.2240
+135	DTA_se2_ag1_f_01	167.2240	Teddy bear, teddy bear spell goodnight.	169.5111
+136	DTA_int_04	169.9097	Mkay.	170.4925
+137	DTA_int_04	170.4925	(pause 0.47)	170.9623
+138	DTA_int_04	170.9623	Do you ever say any other rhymes when you play?	173.0318
+139	DTA_se2_ag1_f_01	174.7007	[Um,]	175.3320
+140	DTA_int_04	174.8296	[Any more] of those?	175.6989
+141	misc	181.3941	[Dummy dodo.]	182.2111
+142	DTA_se2_ag1_f_01	182.9440	Oh, yeah. Dummy dummy dodo.	184.6992
+143	DTA_int_04	184.7236	How's that go?	185.3709
+144	DTA_se2_ag1_f_01	185.3948	Dummy dummy dodo, catch me if you can.	187.5832
+145	DTA_se2_ag1_f_01	187.5832	(pause 0.23)	187.8151
+146	DTA_se2_ag1_f_01	187.8151	I can run faster than you can.	189.9600
+147	DTA_int_04	190.8365	[Uh-huh.]	191.1703
+148	DTA_se2_ag1_f_01	190.8945	[Anyone] can.	191.9867
+149	DTA_int_04	193.6565	Do you do anything when you go fast with the rope?	196.1339
+150	DTA_se2_ag1_f_01	196.4337	[Yes.]	197.0012
+151	DTA_int_04	196.9463	[What] do you say then?	197.6456
+152	DTA_se2_ag1_f_01	198.9997	/Mabel/, maple catch the-	200.3308
+153	DTA_se2_ag1_f_01	200.3308	(pause 0.18)	200.5108
+154	DTA_se2_ag1_f_01	200.5108	when you set the table, don't forget the red hot peppers.	203.6542
+155	DTA_int_04	203.9471	And you go /as fast/?	204.9326
+156	DTA_int_04	204.9326	(pause 1.17)	206.0989
+157	DTA_int_04	206.0989	Okay any other games you play like that?	207.9427
+158	DTA_se2_ag1_f_01	211.0546	Bluebells.	212.1691
+159	DTA_int_04	212.4528	How do you play that one?	213.3803
+160	DTA_se2_ag1_f_01	213.8685	You have to say bluebells, cockle shells eevy ivey over.	217.8768
+161	DTA_se2_ag1_f_01	217.8768	(pause 0.33)	218.2057
+162	DTA_se2_ag1_f_01	218.2057	Here comes the teacher with a ruler stick, now it's time for arithmetic.	221.8037
+163	DTA_se2_ag1_f_01	221.8037	(pause 0.31)	222.1088
+164	DTA_se2_ag1_f_01	222.1088	One and one is two, two and four i-	223.6805
+165	DTA_se2_ag1_f_01	223.6805	(pause 0.27)	223.9463
+166	DTA_se2_ag1_f_01	223.9463	two and two is four,	224.8830
+167	DTA_se2_ag1_f_01	224.8830	(pause 0.20)	225.0844
+168	DTA_se2_ag1_f_01	225.0844	now it's time for spelling.	226.6717
+169	DTA_se2_ag1_f_01	226.6717	(pause 0.26)	226.9341
+170	DTA_se2_ag1_f_01	226.9341	C-A-T spell cat, R-A-T spell rat, now it's time for hot peppers.	231.0447
+171	DTA_int_04	232.6626	Okay, that's good. You can remember a lot of these.	235.1205
+172	DTA_se2_ag1_f_01	235.1500	Mm-hm.	235.5100
+173	DTA_int_04	236.0379	Do you ever play any other games besides jump rope? Do you ever play with marbles, for example?	240.7190
+174	DTA_se2_ag1_f_01	241.0851	No.	241.4368
+175	DTA_int_04	241.5558	Or jack?	242.1840
+176	DTA_se2_ag1_f_01	243.7434	Uh-huh, [sometimes.]	245.0312
+177	DTA_int_04	244.5070	[How do you play with] jacks?	245.6389
+178	DTA_se2_ag1_f_01	246.2339	You have to throw the ball up and the-	247.7175
+179	DTA_se2_ag1_f_01	247.7175	(pause 0.12)	247.8395
+180	DTA_se2_ag1_f_01	247.8395	and then	248.4925
+181	DTA_se2_ag1_f_01	248.4925	(pause 0.35)	248.8464
+182	DTA_se2_ag1_f_01	248.8464	you have to, um, re-	250.1378
+183	DTA_se2_ag1_f_01	250.1378	(pause 0.36)	250.4948
+184	DTA_se2_ag1_f_01	250.4948	catch it and pick up a jack.	252.2827
+185	DTA_int_04	252.5176	Mm-hm.	252.9907
+186	DTA_int_04	252.9907	(pause 0.99)	253.9799
+187	DTA_int_04	253.9799	Do you ever have any name for any of the things you do?	256.5924
+188	DTA_int_04	256.5924	(pause 1.73)	258.3193
+189	DTA_int_04	258.3193	Call it anything?	259.0502
+190	DTA_int_04	259.0502	(pause 6.60)	265.6504
+191	DTA_int_04	265.6504	What about, um,	266.7432
+192	DTA_int_04	266.7432	(pause 0.19)	266.9349
+193	DTA_int_04	266.9349	do you ever play mother may I?	268.2729
+194	DTA_se2_ag1_f_01	268.8640	No.	269.2667
+195	DTA_int_04	269.7542	Do you ever play anything like pom pom?	271.4115
+196	DTA_se2_ag1_f_01	273.2003	No.	273.6031
+197	DTA_int_04	273.6366	Pom pom pull away?	274.4673
+198	DTA_int_04	274.4673	(pause 1.36)	275.8281
+199	DTA_int_04	275.8281	Okay.	276.2751
+200	DTA_int_04	276.2751	(pause 0.48)	276.7526
+201	DTA_int_04	276.7526	Can you tell me what's your favorite t-	278.5016
+202	DTA_int_04	278.5016	(pause 0.16)	278.6633
+203	DTA_int_04	278.6633	favorite-	278.8494
+204	DTA_int_04	278.8494	(pause 0.22)	279.0691
+205	DTA_int_04	279.0691	TV program?	279.9265
+206	DTA_se2_ag1_f_01	281.4803	My favorite	282.0417
+207	DTA_se2_ag1_f_01	282.0417	(pause 0.54)	282.5817
+208	DTA_se2_ag1_f_01	282.5817	TV program is I Dream of /Jeanna/-	285.1851
+209	DTA_se2_ag1_f_01	285.1851	(pause 0.37)	285.5542
+210	DTA_se2_ag1_f_01	285.5542	Jeannie.	286.2171
+211	DTA_int_04	286.5436	Mm-hm.	287.0653
+212	DTA_int_04	287.0653	(pause 0.35)	287.4131
+213	DTA_int_04	287.4131	Any other favorite TV programs of yours you like to watch?	290.2271
+214	DTA_se2_ag1_f_01	291.1393	Jerry Booth	292.2965
+215	DTA_se2_ag1_f_01	292.2965	(pause 0.61)	292.9026
+216	DTA_se2_ag1_f_01	292.9026	Funhouse.	293.9593
+217	DTA_int_04	294.5237	Mm-hm.	294.8441
+218	DTA_int_04	294.8441	(pause 0.50)	295.3483
+219	DTA_int_04	295.3483	Can you remember the last time you saw one of those programs?	298.0172
+220	DTA_se2_ag1_f_01	299.1294	<ts>	299.2179
+221	DTA_se2_ag1_f_01	299.2179	(pause 0.20)	299.4131
+222	DTA_se2_ag1_f_01	299.4131	Yes.	300.0844
+223	DTA_int_04	300.1698	What happened?	300.8807
+224	DTA_se2_ag1_f_01	301.1675	We seen one yesterday.	302.8983
+225	DTA_se2_ag1_f_01	302.8983	(pause 0.55)	303.4475
+226	DTA_se2_ag1_f_01	303.4475	And that was about /Ace/ Man.	305.2057
+227	DTA_se2_ag1_f_01	305.2057	(pause 0.37)	305.5749
+228	DTA_se2_ag1_f_01	305.5749	And, um,	306.3207
+229	DTA_se2_ag1_f_01	306.3207	(pause 1.28)	307.6046
+230	DTA_se2_ag1_f_01	307.6046	the professor	308.6999
+231	DTA_se2_ag1_f_01	308.6999	(pause 0.56)	309.2552
+232	DTA_se2_ag1_f_01	309.2552	is- he- he made, um, /??/, the /Ace Man/, and then	313.6290
+233	DTA_se2_ag1_f_01	313.6290	(pause 0.46)	314.0928
+234	DTA_se2_ag1_f_01	314.0928	he- a witch was in one side of a- the lady	317.5871
+235	DTA_se2_ag1_f_01	317.5871	(pause 0.37)	317.9532
+236	DTA_se2_ag1_f_01	317.9532	and the other- and the other side of the Ace, was herself.	321.3712
+237	DTA_se2_ag1_f_01	321.3712	(pause 0.37)	321.7373
+238	DTA_se2_ag1_f_01	321.7373	And then,	322.4032
+239	DTA_se2_ag1_f_01	322.4032	(pause 0.77)	323.1752
+240	DTA_se2_ag1_f_01	323.1752	um,	323.5779
+241	DTA_se2_ag1_f_01	323.5779	(pause 0.13)	323.7060
+242	DTA_se2_ag1_f_01	323.7060	he had to rescue, uh, a man because	326.3765
+243	DTA_se2_ag1_f_01	326.3765	(pause 0.54)	326.9135
+244	DTA_se2_ag1_f_01	326.9135	the lady, the witch, and-	328.6412
+245	DTA_se2_ag1_f_01	328.6412	(pause 0.16)	328.7968
+246	DTA_se2_ag1_f_01	328.7968	had turned the lady into	330.7341
+247	DTA_se2_ag1_f_01	330.7341	(pause 0.49)	331.2232
+248	DTA_se2_ag1_f_01	331.2232	real mean. And then after that	333.3651
+249	DTA_se2_ag1_f_01	333.3651	(pause 0.42)	333.7831
+250	DTA_se2_ag1_f_01	333.7831	she, uh,	334.5160
+251	DTA_se2_ag1_f_01	334.5160	(pause 1.08)	335.5962
+252	DTA_se2_ag1_f_01	335.5962	she made a lot of	336.8105
+253	DTA_se2_ag1_f_01	336.8105	(pause 0.37)	337.1767
+254	DTA_se2_ag1_f_01	337.1767	birds come and some /dogs and things/ and	339.8288
+255	DTA_se2_ag1_f_01	339.8288	(pause 0.34)	340.1706
+256	DTA_se2_ag1_f_01	340.1706	they got after the man.	341.5840
+257	DTA_int_04	342.1729	Uh-huh.	342.7246
+258	DTA_int_04	342.7246	(pause 0.98)	343.7095
+259	DTA_int_04	343.7095	Do you have a pet?	344.4894
+260	DTA_se2_ag1_f_01	345.2200	No.	345.7063
+261	DTA_int_04	345.8929	Did you ever have one?	346.7680
+262	DTA_se2_ag1_f_01	347.0460	Yes.	347.6380
+263	DTA_int_04	347.7765	Can you tell me about it?	348.5863
+264	DTA_se2_ag1_f_01	350.0674	No, I don't remember nothing about it.	352.0336
+265	DTA_int_04	352.2079	[What was it?]	352.7681
+266	DTA_se2_ag1_f_01	352.2997	[/?/]	352.7340
+267	DTA_se2_ag1_f_01	353.2509	It was a dog.	354.2414
+268	DTA_se2_ag1_f_01	354.2414	(pause 0.37)	354.6084
+269	DTA_se2_ag1_f_01	354.6084	But somebody stole it.	356.0276
+270	DTA_int_04	356.2968	Oh, when was that?	357.3315
+271	DTA_se2_ag1_f_01	357.4983	Hm?	357.8103
+272	DTA_se2_ag1_f_01	357.8103	(pause 0.17)	357.9785
+273	DTA_se2_ag1_f_01	357.9785	We was living across the street.	359.7337
+274	DTA_int_04	360.1803	Uh-huh.	360.6819
+275	DTA_int_04	360.6819	(pause 0.21)	360.8952
+276	DTA_int_04	360.8952	How- how long ago did you lose the dog?	363.1038
+277	DTA_se2_ag1_f_01	363.2353	Hm?	363.6482
+278	DTA_se2_ag1_f_01	363.6482	(pause 1.31)	364.9573
+279	DTA_se2_ag1_f_01	364.9573	I think it was around in nineteen sixty-three.	367.8869
+280	DTA_se2_ag1_f_01	367.8869	(pause 0.32)	368.2111
+281	DTA_se2_ag1_f_01	368.2111	And the- and somebody-	369.3974
+282	DTA_se2_ag1_f_01	369.3974	(pause 0.17)	369.5626
+283	DTA_se2_ag1_f_01	369.5626	we was living over across the street and somebody took the dog.	372.5075
+284	DTA_int_04	372.8317	Mm-hm.	373.2966
+285	DTA_int_04	373.2966	(pause 0.27)	373.5627
+286	DTA_int_04	373.5627	Was- did you like that dog?	375.3061
+287	DTA_se2_ag1_f_01	375.8562	Uh-huh.	376.4220
+288	DTA_int_04	376.9144	Oh. What did you used to do with the dog?	378.9127
+289	DTA_se2_ag1_f_01	379.0978	Huh?	379.4281
+290	DTA_se2_ag1_f_01	379.4281	(pause 0.40)	379.8288
+291	DTA_se2_ag1_f_01	379.8288	We used to feed him and we used to play with him.	382.8380
+292	DTA_int_04	382.9022	Mm-hm.	383.3120
+293	DTA_se2_ag1_f_01	383.4925	And play and stuff with it.	385.2507
+294	DTA_int_04	385.7890	What happened after he was gone?	387.5350
+295	DTA_se2_ag1_f_01	387.7430	Hm?	388.0397
+296	DTA_se2_ag1_f_01	388.0397	(pause 0.31)	388.3517
+297	DTA_se2_ag1_f_01	388.3517	We s- we- l- we looked for him and we didn't see him.	391.6453
+298	DTA_se2_ag1_f_01	391.6453	(pause 0.40)	392.0490
+299	DTA_se2_ag1_f_01	392.0490	And then a boy- boy down the street had the dog, and we just let him kept it.	396.6880
+300	DTA_int_04	396.8592	Mm-hm.	397.5566
+301	DTA_int_04	397.5566	(pause 1.24)	398.8010
+302	DTA_int_04	398.8010	Can you tell me, is there any way you can get a wish to come true? Or you hope	402.7514
+303	DTA_int_04	402.7514	(pause 0.23)	402.9785
+304	DTA_int_04	402.9785	if by doing something a wish will come true?	405.1955
+305	DTA_se2_ag1_f_01	406.7095	Mm-hm.	407.1347
+306	DTA_se2_ag1_f_01	407.1347	(pause 3.44)	410.5716
+307	DTA_se2_ag1_f_01	410.5716	When you see a falling star, you can wish on it.	413.3335
+308	DTA_int_04	413.6909	Mm-hm. What do you say something?	415.3486
+309	DTA_se2_ag1_f_01	416.0796	Huh?	416.4613
+310	DTA_int_04	416.6358	Do you ever say something?	417.8225
+311	DTA_se2_ag1_f_01	418.8747	[Yes.]	419.5441
+312	DTA_int_04	419.4676	[What] do you say?	420.1619
+313	DTA_se2_ag1_f_01	420.9846	You-	421.1559
+314	DTA_se2_ag1_f_01	421.1559	(pause 0.09)	421.2446
+315	DTA_se2_ag1_f_01	421.2446	say you wish that you had a bike or something like that.	424.9940
+316	DTA_int_04	425.1224	Uh-huh. And it'll come true when you say something like that, hm?	427.7890
+317	DTA_int_04	427.7890	(pause 1.07)	428.8591
+318	DTA_int_04	428.8591	Anything else you can wish upon?	430.4098
+319	DTA_se2_ag1_f_01	433.5474	A blackboard.	434.8194
+320	DTA_int_04	435.1466	Oh, how do you do that?	436.5511
+321	misc	436.5587	Wishing well. (whispered)	437.1268
+322	DTA_se2_ag1_f_01	438.4586	Wishing well.	439.5535
+323	DTA_int_04	439.9236	Yeah, how do you do that?	441.2078
+324	DTA_se2_ag1_f_01	442.6789	You close your eyes and wish real hard that you had it.	446.2906
+325	DTA_se2_ag1_f_01	446.2906	(pause 0.41)	446.6970
+326	DTA_se2_ag1_f_01	446.6970	And maybe one day it'd come true.	448.5260
+327	DTA_int_04	448.8563	Uh-huh.	449.3614
+328	DTA_int_04	449.3614	(pause 1.29)	450.6543
+329	DTA_int_04	450.6543	Do you ever get a- a wish if you- if you use a chicken bone of some kind?	454.7065
+330	DTA_se2_ag1_f_01	455.9203	Sometimes.	457.0183
+331	DTA_int_04	457.2171	What- what do you call that chicken bone?	458.8805
+332	DTA_se2_ag1_f_01	460.7523	/I don't know/.	461.1601
+333	DTA_int_04	461.1714	Have a name for it?	462.1527
+334	DTA_se2_ag1_f_01	462.5656	No.	462.8898
+335	DTA_int_04	463.0703	Does it look like something special?	464.7963
+336	DTA_int_04	464.7963	(pause 0.37)	465.1680
+337	DTA_int_04	465.1680	can you do anything with it?	466.1773
+338	DTA_se2_ag1_f_01	468.0916	Yes.	468.7614
+339	DTA_int_04	468.7614	What do you do?	469.3866
+340	DTA_se2_ag1_f_01	469.5719	You can wish on it.	470.9273
+341	DTA_int_04	471.2537	Yeah, well what does a wishbone look like?	473.3488
+342	DTA_se2_ag1_f_01	475.9389	Um.	476.3457
+343	DTA_int_04	480.2628	Mm-hm.	480.8477
+344	DTA_int_04	480.8477	(pause 0.37)	481.2140
+345	DTA_int_04	481.2140	That's probably /inaudible/ look.	482.6878
+346	DTA_se2_ag1_f_01	482.9233	Mm-hm.	483.2049
+347	DTA_int_04	483.5595	What do you do when you lose a tooth?	485.0888
+348	DTA_se2_ag1_f_01	485.6878	You can put it under your [pillow.]	487.4538
+349	DTA_int_04	487.2722	[And] what happens?	488.3636
+350	DTA_se2_ag1_f_01	489.0335	And	489.5503
+351	DTA_se2_ag1_f_01	489.5503	(pause 0.42)	489.9724
+352	DTA_se2_ag1_f_01	489.9724	some-	490.2844
+353	DTA_se2_ag1_f_01	490.2844	(pause 0.19)	490.4771
+354	DTA_se2_ag1_f_01	490.4771	some people say that a good fairy'll come and give you some money.	494.2570
+355	DTA_int_04	494.6787	Oh yeah?	495.2722
+356	DTA_int_04	495.2722	(pause 0.83)	496.1009
+357	DTA_int_04	496.1009	Who's the good fairy?	497.0582
+358	DTA_int_04	497.0582	(pause 2.49)	499.5474
+359	DTA_int_04	499.5474	Have you ever seen it?	500.4661
+360	DTA_se2_ag1_f_01	500.7031	No.	501.1022
+361	DTA_int_04	502.2889	Do you know what she's gonna look like?	503.6114
+362	DTA_se2_ag1_f_01	504.7339	A queen.	505.5727
+363	DTA_int_04	505.9874	She's gonna look like a queen?	507.3546
+364	DTA_int_04	507.3546	(pause 0.80)	508.1559
+365	DTA_int_04	508.1559	Okay.	508.7248
+366	DTA_int_04	508.7248	(pause 0.65)	509.3763
+367	DTA_int_04	509.3763	Um,	509.7337
+368	DTA_int_04	509.7337	(pause 0.30)	510.0335
+369	DTA_int_04	510.0335	tell me something about your school. What do you study?	512.5074
+370	DTA_se2_ag1_f_01	513.4769	We study spelling,	515.3946
+371	DTA_se2_ag1_f_01	515.3946	(pause 0.80)	516.1986
+372	DTA_se2_ag1_f_01	516.1986	and arithmetic,	517.8530
+373	DTA_se2_ag1_f_01	517.8530	(pause 0.74)	518.5900
+374	DTA_se2_ag1_f_01	518.5900	English,	519.6207
+375	DTA_se2_ag1_f_01	519.6207	(pause 0.10)	519.7186
+376	DTA_se2_ag1_f_01	519.7186	and	520.2538
+377	DTA_se2_ag1_f_01	520.2538	(pause 1.08)	521.3304
+378	DTA_se2_ag1_f_01	521.3304	reading,	522.2231
+379	DTA_se2_ag1_f_01	522.2231	(pause 0.60)	522.8195
+380	DTA_se2_ag1_f_01	522.8195	and social studies.	524.3610
+381	DTA_int_04	524.6848	Mm-hm.	525.0426
+382	DTA_se2_ag1_f_01	525.1619	And then our special classes are art,	527.8224
+383	DTA_se2_ag1_f_01	527.8224	(pause 1.21)	529.0336
+384	DTA_se2_ag1_f_01	529.0336	science,	529.8563
+385	DTA_se2_ag1_f_01	529.8563	(pause 0.13)	529.9817
+386	DTA_se2_ag1_f_01	529.9817	music,	531.0304
+387	DTA_se2_ag1_f_01	531.0304	(pause 0.65)	531.6849
+388	DTA_se2_ag1_f_01	531.6849	and	532.2966
+389	DTA_se2_ag1_f_01	532.2966	(pause 0.16)	532.4526
+390	DTA_se2_ag1_f_01	532.4526	auditorium.	533.7184
+391	DTA_se2_ag1_f_01	533.7184	(pause 1.02)	534.7339
+392	DTA_se2_ag1_f_01	534.7339	And.	535.7340
+393	DTA_int_04	536.2386	Do you ever study anything about different lands or different countries?	539.3225
+394	DTA_se2_ag1_f_01	539.5904	Uh-huh.	540.0304
+395	DTA_int_04	540.0304	What do you call that?	540.7094
+396	DTA_se2_ag1_f_01	541.4924	Foreign.	542.1469
+397	DTA_int_04	542.5533	Hm?	542.9886
+398	DTA_se2_ag1_f_01	543.3362	Foreign.	543.9908
+399	DTA_int_04	544.2171	Mm-hm.	544.7874
+400	DTA_int_04	544.7874	(pause 0.91)	545.6940
+401	DTA_int_04	545.6940	From your seat in your class, can you tell me some of the things you see?	549.0946
+402	DTA_se2_ag1_f_01	551.0062	We see-	551.5441
+403	DTA_se2_ag1_f_01	551.5441	(pause 0.22)	551.7643
+404	DTA_se2_ag1_f_01	551.7643	sometimes we look out the window.	554.3025
+405	DTA_se2_ag1_f_01	554.3025	(pause 0.22)	554.5227
+406	DTA_se2_ag1_f_01	554.5227	And see the classes passing.	556.5933
+407	DTA_int_04	556.9970	Mm-hm.	557.5645
+408	DTA_int_04	557.5645	(pause 1.56)	559.1253
+409	DTA_int_04	559.1253	Can you also see other things inside there?	561.8044
+410	DTA_se2_ag1_f_01	563.9142	[Yes.]	564.6207
+411	DTA_int_04	564.4219	[What can] you see?	565.2201
+412	DTA_se2_ag1_f_01	565.9114	We can see, um,	567.3526
+413	DTA_se2_ag1_f_01	567.3526	(pause 2.75)	570.1007
+414	DTA_se2_ag1_f_01	570.1007	sometime	570.9510
+415	DTA_se2_ag1_f_01	570.9510	(pause 0.11)	571.0581
+416	DTA_se2_ag1_f_01	571.0581	that we can look out the window and we'll see	573.7308
+417	DTA_se2_ag1_f_01	573.7308	(pause 0.48)	574.2110
+418	DTA_se2_ag1_f_01	574.2110	some kid,	575.0025
+419	DTA_se2_ag1_f_01	575.0025	(pause 0.28)	575.2845
+420	DTA_se2_ag1_f_01	575.2845	um,	575.6725
+421	DTA_se2_ag1_f_01	575.6725	(pause 2.00)	577.6698
+422	DTA_se2_ag1_f_01	577.6698	swinging outside, out in the, um.	580.4832
+423	DTA_int_04	580.7944	Mm-hm. But what do you see right inside your classroom?	583.5061
+424	DTA_int_04	583.5061	(pause 0.36)	583.8655
+425	DTA_int_04	583.8655	What's there?	584.5781
+426	DTA_se2_ag1_f_01	584.9111	We see the teacher's desk and we, uh,	587.5078
+427	DTA_se2_ag1_f_01	587.5078	(pause 0.57)	588.0824
+428	DTA_se2_ag1_f_01	588.0824	we- we listen what the teacher be see- saying.	591.4005
+429	DTA_se2_ag1_f_01	591.4005	(pause 0.28)	591.6757
+430	DTA_se2_ag1_f_01	591.6757	We read books when we finish all our [work. And-]	594.7981
+431	DTA_int_04	594.1527	[What does the teacher] write on when she's going to show you something?	597.3440
+432	DTA_se2_ag1_f_01	598.1376	She write handwriting.	599.8347
+433	DTA_int_04	599.9111	On what?	600.3944
+434	DTA_se2_ag1_f_01	600.8226	On a blackboard.	601.9821
+435	DTA_int_04	602.0796	Mm-hm. What color's the blackboard?	603.8267
+436	DTA_se2_ag1_f_01	603.8776	Black.	604.4404
+437	DTA_int_04	604.6300	It is, huh?	605.5074
+438	DTA_int_04	605.5074	(pause 0.51)	606.0151
+439	DTA_int_04	606.0151	Do they have any other	606.8654
+440	DTA_int_04	606.8654	(pause 0.24)	607.1039
+441	DTA_int_04	607.1039	color /boards/?	607.9278
+442	DTA_se2_ag1_f_01	608.6756	No.	609.0820
+443	DTA_int_04	609.6329	In your school, huh?	610.7228
+444	DTA_se2_ag1_f_01	611.3942	No.	611.6583
+445	DTA_int_04	611.8836	Okay, what do you sit at?	613.0517
+446	DTA_se2_ag1_f_01	614.1897	I sit in the second seat in the fifth row.	616.9236
+447	DTA_int_04	617.0401	Mm-hm.	617.5495
+448	DTA_int_04	617.5495	(pause 0.24)	617.7918
+449	DTA_int_04	617.7918	Well can you tell me about what you sit at? Is it a table or what?	620.9448
+450	DTA_se2_ag1_f_01	621.1073	It's a desk.	622.0795
+451	DTA_int_04	622.2232	Mm-hm. What's it look like?	623.1651
+452	DTA_se2_ag1_f_01	623.5257	It's small	624.6819
+453	DTA_se2_ag1_f_01	624.6819	(pause 0.43)	625.1131
+454	DTA_se2_ag1_f_01	625.1131	and it have	625.8930
+455	DTA_se2_ag1_f_01	625.8930	(pause 0.23)	626.1255
+456	DTA_se2_ag1_f_01	626.1255	in this, um,	627.0916
+457	DTA_se2_ag1_f_01	627.0916	(pause 0.39)	627.4861
+458	DTA_se2_ag1_f_01	627.4861	it have a- it's square and-	629.5380
+459	DTA_se2_ag1_f_01	629.5380	(pause 0.41)	629.9478
+460	DTA_se2_ag1_f_01	629.9478	and it have legs that- and we have t- and the neck is connected to the floor, so we won't move around in it.	635.6909
+461	DTA_int_04	635.8652	Right.	636.1283
+462	DTA_int_04	636.1283	(pause 0.99)	637.1223
+463	DTA_int_04	637.1223	When you walk outside your classroom, where are you?	639.2701
+464	DTA_se2_ag1_f_01	640.1468	Outside.	641.0337
+465	misc	641.2015	In the [hall.]	641.9286
+466	DTA_int_04	641.8194	[Outside? /inaudible/]	642.9143
+467	DTA_se2_ag1_f_01	642.5748	[I mean] in the hall.	643.6942
+468	DTA_int_04	643.7738	Uh-huh. And what's in the hall?	645.2781
+469	DTA_se2_ag1_f_01	645.7859	Kids, a lot of kids.	647.6817
+470	DTA_se2_ag1_f_01	647.6817	(pause 0.29)	647.9723
+471	DTA_se2_ag1_f_01	647.9723	And people going to the /rest/-	650.1530
+472	DTA_int_04	650.2291	rooms.	650.5094
+473	DTA_se2_ag1_f_01	650.8347	and going to their lockers and get their, um, coats and [things.]	654.9243
+474	DTA_int_04	654.8348	[Mm-hm.] Can you get anything to drink in the hall?	657.1350
+475	DTA_se2_ag1_f_01	657.6176	No, we can't get anything to drink.	659.5288
+476	DTA_int_04	659.7643	Is there any water around?	661.2049
+477	DTA_se2_ag1_f_01	661.3731	Yes it's some water around, but we can't get	663.4984
+478	DTA_se2_ag1_f_01	663.4984	(pause 0.58)	664.0734
+479	DTA_se2_ag1_f_01	664.0734	any water until we, uh, go to the lavatory.	666.9663
+480	DTA_se2_ag1_f_01	666.9663	(pause 0.33)	667.2997
+481	DTA_se2_ag1_f_01	667.2997	And we-	667.6728
+482	DTA_se2_ag1_f_01	667.6728	(pause 0.69)	668.3610
+483	DTA_se2_ag1_f_01	668.3610	and we have to get	669.1833
+484	DTA_se2_ag1_f_01	669.1833	(pause 0.53)	669.7094
+485	DTA_se2_ag1_f_01	669.7094	permission to go to the lavatory or go any [place.]	673.0397
+486	DTA_int_04	672.9938	[Mm-hm.]	673.6019
+487	DTA_int_04	674.4497	Tell me something, outside the school what do you have?	677.0765
+488	DTA_se2_ag1_f_01	677.9233	It bes lots of kids, the /RD-SCHOOL-3/,	680.6778
+489	DTA_int_04	681.1038	[Mm-hm.]	681.4005
+490	DTA_se2_ag1_f_01	681.2261	[and]	681.8195
+491	DTA_int_04	682.5199	What's the /RD-SCHOOL-3/?	683.4370
+492	DTA_se2_ag1_f_01	683.9815	It's the school right across from	686.2815
+493	DTA_se2_ag1_f_01	686.2815	(pause 0.12)	686.3977
+494	DTA_se2_ag1_f_01	686.3977	/RD-NAME-2/.	687.0090
+495	DTA_se2_ag1_f_01	687.0090	(pause 0.18)	687.1894
+496	DTA_se2_ag1_f_01	687.1894	It's next to it.	688.5474
+497	DTA_int_04	688.9481	Mm-hm.	689.3370
+498	DTA_int_04	689.3370	(pause 1.95)	691.2905
+499	DTA_int_04	691.2905	What else is outside?	692.4210
+500	DTA_int_04	692.4210	(pause 1.55)	693.9724
+501	DTA_int_04	693.9724	Where do you play?	694.8664
+502	DTA_se2_ag1_f_01	695.3488	We have to play out on the ground- playground.	698.2815
+503	DTA_int_04	698.4707	Mm-hm. What do they have to play on?	700.0734
+504	DTA_se2_ag1_f_01	700.5413	We can play tag,	702.0457
+505	DTA_se2_ag1_f_01	702.0457	(pause 0.14)	702.1894
+506	DTA_se2_ag1_f_01	702.1894	or frozen tag. Any game that we want to.	704.9876
+507	DTA_se2_ag1_f_01	704.9876	(pause 0.30)	705.2843
+508	DTA_se2_ag1_f_01	705.2843	And we can go and get our girlfriends and stuff, and play.	708.0620
+509	DTA_int_04	708.8195	Do they have any things you can play on?	710.5135
+510	DTA_se2_ag1_f_01	711.5962	No.	711.9785
+511	DTA_se2_ag1_f_01	711.9785	(pause 0.17)	712.1468
+512	DTA_se2_ag1_f_01	712.1468	But when we go in gym,	713.3793
+513	DTA_se2_ag1_f_01	713.3793	(pause 0.21)	713.5900
+514	DTA_se2_ag1_f_01	713.5900	m-	713.8530
+515	DTA_se2_ag1_f_01	713.8530	(pause 0.22)	714.0702
+516	DTA_se2_ag1_f_01	714.0702	maybe Mr. /RD-NAME-1/ will take us out and	716.4008
+517	DTA_se2_ag1_f_01	716.4008	(pause 0.38)	716.7827
+518	DTA_se2_ag1_f_01	716.7827	then we'll play.	717.9847
+519	DTA_int_04	718.4067	Mm-hm.	718.8436
+520	DTA_int_04	718.8436	(pause 1.33)	720.1711
+521	DTA_int_04	720.1711	Tell me, did you ever have a teacher who hollered a lot?	722.3885
+522	DTA_se2_ag1_f_01	723.9541	Mm-hm.	724.3976
+523	DTA_int_04	724.4846	Mkay, what did-	725.2234
+524	DTA_int_04	725.2234	(pause 0.38)	725.6083
+525	DTA_int_04	725.6083	what did they usually holler about?	726.9551
+526	DTA_se2_ag1_f_01	728.0123	Tell us to- to be quiet.	730.2507
+527	DTA_se2_ag1_f_01	730.2507	(pause 0.14)	730.3884
+528	DTA_se2_ag1_f_01	730.3884	And don't-	731.0582
+529	DTA_se2_ag1_f_01	731.0582	(pause 0.27)	731.3243
+530	DTA_se2_ag1_f_01	731.3243	and h- and stop the noise.	733.1468
+531	DTA_se2_ag1_f_01	733.1468	(pause 0.74)	733.8900
+532	DTA_se2_ag1_f_01	733.8900	And	734.3304
+533	DTA_se2_ag1_f_01	734.3304	(pause 0.42)	734.7460
+534	DTA_se2_ag1_f_01	734.7460	sometimes she holler and tell us to, um,	738.3301
+535	DTA_se2_ag1_f_01	738.3301	(pause 0.53)	738.8562
+536	DTA_se2_ag1_f_01	738.8562	to be r- very quiet	740.5900
+537	DTA_se2_ag1_f_01	740.5900	(pause 0.40)	740.9906
+538	DTA_se2_ag1_f_01	740.9906	and so she can hear a pin- so she wants- so she can hear a pin drop.	744.9632
+539	DTA_int_04	745.2905	Did you ever get yelled at?	746.5168
+540	DTA_se2_ag1_f_01	746.7429	No.	747.1507
+541	DTA_int_04	747.4280	Uh-huh.	747.8807
+542	DTA_int_04	747.8807	(pause 0.49)	748.3731
+543	DTA_int_04	748.3731	Can you tell me the best teacher you ever had?	750.2078
+544	DTA_se2_ag1_f_01	751.2202	The best teacher I have had was Ms. /RD-NAME-2/.	754.0544
+545	DTA_int_04	754.3731	Mm-hm.	754.7620
+546	DTA_int_04	754.7620	(pause 0.19)	754.9512
+547	DTA_int_04	754.9512	/Why/ did you like about her?	755.9765
+548	DTA_se2_ag1_f_01	756.8715	She wouldn't- she wasn't-	758.4650
+549	DTA_se2_ag1_f_01	758.4650	(pause 0.52)	758.9845
+550	DTA_se2_ag1_f_01	758.9845	she wasn't very mean. She wouldn't scream very much.	762.9197
+551	DTA_int_04	763.1682	Mm-hm.	763.5770
+552	DTA_int_04	763.5770	(pause 0.49)	764.0643
+553	DTA_int_04	764.0643	What'd she do for you?	765.0529
+554	DTA_se2_ag1_f_01	766.2752	She would-	766.8716
+555	DTA_se2_ag1_f_01	766.8716	(pause 0.24)	767.1102
+556	DTA_se2_ag1_f_01	767.1102	she would sometime, she'd let us help her.	769.2691
+557	DTA_se2_ag1_f_01	769.2691	(pause 0.21)	769.4801
+558	DTA_se2_ag1_f_01	769.4801	And sometimes she would	771.3087
+559	DTA_se2_ag1_f_01	771.3087	(pause 0.13)	771.4433
+560	DTA_se2_ag1_f_01	771.4433	let us get a book when we finished all our work.	774.1589
+561	DTA_se2_ag1_f_01	774.1589	(pause 0.50)	774.6605
+562	DTA_se2_ag1_f_01	774.6605	And-	774.9388
+563	DTA_se2_ag1_f_01	774.9388	(pause 0.33)	775.2660
+564	DTA_se2_ag1_f_01	775.2660	and she would just- we wouldn't have to write down /here/,	777.6299
+565	DTA_se2_ag1_f_01	777.6299	(pause 0.27)	777.9021
+566	DTA_se2_ag1_f_01	777.9021	all she'd tell us to do was just walk over to the table and get a book.	781.7610
+567	DTA_int_04	782.2953	Mm-hm.	782.8438
+568	DTA_int_04	782.8438	(pause 1.22)	784.0642
+569	DTA_int_04	784.0642	Do you-	784.3976
+570	DTA_int_04	784.3976	(pause 0.15)	784.5444
+571	DTA_int_04	784.5444	did you ever have a teacher you just couldn't stand?	786.6458
+572	DTA_se2_ag1_f_01	788.8408	One, the music teacher.	790.7065
+573	DTA_int_04	790.7340	And what was the matter with that teacher?	792.4922
+574	DTA_se2_ag1_f_01	793.3456	They-	793.7838
+575	DTA_se2_ag1_f_01	793.7838	(pause 0.32)	794.1071
+576	DTA_se2_ag1_f_01	794.1071	at /RD-SCHOOL-2/ see,	795.2751
+577	DTA_se2_ag1_f_01	795.2751	(pause 0.23)	795.5075
+578	DTA_se2_ag1_f_01	795.5075	it was a lot of kids who'd run the teachers out and they wouldn't stay.	799.1345
+579	DTA_int_04	799.4771	Mm-hm.	799.9970
+580	DTA_int_04	799.9970	(pause 0.70)	800.6970
+581	DTA_int_04	800.6970	Well what was the matter with that music teacher?	802.8808
+582	DTA_se2_ag1_f_01	803.2968	See, every time	804.7654
+583	DTA_se2_ag1_f_01	804.7654	(pause 0.16)	804.9235
+584	DTA_se2_ag1_f_01	804.9235	it would be some classes would come in.	807.0916
+585	DTA_se2_ag1_f_01	807.0916	(pause 0.22)	807.3087
+586	DTA_se2_ag1_f_01	807.3087	And this time, we had a substitute. She wouldn't stay, she told us that	811.3089
+587	DTA_se2_ag1_f_01	811.3089	(pause 0.27)	811.5780
+588	DTA_se2_ag1_f_01	811.5780	how do we know if she's gonna stay or not, cause she said the kids is too bad.	815.8897
+589	DTA_se2_ag1_f_01	815.8897	(pause 0.30)	816.1925
+590	DTA_se2_ag1_f_01	816.1925	And everyone- she would have five classes that would act up.	819.3638
+591	DTA_int_04	819.6085	Mm-hm.	820.1835
+592	DTA_int_04	820.1835	(pause 0.76)	820.9481
+593	DTA_int_04	820.9481	Why did the kids not like her?	822.5351
+594	DTA_se2_ag1_f_01	823.4159	I don't know.	824.2243
+595	DTA_se2_ag1_f_01	824.2243	(pause 0.66)	824.8867
+596	DTA_se2_ag1_f_01	824.8867	But anyway, they would	826.3639
+597	DTA_se2_ag1_f_01	826.3639	(pause 0.13)	826.4985
+598	DTA_se2_ag1_f_01	826.4985	just act all up and	828.3424
+599	DTA_se2_ag1_f_01	828.3424	(pause 0.76)	829.0978
+600	DTA_se2_ag1_f_01	829.0978	do funny things and laugh about it, and they wouldn't wanna	832.5872
+601	DTA_se2_ag1_f_01	832.5872	(pause 0.51)	833.0949
+602	DTA_se2_ag1_f_01	833.0949	do no music and sing or nothing. They all just wanna play records.	837.4494
+603	DTA_int_04	838.2660	Mm-hm.	838.6606
+604	DTA_int_04	838.6606	(pause 1.22)	839.8805
+605	DTA_int_04	839.8805	Uh, did she like the kids?	841.6075
+606	DTA_se2_ag1_f_01	842.1958	Yes, she liked 'em	843.4494
+607	DTA_se2_ag1_f_01	843.4494	(pause 0.19)	843.6390
+608	DTA_se2_ag1_f_01	843.6390	very much.	844.6545
+609	DTA_int_04	844.8025	Mm-hm.	845.2692
+610	DTA_int_04	845.2692	(pause 0.66)	845.9325
+611	DTA_int_04	845.9325	Can you tell me who's the smartest kid in your class?	847.7913
+612	DTA_se2_ag1_f_01	848.2631	/RD-NAME-6/.	849.7318
+613	DTA_int_04	849.7767	What makes her so smart?	850.7418
+614	DTA_se2_ag1_f_01	850.9389	Huh, she knows-	851.9692
+615	DTA_se2_ag1_f_01	851.9692	(pause 0.21)	852.1803
+616	DTA_se2_ag1_f_01	852.1803	she knows all her arithmetic and all that stuff.	854.3759
+617	DTA_se2_ag1_f_01	854.3759	(pause 0.34)	854.7154
+618	DTA_se2_ag1_f_01	854.7154	And she was a- she gets on a honor roll a lot and she made all A's.	858.9357
+619	DTA_int_04	859.0397	Mm-hm.	859.4765
+620	DTA_se2_ag1_f_01	859.7615	And when we was in section one and she got an honor scholarship.	863.8285
+621	DTA_int_04	864.0365	Uh-huh.	864.7553
+622	DTA_int_04	864.7553	(pause 0.73)	865.4863
+623	DTA_int_04	865.4863	Well what's an honor scholarship?	866.9185
+624	DTA_se2_ag1_f_01	867.8623	When you see, when you get on a scholarship.	870.1940
+625	DTA_int_04	872.2784	What do you get?	873.0577
+626	DTA_se2_ag1_f_01	873.4097	Um, see w-	874.2997
+627	misc	874.3333	/inaudible/	875.4531
+628	DTA_se2_ag1_f_01	876.9480	see, we a, uh- when we get on a scholarship we have to make all A's and B's.	881.1285
+629	DTA_se2_ag1_f_01	881.1285	(pause 0.26)	881.3916
+630	DTA_se2_ag1_f_01	881.3916	And if we get one C, we can't get on a scholarship. You have to make a A in citizenship.	886.2691
+631	DTA_int_04	886.2844	Mm-hm.	886.8039
+632	DTA_int_04	886.8039	(pause 0.43)	887.2364
+633	DTA_int_04	887.2364	Well what do they do for you?	888.7878
+634	DTA_int_04	888.7878	(pause 0.91)	889.6942
+635	DTA_int_04	889.6942	What does that make you?	890.6267
+636	DTA_se2_ag1_f_01	891.3057	That make you the goodest	892.7921
+637	DTA_se2_ag1_f_01	892.7921	(pause 0.36)	893.1530
+638	DTA_se2_ag1_f_01	893.1530	person in the class and maybe	894.8776
+639	DTA_se2_ag1_f_01	894.8776	(pause 0.30)	895.1773
+640	DTA_se2_ag1_f_01	895.1773	they'll choose you for a lot.	896.8316
+641	DTA_int_04	897.0212	Uh-huh.	897.4566
+642	DTA_int_04	897.4566	(pause 0.32)	897.7797
+643	DTA_int_04	897.7797	What sort of things do you do then when you get on a- on a scholarship?	901.0887
+644	DTA_se2_ag1_f_01	903.6115	Sometimes they'll double promote you.	905.7827
+645	DTA_se2_ag1_f_01	905.7827	(pause 0.46)	906.2476
+646	DTA_se2_ag1_f_01	906.2476	Like, if you in section nine they might put you in section ten.	910.0336
+647	DTA_int_04	910.1437	[Uh-huh.]	910.5355
+648	DTA_se2_ag1_f_01	910.4740	[Or] something like that.	911.6267
+649	DTA_int_04	912.0848	Mm-hm. Have you ever been on a scholarship?	914.2448
+650	DTA_se2_ag1_f_01	914.4646	No, but I have been on the attendance. I haven't never been absent.	918.1380
+651	DTA_int_04	918.4739	Uh-huh.	919.1590
+652	DTA_int_04	919.1590	(pause 0.95)	920.1102
+653	DTA_int_04	920.1102	Well now tell me something,	921.0402
+654	DTA_int_04	921.0402	(pause 0.41)	921.4494
+655	DTA_int_04	921.4494	uh, who's the dumbest kid in your class?	923.6103
+656	DTA_se2_ag1_f_01	925.4434	It's only one	926.6206
+657	DTA_se2_ag1_f_01	926.6206	(pause 0.14)	926.7582
+658	DTA_se2_ag1_f_01	926.7582	and that's-	927.3363
+659	DTA_se2_ag1_f_01	927.3363	(pause 0.30)	927.6391
+660	DTA_se2_ag1_f_01	927.6391	that's a girl, and she's named, um,	929.9356
+661	DTA_se2_ag1_f_01	929.9356	(pause 0.89)	930.8287
+662	DTA_se2_ag1_f_01	930.8287	her name was /RD-NAME-5/. And she would be-	933.9480
+663	DTA_se2_ag1_f_01	933.9480	(pause 0.32)	934.2630
+664	DTA_se2_ag1_f_01	934.2630	she would- she would be talking back to the teacher and batting her eyes at the teacher.	938.9203
+665	DTA_int_04	939.0426	[<laugh>]	939.5883
+666	DTA_se2_ag1_f_01	939.3240	[And she] didn't know her arithmetic or nothing.	941.6511
+667	DTA_int_04	941.6726	Mm-hm. How do you bat your eyes?	943.2194
+668	DTA_se2_ag1_f_01	943.7034	I don't know. She just be doing it.	945.8103
+669	DTA_int_04	945.8103	H- how do you do that. How does she do it?	947.6995
+670	DTA_se2_ag1_f_01	948.8746	She be moving her eyes some way and-	950.8041
+671	DTA_se2_ag1_f_01	950.8041	(pause 0.24)	951.0426
+672	DTA_se2_ag1_f_01	951.0426	and sometimes she'll close her eyes up at the teacher and all.	954.8226
+673	DTA_int_04	955.7401	What'd the teacher do with those kinds of kids?	957.5871
+674	DTA_se2_ag1_f_01	958.1468	She would whoop 'em and send 'em out in the hall, or	960.5687
+675	DTA_se2_ag1_f_01	960.5687	(pause 0.11)	960.6758
+676	DTA_se2_ag1_f_01	960.6758	take 'em down to the office.	962.2924
+677	DTA_int_04	962.4921	Mm-hm.	962.9754
+678	DTA_int_04	962.9754	(pause 0.89)	963.8654
+679	DTA_int_04	963.8654	What school do you go to?	964.9389
+680	DTA_se2_ag1_f_01	965.4466	/RD-SCHOOL-2/.	966.1038
+681	DTA_int_04	966.3699	Mm-hm.	966.7828
+682	DTA_int_04	966.7828	(pause 0.45)	967.2324
+683	DTA_int_04	967.2324	Is that a public school?	968.3441
+684	DTA_se2_ag1_f_01	970.1988	Yes.	970.9512
+685	DTA_int_04	971.1714	Uh-huh.	971.8652
+686	DTA_int_04	971.8652	(pause 0.83)	972.6941
+687	DTA_int_04	972.6941	Tell me something now, what time do you get out of school?	975.0306
+688	DTA_se2_ag1_f_01	975.6452	We get out of school at three fifteen.	978.0640
+689	DTA_int_04	978.5962	Mm-hm.	979.0664
+690	DTA_int_04	979.0664	(pause 0.12)	979.1865
+691	DTA_int_04	979.1865	And what time do you start school?	980.5216
+692	DTA_se2_ag1_f_01	981.3944	We start school at eight o'clock in the morning.	984.1198
+693	DTA_int_04	984.2812	What time do [you get-]	985.2783
+694	DTA_se2_ag1_f_01	984.8195	[To eight thirty.]	985.9359
+695	DTA_int_04	985.8747	[okay.]	986.2234
+696	DTA_int_04	986.8530	What time do you have to leave home?	988.3638
+697	DTA_se2_ag1_f_01	988.9909	We have to leave-	989.8469
+698	DTA_se2_ag1_f_01	989.8469	(pause 0.20)	990.0518
+699	DTA_se2_ag1_f_01	990.0518	leave home	990.8868
+700	DTA_se2_ag1_f_01	990.8868	(pause 0.39)	991.2722
+701	DTA_se2_ag1_f_01	991.2722	at, um, we can leave home at five minutes to eight, or something like that.	995.9852
+702	DTA_int_04	996.3393	Uh-huh.	996.8623
+703	DTA_int_04	996.8623	(pause 1.73)	998.5900
+704	DTA_int_04	998.5900	So you get a long day of school, huh?	1000.6653
+705	DTA_int_04	1000.6653	(pause 1.14)	1001.8070
+706	DTA_int_04	1001.8070	Tell me /??/, um,	1003.0626
+707	DTA_int_04	1003.0626	(pause 1.13)	1004.1928
+708	DTA_int_04	1004.1928	do you play with a bunch of kids around here?	1006.0152
+709	DTA_se2_ag1_f_01	1006.6147	Sometimes, but we- we don't have many kids around	1010.3212
+710	DTA_se2_ag1_f_01	1010.3212	(pause 0.42)	1010.7460
+711	DTA_se2_ag1_f_01	1010.7460	cause they'll hop off the porch cause there's not any banisters.	1013.8966
+712	DTA_int_04	1014.6727	Uh-huh.	1015.1647
+713	DTA_int_04	1015.1647	(pause 0.45)	1015.6147
+714	DTA_int_04	1015.6147	Well do you have a group of friends that you like to play with /?/?	1018.6027
+715	DTA_se2_ag1_f_01	1018.8227	Yes.	1019.4130
+716	DTA_int_04	1019.7582	How [many are there?]	1020.6318
+717	DTA_se2_ag1_f_01	1019.9570	[/RD-NAME-5/],	1021.4771
+718	DTA_se2_ag1_f_01	1021.5933	and /RD-NAME-3/,	1022.7980
+719	DTA_se2_ag1_f_01	1022.7980	(pause 0.71)	1023.5045
+720	DTA_se2_ag1_f_01	1023.5045	and /RD-NAME-4/.	1026.1497
+721	DTA_se2_ag1_f_01	1026.1497	(pause 0.83)	1026.9847
+722	DTA_se2_ag1_f_01	1026.9847	And sometimes, maybe we'll play with	1029.6268
+723	DTA_se2_ag1_f_01	1029.6268	(pause 0.30)	1029.9235
+724	DTA_se2_ag1_f_01	1029.9235	/RD-NAME-6/.	1031.5010
+725	DTA_int_04	1031.6297	Mm-hm.	1032.1956
+726	DTA_int_04	1032.1956	(pause 0.68)	1032.8776
+727	DTA_int_04	1032.8776	Tell me, how old are they?	1033.9336
+728	DTA_se2_ag1_f_01	1035.1191	Some of 'em-	1036.0581
+729	DTA_se2_ag1_f_01	1036.0581	(pause 0.16)	1036.2202
+730	DTA_se2_ag1_f_01	1036.2202	/RD-NAME-3/, she's nine.	1038.5320
+731	DTA_se2_ag1_f_01	1038.5320	(pause 0.70)	1039.2355
+732	DTA_se2_ag1_f_01	1039.2355	And /RD-NAME-3/, she's nine.	1041.4831
+733	DTA_se2_ag1_f_01	1041.4831	(pause 0.63)	1042.1162
+734	DTA_se2_ag1_f_01	1042.1162	And /RD-NAME-6/, she's ten.	1044.6605
+735	DTA_se2_ag1_f_01	1044.6605	(pause 0.79)	1045.4465
+736	DTA_se2_ag1_f_01	1045.4465	And /RD-NAME-3/'s nine.	1047.1589
+737	DTA_se2_ag1_f_01	1047.1589	(pause 0.82)	1047.9816
+738	DTA_se2_ag1_f_01	1047.9816	And sometime we'll play with /RD-NAME-3/. She's eleven.	1050.9785
+739	DTA_int_04	1051.2263	Mm-hm. About how old are you?	1052.8025
+740	DTA_se2_ag1_f_01	1053.3454	Ten.	1053.8654
+741	DTA_int_04	1053.8711	You're ten.	1054.4617
+742	DTA_int_04	1054.4617	(pause 0.69)	1055.1469
+743	DTA_int_04	1055.1469	Tell me, uh, do any of the s-	1056.3108
+744	DTA_int_04	1056.3108	(pause 0.14)	1056.4494
+745	DTA_int_04	1056.4494	are any of the friends that you play with, do they speak another language besides English?	1060.7891
+746	DTA_se2_ag1_f_01	1061.4952	No.	1061.9117
+747	DTA_int_04	1062.2109	Mm-hm.	1062.5664
+748	DTA_int_04	1062.5664	(pause 0.41)	1062.9785
+749	DTA_int_04	1062.9785	Do any of their parents speak another language?	1065.5230
+750	DTA_se2_ag1_f_01	1065.7736	No.	1066.1529
+751	DTA_int_04	1066.5750	Mm-hm.	1066.8502
+752	DTA_int_04	1066.8502	(pause 0.32)	1067.1714
+753	DTA_int_04	1067.1714	Are most of the kids you play with negro kids, or are they-	1069.9022
+754	DTA_int_04	1069.9022	(pause 0.28)	1070.1867
+755	DTA_int_04	1070.1867	are they white?	1070.9142
+756	DTA_se2_ag1_f_01	1071.0885	One of them is white, /RD-NAME-4/.	1073.3549
+757	DTA_int_04	1073.6787	[Mm-hm.]	1074.1010
+758	DTA_se2_ag1_f_01	1073.9142	[We] likes to play with her.	1075.4586
+759	DTA_int_04	1076.0215	Uh-huh.	1076.6053
+760	DTA_int_04	1076.6053	(pause 1.72)	1078.3242
+761	DTA_int_04	1078.3242	Tell me, um,	1079.2457
+762	DTA_int_04	1079.2457	(pause 0.73)	1079.9784
+763	DTA_int_04	1079.9784	is there one person in the group of kids you play with	1082.6255
+764	DTA_int_04	1082.6255	(pause 0.48)	1083.1069
+765	DTA_int_04	1083.1069	that's like the leader?	1084.2813
+766	DTA_int_04	1084.2813	(pause 0.65)	1084.9267
+767	DTA_int_04	1084.9267	Or the one that everybody listens to, /got to be/	1087.3823
+768	DTA_int_04	1087.3823	(pause 0.91)	1088.2907
+769	DTA_int_04	1088.2907	pretty good?	1088.7613
+770	DTA_se2_ag1_f_01	1089.3118	[Mm-hm.]	1089.7762
+771	DTA_int_04	1089.5259	[Who is that] one?	1090.2844
+772	DTA_se2_ag1_f_01	1090.4587	That's /RD-NAME-6/.	1092.1375
+773	DTA_int_04	1092.1375	Uh-huh. What is it about her?	1093.7485
+774	DTA_int_04	1093.7485	(pause 0.88)	1094.6282
+775	DTA_int_04	1094.6282	/inaudible/	1095.1881
+776	DTA_se2_ag1_f_01	1095.4188	I don't know, but they just like to pick her and choose her.	1099.0336
+777	DTA_se2_ag1_f_01	1099.0336	(pause 0.30)	1099.3333
+778	DTA_se2_ag1_f_01	1099.3333	And when the music teacher asks somebody to write	1101.9602
+779	DTA_se2_ag1_f_01	1101.9602	(pause 0.47)	1102.4312
+780	DTA_se2_ag1_f_01	1102.4312	the songs down that they like the best, there's-	1104.9883
+781	DTA_se2_ag1_f_01	1104.9883	(pause 0.14)	1105.1254
+782	DTA_se2_ag1_f_01	1105.1254	raise their hand and say /RD-NAME-2/.	1107.2529
+783	DTA_se2_ag1_f_01	1107.2529	(pause 0.60)	1107.8531
+784	DTA_se2_ag1_f_01	1107.8531	And they'll pick her.	1108.7747
+785	DTA_int_04	1109.4833	Do you think she's pretty good?	1110.6666
+786	DTA_se2_ag1_f_01	1111.4648	Yes, she's [nice.]	1112.8747
+787	DTA_int_04	1112.7184	[You] like her, huh.	1113.6085
+788	DTA_int_04	1115.5808	Does she live near you?	1116.6513
+789	DTA_se2_ag1_f_01	1117.1957	Yes, she live down the street.	1118.8377
+790	DTA_int_04	1119.0824	Mm-hm.	1119.4831
+791	DTA_int_04	1119.4831	(pause 1.25)	1120.7340
+792	DTA_int_04	1120.7340	Um,	1121.1561
+793	DTA_int_04	1121.1561	(pause 0.64)	1121.7949
+794	DTA_int_04	1121.7949	tell me, then when-	1122.5840
+795	DTA_int_04	1122.5840	(pause 0.42)	1123.0061
+796	DTA_int_04	1123.0061	when you-	1123.7982
+797	DTA_int_04	1123.7982	(pause 0.12)	1123.9175
+798	DTA_int_04	1123.9175	what do you wanna be when you grow up?	1125.6068
+799	DTA_se2_ag1_f_01	1125.9969	Teacher.	1126.6331
+800	DTA_int_04	1127.0399	Mm-hm.	1127.3426
+801	DTA_int_04	1127.3426	(pause 0.28)	1127.6267
+802	DTA_int_04	1127.6267	What do you think you have to do to become one?	1129.4932
+803	DTA_se2_ag1_f_01	1130.5078	You have to be real smart and you have to, uh,	1133.8836
+804	DTA_se2_ag1_f_01	1133.8836	(pause 0.68)	1134.5656
+805	DTA_se2_ag1_f_01	1134.5656	finish school and go to college.	1136.8317
+806	DTA_int_04	1136.9937	Uh-huh.	1137.4059
+807	DTA_se2_ag1_f_01	1138.9634	And then you have to stay there for, um,	1141.2232
+808	DTA_se2_ag1_f_01	1141.2232	(pause 1.06)	1142.2784
+809	DTA_se2_ag1_f_01	1142.2784	I think eight years. Something like that.	1144.9328
+810	DTA_int_04	1146.1191	What does a teacher do?	1147.4159
+811	DTA_se2_ag1_f_01	1149.4953	They-	1149.9449
+812	DTA_se2_ag1_f_01	1149.9449	(pause 0.22)	1150.1651
+813	DTA_se2_ag1_f_01	1150.1651	some of 'em read stories, some of 'em are kindergarten teachers.	1153.7279
+814	DTA_se2_ag1_f_01	1153.7279	(pause 0.59)	1154.3151
+815	DTA_se2_ag1_f_01	1154.3151	Some of 'em give work to kids to do,	1157.4662
+816	DTA_se2_ag1_f_01	1157.4662	(pause 0.12)	1157.5857
+817	DTA_se2_ag1_f_01	1157.5857	and homework, and different things.	1159.6453
+818	DTA_int_04	1159.6514	And you think you're gonna like that kind of thing?	1161.8446
+819	DTA_se2_ag1_f_01	1162.1682	Yes.	1162.7385
+820	DTA_int_04	1162.8196	Mm-hm.	1163.1491
+821	DTA_int_04	1163.1491	(pause 0.82)	1163.9662
+822	DTA_int_04	1163.9662	Uh,	1164.3363
+823	DTA_int_04	1164.3363	(pause 0.58)	1164.9204
+824	DTA_int_04	1164.9204	if you-	1165.3945
+825	DTA_int_04	1165.3945	(pause 0.35)	1165.7462
+826	DTA_int_04	1165.7462	somebody came to you and they said, here you can have all this money that you want, /RD-NAME-2/.	1169.3296
+827	DTA_int_04	1169.3296	(pause 0.14)	1169.4659
+828	DTA_int_04	1169.4659	What would you do with it?	1170.4105
+829	DTA_se2_ag1_f_01	1172.2417	I would-	1172.7031
+830	DTA_se2_ag1_f_01	1172.7031	(pause 0.28)	1172.9876
+831	DTA_se2_ag1_f_01	1172.9876	some of it I would give to my mother and father.	1175.6236
+832	DTA_se2_ag1_f_01	1175.6236	(pause 0.50)	1176.1222
+833	DTA_se2_ag1_f_01	1176.1222	And help them pay bills.	1177.9053
+834	DTA_int_04	1178.2046	Mm-hm.	1178.8652
+835	DTA_int_04	1178.8652	(pause 0.87)	1179.7308
+836	DTA_int_04	1179.7308	What would you do with the rest of it, cause you have	1181.7735
+837	DTA_int_04	1181.7735	(pause 0.51)	1182.2873
+838	DTA_int_04	1182.2873	lots of money.	1183.0581
+839	DTA_se2_ag1_f_01	1183.9634	I would buy some clothes and put the rest in the bank.	1186.9787
+840	DTA_int_04	1187.4738	Oh, what would you do with it in the bank?	1189.0887
+841	DTA_se2_ag1_f_01	1190.4803	When I need some, I would go and get-	1192.2324
+842	DTA_se2_ag1_f_01	1192.2324	(pause 0.16)	1192.3914
+843	DTA_se2_ag1_f_01	1192.3914	borrow some from the bank and get it.	1194.4555
+844	DTA_int_04	1194.8807	Oh, I see.	1195.4568
+845	DTA_int_04	1195.4568	(pause 0.72)	1196.1805
+846	DTA_int_04	1196.1805	What do you do for work around here?	1197.9906
+847	DTA_se2_ag1_f_01	1199.2907	Sometimes we sweep the floors, make the beds,	1202.7685
+848	DTA_se2_ag1_f_01	1202.7685	(pause 0.71)	1203.4739
+849	DTA_se2_ag1_f_01	1203.4739	and mop the floors, do the dishes,	1206.0130
+850	DTA_se2_ag1_f_01	1206.0130	(pause 0.33)	1206.3424
+851	DTA_se2_ag1_f_01	1206.3424	clean the bathroom.	1207.8900
+852	DTA_se2_ag1_f_01	1207.8900	(pause 0.66)	1208.5506
+853	DTA_se2_ag1_f_01	1208.5506	And clean out the bath tub, wash the diapers, wash the baby's clothes, clean downstairs.	1214.4526
+854	DTA_int_04	1214.6573	Mm-hm.	1215.0201
+855	DTA_int_04	1215.0201	(pause 0.93)	1215.9541
+856	DTA_int_04	1215.9541	Do you ever do any kind of work, like for money? To earn some money.	1219.6765
+857	DTA_se2_ag1_f_01	1220.2050	Sometimes we'll go to the store for our aunt, and our mother and father.	1224.0855
+858	DTA_int_04	1224.3974	Mm-hm.	1224.7553
+859	DTA_se2_ag1_f_01	1224.7553	And babysit.	1225.8176
+860	DTA_int_04	1226.1867	Mm-hm.	1226.6743
+861	DTA_int_04	1226.6743	(pause 0.91)	1227.5840
+862	DTA_int_04	1227.5840	Do you like to babysit?	1228.7813
+863	DTA_se2_ag1_f_01	1230.1222	<ts>	1230.2537
+864	DTA_se2_ag1_f_01	1230.2537	(pause 0.49)	1230.7461
+865	DTA_se2_ag1_f_01	1230.7461	No.	1231.1039
+866	DTA_se2_ag1_f_01	1231.1039	(pause 0.59)	1231.6912
+867	DTA_se2_ag1_f_01	1231.6912	No, I don't like to babysit.	1233.2720
+868	DTA_int_04	1233.3638	/Alright/, but why don't you like babysitting?	1235.3186
+869	DTA_se2_ag1_f_01	1236.4678	Cause	1236.7920
+870	DTA_se2_ag1_f_01	1236.7920	(pause 0.16)	1236.9541
+871	DTA_se2_ag1_f_01	1236.9541	the baby cries too much.	1239.2485
+872	DTA_int_04	1239.3638	And what're you gonna do about it?	1240.8105
+873	DTA_se2_ag1_f_01	1242.0335	Nothing, [just-]	1243.3089
+874	DTA_int_04	1242.7186	[Hm, what would] you do if the baby just started crying and crying and crying? What would [you do?]	1246.4434
+875	DTA_se2_ag1_f_01	1246.2905	[give] her her bottle.	1247.4650
+876	DTA_int_04	1248.1711	If she didn't want it, she kept crying?	1250.0824
+877	DTA_se2_ag1_f_01	1250.8836	Pick her up.	1251.6941
+878	DTA_int_04	1252.4955	And do what?	1253.1469
+879	DTA_se2_ag1_f_01	1255.0305	And-	1255.5780
+880	DTA_se2_ag1_f_01	1255.5780	(pause 0.28)	1255.8563
+881	DTA_se2_ag1_f_01	1255.8563	and, uh, walk around or take her outside or something.	1259.5196
+882	DTA_int_04	1259.8285	Uh-huh.	1260.4265
+883	DTA_int_04	1260.4265	(pause 0.74)	1261.1712
+884	DTA_int_04	1261.1712	Tell me, what do you call this area where you live, this neighborhood?	1264.0458
+885	DTA_se2_ag1_f_01	1264.9879	Seminole.	1265.7918
+886	DTA_int_04	1266.2200	Hm?	1266.6115
+887	DTA_se2_ag1_f_01	1266.8501	Seminole.	1267.5568
+888	DTA_int_04	1267.9512	Oh, is that the name of the street?	1269.6941
+889	DTA_se2_ag1_f_01	1269.9082	Yes.	1270.4893
+890	DTA_int_04	1271.0215	Well what do you call this whole general area? If somebody says, where do you live in that city of Detroit,	1276.1404
+891	DTA_int_04	1276.1404	(pause 0.17)	1276.3150
+892	DTA_int_04	1276.3150	what're you gonna say?	1277.0980
+893	DTA_se2_ag1_f_01	1278.5840	De-	1278.8531
+894	DTA_se2_ag1_f_01	1278.8531	(pause 0.26)	1279.1101
+895	DTA_se2_ag1_f_01	1279.1101	Detroit, thirteen Michigan.	1281.3929
+896	DTA_int_04	1282.0703	Uh-huh.	1282.4924
+897	DTA_int_04	1282.4924	(pause 0.31)	1282.8043
+898	DTA_int_04	1282.8043	But h- how do you know? Is there any- any way you can describe this area where you live?	1286.7590
+899	DTA_se2_ag1_f_01	1287.8623	No.	1288.3272
+900	DTA_int_04	1288.6606	No?	1288.9726
+901	DTA_se2_ag1_f_01	1289.2570	Well we can k- say the East Side.	1291.4165
+902	DTA_int_04	1291.4924	The East Side?	1292.3753
+903	DTA_int_04	1292.3753	(pause 0.93)	1293.3087
+904	DTA_int_04	1293.3087	And if somebody was from California and say, oh I hear you live in Michigan /RD-NAME-2/.	1298.1648
+905	DTA_int_04	1298.1648	(pause 0.97)	1299.1344
+906	DTA_int_04	1299.1344	What city would you say you live in?	1300.6698
+907	DTA_se2_ag1_f_01	1303.1682	Detroit,	1303.7763
+908	DTA_se2_ag1_f_01	1303.7763	(pause 0.12)	1303.8992
+909	DTA_se2_ag1_f_01	1303.8992	Michigan.	1304.7365
+910	DTA_int_04	1304.9081	Uh-huh.	1305.2996
+911	DTA_int_04	1305.2996	(pause 0.54)	1305.8379
+912	DTA_int_04	1305.8379	Do you know any of the main streets in Michigan?	1308.2704
+913	DTA_int_04	1308.2704	(pause 1.18)	1309.4465
+914	DTA_int_04	1309.4465	In Detroit?	1310.2142
+915	DTA_se2_ag1_f_01	1310.7368	Yes.	1311.4000
+916	DTA_int_04	1311.5595	Tell me some of ['em.]	1312.5333
+917	DTA_se2_ag1_f_01	1312.3945	[Sem-] Seminole, Iroq-	1314.9435
+918	DTA_se2_ag1_f_01	1315.0795	Iroquois, and	1316.8065
+919	DTA_se2_ag1_f_01	1316.8065	(pause 0.96)	1317.7645
+920	DTA_se2_ag1_f_01	1317.7645	Seneca.	1318.8848
+921	DTA_se2_ag1_f_01	1318.8848	(pause 0.96)	1319.8469
+922	DTA_se2_ag1_f_01	1319.8469	Maxwell	1321.0948
+923	DTA_se2_ag1_f_01	1321.0948	(pause 1.08)	1322.1714
+924	DTA_se2_ag1_f_01	1322.1714	and	1322.8505
+925	DTA_se2_ag1_f_01	1322.8505	(pause 2.38)	1325.2321
+926	DTA_se2_ag1_f_01	1325.2321	Barnes.	1326.3577
+927	DTA_se2_ag1_f_01	1326.3577	(pause 1.90)	1328.2601
+928	DTA_se2_ag1_f_01	1328.2601	And-	1329.0426
+929	DTA_se2_ag1_f_01	1329.0426	(pause 3.50)	1332.5442
+930	DTA_se2_ag1_f_01	1332.5442	and.	1333.4434
+931	DTA_int_04	1333.7493	What about the big road up here, farther, begins with a G?	1336.8322
+932	DTA_se2_ag1_f_01	1337.9723	Um,	1338.3730
+933	DTA_se2_ag1_f_01	1338.3730	(pause 1.10)	1339.4771
+934	DTA_se2_ag1_f_01	1339.4771	up there?	1340.1577
+935	DTA_int_04	1340.3851	Yeah, up that way.	1341.5286
+936	DTA_int_04	1341.5286	(pause 9.43)	1350.9602
+937	DTA_int_04	1350.9602	Can you think of the name of it?	1352.0674
+938	DTA_se2_ag1_f_01	1352.3916	No.	1352.7246
+939	DTA_int_04	1353.2078	Okay. Where were you born?	1354.2538
+940	DTA_se2_ag1_f_01	1355.1343	<ts>	1355.2752
+941	misc	1355.7395	Detroit. (whispered)	1356.1248
+942	DTA_se2_ag1_f_01	1356.0855	In Detroit.	1357.2018
+943	DTA_int_04	1357.5505	Mm-hm. Have you lived anywhere else?	1359.3118
+944	DTA_se2_ag1_f_01	1362.2476	No.	1362.5840
+945	DTA_int_04	1362.8960	Always in Detroit?	1363.9420
+946	DTA_int_04	1363.9420	(pause 1.33)	1365.2690
+947	DTA_int_04	1365.2690	Have you ever gone on any trips?	1366.7401
+948	DTA_se2_ag1_f_01	1368.8562	Hm.	1369.0887
+949	DTA_se2_ag1_f_01	1369.0887	(pause 2.15)	1371.2353
+950	DTA_se2_ag1_f_01	1371.2353	Yes.	1371.9449
+951	DTA_int_04	1371.9877	Where'd you go?	1372.7917
+952	DTA_se2_ag1_f_01	1373.4279	Where did we go, /RD-NAME-1/?	1374.2507
+953	DTA_int_04	1374.4188	Mm-hm.	1374.7004
+954	misc	1375.4294	I went to, uh,	1376.4921
+955	misc	1376.4921	(pause 1.01)	1377.5014
+956	misc	1377.5014	/inaudible/ Wayne, Michigan. We went to /??/,	1379.8419
+957	misc	1379.8419	(pause 0.45)	1380.2873
+958	misc	1380.2873	Canada.	1380.9520
+959	DTA_se2_ag1_f_01	1381.3211	Oh, yeah. We went to, uh, Wayne,	1383.2047
+960	DTA_se2_ag1_f_01	1383.2047	(pause 0.18)	1383.3883
+961	DTA_se2_ag1_f_01	1383.3883	Michigan and Canada.	1384.8869
+962	DTA_int_04	1385.1377	Uh-huh. Do you remember anything that happened on those trips?	1388.0474
+963	DTA_se2_ag1_f_01	1388.1530	No.	1388.5629
+964	DTA_int_04	1389.1589	Did you remember what you did?	1390.6478
+965	DTA_int_04	1390.6478	(pause 1.17)	1391.8132
+966	DTA_int_04	1391.8132	Where you stayed?	1392.7507
+967	DTA_se2_ag1_f_01	1393.5780	No.	1393.9389
+968	DTA_int_04	1394.6450	Hm?	1394.9405
+969	DTA_se2_ag1_f_01	1395.1069	No, I don't remember.	1396.2806
+970	DTA_int_04	1396.5199	And you usually just stay home /here/.	1398.4189
+971	misc	1398.6727	/And she just/ [/inaudible/.]	1399.8351
+972	DTA_int_04	1399.2280	[Hm? Mm-hm.]	1399.8351
+973	DTA_int_04	1400.6240	[What're you gonna do this summer?]	1401.8746
+974	DTA_se2_ag1_f_01	1400.6634	[I was small when we] went. Huh?	1402.4343
+975	DTA_int_04	1402.5566	What're you gonna do this summer?	1403.6102
+976	DTA_se2_ag1_f_01	1403.9955	Maybe we'll go down in Canada or something.	1406.8255
+977	DTA_int_04	1407.2323	Mm-hm. What do you wanna do?	1408.4789
+978	DTA_se2_ag1_f_01	1409.2444	<ts>	1409.3636
+979	DTA_int_04	1409.7398	What would you like to do?	1410.6331
+980	misc	1410.8894	Mississippi /??/. (whispered)	1412.4364
+981	DTA_se2_ag1_f_01	1412.3763	I would like to go down	1413.8012
+982	DTA_se2_ag1_f_01	1413.9755	Mississippi and Ohio.	1416.3096
+983	DTA_int_04	1416.7876	What for?	1417.4094
+984	DTA_int_04	1417.4094	(pause 0.21)	1417.6239
+985	DTA_int_04	1417.6239	Why?	1417.9634
+986	DTA_se2_ag1_f_01	1419.2387	To see some our uncles and aunts.	1421.7811
+987	DTA_int_04	1422.3577	Mm-hm.	1422.7626
+988	DTA_int_04	1422.7626	(pause 2.80)	1425.5595
+989	DTA_int_04	1425.5595	Okay.	1425.8960
+990	DTA_int_04	1425.8960	(pause 0.84)	1426.7371
+991	DTA_int_04	1426.7371	Tell me, what do you do on, say, the Christmas holiday?	1429.9051
+992	DTA_se2_ag1_f_01	1431.1864	Sometimes we'll go-	1432.7493
+993	DTA_se2_ag1_f_01	1432.7493	(pause 0.62)	1433.3732
+994	DTA_se2_ag1_f_01	1433.3732	sometimes we might go someplace.	1435.8391
+995	DTA_int_04	1437.9969	What do you do- how do you celebrate Christmas? What happens?	1440.4432
+996	DTA_se2_ag1_f_01	1441.6331	We have to go to bed at when night comes. We go to bed,	1445.0460
+997	DTA_int_04	1445.1714	Mm-hm.	1445.5414
+998	DTA_se2_ag1_f_01	1445.9147	and then	1446.9663
+999	DTA_se2_ag1_f_01	1446.9663	(pause 0.40)	1447.3700
+1000	DTA_se2_ag1_f_01	1447.3700	Santa Claus will come and put	1448.7490
+1001	DTA_se2_ag1_f_01	1448.7490	(pause 0.47)	1449.2231
+1002	DTA_se2_ag1_f_01	1449.2231	the stuff under the tree.	1450.6820
+1003	DTA_se2_ag1_f_01	1450.6820	(pause 0.26)	1450.9450
+1004	DTA_se2_ag1_f_01	1450.9450	And then sometimes we'll put other presents under the tree for other	1454.9325
+1005	DTA_se2_ag1_f_01	1454.9325	(pause 0.48)	1455.4158
+1006	DTA_se2_ag1_f_01	1455.4158	people.	1455.9663
+1007	DTA_int_04	1456.0917	Mm-hm.	1456.5184
+1008	DTA_int_04	1456.5184	(pause 0.33)	1456.8441
+1009	DTA_int_04	1456.8441	When do you put the tree up?	1458.0916
+1010	DTA_se2_ag1_f_01	1459.7218	Sometimes we put our tree up in November,	1462.5352
+1011	DTA_se2_ag1_f_01	1462.5352	(pause 0.57)	1463.1071
+1012	DTA_se2_ag1_f_01	1463.1071	or December the first.	1465.0061
+1013	DTA_int_04	1465.1896	Mm-hm.	1465.6961
+1014	DTA_int_04	1465.6961	(pause 0.22)	1465.9196
+1015	DTA_int_04	1465.9196	And then what do you do?	1466.8285
+1016	DTA_se2_ag1_f_01	1468.2599	After we have a tree up?	1469.5196
+1017	DTA_int_04	1469.8622	What do you put on the tree?	1471.0336
+1018	DTA_se2_ag1_f_01	1471.1009	We- sometimes we may put some presents or something under it.	1474.5627
+1019	DTA_int_04	1475.0643	Mm-hm.	1475.4493
+1020	DTA_int_04	1475.4493	(pause 1.17)	1476.6238
+1021	DTA_int_04	1476.6238	Uh,	1476.9296
+1022	DTA_int_04	1476.9296	(pause 0.47)	1477.4037
+1023	DTA_int_04	1477.4037	do you eat anything special when you, uh?	1479.6146
+1024	DTA_se2_ag1_f_01	1479.8531	Sometimes we may eat	1481.1591
+1025	DTA_se2_ag1_f_01	1481.1591	(pause 0.16)	1481.3182
+1026	DTA_se2_ag1_f_01	1481.3182	cake, chicken and dressing,	1483.2353
+1027	DTA_se2_ag1_f_01	1483.2353	(pause 0.61)	1483.8410
+1028	DTA_se2_ag1_f_01	1483.8410	salad.	1484.6878
+1029	DTA_int_04	1485.5565	Mm-hm.	1485.9672
+1030	DTA_int_04	1485.9672	(pause 0.90)	1486.8655
+1031	DTA_int_04	1486.8655	Anything else?	1487.6817
+1032	DTA_se2_ag1_f_01	1491.0059	And that's all. Maybe [we'll eat something like that.]	1493.2570
+1033	DTA_int_04	1492.3027	[/Tell me something about/] Christmas cooking?	1493.9905
+1034	DTA_se2_ag1_f_01	1495.0458	[Yes.]	1495.6147
+1035	DTA_int_04	1495.5597	[What] happened? Can you tell me that?	1496.8897
+1036	DTA_se2_ag1_f_01	1497.7002	Yes.	1498.2599
+1037	DTA_se2_ag1_f_01	1498.2599	(pause 0.75)	1499.0123
+1038	DTA_se2_ag1_f_01	1499.0123	Some- we w- we went	1500.4158
+1039	DTA_se2_ag1_f_01	1500.4158	(pause 0.13)	1500.5412
+1040	DTA_se2_ag1_f_01	1500.5412	over our,	1501.1223
+1041	DTA_se2_ag1_f_01	1501.1223	(pause 0.34)	1501.4587
+1042	DTA_se2_ag1_f_01	1501.4587	um,	1501.8227
+1043	DTA_se2_ag1_f_01	1501.8227	(pause 0.23)	1502.0551
+1044	DTA_se2_ag1_f_01	1502.0551	friend's house named Gale.	1503.7828
+1045	DTA_se2_ag1_f_01	1503.7828	(pause 0.56)	1504.3456
+1046	DTA_se2_ag1_f_01	1504.3456	And we played with them.	1506.0276
+1047	DTA_se2_ag1_f_01	1506.0276	(pause 1.16)	1507.1854
+1048	DTA_se2_ag1_f_01	1507.1854	Um, seeing all their toys then they came back over here and play.	1510.5902
+1049	DTA_int_04	1510.7921	Mm-hm.	1511.1810
+1050	DTA_int_04	1511.1810	(pause 0.61)	1511.7949
+1051	DTA_int_04	1511.7949	Do you remember any one gift that you go that you really liked?	1514.6450
+1052	DTA_se2_ag1_f_01	1515.0488	Yes.	1515.5167
+1053	DTA_se2_ag1_f_01	1515.5167	(pause 1.20)	1516.7187
+1054	DTA_se2_ag1_f_01	1516.7187	We got a case,	1517.9906
+1055	DTA_se2_ag1_f_01	1517.9906	(pause 0.19)	1518.1772
+1056	DTA_se2_ag1_f_01	1518.1772	and it w- something, it was a night case.	1520.7704
+1057	DTA_int_04	1521.1069	Mm-hm.	1521.5075
+1058	DTA_int_04	1521.5075	(pause 1.02)	1522.5274
+1059	DTA_int_04	1522.5274	What do you do with that?	1523.4795
+1060	DTA_se2_ag1_f_01	1523.9723	<ts>	1524.0793
+1061	DTA_se2_ag1_f_01	1524.0793	(pause 0.25)	1524.3301
+1062	DTA_se2_ag1_f_01	1524.3301	When you spend the night, you can put your-	1526.1041
+1063	DTA_se2_ag1_f_01	1526.1041	(pause 0.24)	1526.3396
+1064	DTA_se2_ag1_f_01	1526.3396	your night clothes in it.	1527.7002
+1065	DTA_int_04	1528.7493	Do you ever use it?	1529.6297
+1066	DTA_se2_ag1_f_01	1530.8226	Sometimes.	1532.0674
+1067	DTA_int_04	1532.3121	Uh-huh.	1532.6571
+1068	DTA_int_04	1532.6571	(pause 1.03)	1533.6880
+1069	DTA_int_04	1533.6880	Tell me, what do you do around the end of the year?	1536.1007
+1070	DTA_int_04	1536.1007	(pause 0.27)	1536.3678
+1071	DTA_int_04	1536.3678	Around the end of October.	1537.5872
+1072	DTA_int_04	1537.5872	(pause 1.08)	1538.6713
+1073	DTA_int_04	1538.6713	When some kids go out	1540.0566
+1074	DTA_int_04	1540.0566	(pause 0.44)	1540.4985
+1075	DTA_int_04	1540.4985	at night,	1540.9237
+1076	DTA_int_04	1540.9237	(pause 0.35)	1541.2688
+1077	DTA_int_04	1541.2688	/??/?	1541.8667
+1078	DTA_se2_ag1_f_01	1542.7430	Maybe sometimes mom and them will take us	1545.7950
+1079	DTA_se2_ag1_f_01	1545.7950	(pause 0.12)	1545.9174
+1080	DTA_se2_ag1_f_01	1545.9174	out someplace,	1547.1775
+1081	DTA_se2_ag1_f_01	1547.1775	(pause 0.56)	1547.7337
+1082	DTA_se2_ag1_f_01	1547.7337	or take us someplace.	1549.3150
+1083	DTA_int_04	1549.7248	Yeah, but a special holiday at the end of October, where the kids get dressed up and put on /inaudible/.	1554.3883
+1084	DTA_se2_ag1_f_01	1555.4067	Well they'll- maybe they'll take us out	1558.3792
+1085	DTA_se2_ag1_f_01	1558.3792	(pause 0.92)	1559.2998
+1086	DTA_se2_ag1_f_01	1559.2998	or	1559.7857
+1087	DTA_se2_ag1_f_01	1559.7857	(pause 0.76)	1560.5412
+1088	DTA_se2_ag1_f_01	1560.5412	we'll go- we'll go	1562.2043
+1089	DTA_se2_ag1_f_01	1562.2043	(pause 0.16)	1562.3671
+1090	DTA_se2_ag1_f_01	1562.3671	and, um-	1562.9631
+1091	DTA_se2_ag1_f_01	1562.9631	(pause 1.00)	1563.9602
+1092	DTA_se2_ag1_f_01	1563.9602	maybe we'll go and, um.	1565.5769
+1093	DTA_int_04	1566.2231	Well what holiday is at the end of October?	1568.8527
+1094	DTA_se2_ag1_f_01	1570.9328	Halloween.	1571.8285
+1095	DTA_int_04	1571.8561	Yeah.	1572.4215
+1096	DTA_se2_ag1_f_01	1572.7920	We'll dress up in-	1574.2448
+1097	DTA_se2_ag1_f_01	1574.2448	(pause 0.66)	1574.9081
+1098	DTA_se2_ag1_f_01	1574.9081	in different kind of clothes so nobody wouldn't know us, or get a [mask.]	1579.2446
+1099	DTA_int_04	1578.5106	[Mm-hm.]	1578.9011
+1100	DTA_int_04	1580.0460	When you ring the doorbell, what do you say to people?	1582.1738
+1101	DTA_se2_ag1_f_01	1582.5627	Trick or treat.	1583.4711
+1102	DTA_int_04	1583.6481	You ever say anything else?	1584.6148
+1103	DTA_se2_ag1_f_01	1586.3977	No.	1586.8171
+1104	DTA_se2_ag1_f_01	1586.8171	(pause 0.71)	1587.5228
+1105	DTA_se2_ag1_f_01	1587.5228	Uh, some people- some of the kids on this street will say, trick or treat give me something to eat.	1591.7065
+1106	DTA_se2_ag1_f_01	1591.7065	(pause 0.37)	1592.0766
+1107	DTA_se2_ag1_f_01	1592.0766	And the people, they wouldn't. The people would just shut the door.	1595.5629
+1108	DTA_int_04	1595.6420	<laugh>	1596.3197
+1109	DTA_int_04	1596.3197	(pause 1.06)	1597.3823
+1110	DTA_int_04	1597.3823	I see.	1597.9940
+1111	DTA_int_04	1597.9940	(pause 0.50)	1598.4986
+1112	DTA_int_04	1598.4986	Tell me one of the costumes you wore one year.	1601.0032
+1113	DTA_int_04	1601.0032	(pause 0.36)	1601.3667
+1114	DTA_int_04	1601.3667	How did you look?	1602.1007
+1115	DTA_se2_ag1_f_01	1607.4585	Sometimes- one time I didn't wanna dress up, so I just put on my raincoat and some lipstick.	1613.5262
+1116	DTA_int_04	1613.7918	<laugh>	1614.1198
+1117	DTA_int_04	1614.1198	(pause 1.25)	1615.3700
+1118	DTA_int_04	1615.3700	What happened?	1616.2422
+1119	DTA_se2_ag1_f_01	1616.5319	<laugh>	1617.2720
+1120	DTA_int_04	1617.6543	Didn't get much?	1618.6629
+1121	DTA_se2_ag1_f_01	1618.8013	Nope. I didn't get a lot.	1620.8868
+1122	DTA_int_04	1621.5046	What'd they say to you? You better go home?	1623.5160
+1123	DTA_se2_ag1_f_01	1623.9113	Nope.	1624.2554
+1124	DTA_int_04	1624.3700	And get dressed up. (laughing)	1625.2631
+1125	DTA_int_04	1625.2631	(pause 1.94)	1627.1988
+1126	DTA_int_04	1627.1988	Did anything funny ever happen to you on Halloween?	1629.9266
+1127	DTA_se2_ag1_f_01	1630.1315	No.	1630.5785
+1128	DTA_int_04	1631.2539	Do you remember anything happened /unintelligible/?	1633.4847
+1129	DTA_int_04	1633.4847	(pause 0.98)	1634.4650
+1130	DTA_int_04	1634.4650	What [happened?]	1635.1699
+1131	DTA_se2_ag1_f_01	1634.8805	[<laugh>] Uh,	1635.9633
+1132	DTA_se2_ag1_f_01	1636.4373	I was- <laugh> um,	1637.5777
+1133	DTA_se2_ag1_f_01	1637.5777	(pause 0.49)	1638.0640
+1134	DTA_se2_ag1_f_01	1638.0640	I- when I came home, I couldn't hardly get that stuff off my face.	1641.5687
+1135	DTA_int_04	1641.7920	And what happened? (laughing)	1643.1924
+1136	DTA_se2_ag1_f_01	1644.4953	And then I finally got it off. I put some soap on a towel and I wiped it	1648.5260
+1137	DTA_se2_ag1_f_01	1648.5260	(pause 0.42)	1648.9450
+1138	DTA_se2_ag1_f_01	1648.9450	real hard, then I got it off.	1651.0247
+1139	DTA_int_04	1652.0184	Did your sister help you?	1653.2323
+1140	DTA_se2_ag1_f_01	1654.6025	No.	1655.0337
+1141	DTA_int_04	1655.3208	You just had to struggle with it yourself? <laugh>	1657.5020
+1142	DTA_int_04	1657.5020	(pause 1.74)	1659.2384
+1143	DTA_int_04	1659.2384	What would you like to be next year for Halloween?	1661.6546
+1144	DTA_se2_ag1_f_01	1666.5138	Maybe um,	1668.3515
+1145	DTA_se2_ag1_f_01	1668.3515	(pause 0.46)	1668.8164
+1146	DTA_se2_ag1_f_01	1668.8164	think	1669.2548
+1147	DTA_se2_ag1_f_01	1669.2548	(pause 3.67)	1672.9206
+1148	DTA_se2_ag1_f_01	1672.9206	a queen or something.	1674.5474
+1149	DTA_int_04	1674.8226	Oh yeah?	1675.2936
+1150	DTA_int_04	1675.2936	(pause 0.91)	1676.2020
+1151	DTA_int_04	1676.2020	What would l- be like to be a queen?	1678.0320
+1152	DTA_se2_ag1_f_01	1680.2109	You have to	1680.8776
+1153	DTA_se2_ag1_f_01	1680.8776	(pause 0.24)	1681.1192
+1154	DTA_se2_ag1_f_01	1681.1192	dress up	1682.2228
+1155	DTA_se2_ag1_f_01	1682.2228	(pause 0.53)	1682.7490
+1156	DTA_se2_ag1_f_01	1682.7490	and then- in your costume, and then	1685.8041
+1157	DTA_se2_ag1_f_01	1685.8041	(pause 0.44)	1686.2476
+1158	DTA_se2_ag1_f_01	1686.2476	so you can go to different houses	1688.1734
+1159	DTA_se2_ag1_f_01	1688.1734	(pause 0.35)	1688.5262
+1160	DTA_se2_ag1_f_01	1688.5262	I say trick or treat, and all that.	1690.6117
+1161	DTA_se2_ag1_f_01	1690.6117	(pause 0.21)	1690.8170
+1162	DTA_se2_ag1_f_01	1690.8170	Then the p- the person will put candy and stuff in your bag.	1694.3631
+1163	DTA_se2_ag1_f_01	1694.3631	(pause 0.29)	1694.6511
+1164	DTA_se2_ag1_f_01	1694.6511	And when we came back, we emptied it out and we thought we didn't have much, and we had a whole lot.	1699.1835
+1165	DTA_int_04	1699.3364	What'd you do with it all?	1700.5506
+1166	DTA_se2_ag1_f_01	1700.8744	We ate it all up.	1702.2662
+1167	DTA_int_04	1702.5841	Anybody get sick?	1703.5812
+1168	DTA_se2_ag1_f_01	1703.9723	No.	1704.3882
+1169	DTA_int_04	1705.0397	Not at all, huh?	1705.8858
+1170	DTA_int_04	1705.8858	(pause 1.33)	1707.2142
+1171	DTA_int_04	1707.2142	I should think if you were a queen they wouldn't let you in the door. They'd say you're too rich, you don't need to beg for candy.	1712.5431
+1172	DTA_se2_ag1_f_01	1713.3301	<laugh>	1713.8236
+1173	DTA_int_04	1716.2047	Tell me,	1716.5809
+1174	DTA_int_04	1716.5809	(pause 0.43)	1717.0091
+1175	DTA_int_04	1717.0091	do- what kind of things do fights start about here?	1720.0651
+1176	DTA_se2_ag1_f_01	1721.4344	They starts about	1722.7797
+1177	DTA_se2_ag1_f_01	1722.7797	(pause 0.13)	1722.9143
+1178	DTA_se2_ag1_f_01	1722.9143	picking on people. But I never had a p-	1724.7918
+1179	DTA_se2_ag1_f_01	1724.7918	(pause 0.14)	1724.9325
+1180	DTA_se2_ag1_f_01	1724.9325	a fight [before.]	1726.0955
+1181	DTA_int_04	1725.9235	[You] never had a fight?	1727.1272
+1182	DTA_int_04	1727.9203	With nobody?	1728.5581
+1183	DTA_se2_ag1_f_01	1729.0734	No.	1729.4648
+1184	DTA_int_04	1729.8288	Not even your sister?	1730.8897
+1185	DTA_se2_ag1_f_01	1731.6146	Yes, she had a fight before. Right in front of the school, and they didn't even see her.	1736.0206
+1186	DTA_int_04	1736.2111	Oh no?	1736.7276
+1187	DTA_int_04	1736.7276	(pause 0.15)	1736.8775
+1188	DTA_int_04	1736.8775	What'd she do?	1737.7421
+1189	DTA_se2_ag1_f_01	1738.2813	She hit-	1738.8869
+1190	DTA_se2_ag1_f_01	1738.8869	(pause 0.20)	1739.0857
+1191	DTA_se2_ag1_f_01	1739.0857	she- the girl, she started-	1740.9602
+1192	DTA_se2_ag1_f_01	1740.9602	(pause 0.37)	1741.3333
+1193	DTA_se2_ag1_f_01	1741.3333	and she started talking and telling people about stuff about her and all that.	1745.9998
+1194	DTA_int_04	1746.2047	[Uh-huh.]	1746.4921
+1195	DTA_se2_ag1_f_01	1746.3148	[Then] after she-	1747.3823
+1196	DTA_se2_ag1_f_01	1747.4985	she was- she got on- on the girl, the girl, she started crying.	1751.3095
+1197	DTA_int_04	1751.4344	Uh-huh.	1751.9111
+1198	DTA_se2_ag1_f_01	1752.8226	It be lots of fights at /RD-SCHOOL-2/.	1755.0977
+1199	DTA_int_04	1755.2873	Are there?	1755.7950
+1200	DTA_se2_ag1_f_01	1755.9755	Now they tries to keep the kids out of front fights.	1759.4312
+1201	DTA_int_04	1759.5168	Mm-hm.	1759.8840
+1202	DTA_int_04	1759.8840	(pause 0.82)	1760.7062
+1203	DTA_int_04	1760.7062	How do the kids fight when the fight over there? What do they use?	1763.5710
+1204	misc	1763.8102	/Just they hand/.	1764.6482
+1205	DTA_se2_ag1_f_01	1764.7797	They use they hand, and some of 'em pick up sticks and they'll hit you with it.	1769.1884
+1206	DTA_int_04	1769.3212	Uh-huh. Do they ever use knives or anything?	1771.5620
+1207	misc	1771.7156	Mm-mm.	1772.1224
+1208	DTA_se2_ag1_f_01	1772.3059	No.	1772.7732
+1209	DTA_se2_ag1_f_01	1772.7732	(pause 0.42)	1773.1956
+1210	DTA_se2_ag1_f_01	1773.1956	But they used to, one time	1774.9817
+1211	DTA_se2_ag1_f_01	1774.9817	(pause 0.40)	1775.3789
+1212	DTA_se2_ag1_f_01	1775.3789	some kids from /RD-SCHOOl-2/, they pulled a boy down-	1777.8441
+1213	DTA_se2_ag1_f_01	1777.8441	(pause 0.27)	1778.1133
+1214	DTA_se2_ag1_f_01	1778.1133	and they was bringing bean shooters. And they f-	1780.4618
+1215	DTA_se2_ag1_f_01	1780.4618	(pause 0.19)	1780.6545
+1216	DTA_se2_ag1_f_01	1780.6545	put a bean in a squirrel, and that squirrel died.	1783.5874
+1217	DTA_se2_ag1_f_01	1783.5874	(pause 0.35)	1783.9420
+1218	DTA_se2_ag1_f_01	1783.9420	And- and then they-	1785.1711
+1219	DTA_se2_ag1_f_01	1785.1711	(pause 0.26)	1785.4311
+1220	DTA_se2_ag1_f_01	1785.4311	they had- they pretend like they had a-	1787.4106
+1221	DTA_se2_ag1_f_01	1787.4106	(pause 0.35)	1787.7643
+1222	DTA_se2_ag1_f_01	1787.7643	they-	1788.0702
+1223	DTA_se2_ag1_f_01	1788.0702	(pause 0.27)	1788.3393
+1224	DTA_se2_ag1_f_01	1788.3393	the people over at /RD-NAME-2/- my girlfriend and down	1790.7601
+1225	DTA_se2_ag1_f_01	1790.7601	(pause 0.29)	1791.0549
+1226	DTA_se2_ag1_f_01	1791.0549	the street named /RD-NAME-3/, they got after her with a- um,	1794.2690
+1227	DTA_se2_ag1_f_01	1794.2690	(pause 0.38)	1794.6513
+1228	DTA_se2_ag1_f_01	1794.6513	with a bean shooter. And they	1796.0099
+1229	DTA_se2_ag1_f_01	1796.0099	(pause 0.16)	1796.1714
+1230	DTA_se2_ag1_f_01	1796.1714	put some beans in her ears and /things/.	1798.5505
+1231	DTA_int_04	1798.8043	Mm-hm. That hurt 'em, huh?	1800.2672
+1232	DTA_int_04	1800.2672	(pause 0.99)	1801.2599
+1233	DTA_int_04	1801.2599	Uh-huh.	1801.6416
+1234	DTA_int_04	1801.6416	(pause 0.57)	1802.2111
+1235	DTA_int_04	1802.2111	Um,	1802.5783
+1236	DTA_int_04	1802.5783	(pause 1.02)	1803.5962
+1237	DTA_int_04	1803.5962	have you ever seen some of those fights over there at /RD-SCHOOL-2/?	1806.6972
+1238	DTA_se2_ag1_f_01	1807.1315	Yes.	1807.7613
+1239	DTA_int_04	1808.0123	Can you tell me about any of ['em?]	1809.5166
+1240	DTA_se2_ag1_f_01	1809.3760	[One] of ['em was with]	1810.8166
+1241	DTA_int_04	1809.8837	[/Have you been in any/?]	1810.6443
+1242	DTA_se2_ag1_f_01	1810.9145	/RD-NAME-3/ and that other girl named /RD-NAME-2/.	1814.1438
+1243	DTA_se2_ag1_f_01	1814.1438	(pause 0.65)	1814.7918
+1244	DTA_se2_ag1_f_01	1814.7918	And they started	1815.8409
+1245	DTA_se2_ag1_f_01	1815.8409	(pause 0.10)	1815.9418
+1246	DTA_se2_ag1_f_01	1815.9418	fighting	1816.5077
+1247	DTA_se2_ag1_f_01	1816.5077	(pause 0.56)	1817.0643
+1248	DTA_se2_ag1_f_01	1817.0643	cause /RD-NAME-3/, she told her that	1819.4985
+1249	DTA_se2_ag1_f_01	1819.4985	(pause 0.28)	1819.7799
+1250	DTA_se2_ag1_f_01	1819.7799	she could- she could run faster and do all that stuff.	1822.9297
+1251	DTA_se2_ag1_f_01	1822.9297	(pause 0.27)	1823.1989
+1252	DTA_se2_ag1_f_01	1823.1989	And then next they just started fighting. And n- every time somebody to come over and get 'em off, they'll start right back.	1829.0123
+1253	DTA_se2_ag1_f_01	1829.0123	(pause 0.29)	1829.3059
+1254	DTA_se2_ag1_f_01	1829.3059	And a girl name /RD-NAME-4/,	1831.0547
+1255	DTA_se2_ag1_f_01	1831.0547	(pause 0.30)	1831.3517
+1256	DTA_se2_ag1_f_01	1831.3517	she tried to- she tried to stop it and they chased her all the way home.	1835.5323
+1257	DTA_int_04	1835.7613	Uh-huh.	1836.2901
+1258	DTA_int_04	1836.2901	(pause 0.35)	1836.6421
+1259	DTA_int_04	1836.6421	Mm-hm.	1837.0296
+1260	DTA_int_04	1837.0296	(pause 0.54)	1837.5658
+1261	DTA_int_04	1837.5658	What would you do if you saw somebody in-	1839.4005
+1262	DTA_int_04	1839.4005	(pause 0.21)	1839.6085
+1263	DTA_int_04	1839.6085	in a fight?	1840.3254
+1264	DTA_se2_ag1_f_01	1840.6789	I wouldn't go over there near it. I would just go	1843.4190
+1265	DTA_se2_ag1_f_01	1843.4190	(pause 0.21)	1843.6331
+1266	DTA_se2_ag1_f_01	1843.6331	keep straight home.	1844.7337
+1267	DTA_int_04	1844.8530	Uh-huh.	1845.3784
+1268	DTA_int_04	1845.3784	(pause 0.73)	1846.1039
+1269	DTA_int_04	1846.1039	Do the kids usually just fight one to one or do they fight in gangs?	1849.4273
+1270	DTA_se2_ag1_f_01	1850.3243	They fight one	1851.5680
+1271	DTA_se2_ag1_f_01	1851.5680	(pause 0.84)	1852.4037
+1272	DTA_se2_ag1_f_01	1852.4037	and one.	1852.8808
+1273	DTA_se2_ag1_f_01	1852.8808	(pause 0.26)	1853.1377
+1274	DTA_se2_ag1_f_01	1853.1377	One to one, and sometime another person will jump in.	1856.0980
+1275	DTA_se2_ag1_f_01	1856.0980	(pause 0.32)	1856.4218
+1276	DTA_se2_ag1_f_01	1856.4218	One summer	1857.2904
+1277	DTA_se2_ag1_f_01	1857.2904	(pause 0.26)	1857.5504
+1278	DTA_se2_ag1_f_01	1857.5504	a girl name- um,	1858.9726
+1279	DTA_se2_ag1_f_01	1858.9726	(pause 1.41)	1860.3852
+1280	DTA_se2_ag1_f_01	1860.3852	what's her name /RD-NAME-1/?	1861.4006
+1281	DTA_se2_ag1_f_01	1861.4006	(pause 1.35)	1862.7460
+1282	DTA_se2_ag1_f_01	1862.7460	/RD-NAME-2/ and a girl around the block, I was over at her house today,	1866.4555
+1283	DTA_se2_ag1_f_01	1866.4555	(pause 0.51)	1866.9694
+1284	DTA_se2_ag1_f_01	1866.9694	they got in a fight.	1868.2780
+1285	DTA_se2_ag1_f_01	1868.2780	(pause 0.10)	1868.3820
+1286	DTA_se2_ag1_f_01	1868.3820	And the-	1868.7704
+1287	DTA_se2_ag1_f_01	1868.7704	(pause 0.15)	1868.9172
+1288	DTA_se2_ag1_f_01	1868.9172	and the girl from /RD-SCHOOL-2/ came and helped her.	1871.4816
+1289	DTA_se2_ag1_f_01	1871.4816	(pause 0.79)	1872.2751
+1290	DTA_se2_ag1_f_01	1872.2751	And they just started fighting and it was three- it was two against one.	1876.4098
+1291	DTA_int_04	1876.5505	Then everybody's jumping on /one to one/.	1878.2746
+1292	DTA_se2_ag1_f_01	1878.3668	Uh-huh.	1878.8042
+1293	DTA_se2_ag1_f_01	1878.8042	(pause 0.20)	1879.0061
+1294	DTA_se2_ag1_f_01	1879.0061	And then the whole school jumped in it.	1881.2352
+1295	DTA_int_04	1881.5381	Uh-huh.	1882.1128
+1296	DTA_se2_ag1_f_01	1882.3792	[Us /??/.]	1883.1561
+1297	DTA_int_04	1882.4801	[Even the boys?] Or just the girls?	1884.2109
+1298	misc	1884.1652	Just the girls.	1885.0630
+1299	DTA_se2_ag1_f_01	1884.9845	Just the girls and some of the boys.	1887.3625
+1300	DTA_int_04	1887.3944	Uh-huh.	1887.6910
+1301	DTA_int_04	1887.6910	(pause 0.36)	1888.0489
+1302	DTA_int_04	1888.0489	How d- how do they fight? What do you think is a fair fight?	1890.6553
+1303	DTA_se2_ag1_f_01	1891.5872	<ts>	1891.7340
+1304	DTA_se2_ag1_f_01	1891.7340	(pause 0.34)	1892.0766
+1305	DTA_se2_ag1_f_01	1892.0766	If i-	1892.5410
+1306	DTA_se2_ag1_f_01	1892.5410	(pause 0.58)	1893.1160
+1307	DTA_se2_ag1_f_01	1893.1160	it woulda been a fair fight if	1894.6422
+1308	DTA_se2_ag1_f_01	1894.6422	(pause 0.15)	1894.7891
+1309	DTA_se2_ag1_f_01	1894.7891	all of 'em wouldn't jumped in, just the two that was gonna fight.	1898.0050
+1310	DTA_int_04	1898.1744	Uh-huh.	1898.7099
+1311	DTA_int_04	1898.7099	(pause 0.43)	1899.1405
+1312	DTA_int_04	1899.1405	So you- what do you think is a fair fight?	1900.9668
+1313	DTA_se2_ag1_f_01	1902.1558	When the- when two- when it's just two people	1905.3882
+1314	DTA_se2_ag1_f_01	1905.3882	(pause 0.32)	1905.7125
+1315	DTA_se2_ag1_f_01	1905.7125	and then the others don't jump in it.	1907.9575
+1316	DTA_int_04	1908.5351	Mm-hm. Do you think it's a fair fight if they kick, or bite, and scratch, and	1911.5899
+1317	DTA_int_04	1911.5899	(pause 0.34)	1911.9327
+1318	DTA_int_04	1911.9327	beat with sticks?	1912.8658
+1319	DTA_se2_ag1_f_01	1913.0766	No.	1913.4986
+1320	DTA_int_04	1914.8470	Well what do you think then is a fair fight?	1916.4445
+1321	DTA_se2_ag1_f_01	1917.1619	When you just fight with your hands and show that you is not a coward.	1920.9694
+1322	DTA_int_04	1921.1315	Uh-huh.	1921.6484
+1323	DTA_int_04	1921.6484	(pause 0.15)	1921.7982
+1324	DTA_int_04	1921.7982	Okay.	1922.2946
+1325	DTA_int_04	1922.2946	(pause 0.52)	1922.8132
+1326	DTA_int_04	1922.8132	Um, do the boys think the girls fight dirty?	1925.2203
+1327	DTA_se2_ag1_f_01	1928.3885	No.	1928.8285
+1328	DTA_se2_ag1_f_01	1928.8285	(pause 0.26)	1929.0916
+1329	DTA_se2_ag1_f_01	1929.0916	Cause the boys, they are- they can beat the girls. Most of 'em.	1932.7706
+1330	DTA_int_04	1932.9265	Uh-huh. Do the girls fight with the boys, too, around here?	1935.0518
+1331	DTA_se2_ag1_f_01	1935.5626	Yes.	1936.2477
+1332	DTA_int_04	1936.6575	What for?	1937.2111
+1333	DTA_int_04	1937.2111	(pause 0.23)	1937.4433
+1334	DTA_int_04	1937.4433	What would you beat up a [boy /for/?]	1938.8093
+1335	DTA_se2_ag1_f_01	1938.2904	[Some of] 'em fight	1939.7585
+1336	DTA_se2_ag1_f_01	1941.0273	r- if they hit me	1942.4343
+1337	DTA_se2_ag1_f_01	1942.4343	(pause 0.35)	1942.7829
+1338	DTA_se2_ag1_f_01	1942.7829	and I f- and I don't get	1944.0304
+1339	DTA_se2_ag1_f_01	1944.0304	(pause 0.11)	1944.1374
+1340	DTA_se2_ag1_f_01	1944.1374	the-	1944.4372
+1341	DTA_se2_ag1_f_01	1944.4372	(pause 0.47)	1944.9082
+1342	DTA_se2_ag1_f_01	1944.9082	if I don't hit them back in school, then when we get outside	1948.2446
+1343	DTA_int_04	1948.5933	Uh-huh.	1949.1500
+1344	DTA_se2_ag1_f_01	1949.1561	we'll hit ['em.]	1949.9203
+1345	DTA_int_04	1949.7704	[Then] you'l beat 'em up?	1950.6085
+1346	DTA_se2_ag1_f_01	1950.7797	Uh-huh.	1951.3486
+1347	DTA_int_04	1951.6759	Do you ever go and get your brother?	1953.2345
+1348	DTA_se2_ag1_f_01	1953.6146	No.	1954.0122
+1349	DTA_int_04	1954.5107	You fight 'em back yourself.	1955.7765
+1350	DTA_int_04	1955.7765	(pause 1.75)	1957.5271
+1351	DTA_int_04	1957.5271	Get your big sister here.	1958.7123
+1352	DTA_se2_ag1_f_01	1959.4647	No, cause see I ain't never had a fight, so I don't know [yet.]	1962.6635
+1353	DTA_int_04	1962.5320	[You] don't know. You're just a pacifist.	1964.6460
+1354	DTA_se2_ag1_f_01	1965.1405	[Uh-huh.]	1965.5901
+1355	misc	1965.2906	[Mm-hm.]	1965.7216
+1356	DTA_int_04	1967.1412	Okay.	1967.6970
+1357	DTA_int_04	1967.6970	(pause 0.53)	1968.2231
+1358	DTA_int_04	1968.2231	Um,	1968.6846
+1359	DTA_int_04	1968.6846	(pause 0.15)	1968.8348
+1360	DTA_int_04	1968.8348	did you ever see anybody get really badly beaten up around here?	1971.5878
+1361	DTA_se2_ag1_f_01	1972.3517	Uh-huh.	1972.9726
+1362	DTA_se2_ag1_f_01	1972.9726	(pause 1.21)	1974.1833
+1363	DTA_se2_ag1_f_01	1974.1833	[Uh-huh.]	1974.7583
+1364	DTA_int_04	1974.3730	[What happened] then?	1975.2640
+1365	DTA_se2_ag1_f_01	1975.4557	On this streets some- two- some teenagers got in a fight.	1978.6892
+1366	DTA_int_04	1979.0368	Mm-hm.	1979.4860
+1367	DTA_se2_ag1_f_01	1979.6726	And a girl, she had- she put a knife in her sock	1982.5930
+1368	DTA_se2_ag1_f_01	1982.5930	(pause 0.27)	1982.8622
+1369	DTA_se2_ag1_f_01	1982.8622	and then she took it over to her girl's house.	1985.5445
+1370	DTA_se2_ag1_f_01	1985.5445	(pause 0.42)	1985.9692
+1371	DTA_se2_ag1_f_01	1985.9692	And she s- got after her, and they was pulling that girl out in the street.	1989.4769
+1372	DTA_se2_ag1_f_01	1989.4769	(pause 0.56)	1990.0336
+1373	DTA_se2_ag1_f_01	1990.0336	And then	1990.8258
+1374	DTA_se2_ag1_f_01	1990.8258	(pause 0.38)	1991.2081
+1375	DTA_se2_ag1_f_01	1991.2081	after that,	1992.0365
+1376	DTA_se2_ag1_f_01	1992.0365	(pause 0.24)	1992.2751
+1377	DTA_se2_ag1_f_01	1992.2751	they, um,	1992.9265
+1378	DTA_se2_ag1_f_01	1992.9265	(pause 0.84)	1993.7707
+1379	DTA_se2_ag1_f_01	1993.7707	Uh,	1993.8533
+1380	DTA_se2_ag1_f_01	1993.8533	(pause 0.10)	1993.9573
+1381	DTA_se2_ag1_f_01	1993.9573	some other girls came and them /new/ two girl's sister wouldn't even help.	1997.9234
+1382	DTA_se2_ag1_f_01	1997.9234	(pause 0.33)	1998.2506
+1383	DTA_se2_ag1_f_01	1998.2506	They father called the police, and the police they stopped it.	2001.6788
+1384	DTA_se2_ag1_f_01	2001.6788	(pause 0.40)	2002.0764
+1385	DTA_se2_ag1_f_01	2002.0764	And then they went back again and they- she- that girl went and got some other girl	2006.4650
+1386	DTA_se2_ag1_f_01	2006.4650	(pause 0.33)	2006.7949
+1387	DTA_se2_ag1_f_01	2006.7949	and they kept on fighting.	2008.2273
+1388	DTA_int_04	2008.4587	So it was just girls fighting though?	2010.0824
+1389	DTA_se2_ag1_f_01	2010.1711	Uh-huh.	2010.8735
+1390	DTA_int_04	2011.0458	How'd the policeman stop it?	2012.5435
+1391	DTA_se2_ag1_f_01	2013.0610	They had to- they had to grab those girls, and then they started getting real mad.	2017.0428
+1392	DTA_se2_ag1_f_01	2017.0428	(pause 0.30)	2017.3394
+1393	DTA_se2_ag1_f_01	2017.3394	And it was a fight over across the street from us, and-	2020.0642
+1394	DTA_se2_ag1_f_01	2020.0642	(pause 0.40)	2020.4679
+1395	DTA_se2_ag1_f_01	2020.4679	and the girl, she didn't-	2021.8285
+1396	DTA_se2_ag1_f_01	2021.8285	(pause 0.28)	2022.1130
+1397	DTA_se2_ag1_f_01	2022.1130	she did- she didn't scratch the girl with her hand, she scratched her with a razor blade.	2026.8533
+1398	DTA_int_04	2027.0093	Oh.	2027.5074
+1399	DTA_int_04	2027.5074	(pause 0.24)	2027.7490
+1400	DTA_int_04	2027.7490	/unintelligible/ girls.	2028.9769
+1401	DTA_int_04	2028.9769	(pause 1.06)	2030.0337
+1402	DTA_int_04	2030.0337	Uh-huh.	2030.5634
+1403	DTA_int_04	2030.5634	(pause 0.63)	2031.1956
+1404	DTA_int_04	2031.1956	But that's dirty fighting when you use that, huh?	2033.8506
+1405	DTA_se2_ag1_f_01	2034.1497	Yes.	2034.7186
+1406	DTA_int_04	2034.7186	But people do fight that way, huh?	2036.4630
+1407	DTA_se2_ag1_f_01	2036.6420	Yes.	2037.0671
+1408	DTA_int_04	2037.2843	So [you.]	2037.8243
+1409	DTA_se2_ag1_f_01	2037.7124	[And] a lady down the street, her boy	2040.0571
+1410	DTA_int_04	2040.2017	[Mm-hm.]	2040.5075
+1411	DTA_se2_ag1_f_01	2040.4769	[he] was gonna my brother and after that sh-	2042.8889
+1412	DTA_se2_ag1_f_01	2043.1466	h- her husband got after her. And she d-	2045.3824
+1413	DTA_se2_ag1_f_01	2045.3824	(pause 0.27)	2045.6511
+1414	DTA_se2_ag1_f_01	2045.6511	and she got all	2046.8226
+1415	DTA_se2_ag1_f_01	2046.8226	(pause 0.13)	2046.9510
+1416	DTA_se2_ag1_f_01	2046.9510	[s-]	2047.0795
+1417	DTA_int_04	2046.9755	[Hm.]	2047.2483
+1418	DTA_se2_ag1_f_01	2047.3218	stabbed up.	2048.1961
+1419	DTA_int_04	2048.4241	He killed her,	2049.3148
+1420	DTA_int_04	2049.3148	(pause 0.24)	2049.5503
+1421	DTA_int_04	2049.5503	the husband did?	2050.3609
+1422	DTA_se2_ag1_f_01	2050.4771	Uh-huh.	2050.9695
+1423	DTA_int_04	2050.9695	When was that? Was that a long time ago, or?	2052.8379
+1424	DTA_se2_ag1_f_01	2053.5199	Uh-huh.	2054.1683
+1425	DTA_se2_ag1_f_01	2054.1683	(pause 0.18)	2054.3488
+1426	DTA_se2_ag1_f_01	2054.3488	It wasn't too long though.	2055.8746
+1427	DTA_int_04	2056.4679	Huh?	2056.7683
+1428	DTA_se2_ag1_f_01	2056.9144	It wasn't too long though.	2058.3882
+1429	DTA_int_04	2058.6390	Oh [no.]	2059.2365
+1430	DTA_se2_ag1_f_01	2059.0886	[When] the boy- he lives with his grandmother now.	2062.0651
+1431	DTA_int_04	2062.3180	[Uh-huh.]	2062.7490
+1432	DTA_se2_ag1_f_01	2062.4220	[Cause his] father,	2063.3813
+1433	DTA_se2_ag1_f_01	2063.6848	he was- he was already, um,	2065.8013
+1434	DTA_se2_ag1_f_01	2065.8013	(pause 0.54)	2066.3457
+1435	DTA_se2_ag1_f_01	2066.3457	in prison.	2067.1589
+1436	DTA_int_04	2067.3821	Mm-hm.	2067.8715
+1437	DTA_se2_ag1_f_01	2068.5566	And he broke out.	2069.5533
+1438	DTA_se2_ag1_f_01	2069.5533	(pause 0.12)	2069.6726
+1439	DTA_se2_ag1_f_01	2069.6726	And next one, when they get-	2071.1070
+1440	DTA_se2_ag1_f_01	2071.1070	(pause 0.35)	2071.4618
+1441	DTA_se2_ag1_f_01	2071.4618	when they would came in there	2072.8499
+1442	DTA_se2_ag1_f_01	2072.8499	(pause 0.25)	2073.0977
+1443	DTA_se2_ag1_f_01	2073.0977	he wasn't here, he was gone.	2074.8961
+1444	DTA_int_04	2075.1071	Mm-hm.	2075.5288
+1445	DTA_int_04	2075.5288	(pause 0.12)	2075.6450
+1446	DTA_int_04	2075.6450	Well /??/ he had finished off his wife, huh? He got so mad at her.	2079.0423
+1447	misc	2078.9297	Yeah.	2079.3086
+1448	DTA_int_04	2079.7764	He gets- he was really mad at her.	2081.2780
+1449	DTA_int_04	2081.2780	(pause 2.58)	2083.8563
+1450	DTA_int_04	2083.8563	Well have you ever been in the hospital?	2085.6181
+1451	DTA_se2_ag1_f_01	2087.6420	No.	2088.0885
+1452	DTA_se2_ag1_f_01	2088.0885	(pause 0.33)	2088.4158
+1453	DTA_se2_ag1_f_01	2088.4158	Yes, once.	2089.5046
+1454	DTA_int_04	2089.8747	What happened to [you?]	2090.8591
+1455	DTA_se2_ag1_f_01	2090.4707	[One] day-	2091.2442
+1456	DTA_se2_ag1_f_01	2092.1406	see, my ear- something was wrong with my ear.	2095.3486
+1457	DTA_se2_ag1_f_01	2095.3486	(pause 0.33)	2095.6789
+1458	DTA_se2_ag1_f_01	2095.6789	And	2095.9389
+1459	DTA_se2_ag1_f_01	2095.9389	(pause 0.11)	2096.0460
+1460	DTA_se2_ag1_f_01	2096.0460	every day I would w- be crying when my mother came.	2099.3273
+1461	DTA_se2_ag1_f_01	2099.3273	(pause 0.33)	2099.6573
+1462	DTA_se2_ag1_f_01	2099.6573	And so she told me that she was going	2101.3945
+1463	DTA_se2_ag1_f_01	2101.3945	(pause 0.14)	2101.5321
+1464	DTA_se2_ag1_f_01	2101.5321	make an appointment and take me to the hospital,	2103.9143
+1465	DTA_se2_ag1_f_01	2103.9143	(pause 0.26)	2104.1743
+1466	DTA_se2_ag1_f_01	2104.1743	and then she took me.	2105.4986
+1467	DTA_se2_ag1_f_01	2105.4986	(pause 0.51)	2106.0120
+1468	DTA_se2_ag1_f_01	2106.0120	He put some stuff in my ear and he clean it out.	2108.5777
+1469	DTA_se2_ag1_f_01	2108.5777	(pause 0.25)	2108.8316
+1470	DTA_se2_ag1_f_01	2108.8316	And then	2109.5809
+1471	DTA_se2_ag1_f_01	2109.5809	(pause 0.32)	2109.8990
+1472	DTA_se2_ag1_f_01	2109.8990	when I came back home, my mother got some stuff from my aunt and she, um,	2113.6453
+1473	DTA_se2_ag1_f_01	2113.6453	(pause 0.43)	2114.0796
+1474	DTA_se2_ag1_f_01	2114.0796	she put that in my ear.	2115.6020
+1475	DTA_int_04	2115.7889	Uh-huh.	2116.2620
+1476	DTA_int_04	2116.2620	(pause 0.44)	2116.7004
+1477	DTA_int_04	2116.7004	Did it get alright?	2117.5813
+1478	DTA_se2_ag1_f_01	2117.9448	Uh-huh.	2118.3852
+1479	DTA_se2_ag1_f_01	2118.3852	(pause 0.11)	2118.4984
+1480	DTA_se2_ag1_f_01	2118.4984	And some of it got in my hair.	2120.2834
+1481	DTA_int_04	2120.5767	Uh-huh. Does it hurt any?	2121.7553
+1482	DTA_se2_ag1_f_01	2122.5260	[No.]	2122.8961
+1483	DTA_int_04	2122.6673	[Any more?]	2123.1500
+1484	DTA_int_04	2123.5013	It's okay now, hm?	2124.4533
+1485	DTA_int_04	2124.4533	(pause 1.15)	2125.6055
+1486	DTA_int_04	2125.6055	Do you ever remember the time when you were very, very sick?	2128.1529
+1487	DTA_se2_ag1_f_01	2129.6083	Once when I had the [measles.]	2131.4190
+1488	DTA_int_04	2131.3715	[What] happened then?	2132.3243
+1489	DTA_se2_ag1_f_01	2133.5442	I w- I kept on- I was /vomiting/-	2136.3350
+1490	DTA_se2_ag1_f_01	2136.3350	(pause 1.63)	2137.9664
+1491	DTA_se2_ag1_f_01	2137.9664	and my nose was bleeding.	2140.0152
+1492	DTA_int_04	2141.4279	Mm-hm.	2141.8285
+1493	DTA_int_04	2141.8285	(pause 2.88)	2144.7062
+1494	DTA_int_04	2144.7062	What'd you look like with the measles?	2146.5352
+1495	DTA_se2_ag1_f_01	2147.5445	<laugh>	2148.0977
+1496	DTA_se2_ag1_f_01	2148.0977	(pause 0.34)	2148.4341
+1497	DTA_se2_ag1_f_01	2148.4341	Not so [good.] (laughing)	2150.1648
+1498	DTA_int_04	2150.1037	[<laugh>]	2150.8786
+1499	DTA_int_04	2152.2395	Okay.	2152.9236
+1500	DTA_int_04	2152.9236	(pause 0.57)	2153.4956
+1501	DTA_int_04	2153.4956	Um, when a person starts to sneeze or to cough,	2156.7735
+1502	DTA_int_04	2156.7735	(pause 0.52)	2157.2904
+1503	DTA_int_04	2157.2904	you might say he is	2158.8650
+1504	DTA_int_04	2158.8650	(pause 1.22)	2160.0855
+1505	DTA_int_04	2160.0855	[a-]	2160.2292
+1506	DTA_se2_ag1_f_01	2160.1374	[Sick.]	2160.6727
+1507	DTA_int_04	2161.0061	well, he's	2161.7535
+1508	DTA_int_04	2161.7535	(pause 0.24)	2161.9970
+1509	DTA_int_04	2161.9970	a cold.	2162.6328
+1510	DTA_se2_ag1_f_01	2164.8196	Um,	2165.4252
+1511	DTA_int_04	2165.5594	He is what?	2166.4066
+1512	DTA_se2_ag1_f_01	2166.9082	he	2168.3273
+1513	DTA_se2_ag1_f_01	2168.3273	(pause 4.22)	2172.5473
+1514	DTA_se2_ag1_f_01	2172.5473	he should put his hand over his mouth [or something.]	2175.6972
+1515	DTA_int_04	2174.9417	[No.]	2175.4859
+1516	DTA_int_04	2175.9663	I'm s-	2176.2813
+1517	DTA_int_04	2176.2813	(pause 0.23)	2176.5121
+1518	DTA_int_04	2176.5121	there's a blank space and I want you to fill it in. He is blank a cold.	2180.5991
+1519	DTA_se2_ag1_f_01	2181.3668	He has caught	2182.5960
+1520	DTA_se2_ag1_f_01	2182.5960	(pause 0.13)	2182.7218
+1521	DTA_se2_ag1_f_01	2182.7218	a cold.	2183.5139
+1522	DTA_int_04	2183.6695	Okay.	2184.2200
+1523	DTA_int_04	2184.2200	(pause 0.71)	2184.9265
+1524	DTA_int_04	2184.9265	Have you ever been in an automobile accident?	2186.9322
+1525	DTA_se2_ag1_f_01	2187.3454	No.	2187.7619
+1526	DTA_int_04	2188.3158	Have you ever seen one?	2189.0678
+1527	DTA_se2_ag1_f_01	2191.0428	No.	2191.4462
+1528	DTA_int_04	2192.3702	Don't remember any, huh?	2193.3121
+1529	DTA_int_04	2193.3121	(pause 0.59)	2193.9051
+1530	DTA_int_04	2193.9051	Were you ever in a situation when you thought you might be killed	2196.9602
+1531	DTA_int_04	2196.9602	(pause 0.51)	2197.4710
+1532	DTA_int_04	2197.4710	or you thought you might die?	2198.6726
+1533	DTA_int_04	2198.6726	(pause 2.15)	2200.8227
+1534	DTA_int_04	2200.8227	Did you ever dream about any time like that?	2202.7155
+1535	DTA_se2_ag1_f_01	2203.2599	No.	2203.7185
+1536	DTA_int_04	2204.3732	Do you ever have any funny dreams?	2205.8734
+1537	DTA_se2_ag1_f_01	2207.7704	No.	2208.1527
+1538	DTA_se2_ag1_f_01	2208.1527	(pause 0.64)	2208.7920
+1539	DTA_se2_ag1_f_01	2208.7920	Not before.	2209.8961
+1540	DTA_int_04	2210.9019	Before. What about after?	2212.4710
+1541	DTA_se2_ag1_f_01	2213.5231	No.	2213.8743
+1542	DTA_int_04	2214.2781	Do you ever had any dream- do you ever dream anything?	2216.4811
+1543	DTA_se2_ag1_f_01	2218.0948	Uh-huh. [Sometimes.]	2219.5961
+1544	DTA_int_04	2219.5594	[Well] what happened? Tell me one of your dreams.	2221.7554
+1545	DTA_se2_ag1_f_01	2224.1437	Sometimes I dream about	2225.8408
+1546	DTA_se2_ag1_f_01	2225.8408	(pause 0.58)	2226.4158
+1547	DTA_se2_ag1_f_01	2226.4158	when	2226.9724
+1548	DTA_se2_ag1_f_01	2226.9724	(pause 0.13)	2227.1039
+1549	DTA_se2_ag1_f_01	2227.1039	once our house caught on fire.	2229.4442
+1550	DTA_se2_ag1_f_01	2229.4442	(pause 0.55)	2229.9908
+1551	DTA_se2_ag1_f_01	2229.9908	[And- <laugh>]	2230.5291
+1552	DTA_int_04	2229.9908	[Mm-hm.]	2230.4784
+1553	DTA_se2_ag1_f_01	2230.8472	and we-	2231.2937
+1554	DTA_se2_ag1_f_01	2231.2937	(pause 0.53)	2231.8285
+1555	DTA_se2_ag1_f_01	2231.8285	and we tried to save /RD-NAME-2/ and we had	2234.4436
+1556	DTA_se2_ag1_f_01	2234.4436	(pause 0.24)	2234.6787
+1557	DTA_se2_ag1_f_01	2234.6787	get her out the house.	2236.0051
+1558	DTA_se2_ag1_f_01	2236.0051	(pause 0.37)	2236.3744
+1559	DTA_se2_ag1_f_01	2236.3744	And our mother and father,	2237.7429
+1560	DTA_se2_ag1_f_01	2237.7429	(pause 0.26)	2237.9998
+1561	DTA_se2_ag1_f_01	2237.9998	we had to wake-	2238.7492
+1562	DTA_se2_ag1_f_01	2238.7492	(pause 0.13)	2238.8776
+1563	DTA_se2_ag1_f_01	2238.8776	we had to wake them up then.	2240.3824
+1564	DTA_se2_ag1_f_01	2240.3824	(pause 0.79)	2241.1741
+1565	DTA_se2_ag1_f_01	2241.1741	And a- while my brother, he went	2243.0949
+1566	DTA_se2_ag1_f_01	2243.0949	(pause 0.20)	2243.2906
+1567	DTA_se2_ag1_f_01	2243.2906	to the fire and, um,	2244.9174
+1568	DTA_se2_ag1_f_01	2244.9174	(pause 0.13)	2245.0428
+1569	DTA_se2_ag1_f_01	2245.0428	put a fire box and pulled the alarm.	2247.5136
+1570	DTA_int_04	2247.6880	Mm-hm.	2248.1350
+1571	DTA_int_04	2248.1350	(pause 1.36)	2249.4925
+1572	DTA_int_04	2249.4925	And then what happened? You woke up?	2250.9204
+1573	DTA_se2_ag1_f_01	2251.4985	Yes.	2252.0398
+1574	DTA_int_04	2252.1224	Mm-hm.	2252.5302
+1575	DTA_int_04	2252.5302	(pause 0.23)	2252.7643
+1576	DTA_int_04	2252.7643	Did you find it burning?	2253.6543
+1577	DTA_int_04	2253.6543	(pause 1.52)	2255.1714
+1578	DTA_int_04	2255.1714	The house?	2255.6450
+1579	DTA_se2_ag1_f_01	2255.8041	<ts> [Yes.]	2256.5503
+1580	DTA_int_04	2256.3638	[Was the] house burning down [/inaudible/?]	2258.3396
+1581	DTA_se2_ag1_f_01	2257.7829	[Yes.]	2258.4119
+1582	DTA_int_04	2258.8866	Mm, it wasn't burning down. You were just dreaming it.	2261.4058
+1583	DTA_int_04	2261.4058	(pause 0.33)	2261.7368
+1584	DTA_int_04	2261.7368	[<laugh>]	2262.1199
+1585	DTA_se2_ag1_f_01	2261.9540	[<laugh>]	2262.4097
+1586	DTA_int_04	2263.3119	Tell me something, some people say that whatever is going to happen is going to happen.	2267.0857
+1587	DTA_int_04	2267.0857	(pause 0.33)	2267.4130
+1588	DTA_int_04	2267.4130	What do you think about that?	2268.5351
+1589	DTA_se2_ag1_f_01	2270.7490	Yeah, some people bes right, and some	2272.8625
+1590	DTA_se2_ag1_f_01	2272.8625	(pause 0.22)	2273.0796
+1591	DTA_se2_ag1_f_01	2273.0796	don't.	2273.4366
+1592	DTA_int_04	2273.8958	Yeah, well what do you think about it? Do you believe that?	2276.2509
+1593	DTA_se2_ag1_f_01	2276.9876	No.	2277.4200
+1594	DTA_int_04	2277.6543	What do you think you can do about it?	2279.0307
+1595	DTA_se2_ag1_f_01	2281.1743	/Think/-	2281.4648
+1596	DTA_se2_ag1_f_01	2281.4648	(pause 0.31)	2281.7768
+1597	DTA_se2_ag1_f_01	2281.7768	when some- like, uh, somebody says	2284.3005
+1598	DTA_se2_ag1_f_01	2284.3005	(pause 0.70)	2285.0001
+1599	DTA_se2_ag1_f_01	2285.0001	that	2285.3824
+1600	DTA_se2_ag1_f_01	2285.3824	(pause 0.32)	2285.7001
+1601	DTA_se2_ag1_f_01	2285.7001	you are gonna get hit or something,	2287.9328
+1602	DTA_se2_ag1_f_01	2287.9328	(pause 0.38)	2288.3121
+1603	DTA_se2_ag1_f_01	2288.3121	that might not happen. Or something like that.	2291.0765
+1604	DTA_int_04	2291.8683	Yeah, [well.]	2292.5641
+1605	DTA_se2_ag1_f_01	2292.1619	[Like, little] boy down the street, just something happened to him the other day.	2295.8317
+1606	DTA_se2_ag1_f_01	2296.2477	Cause, um, the-	2297.3147
+1607	DTA_se2_ag1_f_01	2297.3147	(pause 0.34)	2297.6542
+1608	DTA_se2_ag1_f_01	2297.6542	a boy, he wouldn't see us and tried to steal a bike, and we knew he couldn't get it down.	2301.8531
+1609	DTA_se2_ag1_f_01	2301.8531	(pause 0.31)	2302.1590
+1610	DTA_se2_ag1_f_01	2302.1590	And he was riding his bike around and see it.	2304.6696
+1611	DTA_se2_ag1_f_01	2304.6696	(pause 0.29)	2304.9571
+1612	DTA_se2_ag1_f_01	2304.9571	And then he k- he came on home and started riding real fast.	2308.4495
+1613	DTA_se2_ag1_f_01	2308.4495	(pause 0.46)	2308.9144
+1614	DTA_se2_ag1_f_01	2308.9144	And the little boy, he-	2310.2989
+1615	DTA_se2_ag1_f_01	2310.2989	(pause 0.42)	2310.7216
+1616	DTA_se2_ag1_f_01	2310.7216	he fell down and he made a hole right there up in his head.	2314.3792
+1617	DTA_int_04	2314.6178	Uh-huh.	2315.0691
+1618	DTA_se2_ag1_f_01	2315.2998	He was a baby.	2316.2794
+1619	DTA_int_04	2316.6849	Oh was he?	2317.4425
+1620	DTA_int_04	2317.4425	(pause 0.57)	2318.0154
+1621	DTA_int_04	2318.0154	How old do you think you have to be to be a baby?	2320.1687
+1622	DTA_se2_ag1_f_01	2321.0062	One.	2321.8194
+1623	DTA_int_04	2322.0579	Mm-hm.	2322.4922
+1624	DTA_se2_ag1_f_01	2323.3027	Or eight months.	2324.6787
+1625	DTA_int_04	2324.8163	Mm-hm.	2325.3852
