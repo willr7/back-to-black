@@ -14,9 +14,9 @@ from model import build_transformer
 from config import get_weights_file_path, get_config
 
 from tokenizers import Tokenizer
-from tokenizers.models import BPE
+from tokenizers.models import WordLevel
 from tokenizers.pre_tokenizers import Whitespace
-from tokenizers.trainers import BpeTrainer
+from tokenizers.trainers import WordLevelTrainer
 from torch.utils.data import DataLoader, Dataset, random_split
 from torch.utils.tensorboard import SummaryWriter
 from tqdm import tqdm
