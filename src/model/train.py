@@ -24,9 +24,6 @@ import warnings
 from tqdm import tqdm
 from pathlib import Path
 
-SOURCE_LANGUAGE = "AAVE"
-TARGET_LANGUAGE = "SAE"
-
 def greedy_decode(model, sentence, tokenizer_src, tokenizer_tgt, max_len, device):
     with torch.no_grad():
         source = tokenizer_src.encode(sentence)
@@ -219,7 +216,7 @@ def get_ds(config):
     aave_file_path = f"{config['data_folder']}{config['lang_src']}_samples.txt"
     sae_file_path = f"{config['data_folder']}{config['lang_tgt']}_samples.txt"
 
-    dataset_raw = load_source_target_dataset(aave_file_path, sae_file_path, SOURCE_LANGUAGE, TARGET_LANGUAGE)
+    dataset_raw = load_source_target_dataset(aave_file_path, sae_file_path, config["lang_src"], config["lang_tgt"])
 
     # Build tokenizers
     tokenizer_source = get_or_build_tokenizer(config, dataset_raw, config["lang_src"])
