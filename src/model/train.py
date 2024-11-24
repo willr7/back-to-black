@@ -1,7 +1,12 @@
+import os
+import warnings
+from pathlib import Path
+
 import torch
 import torch.nn as nn
-from torch.utils.data import Dataset, DataLoader, random_split
-
+import torchmetrics
+from config import get_config, get_weights_file_path
+from dataset import AAVE_SAE_Dataset, causal_mask
 from datasets import Dataset as HuggingFaceDataset
 
 
@@ -12,17 +17,90 @@ from config import get_weights_file_path, get_config
 from datasets import load_dataset
 from tokenizers import Tokenizer
 from tokenizers.models import BPE
-from tokenizers.trainers import BpeTrainer
 from tokenizers.pre_tokenizers import Whitespace
-
+from tokenizers.trainers import BpeTrainer
+from torch.utils.data import DataLoader, Dataset, random_split
 from torch.utils.tensorboard import SummaryWriter
-
-import os
-import torchmetrics
-
-import warnings
 from tqdm import tqdm
-from pathlib import Path
+
+from model import build_transformer
+
+
+def beam_search(model, beam_size, encoder_input, encoder_mask, tokenizer_source, tokenizer_target, max_len, device):
+    """
+    Performs beam search on the encoder
+    
+    Parameters:
+    encoder_input: Torch.Tensor
+        encoded input source sentence
+    
+    encoder_mask: Torch.Tensor
+        binary vector indicating which elements of the encoder's output should be considered during decoding process
+
+    Return:
+    """
+    sos_idx = tokenizer_target.token_to_id(['SOS'])
+    eos_idx = tokenizer_target.token_to_id(['EOS'])
+
+    # precompute the encoder output
+    encoder_output = model.encode(encoder_input, encoder_mask)
+    # initialize decoder input with the sos token with the same type as the encoder input
+    decoder_initial_input = torch.empty(1,1).fill_(sos_idx).type_as(encoder_input).to(device)
+
+    # create a beam list
+    beam_list = [(decoder_initial_input, 1)]
+
+    while True:
+
+        # checking for any beam that has reached max length
+            # this means we have run the decoding for at least max_len iterations, so stop the beam search
+        if any([beam.size(1) == max_len for beam, _ in beam_list]):
+            break
+
+        new_beams = []
+
+        # explores k * k possible beams and then only move forward with top k beams
+        for beam, score in beam_list:
+
+            # checking if the eos token has been reached
+            if beam[0][-1] == eos_idx:
+                continue
+
+            # build beam's mask 
+            beam_mask = causal_mask(beam.size(1)).type_as(encoder_mask).to(device)
+
+            # calculate output
+            output = model.decode(encoder_output, encoder_mask, beam, beam_mask)
+            # get next token probabilities (score)
+            prob = model.project(output[:, -1])
+
+            # get top k beams
+            top_k_prob, top_k_idx = torch.topk(prob, beam_size, dim=1)
+
+            for i in range(beam_size):
+
+                # for each of the top k beams, get the token and its probability
+                token = top_k_idx[0][i].unsqueeze(0).unsqueeze(0)    
+                token_prob = top_k_prob[0][i].item()
+
+                # create new beam by appending token to current beam
+                new_beam = torch.cat([beam, token], dim=1)
+                # sum the log probabilities cuz' probabilities in log space 
+                # (adding in log space => multiplying in normal base) 
+                new_beams.append((new_beam, score + token_prob))
+
+        # sort the new beams by their score value
+        beam_list = sorted(new_beams, key=lambda x: x[1], reverse=True)
+        # keeps the top k beams
+        beam_list = beam_list[:beam_size]
+
+        # If all the beams have reached the eos token, stop
+        if all([beam[0][-1].item() == eos_idx for beam, _ in beam_list]):
+            break
+
+    # return the best beam after beam search
+    return beam_list[0][0].squeeze()
+
 
 def greedy_decode(model, sentence, tokenizer_src, tokenizer_tgt, max_len, device):
     with torch.no_grad():
@@ -91,7 +169,6 @@ def greedy_decode(model, sentence, tokenizer_src, tokenizer_tgt, max_len, device
 
     return decoder_input.squeeze(0)
 
-
 def run_validation(
     model,
     validation_ds,
@@ -124,7 +201,6 @@ def run_validation(
         for batch in validation_ds:
             count += 1
             encoder_input = batch["encoder_input"].to(device)  # (b, seq_len)
-            encoder_mask = batch["encoder_mask"].to(device)  # (b, 1, 1, seq_len)
 
             # check that the batch size is 1
             assert encoder_input.size(0) == 1, "Batch size must be 1 for validation"
@@ -176,11 +252,9 @@ def run_validation(
         writer.add_scalar("validation BLEU", bleu, global_step)
         writer.flush()
 
-
 def get_all_sentences(ds, lang):
     for item in ds[lang]:
         yield item
-
 
 def get_or_build_tokenizer(config, ds, lang):
     tokenizer_path = Path(config["tokenizer_file"].format(lang))
@@ -197,26 +271,25 @@ def get_or_build_tokenizer(config, ds, lang):
     return tokenizer
 
 
-def load_source_target_dataset(aave_path, sae_path, source_lang, target_lang):
-    with open(aave_path, "r", encoding="utf-8") as f:
-        aave_texts = f.readlines()
-    with open(sae_path, "r", encoding="utf-8") as f:
-        sae_texts = f.readlines()
+def load_source_target_dataset(source_path, target_path, source_lang, target_lang):
+    with open(source_path, "r", encoding="utf-8") as f:
+        source_texts = f.readlines()
+    with open(target_path, "r", encoding="utf-8") as f:
+        target_texts = f.readlines()
 
     # Check lengths match
-    assert len(aave_texts) == len(sae_texts), "Mismatch in line counts between files"
+    assert len(source_texts) == len(target_texts), "Mismatch in line counts between files"
 
     # Create dataset dictionary
-    return {source_lang: aave_texts, target_lang: sae_texts}
-
+    return {source_lang: source_texts, target_lang: target_texts}
 
 def get_ds(config):
     # dataset_raw = load_dataset('Insert dataset name', f'{config["lang_src"]}-{config["lang_tgt"]}', split="train")
 
-    aave_file_path = f"{config['data_folder']}{config['lang_src']}_samples.txt"
-    sae_file_path = f"{config['data_folder']}{config['lang_tgt']}_samples.txt"
+    source_file_path = f"{config['data_folder']}{config['lang_src']}_samples.txt"
+    target_file_path = f"{config['data_folder']}{config['lang_tgt']}_samples.txt"
 
-    dataset_raw = load_source_target_dataset(aave_file_path, sae_file_path, config["lang_src"], config["lang_tgt"])
+    dataset_raw = load_source_target_dataset(source_file_path, target_file_path, config["lang_src"], config["lang_tgt"])
 
     # Build tokenizers
     tokenizer_source = get_or_build_tokenizer(config, dataset_raw, config["lang_src"])
@@ -229,7 +302,7 @@ def get_ds(config):
         dataset_raw, [train_dataset_size, val_dataset_size]
     )
 
-    train_dataset = AAVE_SAE_Dataset(
+    train_dataset = Source_Target_Dataset(
         train_dataset_raw,
         tokenizer_source,
         tokenizer_target,
@@ -237,7 +310,7 @@ def get_ds(config):
         config["lang_tgt"],
         config["seq_len"],
     )
-    val_dataset = AAVE_SAE_Dataset(
+    val_dataset = Source_Target_Dataset(
         val_dataset_raw,
         tokenizer_source,
         tokenizer_target,
