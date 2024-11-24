@@ -24,6 +24,8 @@ import warnings
 from tqdm import tqdm
 from pathlib import Path
 
+SOURCE_LANGUAGE = "AAVE"
+TARGET_LANGUAGE = "SAE"
 
 def greedy_decode(model, sentence, tokenizer_src, tokenizer_tgt, max_len, device):
     with torch.no_grad():
@@ -179,8 +181,8 @@ def run_validation(
 
 
 def get_all_sentences(ds, lang):
-    for item in ds:
-        yield item[lang]
+    for item in ds[lang]:
+        yield item
 
 
 def get_or_build_tokenizer(config, ds, lang):
@@ -198,7 +200,7 @@ def get_or_build_tokenizer(config, ds, lang):
     return tokenizer
 
 
-def load_aave_sae_dataset(aave_path, sae_path):
+def load_source_target_dataset(aave_path, sae_path, source_lang, target_lang):
     with open(aave_path, "r", encoding="utf-8") as f:
         aave_texts = f.readlines()
     with open(sae_path, "r", encoding="utf-8") as f:
@@ -208,7 +210,7 @@ def load_aave_sae_dataset(aave_path, sae_path):
     assert len(aave_texts) == len(sae_texts), "Mismatch in line counts between files"
 
     # Create dataset dictionary
-    return HuggingFaceDataset.from_dict({"AAVE": aave_texts, "SAE": sae_texts})
+    return {source_lang: aave_texts, target_lang: sae_texts}
 
 
 def get_ds(config):
@@ -217,7 +219,7 @@ def get_ds(config):
     aave_file_path = f"{config['data_folder']}{config['lang_src']}_samples.txt"
     sae_file_path = f"{config['data_folder']}{config['lang_tgt']}_samples.txt"
 
-    dataset_raw = load_aave_sae_dataset(aave_file_path, sae_file_path)
+    dataset_raw = load_source_target_dataset(aave_file_path, sae_file_path, SOURCE_LANGUAGE, TARGET_LANGUAGE)
 
     # Build tokenizers
     tokenizer_source = get_or_build_tokenizer(config, dataset_raw, config["lang_src"])
