@@ -257,8 +257,8 @@ def get_all_sentences(ds, lang):
 def get_or_build_tokenizer(config, ds, lang):
     tokenizer_path = Path(config["tokenizer_file"].format(lang))
     if not Path.exists(tokenizer_path):
-        tokenizer = Tokenizer(BPE(unk_token="[UNK]"))
-        trainer = BpeTrainer(
+        tokenizer = Tokenizer(WordLevel(unk_token="[UNK]"))
+        trainer = WordLevelTrainer(
             vocab_size=config["vocab_size"],
             special_tokens=["[UNK]", "[PAD]", "[SOS]", "[EOS]"],
         )
