@@ -1,28 +1,23 @@
+import os
+import warnings
+from pathlib import Path
+
 import torch
 import torch.nn as nn
-from torch.utils.data import Dataset, DataLoader, random_split
-
-from datasets import Dataset as HuggingFaceDataset
-
-
+import torchmetrics
+from config import get_config, get_weights_file_path
 from dataset import AAVE_SAE_Dataset, causal_mask
-from model import build_transformer
-from config import get_weights_file_path, get_config
-
+from datasets import Dataset as HuggingFaceDataset
 from datasets import load_dataset
 from tokenizers import Tokenizer
 from tokenizers.models import BPE
-from tokenizers.trainers import BpeTrainer
 from tokenizers.pre_tokenizers import Whitespace
-
+from tokenizers.trainers import BpeTrainer
+from torch.utils.data import DataLoader, Dataset, random_split
 from torch.utils.tensorboard import SummaryWriter
-
-import os
-import torchmetrics
-
-import warnings
 from tqdm import tqdm
-from pathlib import Path
+
+from model import build_transformer
 
 SOURCE_LANGUAGE = "AAVE"
 TARGET_LANGUAGE = "SAE"
@@ -127,7 +122,6 @@ def run_validation(
         for batch in validation_ds:
             count += 1
             encoder_input = batch["encoder_input"].to(device)  # (b, seq_len)
-            encoder_mask = batch["encoder_mask"].to(device)  # (b, 1, 1, seq_len)
 
             # check that the batch size is 1
             assert encoder_input.size(0) == 1, "Batch size must be 1 for validation"
