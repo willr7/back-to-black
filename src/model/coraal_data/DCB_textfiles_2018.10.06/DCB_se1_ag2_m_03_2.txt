@@ -1,0 +1,661 @@
+Line	Spkr	StTime	Content	EnTime
+1	DCB_se1_ag3_m_01	0.9420	Are you- um, are you a movie person?	2.6207
+2	DCB_se1_ag2_m_03	3.6530	Uh, yeah,	4.4537
+3	DCB_se1_ag2_m_03	4.4537	(pause 0.18)	4.6339
+4	DCB_se1_ag2_m_03	4.6339	I s- yeah, I say so, yeah.	6.1387
+5	DCB_se1_ag3_m_01	6.2455	What's your top five?	7.0463
+6	DCB_se1_ag2_m_03	7.8671	Movies?	8.3417
+7	DCB_se1_ag2_m_03	8.3417	(pause 0.62)	8.9590
+8	DCB_se1_ag2_m_03	8.9590	Uh,	9.3160
+9	DCB_se1_ag2_m_03	9.3160	(pause 0.32)	9.6363
+10	DCB_se1_ag2_m_03	9.6363	/I've/ have to say Godfather,	11.4547
+11	DCB_se1_ag2_m_03	11.4547	(pause 0.93)	12.3856
+12	DCB_se1_ag2_m_03	12.3856	Goodfellas,	13.4976
+13	DCB_se1_ag2_m_03	13.4976	(pause 0.66)	14.1586
+14	DCB_se1_ag2_m_03	14.1586	Well I'm just gonna say all the Godfellas-	15.7798
+15	DCB_se1_ag2_m_03	15.7798	(pause 0.16)	15.9432
+16	DCB_se1_ag2_m_03	15.9432	Goodfellows.	16.7741
+17	DCB_se1_ag2_m_03	16.7741	(pause 0.68)	17.4547
+18	DCB_se1_ag2_m_03	17.4547	Um,	18.0586
+19	DCB_se1_ag2_m_03	18.0586	(pause 1.68)	19.7436
+20	DCB_se1_ag2_m_03	19.7436	probably Paid in Full.	21.1964
+21	DCB_se1_ag2_m_03	21.1964	(pause 1.66)	22.8575
+22	DCB_se1_ag2_m_03	22.8575	/?? in/ Paid in Full and, um,	24.6892
+23	DCB_se1_ag2_m_03	24.6892	(pause 0.33)	25.0229
+24	DCB_se1_ag2_m_03	25.0229	Scarface.	25.7069
+25	DCB_se1_ag3_m_01	27.7731	What's the fifth one?	28.5377
+26	DCB_se1_ag2_m_03	29.9952	Um, well,	30.7627
+27	DCB_se1_ag2_m_03	30.7627	(pause 0.20)	30.9628
+28	DCB_se1_ag2_m_03	30.9628	I guess,	31.5034
+29	DCB_se1_ag2_m_03	31.5034	(pause 2.38)	33.8832
+30	DCB_se1_ag2_m_03	33.8832	the fifth one have to be, uh-	35.2679
+31	DCB_se1_ag3_m_01	36.0253	Cause you said,	36.6559
+32	DCB_se1_ag3_m_01	36.6559	(pause 0.22)	36.8794
+33	DCB_se1_ag3_m_01	36.8794	the g- you said Godfather.	38.2074
+34	DCB_se1_ag2_m_03	38.4118	Yeah I said all of 'em though.	39.5162
+35	DCB_se1_ag3_m_01	39.5529	Right, right, all the Godfather, [Godfather] the whole [series.]	41.8751
+36	DCB_se1_ag2_m_03	40.6973	[Yeah.]	40.9843
+37	DCB_se1_ag2_m_03	40.9843	(pause 0.78)	41.7650
+38	DCB_se1_ag2_m_03	41.7650	[Ah] yeah, so I guess the Godfathers, uh, Scarface,	44.7746
+39	DCB_se1_ag2_m_03	45.4628	uh, Paid in Full,	46.6139
+40	DCB_se1_ag2_m_03	46.6139	(pause 1.04)	47.6582
+41	DCB_se1_ag2_m_03	47.6582	uh,	48.3189
+42	DCB_se1_ag2_m_03	48.3189	(pause 0.38)	48.7026
+43	DCB_se1_ag2_m_03	48.7026	uh, uh,	50.0005
+44	DCB_se1_ag2_m_03	50.0005	(pause 0.43)	50.4309
+45	DCB_se1_ag2_m_03	50.4309	Belly,	50.9414
+46	DCB_se1_ag2_m_03	50.9414	(pause 0.46)	51.4061
+47	DCB_se1_ag2_m_03	51.4061	and, uh-	52.4437
+48	DCB_se1_ag3_m_01	52.4237	Oh, Belly yeah.	53.4650
+49	DCB_se1_ag2_m_03	54.2388	Hold on, I said Godfather, Paid in Full,	55.9972
+50	DCB_se1_ag2_m_03	55.9972	(pause 0.39)	56.3842
+51	DCB_se1_ag2_m_03	56.3842	Goodfellas,	57.3385
+52	DCB_se1_ag2_m_03	57.3385	(pause 1.11)	58.4504
+53	DCB_se1_ag2_m_03	58.4504	uh, Scarface,	60.1087
+54	DCB_se1_ag2_m_03	60.1087	(pause 1.28)	61.3899
+55	DCB_se1_ag2_m_03	61.3899	and yeah, yeah, Belly.	62.6879
+56	DCB_se1_ag3_m_01	64.0400	And Belly? Ah okay.	65.2312
+57	DCB_se1_ag3_m_01	65.2312	(pause 2.36)	67.5868
+58	DCB_se1_ag3_m_01	67.5868	What's the most inspirational movie that you've seen?	69.7764
+59	DCB_se1_ag2_m_03	70.8074	Out of what, those five?	71.6683
+60	DCB_se1_ag3_m_01	71.7316	No just period, like- like a movie that's made you like,	74.5944
+61	DCB_se1_ag3_m_01	74.5944	(pause 0.84)	75.4394
+62	DCB_se1_ag3_m_01	75.4394	think, you know, like- like wow that was a powerful movie or whatever.	78.8561
+63	DCB_se1_ag2_m_03	79.6435	Uh, I think the powerful movie that I seen, um,	82.2769
+64	DCB_se1_ag2_m_03	82.2769	(pause 5.42)	87.6997
+65	DCB_se1_ag2_m_03	87.6997	would have to be,	89.4480
+66	DCB_se1_ag2_m_03	89.4480	(pause 4.18)	93.6329
+67	DCB_se1_ag2_m_03	93.6329	um, I can't even- What was it? I can't even- Inspirational I'd have to say, uh,	98.2307
+68	DCB_se1_ag2_m_03	98.2307	(pause 0.85)	99.0791
+69	DCB_se1_ag2_m_03	99.0791	Remember the Titans I guess.	100.4704
+70	DCB_se1_ag3_m_01	102.5958	You said [Remember] the [Titans], oh man. (laughing)	104.9628
+71	DCB_se1_ag2_m_03	103.0429	[<laugh>]	103.3099
+72	DCB_se1_ag2_m_03	103.3099	(pause 0.48)	103.7903
+73	DCB_se1_ag2_m_03	103.7903	[<laugh>]	104.0839
+74	DCB_se1_ag2_m_03	105.0958	<laugh>	105.3393
+75	DCB_se1_ag3_m_01	105.4127	Oh you talking about- oh that is a good [movie though.]	107.5048
+76	DCB_se1_ag2_m_03	106.9943	[<laugh>]	107.7350
+77	DCB_se1_ag3_m_01	108.1020	Yeah, with, um, Denzel?	109.4100
+78	DCB_se1_ag2_m_03	109.4667	[Yeah, yeah, yeah.]	110.1707
+79	DCB_se1_ag3_m_01	109.6936	[Yeah okay] I ain't know what you was talking about but okay yeah, that's a good movie, okay that's a good inspirational movie, that's a good one.	114.3322
+80	DCB_se1_ag3_m_01	116.1373	Yeah that's a good one. Do you like Netflix it a lot or you like go out a lot to the movies and watch 'em?	120.5958
+81	DCB_se1_ag2_m_03	120.5625	Nah yeah, h- to what, to movies or what?	122.9414
+82	DCB_se1_ag3_m_01	123.1658	Like do you actually go to like- When is the last time you went- Like, what type of movie would actually have you going to the movies and seeing it instead of waiting for it to come out on Netflix or DVD or something like [that?]	131.0009
+83	DCB_se1_ag2_m_03	130.8942	[Oh] yeah, yeah, if it got anything to do with action,	133.1497
+84	DCB_se1_ag2_m_03	133.4667	uh, anything, you know, gotta do with action or drama or comedy I'm there.	137.3379
+85	DCB_se1_ag3_m_01	138.2788	Ah okay, okay.	139.3362
+86	DCB_se1_ag3_m_01	139.3362	(pause 3.93)	143.2679
+87	DCB_se1_ag3_m_01	143.2679	Mkay.	143.9085
+88	DCB_se1_ag3_m_01	143.9085	(pause 4.21)	148.1234
+89	DCB_se1_ag3_m_01	148.1234	Are you a superhero person?	149.4347
+90	DCB_se1_ag2_m_03	150.3756	Not [really.]	151.2098
+91	DCB_se1_ag3_m_01	150.9362	[Like a-]	151.5067
+92	DCB_se1_ag3_m_01	151.8537	you know what I'm saying, like if you was like,	153.4561
+93	DCB_se1_ag3_m_01	153.4561	(pause 0.19)	153.6430
+94	DCB_se1_ag3_m_01	153.6430	you- Did you follow growing up like superheroes? Cause I did.	155.9697
+95	DCB_se1_ag2_m_03	156.2388	Nah, nah, nah, I ain't really with the superhero person, you know what I'm saying. I was more so like try to be like	160.4404
+96	DCB_se1_ag2_m_03	160.4404	(pause 0.29)	160.7340
+97	DCB_se1_ag2_m_03	160.7340	more	161.2378
+98	DCB_se1_ag2_m_03	161.2378	(pause 0.38)	161.6149
+99	DCB_se1_ag2_m_03	161.6149	I guess, realistic with it, you know what I'm saying, w- with the movie, and the situation and the plot or somewhats- You know what I'm saying, just try to use that movie	168.8427
+100	DCB_se1_ag2_m_03	168.8427	(pause 0.33)	169.1731
+101	DCB_se1_ag2_m_03	169.1731	add to my, you know, everyday life. You know, I don't got time to be, you know, games or whatever the case may be, you know.	174.0153
+102	DCB_se1_ag2_m_03	174.0153	(pause 0.69)	174.7026
+103	DCB_se1_ag2_m_03	174.7026	So I ain't really looking at superhero whole little, you know, thing.	178.0333
+104	DCB_se1_ag2_m_03	178.0333	(pause 0.23)	178.2636
+105	DCB_se1_ag2_m_03	178.2636	That wasn't for me.	179.0743
+106	DCB_se1_ag3_m_01	179.1511	Were you a cartoon person?	180.2188
+107	DCB_se1_ag2_m_03	180.6692	Not really either, like I was more so- People was watching Cartoon Network,	183.3927
+108	DCB_se1_ag2_m_03	183.3927	(pause 0.09)	183.4861
+109	DCB_se1_ag2_m_03	183.4861	I was watching like, Disney. You know what I'm saying, /?/ I wasn't- you know, nah, not really.	187.6735
+110	DCB_se1_ag3_m_01	188.7546	What was your favorite on Disney?	189.8372
+111	DCB_se1_ag2_m_03	190.7941	Uh, it probably have to be- Uh, what was that s- joint called? Uh, uh, Even Stevens I guess. You know what I'm saying, [it was just] crazy like-	198.6359
+112	DCB_se1_ag3_m_01	197.4681	[<laugh>]	197.9352
+113	DCB_se1_ag2_m_03	199.4033	like brother and sister and just I don't know that /joint/ was just crazy.	202.1334
+114	DCB_se1_ag2_m_03	202.1334	(pause 0.40)	202.5372
+115	DCB_se1_ag2_m_03	202.5372	The whole situ- the whole set up but	203.9452
+116	DCB_se1_ag2_m_03	203.9452	(pause 0.56)	204.5091
+117	DCB_se1_ag2_m_03	204.5091	I guess that joint.	205.2998
+118	DCB_se1_ag3_m_01	206.1840	It's called Even Stevens?	208.1635
+119	DCB_se1_ag2_m_03	208.1101	Yeah.	209.0009
+120	DCB_se1_ag3_m_01	209.1678	I need to look that [joint up.] I- I mean, how it go though, man? I mean, what is it? Like what type of- like is it like a mouse or s- or- or- [you know what I'm saying, is it like a human or is it-]	217.5157
+121	DCB_se1_ag2_m_03	210.1654	[<laugh>]	210.6192
+122	DCB_se1_ag2_m_03	210.6192	(pause 4.96)	215.5815
+123	DCB_se1_ag2_m_03	215.5815	[Nah, nah, it's a- it's like- it's like- it's like a family, /got/ a family, you know what I'm saying, it's like a family, like, you know they family, it's like,	221.4948
+124	DCB_se1_ag2_m_03	221.9385	you know, the brother and sister like, you know, real close and he- I mean, they	225.0824
+125	DCB_se1_ag2_m_03	225.0824	(pause 0.26)	225.3460
+126	DCB_se1_ag2_m_03	225.3460	you know, close in age and they go to the same high school.	227.6816
+127	DCB_se1_ag2_m_03	227.6816	(pause 0.49)	228.1721
+128	DCB_se1_ag2_m_03	228.1721	And it's like from there, you know, it's like brother sister like rivalries, and it's just like- you know, its just crazy, it's like-	232.6506
+129	DCB_se1_ag2_m_03	232.6506	(pause 0.79)	233.4380
+130	DCB_se1_ag2_m_03	233.4380	You know what I'm saying /??/ [okay]	234.6926
+131	DCB_se1_ag3_m_01	234.4590	[Yeah] okay.	235.1831
+132	DCB_se1_ag2_m_03	235.7069	Give you a little run for your money at that age, you know [what I'm saying.]	238.4993
+133	DCB_se1_ag3_m_01	237.8632	[<laugh>]	238.8100
+134	DCB_se1_ag3_m_01	239.3313	Do you think you could relate to it more because you had a brother and a sister also?	242.9581
+135	DCB_se1_ag3_m_01	242.9581	(pause 0.56)	243.5228
+136	DCB_se1_ag3_m_01	243.5228	You know what I'm saying,	244.2936
+137	DCB_se1_ag2_m_03	244.2869	Yeah, of [course.]	244.9096
+138	DCB_se1_ag3_m_01	244.5672	[and you-]	244.8259
+139	DCB_se1_ag3_m_01	245.0176	did you like s- find some similarities there?	247.0596
+140	DCB_se1_ag2_m_03	247.6268	Yeah cause it's like- you know, I'm like, the middle-	249.8398
+141	DCB_se1_ag2_m_03	249.8398	(pause 0.15)	249.9866
+142	DCB_se1_ag2_m_03	249.9866	the middle child, my brother the youngest and my sister's the oldest and it's just like, you know what I'm saying-	254.3629
+143	DCB_se1_ag2_m_03	254.3629	(pause 0.61)	254.9723
+144	DCB_se1_ag2_m_03	254.9723	you know, it's like I'm the mi- I'm in the middle so it's like I don't get	258.0119
+145	DCB_se1_ag2_m_03	258.0119	(pause 0.57)	258.5791
+146	DCB_se1_ag2_m_03	258.5791	as much of- you know what I'm saying, it's not balanced or nothing so it's like I'm just- [/I mean,/ always trying [to-]	262.9342
+147	DCB_se1_ag3_m_01	261.7330	[Right.]	262.6339
+148	DCB_se1_ag2_m_03	263.2946	trying to maintain what I got, you know what I'm saying, so it's just like it is what it is.	266.5778
+149	DCB_se1_ag2_m_03	266.5778	(pause 0.66)	267.2359
+150	DCB_se1_ag2_m_03	267.2359	/It/ be like, damn.	267.9199
+151	DCB_se1_ag3_m_01	270.2522	Ah that's interesting cause I'm the middle child too and I understand what you mean by that.	273.1391
+152	DCB_se1_ag2_m_03	273.1358	Mm-hm.	273.5695
+153	DCB_se1_ag3_m_01	273.7564	Yeah I definitely understand what you mean [by that.]	275.3212
+154	DCB_se1_ag2_m_03	275.1611	[/???/] they definitely treat my brother like the baby, /trying to-/ [I be like, god damn, cuz and-]	279.1525
+155	DCB_se1_ag3_m_01	277.4433	[Ah yeah, that's just like they treat] my brother /RD-NAME-1/ like that /??/ <laugh>]	281.9986
+156	DCB_se1_ag2_m_03	279.5062	[and we twins, you know what I'm saying, like. <laugh>]	282.2755
+157	DCB_se1_ag3_m_01	282.4223	He [twi- you] twins and- <laugh>]	284.0439
+158	DCB_se1_ag2_m_03	282.6859	[<laugh>]	283.0099
+159	DCB_se1_ag2_m_03	283.0099	(pause 0.69)	283.7036
+160	DCB_se1_ag2_m_03	283.7036	[He like] what, twenty-three minutes younger than /?/ younger than me? You know what I'm saying, but I'm like, damn this nigga really the baby.	288.4757
+161	DCB_se1_ag2_m_03	288.5858	And so I'm like, yeah it's crazy.	289.6869
+162	DCB_se1_ag2_m_03	289.6869	(pause 0.45)	290.1340
+163	DCB_se1_ag2_m_03	290.1340	But it's cool, you know what I'm saying.	291.4094
+164	DCB_se1_ag2_m_03	291.4094	(pause 0.59)	292.0000
+165	DCB_se1_ag2_m_03	292.0000	I'm like, it's all good that joint crazy, it just throws me off though when I get to thinking about certain things, just be like, yeah that's crazy.	296.7746
+166	DCB_se1_ag2_m_03	296.7746	(pause 0.88)	297.6563
+167	DCB_se1_ag2_m_03	297.6563	But it's all love.	298.6272
+168	DCB_se1_ag3_m_01	299.0777	<laugh>	299.8117
+169	DCB_se1_ag3_m_01	299.8117	(pause 0.13)	299.9452
+170	DCB_se1_ag3_m_01	299.9452	Yeah I feel you, man.	301.0905
+171	DCB_se1_ag3_m_01	301.0905	(pause 0.36)	301.4500
+172	DCB_se1_ag3_m_01	301.4500	Cause the middle child it seem like we get washed out, man, [sometimes, right?]	304.7107
+173	DCB_se1_ag2_m_03	304.2802	[Yeah like] you ain't nowhere.	305.4082
+174	DCB_se1_ag3_m_01	306.0353	Ah yeah, [exactly] you ain't [nowhere, you- nah], you just- Cause you either the first,	310.0233
+175	DCB_se1_ag2_m_03	306.6525	[<laugh>]	307.1030
+176	DCB_se1_ag2_m_03	307.1030	(pause 0.53)	307.6368
+177	DCB_se1_ag2_m_03	307.6368	[You ain't nowhere.]	308.3995
+178	DCB_se1_ag3_m_01	310.7707	as you g- If you born in the middle you in the way.	312.7367
+179	DCB_se1_ag3_m_01	312.7367	(pause 0.12)	312.8527
+180	DCB_se1_ag3_m_01	312.8527	[<laugh>] It's like you in the way.	315.6681
+181	DCB_se1_ag2_m_03	312.9328	[Yeah, yeah, yeah, yeah.]	314.4777
+182	DCB_se1_ag2_m_03	314.4777	(pause 1.10)	315.5762
+183	DCB_se1_ag2_m_03	315.5762	Like they second to [last.]	316.7862
+184	DCB_se1_ag3_m_01	316.5872	[Right], like dang you in the way right now, what are you doing?	319.1092
+185	DCB_se1_ag3_m_01	321.1725	Yeah I feel you on that though.	322.5038
+186	DCB_se1_ag3_m_01	322.5038	(pause 2.24)	324.7393
+187	DCB_se1_ag3_m_01	324.7393	So you never like,	325.5201
+188	DCB_se1_ag3_m_01	325.5201	(pause 0.43)	325.9538
+189	DCB_se1_ag3_m_01	325.9538	dressed up for- like for Halloween and stuff? You ain't [did all that?]	328.5505
+190	DCB_se1_ag2_m_03	328.0033	[Nah, yeah, yeah, I mean,] yeah I did that, you know what I'm saying, but yeah that definitely was, you know, like something to do in the neighborhood, whatever the case may been.	334.5005
+191	DCB_se1_ag2_m_03	336.3122	Trick or treat.	336.9295
+192	DCB_se1_ag3_m_01	340.0333	Who were you?	340.6187
+193	DCB_se1_ag2_m_03	341.4681	Oh well more so I guess you could call me the, [um-]	343.8604
+194	DCB_se1_ag3_m_01	343.7803	[I'm] talking about like who you- like, what superhero were you?	345.8928
+195	DCB_se1_ag2_m_03	345.2326	[Oh, oh, oh], oh, I was like the villain, I was like, the- like, you know, I was- Uh, I can't even remember who I was back then. I [was something.]	351.2951
+196	DCB_se1_ag3_m_01	350.8288	[Skeletor?]	351.6182
+197	DCB_se1_ag2_m_03	352.8174	Nah, I [/?/]	353.3227
+198	DCB_se1_ag3_m_01	353.1110	[From] He-Man?	353.8857
+199	DCB_se1_ag2_m_03	354.1287	I c- yeah, I [/was the-/]	355.1163
+200	DCB_se1_ag3_m_01	354.6792	[Remember He-Man? Yeah, /don't lie-/ you don't like He-Man? <laugh>]	357.5128
+201	DCB_se1_ag2_m_03	355.4099	[Yeah, yeah, nah yeah] I was him, I was the [grim] reaper all the time.	359.1644
+202	DCB_se1_ag3_m_01	358.4004	[<laugh>]	358.5105
+203	DCB_se1_ag3_m_01	359.1878	[<laugh>]	360.1454
+204	DCB_se1_ag2_m_03	359.9018	[Yeah.]	360.3122
+205	DCB_se1_ag3_m_01	361.5601	Oh,	362.1140
+206	DCB_se1_ag3_m_01	362.1140	(pause 0.56)	362.6778
+207	DCB_se1_ag3_m_01	362.6778	that's what's up.	363.4094
+208	DCB_se1_ag3_m_01	363.4094	(pause 1.93)	365.3413
+209	DCB_se1_ag3_m_01	365.3413	Can you draw?	365.9919
+210	DCB_se1_ag2_m_03	367.7436	Nah, I mean, you know, I try, you know, I ain't never- you know, ain't really- You know, I got my own style I guess you could call it, you [know.]	372.9862
+211	DCB_se1_ag3_m_01	372.6525	[/Cause/ you] can like-	373.2398
+212	DCB_se1_ag2_m_03	373.5601	Yeah, yeah, you know, I try different things, you know, try to	375.5962
+213	DCB_se1_ag2_m_03	375.5962	(pause 0.74)	376.3336
+214	DCB_se1_ag2_m_03	376.3336	call it m- [/?/]	377.2078
+215	DCB_se1_ag3_m_01	376.9709	[So you] never just like went to school for it or nothing, you can [just naturally draw?]	379.6835
+216	DCB_se1_ag2_m_03	378.8260	[Nah, nah], you know, I ain't- it ain't nothing spontaneous or nothing, you know, over the boat.	383.2378
+217	DCB_se1_ag2_m_03	384.0486	But, you know I- you know, I dip and dab, you know, I- you know.	386.3609
+218	DCB_se1_ag3_m_01	387.5328	Are you left handed and your brother's right handed?	389.2579
+219	DCB_se1_ag2_m_03	389.4414	Yeah.	389.8418
+220	DCB_se1_ag3_m_01	390.0519	/Now/ that's crazy,	390.7693
+221	DCB_se1_ag2_m_03	390.8728	Yeah, /inaudible/	391.5501
+222	DCB_se1_ag3_m_01	391.6001	That's not crazy but that's just wild. [That's-]	393.9499
+223	DCB_se1_ag2_m_03	393.5462	[Nah], like, [we-]	394.4170
+224	DCB_se1_ag3_m_01	394.2335	[Is that] just how it is though? [It's-]	395.6616
+225	DCB_se1_ag2_m_03	395.4380	[Nah], like we- me and him are really opposite. Like I might catch a-	398.7346
+226	DCB_se1_ag2_m_03	399.2993	a- uh, uh, uh, uh, a ear infection in my left ear, he can catch it same day, same week, everything in his right ear,	405.1416
+227	DCB_se1_ag2_m_03	405.1416	(pause 0.70)	405.8465
+228	DCB_se1_ag2_m_03	405.8465	you know what I'm saying.	406.4371
+229	DCB_se1_ag3_m_01	406.7674	Wow.	407.4100
+230	DCB_se1_ag3_m_01	407.4100	(pause 4.64)	412.0533
+231	DCB_se1_ag3_m_01	412.0533	Has y'all ev- <laugh> has ever a time- T- give me a story, give me one good story, man, we'll close this interview.	417.3460
+232	DCB_se1_ag2_m_03	417.2125	[<laugh>]	417.7430
+233	DCB_se1_ag3_m_01	417.5295	[Give] me a story where someone [actually thought-]	419.9018
+234	DCB_se1_ag2_m_03	419.2812	[<laugh>]	419.6115
+235	DCB_se1_ag3_m_01	420.2355	a good one now, when [a- someone actually thought] that you was him,	423.6463
+236	DCB_se1_ag2_m_03	421.1997	[Yeah. <laugh>]	422.5611
+237	DCB_se1_ag2_m_03	423.9299	Right.	424.1872
+238	DCB_se1_ag3_m_01	424.5338	and he as you and you played along with it and you learned something that you didn't wanna know,	429.1116
+239	DCB_se1_ag3_m_01	429.1116	(pause 0.33)	429.4428
+240	DCB_se1_ag3_m_01	429.4428	/it's like-/ you know what I'm saying?	430.5305
+241	DCB_se1_ag3_m_01	430.5305	(pause 0.53)	431.0643
+242	DCB_se1_ag3_m_01	431.0643	I'll let you go from there, you-	432.2688
+243	DCB_se1_ag2_m_03	432.2688	Man I can't even tell you one of those stories, [man.]	434.9389
+244	DCB_se1_ag3_m_01	434.4251	[Just tell me-] nah, don't- [tell me one-]	436.0184
+245	DCB_se1_ag2_m_03	435.3727	[I can't even tell] [you one of those stories.]	437.3913
+246	DCB_se1_ag3_m_01	436.2602	[You- give me one that] w- outside of- of somebody- Give me a story, [man, you give me a story you choose to] give me, man. [Give me a- give me a twin story, man.]	443.2722
+247	DCB_se1_ag2_m_03	439.7736	[<ts> Man, <sigh>]	441.3171
+248	DCB_se1_ag2_m_03	441.3171	(pause 0.48)	441.7931
+249	DCB_se1_ag2_m_03	441.7931	[Alright, yeah, alright], I'm- a twin story, yeah, basically a twin story, I'm'a give you a twin story.	446.0873
+250	DCB_se1_ag2_m_03	446.6678	I'm trying to find a good twin story for this story right here, /?/ cause hopefully it goes somewhere.	450.8023
+251	DCB_se1_ag2_m_03	450.8023	(pause 0.47)	451.2731
+252	DCB_se1_ag2_m_03	451.2731	But, um,	451.7736
+253	DCB_se1_ag2_m_03	451.7736	(pause 1.23)	452.9990
+254	DCB_se1_ag2_m_03	452.9990	I don't know what to say, it's just crazy how- like, you know, like how it started off as just growing up, and just like, you know how you run into the same people, whatever,	459.5762
+255	DCB_se1_ag2_m_03	459.5762	(pause 0.44)	460.0162
+256	DCB_se1_ag2_m_03	460.0162	you know, growing up and you see 'em again, whatever. But it just like,	462.6388
+257	DCB_se1_ag2_m_03	462.6388	(pause 0.90)	463.5396
+258	DCB_se1_ag2_m_03	463.5396	they look at me and my brother as the same, but that's the same time different. Like I'm more so mature, he more so, you know, whatever it- it is he-	469.2573
+259	DCB_se1_ag2_m_03	469.2573	(pause 0.42)	469.6764
+260	DCB_se1_ag2_m_03	469.6764	And it be just like-	470.5039
+261	DCB_se1_ag2_m_03	470.5039	(pause 0.68)	471.1887
+262	DCB_se1_ag2_m_03	471.1887	like time, you know what I'm saying, flipped.	472.8270
+263	DCB_se1_ag2_m_03	472.8270	(pause 0.50)	473.3275
+264	DCB_se1_ag2_m_03	473.3275	They be like, oh, my brother on they line, or he- they on his- my brother line and just like, alright cool.	477.2488
+265	DCB_se1_ag2_m_03	477.2488	(pause 0.42)	477.6659
+266	DCB_se1_ag2_m_03	477.6659	At the same time it's like damn,	479.2741
+267	DCB_se1_ag2_m_03	479.2741	(pause 0.38)	479.6545
+268	DCB_se1_ag2_m_03	479.6545	I don't even know who I'm talking to.	480.9791
+269	DCB_se1_ag2_m_03	480.9791	(pause 0.41)	481.3895
+270	DCB_se1_ag2_m_03	481.3895	So it be like now, like I say, to give you a story and everything,	484.2831
+271	DCB_se1_ag2_m_03	484.2831	(pause 0.45)	484.7302
+272	DCB_se1_ag2_m_03	484.7302	/I'm about/ talk to a little youngin and everything,	486.7555
+273	DCB_se1_ag2_m_03	486.7555	(pause 0.41)	487.1659
+274	DCB_se1_ag2_m_03	487.1659	and it just like everything's cool, everything was sweet, you know what I'm saying. And it was just like,	490.8637
+275	DCB_se1_ag2_m_03	490.8637	(pause 0.88)	491.7479
+276	DCB_se1_ag2_m_03	491.7479	she not even knowing like I had a twin.	493.8966
+277	DCB_se1_ag2_m_03	493.8966	(pause 0.35)	494.2470
+278	DCB_se1_ag2_m_03	494.2470	And it was just like-	495.0686
+279	DCB_se1_ag3_m_01	495.0720	What do you mean, hold on, what do you mean talking to her like, talking to- you've already been dating [or you just- just] [started talking to her?]	500.2737
+280	DCB_se1_ag2_m_03	498.5020	[Nah like just like-]	499.4195
+281	DCB_se1_ag2_m_03	499.4195	(pause 0.10)	499.5196
+282	DCB_se1_ag2_m_03	499.5196	[like yeah I just started] talking to her and everything. And it was just like, me and my brother used to play so many games and just be like, man I know if I- you talk to shorty I can talk to her too.	506.8142
+283	DCB_se1_ag2_m_03	507.3722	You know what I'm saying, not even her knowing or whatever the case may've been, so it just like alright cool, whatever.	510.9257
+284	DCB_se1_ag2_m_03	510.9257	(pause 0.47)	511.3928
+285	DCB_se1_ag2_m_03	511.3928	So it was just like, alright cool.	512.6974
+286	DCB_se1_ag2_m_03	512.6974	(pause 0.49)	513.1921
+287	DCB_se1_ag2_m_03	513.1921	So like I said, I'm talking to shorty or whatever, so we probably talking for like a good week.	516.2317
+288	DCB_se1_ag2_m_03	516.2317	(pause 0.60)	516.8323
+289	DCB_se1_ag2_m_03	516.8323	And I don't even know how shorty got my brother number, how, you know, they got each other number, but	520.9738
+290	DCB_se1_ag2_m_03	520.9738	(pause 0.43)	521.4009
+291	DCB_se1_ag2_m_03	521.4009	you know, she got his number whatever, they talking too. So she was just like-	524.1169
+292	DCB_se1_ag2_m_03	524.1169	(pause 0.96)	525.0786
+293	DCB_se1_ag2_m_03	525.0786	like at the same time, like- My name /RD-NAME-2/ his name /RD-NAME-3/.	528.0048
+294	DCB_se1_ag2_m_03	528.0048	(pause 0.35)	528.3551
+295	DCB_se1_ag2_m_03	528.3551	So she was just like,	529.3361
+296	DCB_se1_ag2_m_03	529.3361	(pause 0.24)	529.5763
+297	DCB_se1_ag2_m_03	529.5763	/RD-NAME-2/,	530.0468
+298	DCB_se1_ag2_m_03	530.0468	(pause 0.59)	530.6382
+299	DCB_se1_ag2_m_03	530.6382	/RD-NAME-2/.	531.1587
+300	DCB_se1_ag2_m_03	531.1587	(pause 0.63)	531.7927
+301	DCB_se1_ag2_m_03	531.7927	So my brother just going with it, you know what I'm saying, like my brother said he told her like his name was /RD-NAME-3/ but she just kept saying his name was d- like- She ain't even say his name was /RD-NAME-2/ but like his name was /RD-NAME-2/ b- just because	539.4042
+302	DCB_se1_ag2_m_03	539.4042	(pause 0.35)	539.7579
+303	DCB_se1_ag2_m_03	539.7579	she would like	540.2884
+304	DCB_se1_ag2_m_03	540.2884	(pause 0.25)	540.5353
+305	DCB_se1_ag2_m_03	540.5353	be talking like,	541.2827
+306	DCB_se1_ag2_m_03	541.2827	(pause 0.43)	541.7131
+307	DCB_se1_ag2_m_03	541.7131	you know what I'm saying, everything at the same style, everything was like	544.4299
+308	DCB_se1_ag2_m_03	544.4299	(pause 1.04)	545.4676
+309	DCB_se1_ag2_m_03	545.4676	from the outside looking in you wouldn't even know. It was just like she never seen the nigga, or to see him, not even knowing like,	549.7860
+310	DCB_se1_ag2_m_03	549.7860	(pause 0.55)	550.3332
+311	DCB_se1_ag2_m_03	550.3332	we was twins. It was just like,	551.5544
+312	DCB_se1_ag2_m_03	551.5544	(pause 0.79)	552.3485
+313	DCB_se1_ag2_m_03	552.3485	like, she was like, oh, like nah you got somebody out here like just like you.	554.6173
+314	DCB_se1_ag2_m_03	554.6173	(pause 0.09)	554.7116
+315	DCB_se1_ag2_m_03	554.7116	Like, I know you do.	555.5457
+316	DCB_se1_ag2_m_03	555.5457	(pause 0.58)	556.1263
+317	DCB_se1_ag2_m_03	556.1263	And it was just like, yeah like I know like, I'm just like, that's crazy.	558.8423
+318	DCB_se1_ag2_m_03	558.8423	(pause 1.05)	559.8966
+319	DCB_se1_ag2_m_03	559.8966	Holding it up.	560.5314
+320	DCB_se1_ag3_m_01	562.2364	Mm.	562.7231
+321	DCB_se1_ag3_m_01	562.7231	(pause 1.38)	564.1016
+322	DCB_se1_ag3_m_01	564.1016	So basically- So just give me a time when you used it to your advantage when you was wrong.	568.2031
+323	DCB_se1_ag2_m_03	570.7889	Man, you know- already know like, man, I- <sigh>	574.3132
+324	DCB_se1_ag3_m_01	575.1540	I mean, you can give me a clean story, I mean, you ain't gotta [elaborate, I'm] just saying, give me a- give me one good joint or you ain't it- [it ain't- whatever, I'm just saying give me something that-]	583.4395
+325	DCB_se1_ag2_m_03	577.5797	[<laugh>]	578.2804
+326	DCB_se1_ag2_m_03	578.2804	(pause 3.00)	581.2808
+327	DCB_se1_ag2_m_03	581.2808	[I- like I like- /nah it ain't trying-/ I'm trying-] I'm not trying to swell like, I'm trying to keep it real [like, out there out] there I'm trying to keep it real but I don't wanna, you know what I'm saying like, the c-	588.5453
+328	DCB_se1_ag3_m_01	585.2922	[Yeah keep it real.]	586.2665
+329	DCB_se1_ag3_m_01	588.5687	Yeah you ain't gon- [it ain't nobody judging] nobody. I'm just [saying it's- it's- I'm just saying]	592.4939
+330	DCB_se1_ag2_m_03	589.3261	[Yeah.]	590.0109
+331	DCB_se1_ag2_m_03	590.0109	(pause 0.94)	590.9552
+332	DCB_se1_ag2_m_03	590.9552	[Nah, not like, you know, yeah, no] [I ain't trying to incriminate nobody.]	594.5189
+333	DCB_se1_ag3_m_01	592.5950	[it's a good story cause it- don't nobody] get it [like I'm around] a twin right [now, I don't- I don't be around- you know what I'm saying, so I] don't under g- I love the stories, you know what I'm saying, hearing about how	600.8219
+334	DCB_se1_ag2_m_03	594.8790	[Yeah.]	595.2177
+335	DCB_se1_ag2_m_03	595.2177	(pause 0.80)	596.0201
+336	DCB_se1_ag2_m_03	596.0201	[Yeah, yeah, yeah.]	597.8394
+337	DCB_se1_ag2_m_03	597.8394	(pause 2.95)	600.7922
+338	DCB_se1_ag2_m_03	600.7922	Damn, [/young/.]	601.5522
+339	DCB_se1_ag3_m_01	601.3194	[that interaction], you know what I'm saying, was and	603.3622
+340	DCB_se1_ag3_m_01	603.5991	how y'all took advantage of that. Cause you obviously can take advantage of being a twin (laughing) you [know what I mean.]	608.1883
+341	DCB_se1_ag2_m_03	607.7465	[Yeah, nah], yeah you can definitely take advantage of the shit but it just like, dog, like-	611.0706
+342	DCB_se1_ag2_m_03	612.6254	<sigh> It- you know, /son/ like more so, you know what I'm saying, it's- I- I wouldn't even call it taking advantage cause it's just like I guess, you know, his name is in the system more or whatever. And it's just like,	621.9662
+343	DCB_se1_ag2_m_03	621.9662	(pause 0.70)	622.6635
+344	DCB_se1_ag2_m_03	622.6635	you know what I'm saying, I tell them my name /off buck/ and they just like- they think it's funny or they think I'm playing because, you know,	626.6274
+345	DCB_se1_ag2_m_03	626.6274	(pause 0.40)	627.0252
+346	DCB_se1_ag2_m_03	627.0252	similar or the like the, you know, the sim- you know, the quote,	629.7446
+347	DCB_se1_ag2_m_03	629.7446	(pause 0.37)	630.1149
+348	DCB_se1_ag2_m_03	630.1149	my name /RD-NAME-2/, I ain't in it, so they be like, yeah what's your real fucking name? So it's just like,	633.2955
+349	DCB_se1_ag2_m_03	633.2955	(pause 0.38)	633.6725
+350	DCB_se1_ag2_m_03	633.6725	I tell 'em one thing, and then it's like,	635.0839
+351	DCB_se1_ag2_m_03	635.0839	(pause 0.51)	635.5944
+352	DCB_se1_ag2_m_03	635.5944	some notes might just pop up or red flag the joint,	638.1235
+353	DCB_se1_ag2_m_03	638.1235	(pause 0.35)	638.4739
+354	DCB_se1_ag2_m_03	638.4739	and they be like, oh,	639.3522
+355	DCB_se1_ag2_m_03	639.3522	(pause 0.61)	639.9662
+356	DCB_se1_ag2_m_03	639.9662	oh yeah get your dumbass on the ground like really	642.0415
+357	DCB_se1_ag2_m_03	642.0415	(pause 0.71)	642.7522
+358	DCB_se1_ag2_m_03	642.7522	do some	643.1292
+359	DCB_se1_ag2_m_03	643.1292	(pause 0.10)	643.2327
+360	DCB_se1_ag2_m_03	643.2327	big bama shit, you know what I'm saying. /Just/ be like-	645.1887
+361	DCB_se1_ag2_m_03	645.1887	(pause 0.53)	645.7159
+362	DCB_se1_ag2_m_03	645.7159	like dog like nah I just told you r- my real name, like you- you really lunching, you know what I'm saying. They be like,	649.9434
+363	DCB_se1_ag2_m_03	649.9434	(pause 0.44)	650.3805
+364	DCB_se1_ag2_m_03	650.3805	nah this nigga fit the description such and such, like nah this- this cuz right here.	653.2674
+365	DCB_se1_ag2_m_03	653.2674	(pause 0.43)	653.7012
+366	DCB_se1_ag2_m_03	653.7012	And it be like- like I say, like I gotta really have	655.6130
+367	DCB_se1_ag2_m_03	655.6130	(pause 0.41)	656.0276
+368	DCB_se1_ag2_m_03	656.0276	ID, have another bank card just to show what's really up.	659.4076
+369	DCB_se1_ag3_m_01	659.4242	<laugh>	659.8713
+370	DCB_se1_ag2_m_03	660.0448	Cause it really be like, [nah] like I /saw the guy/ /unintelligible/. Then it be like,	663.5024
+371	DCB_se1_ag3_m_01	661.0258	[Right.]	661.4618
+372	DCB_se1_ag2_m_03	664.0262	/uh, st-/ like a and one thing happened and whatever, you know what I'm saying, it was some- something petty,	667.3962
+373	DCB_se1_ag2_m_03	667.3962	(pause 0.44)	667.8399
+374	DCB_se1_ag2_m_03	667.8399	but they still locked me up, so I ain't need peep the shit, took my fingerprint and everything.	670.8370
+375	DCB_se1_ag2_m_03	670.8370	(pause 0.41)	671.2441
+376	DCB_se1_ag2_m_03	671.2441	So then like, they let me go whatever, and it's like I checked my paperwork,	674.0835
+377	DCB_se1_ag2_m_03	674.0835	(pause 0.54)	674.6207
+378	DCB_se1_ag2_m_03	674.6207	these joints still had my brother name on it. I'm like, damn, like,	677.1073
+379	DCB_se1_ag2_m_03	677.1073	(pause 0.62)	677.7245
+380	DCB_se1_ag2_m_03	677.7245	you know what I'm saying, I could have been petty like, yeah, I'm /RD-NAME-5/, or, you know what I'm saying, just been like, nah yeah, whatever.	681.9662
+381	DCB_se1_ag2_m_03	681.9662	(pause 0.40)	682.3665
+382	DCB_se1_ag2_m_03	682.3665	But, you know, I'm like, nah I'm the- y'all got the wrong name, wrong person, you know what I'm saying, y'all lunching, [you know what I'm saying.]	686.2470
+383	DCB_se1_ag3_m_01	685.6364	[Right you-] that's not [you.]	687.1253
+384	DCB_se1_ag2_m_03	687.0453	[Yeah], but it was just like, you know, it- like, I just know like on the scale like that,	690.4252
+385	DCB_se1_ag2_m_03	691.8466	as small as that, I know it could be bigger and better, you know what I'm saying, if I was really fluking and wanted to swindle or whatever, take advantage or whatever. But like I say, like,	699.0578
+386	DCB_se1_ag2_m_03	699.0578	(pause 0.52)	699.5825
+387	DCB_se1_ag2_m_03	699.5825	it's- it's definitely pros and cons of having a twin.	702.1950
+388	DCB_se1_ag2_m_03	702.1950	(pause 0.35)	702.5453
+389	DCB_se1_ag2_m_03	702.5453	And especially if you being identical,	704.1903
+390	DCB_se1_ag2_m_03	704.1903	(pause 0.45)	704.6440
+391	DCB_se1_ag2_m_03	704.6440	and it just like, damn like, damn I don't know who I'm talking to.	707.0706
+392	DCB_se1_ag2_m_03	707.0706	(pause 1.06)	708.1349
+393	DCB_se1_ag2_m_03	708.1349	And especially if you like- we like- like I say, we night and day, like you don't never see us together so it's like you don't know who you talking to.	712.8237
+394	DCB_se1_ag3_m_01	713.3775	[Right.]	713.8306
+395	DCB_se1_ag2_m_03	713.7646	[/And/] they don't even know if I have a twin if you d- if d- if you really don't know me, you know what I'm saying. They be like,	717.3856
+396	DCB_se1_ag2_m_03	717.7493	yeah, what's up man. Like, it be [crazy like-]	719.2274
+397	DCB_se1_ag3_m_01	718.9905	[So somebody] can start a conversation [with him and try to fini- Yeah.]	722.1269
+398	DCB_se1_ag2_m_03	720.6588	[Yeah, that's what I was about to say.]	721.9609
+399	DCB_se1_ag2_m_03	722.3646	And it be crazy cause it be like- like- it's cats like /even know/ my brother, like sometime be in the same circle, and other times we don't.	727.3127
+400	DCB_se1_ag2_m_03	727.3127	(pause 0.33)	727.6431
+401	DCB_se1_ag2_m_03	727.6431	So a dude might be like, yeah man, blah, blah, blah, man what's up man, it be like,	730.5300
+402	DCB_se1_ag2_m_03	730.5300	(pause 0.57)	731.0973
+403	DCB_se1_ag2_m_03	731.0973	you know, I might keep it going a little bit, but /unintelligible/ you know, you don't know me, you know my brother.	734.1636
+404	DCB_se1_ag2_m_03	734.1636	(pause 0.33)	734.4960
+405	DCB_se1_ag2_m_03	734.4960	So they be like, oh yeah, damn, you know, matter of fact he did say something about the other, whatever the case may've been.	739.1059
+406	DCB_se1_ag2_m_03	739.1059	(pause 0.40)	739.5063
+407	DCB_se1_ag2_m_03	739.5063	I'm like, yeah, you know, I'm'a let 'em know what's up, you know what I'm saying, yeah definitely, you know,	742.4967
+408	DCB_se1_ag2_m_03	742.4967	(pause 0.29)	742.7903
+409	DCB_se1_ag2_m_03	742.7903	it is what it is.	743.5877
+410	DCB_se1_ag2_m_03	743.5877	(pause 0.60)	744.1883
+411	DCB_se1_ag2_m_03	744.1883	But it- you know, like I say, you know, it's pros to cons to it. And it's like, you know,	747.5825
+412	DCB_se1_ag2_m_03	747.5825	(pause 0.70)	748.2799
+413	DCB_se1_ag2_m_03	748.2799	it has it's ups and it has it's downs. But like, I know one thing, like I don't want nothing, you know, the- He a good dude, I'm a good dude,	752.9977
+414	DCB_se1_ag2_m_03	752.9977	(pause 0.38)	753.3756
+415	DCB_se1_ag2_m_03	753.3756	that's just one thing, you know what I'm saying, I worry about, like something happen like, somebody, you know, just get back or whatever the case may've been.	758.0802
+416	DCB_se1_ag2_m_03	758.0802	(pause 0.32)	758.4013
+417	DCB_se1_ag2_m_03	758.4013	I tell him like, that's one thing like that's- that's the /flupe/ thing, cause it's like they don't know or	762.1516
+418	DCB_se1_ag2_m_03	762.1516	(pause 0.26)	762.4119
+419	DCB_se1_ag2_m_03	762.4119	they like, /there he go/ or, you know, set us up, like, nah yeah, fuck that, definitely gotta, you know what I'm saying,	765.9261
+420	DCB_se1_ag2_m_03	765.9261	(pause 0.77)	766.6969
+421	DCB_se1_ag2_m_03	766.6969	you know, stay above floating, you know what I'm saying, walk that, you know, thin rope.	770.0201
+422	DCB_se1_ag3_m_01	772.3766	Mm-hm.	773.1379
+423	DCB_se1_ag3_m_01	773.1379	(pause 6.80)	779.9347
+424	DCB_se1_ag3_m_01	779.9347	Yup.	780.2150
+425	DCB_se1_ag3_m_01	780.2150	(pause 2.14)	782.3579
+426	DCB_se1_ag3_m_01	782.3579	Well, I feel you there.	783.4857
+427	DCB_se1_ag3_m_01	783.4857	(pause 0.54)	784.0296
+428	DCB_se1_ag3_m_01	784.0296	I feel you there.	784.9762
+429	DCB_se1_ag2_m_03	785.3008	Yeah but nah I'm [not-] dog like,	787.7498
+430	DCB_se1_ag3_m_01	786.4819	[What-]	786.7873
+431	DCB_se1_ag2_m_03	788.1135	like,	788.3704
+432	DCB_se1_ag2_m_03	788.3704	(pause 0.96)	789.3255
+433	DCB_se1_ag2_m_03	789.3255	/If- like, dog, son/-	790.8670
+434	DCB_se1_ag2_m_03	790.8670	(pause 0.74)	791.6044
+435	DCB_se1_ag2_m_03	791.6044	That's one thing that we gotta discuss, you know what I'm saying, later and everything, but I think it's some money to be made right there, or whatever, you know,	797.4743
+436	DCB_se1_ag2_m_03	797.4743	(pause 0.94)	798.4119
+437	DCB_se1_ag2_m_03	798.4119	definitely.	799.0292
+438	DCB_se1_ag3_m_01	799.3862	Yeah.	799.8433
+439	DCB_se1_ag3_m_01	799.8433	(pause 0.34)	800.1811
+440	DCB_se1_ag3_m_01	800.1811	So let me aks you this, um-	801.4857
+441	DCB_se1_ag3_m_01	801.4857	(pause 1.03)	802.5200
+442	DCB_se1_ag3_m_01	802.5200	That's a good story, thank you for sharing that story with me,	804.7522
+443	DCB_se1_ag3_m_01	804.7522	(pause 0.11)	804.8656
+444	DCB_se1_ag3_m_01	804.8656	you know.	805.5196
+445	DCB_se1_ag3_m_01	805.5196	(pause 0.49)	806.0134
+446	DCB_se1_ag3_m_01	806.0134	Like what- it- is there a g- is there something that y'all used to compete against each other against like maybe it was a card game or	811.2961
+447	DCB_se1_ag3_m_01	811.2961	(pause 0.82)	812.1144
+448	DCB_se1_ag3_m_01	812.1144	/??/	812.4357
+449	DCB_se1_ag2_m_03	812.5081	Mm.	813.1821
+450	DCB_se1_ag3_m_01	813.1253	something like that?	813.8213
+451	DCB_se1_ag3_m_01	814.4066	Like do you- would p- you know what I'm saying, sometimes he's good, sometimes, you know, y'all used to just have fun playing together?	818.3971
+452	DCB_se1_ag2_m_03	818.6882	Yeah, yeah, yeah, mostly we /used to compete/ like wrestling, you know what I'm saying like, you know, see who was the big bad wolf, you know what I'm saying, just to see who would tap out, you know what I'm saying, like.	826.1697
+453	DCB_se1_ag2_m_03	826.1697	(pause 0.69)	826.8604
+454	DCB_se1_ag2_m_03	826.8604	You know, we- we go blow for blow, toe for toe.	829.2026
+455	DCB_se1_ag2_m_03	829.2026	(pause 0.63)	829.8333
+456	DCB_se1_ag2_m_03	829.8333	And it just be like, yeah, like, we know, like, you know, at the end of the day, you know, he might do something /?/ be like, damn that was petty.	835.8966
+457	DCB_se1_ag2_m_03	835.8966	(pause 0.38)	836.2745
+458	DCB_se1_ag2_m_03	836.2745	I might do the same but it still be like,	837.9061
+459	DCB_se1_ag2_m_03	837.9061	(pause 0.73)	838.6368
+460	DCB_se1_ag2_m_03	838.6368	yeah I still love you at the end of the day, you know what I mean.	840.8256
+461	DCB_se1_ag2_m_03	840.8256	(pause 0.63)	841.4529
+462	DCB_se1_ag2_m_03	841.4529	And it be like, /know what I'm saying/- you know what I'm saying, little brother be competition, you know what I'm saying, I ain't gonna say like, petty petty, but, you know what I'm saying, /it wouldn't be like, oh yeah./ Like I remember like me /rolled out/	848.1836
+463	DCB_se1_ag2_m_03	848.1836	(pause 0.42)	848.6048
+464	DCB_se1_ag2_m_03	848.6048	throwing him off the bed	849.7626
+465	DCB_se1_ag2_m_03	849.7626	(pause 0.41)	850.1730
+466	DCB_se1_ag2_m_03	850.1730	and him fucking like- He had the real /??/ that's why he got a scar on his cheek cause like, I threw him off the bed and he scarred his cheek off the- uh,	856.0496
+467	DCB_se1_ag2_m_03	856.0496	(pause 0.84)	856.8904
+468	DCB_se1_ag2_m_03	856.8904	like the dresser.	857.6378
+469	DCB_se1_ag2_m_03	857.6378	(pause 0.59)	858.2317
+470	DCB_se1_ag2_m_03	858.2317	And them I remember another time we was running in the house, he was trying to chase me some tricky shit,	861.2121
+471	DCB_se1_ag2_m_03	861.2121	(pause 0.47)	861.6859
+472	DCB_se1_ag2_m_03	861.6859	and like I juked, shook and like, it was like a little hallway like you gotta hit him with the quick move.	865.7298
+473	DCB_se1_ag2_m_03	865.7298	(pause 0.41)	866.1369
+474	DCB_se1_ag2_m_03	866.1369	And the nigga /realized/	867.3322
+475	DCB_se1_ag2_m_03	867.3322	(pause 0.73)	868.0629
+476	DCB_se1_ag2_m_03	868.0629	boom, head first like lunched. I'm like, damn cuz, had to get another stitches and shit.	872.3037
+477	DCB_se1_ag2_m_03	872.3037	(pause 0.55)	872.8584
+478	DCB_se1_ag2_m_03	872.8584	/But it's ??/ it's like, you know, competition like the little sports and everything, I guess /you could/ say sports, me and him	877.2360
+479	DCB_se1_ag2_m_03	877.2360	(pause 0.26)	877.4996
+480	DCB_se1_ag2_m_03	877.4996	compete in sports and shit.	878.5943
+481	DCB_se1_ag2_m_03	878.5943	(pause 0.96)	879.5558
+482	DCB_se1_ag2_m_03	879.5558	Yeah.	879.9328
+483	DCB_se1_ag3_m_01	881.0472	<laugh>	881.5819
+484	DCB_se1_ag3_m_01	881.5819	(pause 0.72)	882.3051
+485	DCB_se1_ag3_m_01	882.3051	What sport?	882.8811
+486	DCB_se1_ag3_m_01	882.8811	(pause 0.48)	883.3628
+487	DCB_se1_ag3_m_01	883.3628	Bas- like basketball, football,	884.8517
+488	DCB_se1_ag2_m_03	885.0186	I [mean, for the most] part, uh, for right now, mainly now, it's /usually just/ football, you know, for the most part football.	890.2403
+489	DCB_se1_ag3_m_01	885.1387	[baseball, /?/]	885.9028
+490	DCB_se1_ag3_m_01	890.4013	Football.	890.7817
+491	DCB_se1_ag2_m_03	891.2388	Yeah see who can keep up, who can throw the ball faster [or better, whatever.]	894.7510
+492	DCB_se1_ag3_m_01	893.7512	[Mm-hm], yeah ain't nothing like that, that's the best.	896.7272
+493	DCB_se1_ag3_m_01	897.5157	Who- who won?	898.1997
+494	DCB_se1_ag3_m_01	898.1997	(pause 0.28)	898.4767
+495	DCB_se1_ag3_m_01	898.4767	<laugh>	898.7469
+496	DCB_se1_ag2_m_03	899.1406	Yeah last time I think it was me, and he was sorry, and he was like looking weak out there. I'm like, man you need to get your shit straight.	904.6235
+497	DCB_se1_ag3_m_01	904.8303	<laugh>	905.6178
+498	DCB_se1_ag2_m_03	905.7112	He like, yeah, I ain't nowhere.	907.3027
+499	DCB_se1_ag3_m_01	910.0329	Yeah.	911.0062
+500	DCB_se1_ag3_m_01	911.0062	(pause 4.02)	915.0219
+501	DCB_se1_ag3_m_01	915.0219	Well, man, well, thank you, man, I appreciate the interview, man. I appreciate your time, I know you gotta-	920.0309
+502	DCB_se1_ag3_m_01	920.0309	(pause 0.37)	920.4046
+503	DCB_se1_ag3_m_01	920.4046	got something to do, so.	921.9273
+504	DCB_se1_ag2_m_03	922.4600	Nah, [you know, /we can keep this joint going/.]	924.4688
+505	DCB_se1_ag3_m_01	922.8370	[But /?/ thank you, man, I appreciate] you, man,	925.4462
+506	DCB_se1_ag3_m_01	925.6497	you know what I'm saying,	926.5324
+507	DCB_se1_ag3_m_01	926.5324	(pause 0.26)	926.7963
+508	DCB_se1_ag3_m_01	926.7963	so.	927.2163
+509	DCB_se1_ag3_m_01	927.2163	(pause 0.88)	928.0938
+510	DCB_se1_ag3_m_01	928.0938	Unless you have something else you wanna say?	929.6998
+511	DCB_se1_ag2_m_03	930.1428	Uh, I mean, you know,	931.1292
+512	DCB_se1_ag2_m_03	931.1292	(pause 1.48)	932.6120
+513	DCB_se1_ag2_m_03	932.6120	I'm so DC.	933.6080
+514	DCB_se1_ag3_m_01	933.9887	[<laugh>]	935.1114
+515	DCB_se1_ag2_m_03	934.0892	[<laugh>]	934.6830
+516	DCB_se1_ag3_m_01	936.1469	What would you tell kids like right now, if kids or somebody heard this, you know what I'm saying, like kids was listening to this right now, what advice would you give them?	942.3269
+517	DCB_se1_ag2_m_03	942.4306	Oh man, you know, /unintelligible/ man, I wanna tell the kids man,	945.7417
+518	DCB_se1_ag2_m_03	945.7417	(pause 0.58)	946.3236
+519	DCB_se1_ag2_m_03	946.3236	listen to your parents,	947.4922
+520	DCB_se1_ag2_m_03	947.4922	(pause 0.37)	947.8661
+521	DCB_se1_ag2_m_03	947.8661	stay in school,	949.0787
+522	DCB_se1_ag2_m_03	949.0787	(pause 1.12)	950.1939
+523	DCB_se1_ag2_m_03	950.1939	um, you know, you- you the future, so, you know what I'm saying, definitely, you know, you got what it take	954.6838
+524	DCB_se1_ag2_m_03	954.6838	(pause 0.44)	955.1205
+525	DCB_se1_ag2_m_03	955.1205	to be who you want.	956.0755
+526	DCB_se1_ag2_m_03	956.0755	(pause 0.45)	956.5216
+527	DCB_se1_ag2_m_03	956.5216	And, you know, don't let nobody, you know,	958.4323
+528	DCB_se1_ag2_m_03	958.4323	(pause 0.18)	958.6145
+529	DCB_se1_ag2_m_03	958.6145	sell you short or whatever the case may be.	960.8323
+530	DCB_se1_ag2_m_03	960.8323	(pause 0.38)	961.2094
+531	DCB_se1_ag2_m_03	961.2094	You know what I'm saying, keep it real to yourself at all times.	963.6242
+532	DCB_se1_ag2_m_03	963.6242	(pause 0.55)	964.1757
+533	DCB_se1_ag2_m_03	964.1757	And, you know,	964.8605
+534	DCB_se1_ag2_m_03	964.8605	(pause 1.44)	966.2993
+535	DCB_se1_ag2_m_03	966.2993	your mind is your best weapon.	967.9706
+536	DCB_se1_ag2_m_03	967.9706	(pause 2.54)	970.5097
+537	DCB_se1_ag2_m_03	970.5097	That's all I got to say, player.	971.7505
+538	DCB_se1_ag3_m_01	972.5987	Mm-hm, so if a kid was out there saying, what do you mean by my mind is my best weapon?	976.4823
+539	DCB_se1_ag2_m_03	976.6080	It's a tool, it's a- it's a-	978.4206
+540	DCB_se1_ag2_m_03	978.4206	(pause 0.43)	978.8479
+541	DCB_se1_ag2_m_03	978.8479	it's supposed to be used, it's supposed to-	980.7241
+542	DCB_se1_ag2_m_03	980.7241	(pause 0.56)	981.2864
+543	DCB_se1_ag2_m_03	981.2864	it's supposed to- you supposed to-	982.6372
+544	DCB_se1_ag2_m_03	982.6372	(pause 0.89)	983.5263
+545	DCB_se1_ag2_m_03	983.5263	I'm trying to tell you man, like I say, like, you know, like I say, your mind is your best weapon I'm talking about your brain.	988.4403
+546	DCB_se1_ag2_m_03	988.4403	(pause 0.66)	989.1000
+547	DCB_se1_ag2_m_03	989.1000	And, uh-	989.7566
+548	DCB_se1_ag3_m_01	992.4558	Mind is a powerful thing.	993.6999
+549	DCB_se1_ag2_m_03	993.7847	Yeah, it's a powerful thing to waste, you know, and it's- it's- it's- you know, like I say to kids, you are the future.	998.5009
+550	DCB_se1_ag3_m_01	1002.4975	Mm, I appreciate that.	1003.8860
+551	DCB_se1_ag3_m_01	1003.8860	(pause 0.53)	1004.4201
+552	DCB_se1_ag3_m_01	1004.4201	You ever been to a play before?	1005.5227
+553	DCB_se1_ag3_m_01	1005.5227	(pause 0.58)	1006.1007
+554	DCB_se1_ag3_m_01	1006.1007	A live play?	1006.8087
+555	DCB_se1_ag2_m_03	1006.9992	Nah.	1007.4107
+556	DCB_se1_ag2_m_03	1007.4107	(pause 0.93)	1008.3445
+557	DCB_se1_ag2_m_03	1008.3445	Nah.	1008.7623
+558	DCB_se1_ag2_m_03	1008.7623	(pause 1.37)	1010.1289
+559	DCB_se1_ag2_m_03	1010.1289	I thought about it, I wanna go to a opera, I wanna go see Phantom of the Opera.	1013.5374
+560	DCB_se1_ag3_m_01	1014.0062	You wanna go see Phantom of the [Opera?]	1015.2691
+561	DCB_se1_ag2_m_03	1015.1277	[Yeah.]	1015.6680
+562	DCB_se1_ag3_m_01	1016.8429	You into the /opera/?	1017.7383
+563	DCB_se1_ag2_m_03	1019.4354	You know,	1019.7873
+564	DCB_se1_ag2_m_03	1019.7873	(pause 0.36)	1020.1517
+565	DCB_se1_ag2_m_03	1020.1517	you know, I- you know, I wanna- you know, I'm just curious I [guess you could say, you know.]	1023.4690
+566	DCB_se1_ag3_m_01	1022.5172	[Curious?]	1023.0572
+567	DCB_se1_ag3_m_01	1023.0572	(pause 0.23)	1023.2869
+568	DCB_se1_ag3_m_01	1023.2869	[Have you] ever seen- like do- sometimes when you're in the house like do you watch the opera? [You know what I'm saying.]	1026.8029
+569	DCB_se1_ag2_m_03	1026.3034	[Nah yeah], I- I seen a little bit, you know, I just- I would just like- you know I've seen a little- an inside or whatever the case may be, but,	1032.0782
+570	DCB_se1_ag2_m_03	1033.1400	you know, I'm still curious, I wanna, you know, get another	1035.6689
+571	DCB_se1_ag2_m_03	1035.6689	(pause 0.62)	1036.2917
+572	DCB_se1_ag2_m_03	1036.2917	glimpse, you know, I wanna go another-	1038.0760
+573	DCB_se1_ag2_m_03	1038.0760	(pause 0.67)	1038.7483
+574	DCB_se1_ag2_m_03	1038.7483	you know, I wanna peel that layer, you know what I'm saying, I wanna go another layer in	1041.9494
+575	DCB_se1_ag2_m_03	1041.9494	(pause 0.16)	1042.1073
+576	DCB_se1_ag2_m_03	1042.1073	/past./	1042.4089
+577	DCB_se1_ag3_m_01	1043.4330	Mm-hm.	1044.1597
+578	DCB_se1_ag2_m_03	1044.1524	<cough>	1044.7587
+579	DCB_se1_ag3_m_01	1047.4203	So what did it- like, when did that start,	1049.0601
+580	DCB_se1_ag3_m_01	1049.0601	(pause 0.18)	1049.2392
+581	DCB_se1_ag3_m_01	1049.2392	you know?	1049.5753
+582	DCB_se1_ag2_m_03	1050.6528	Uh,	1051.0769
+583	DCB_se1_ag2_m_03	1051.0769	(pause 0.16)	1051.2340
+584	DCB_se1_ag2_m_03	1051.2340	uh, nah, uh, probably- you know, in probably like, you know, thirteen, at probably age of thirteen.	1055.6988
+585	DCB_se1_ag2_m_03	1055.6988	(pause 0.94)	1056.6381
+586	DCB_se1_ag2_m_03	1056.6381	You know, I had a little, you know, I don't know.	1058.4539
+587	DCB_se1_ag2_m_03	1058.4539	(pause 1.91)	1060.3615
+588	DCB_se1_ag2_m_03	1060.3615	I don't know.	1060.8955
+589	DCB_se1_ag2_m_03	1060.8955	(pause 1.18)	1062.0736
+590	DCB_se1_ag2_m_03	1062.0736	I just got curious, I guess. [/unintelligible/]	1064.0527
+591	DCB_se1_ag3_m_01	1063.7951	[Yeah], ain't nothing wrong with that.	1064.9727
+592	DCB_se1_ag3_m_01	1065.7059	And always ask questions.	1066.9059
+593	DCB_se1_ag3_m_01	1066.9059	(pause 3.83)	1070.7361
+594	DCB_se1_ag3_m_01	1070.7361	Mm that's- Can you play any instruments?	1072.1592
+595	DCB_se1_ag2_m_03	1074.4116	Uh, right now, you know, I used to know how to play the drums, trombone.	1077.7769
+596	DCB_se1_ag3_m_01	1078.8262	You still know how to play the drums and trombone [or you used] to know how to [play?]	1082.6847
+597	DCB_se1_ag2_m_03	1081.1108	[Yeah, yeah,]	1081.9228
+598	DCB_se1_ag2_m_03	1081.9228	(pause 0.53)	1082.4522
+599	DCB_se1_ag2_m_03	1082.4522	[Yeah], /I about to say/, I used to know how to play, I don't know like- I mean, I know how to play but at the same time, like y- if I'm trying to read it,	1087.7872
+600	DCB_se1_ag2_m_03	1088.3558	trying to see what I'm playing, I wouldn't know what I'm looking at.	1090.6679
+601	DCB_se1_ag3_m_01	1090.9538	[<laugh>]	1091.3404
+602	DCB_se1_ag2_m_03	1090.9600	[Just a] little sort of I know what the- you know, couple notes and everything, but other than that, I be like, yeah I don't know, you ain't nowhere.	1096.1191
+603	DCB_se1_ag2_m_03	1097.1275	But, uh, you know, I can make it sound good, you know.	1099.0257
+604	DCB_se1_ag2_m_03	1099.0257	(pause 0.14)	1099.1671
+605	DCB_se1_ag2_m_03	1099.1671	Make it look good too, I guess.	1100.4791
+606	DCB_se1_ag3_m_01	1100.5682	<laugh>	1101.1575
+607	DCB_se1_ag3_m_01	1101.1575	(pause 2.04)	1103.1944
+608	DCB_se1_ag3_m_01	1103.1944	You said the words, you ain't nowhere, um, a couple times.	1106.0539
+609	DCB_se1_ag3_m_01	1106.0539	(pause 0.22)	1106.2738
+610	DCB_se1_ag3_m_01	1106.2738	Is you-	1106.6100
+611	DCB_se1_ag2_m_03	1106.6697	Word.	1106.8790
+612	DCB_se1_ag3_m_01	1106.8739	you know, out of-	1107.6090
+613	DCB_se1_ag3_m_01	1107.9608	what'd- the h- I mean, what does that mean?	1109.5797
+614	DCB_se1_ag2_m_03	1109.7012	[Oh man], you know, /nu/- you ain't nowhere, it's like	1112.4916
+615	DCB_se1_ag3_m_01	1109.7051	[What does that mean?]	1110.1504
+616	DCB_se1_ag2_m_03	1113.3083	you ain't nowhere, you ain't- you ain't- like, where you at now you somewhere, but you ain't nowhere. It's like-	1118.4046
+617	DCB_se1_ag2_m_03	1118.4046	(pause 0.57)	1118.9763
+618	DCB_se1_ag2_m_03	1118.9763	it's like how them cats [say-]	1120.2392
+619	DCB_se1_ag3_m_01	1120.0287	[So] it can be used in a lot of different terms?	1122.0463
+620	DCB_se1_ag2_m_03	1122.0588	S- /unintelligible/ you- you know, d- it [depend- depending- yeah], depending on how you state it. Depending on how- you know, you know, how you- you know, how you phrase it, you know what I'm saying. Like,	1128.9834
+621	DCB_se1_ag3_m_01	1123.6704	[A lot of different ways?]	1124.7134
+622	DCB_se1_ag2_m_03	1129.5237	you know, I might crack a joke	1130.5478
+623	DCB_se1_ag2_m_03	1130.5478	(pause 0.47)	1131.0159
+624	DCB_se1_ag2_m_03	1131.0159	and it be like, yeah man, you know, I seen you on, you know,	1133.5958
+625	DCB_se1_ag2_m_03	1133.5958	(pause 0.16)	1133.7529
+626	DCB_se1_ag2_m_03	1133.7529	four ninety-five, you know, you wasn't nowhere going fast, you know what I'm saying, you seen- you know, you seen my rear view, you know what I'm saying, shorty, look man look,	1140.7309
+627	DCB_se1_ag2_m_03	1140.7309	(pause 0.26)	1140.9916
+628	DCB_se1_ag2_m_03	1140.9916	you ain't nowhere, you know.	1142.3079
+629	DCB_se1_ag2_m_03	1142.3079	(pause 0.59)	1142.9016
+630	DCB_se1_ag2_m_03	1142.9016	But, uh, other than that, you know, like I say, it's like	1145.1548
+631	DCB_se1_ag2_m_03	1145.1548	(pause 1.68)	1146.8386
+632	DCB_se1_ag2_m_03	1146.8386	you know what I'm saying, you know how I mean, you know, you ain't nowhere, man.	1149.8646
+633	DCB_se1_ag2_m_03	1149.8646	(pause 0.69)	1150.5589
+634	DCB_se1_ag2_m_03	1150.5589	You know, some slang talk, you know, some new era shit.	1152.6951
+635	DCB_se1_ag3_m_01	1155.6426	Mm, mkay.	1156.4359
+636	DCB_se1_ag3_m_01	1156.4359	(pause 2.74)	1159.1735
+637	DCB_se1_ag3_m_01	1159.1735	Well.	1159.5128
+638	DCB_se1_ag2_m_03	1159.6385	You ain't nowhere, man.	1160.7011
+639	DCB_se1_ag2_m_03	1160.7011	(pause 0.31)	1161.0152
+640	DCB_se1_ag2_m_03	1161.0152	You know what I'm saying, gotta cut it short right there like, you ain't nowhere.	1163.9399
+641	DCB_se1_ag3_m_01	1168.1063	Oh okay.	1168.7220
+642	DCB_se1_ag3_m_01	1168.7220	(pause 0.24)	1168.9607
+643	DCB_se1_ag3_m_01	1168.9607	So,	1170.0414
+644	DCB_se1_ag3_m_01	1170.0414	(pause 0.83)	1170.8739
+645	DCB_se1_ag3_m_01	1170.8739	I'm'a try to use it in a phrase, from what- how you explained it I'm'a try to use it right.	1174.2894
+646	DCB_se1_ag3_m_01	1174.2894	(pause 1.23)	1175.5209
+647	DCB_se1_ag3_m_01	1175.5209	Dang man, the Redskins up seventeen thirteen,	1178.1919
+648	DCB_se1_ag3_m_01	1178.1919	(pause 0.42)	1178.6129
+649	DCB_se1_ag3_m_01	1178.6129	<ts>	1178.7322
+650	DCB_se1_ag3_m_01	1178.7322	(pause 0.19)	1178.9270
+651	DCB_se1_ag3_m_01	1178.9270	they ain't nowhere.	1179.6715
+652	DCB_se1_ag2_m_03	1180.5574	Yeah they ain't nowhere, man, you [know /what I'm saying./]	1182.2192
+653	DCB_se1_ag3_m_01	1181.8360	[So is] I- did I just use it right?	1183.3219
+654	DCB_se1_ag2_m_03	1183.3855	Yeah you used it right, you ain't- they ain't nowhere, you know what I'm saying, cause it'd be tighter if they was up	1186.5961
+655	DCB_se1_ag2_m_03	1186.5961	(pause 1.31)	1187.9092
+656	DCB_se1_ag2_m_03	1187.9092	twenty-four	1188.5846
+657	DCB_se1_ag2_m_03	1188.5846	(pause 0.15)	1188.7362
+658	DCB_se1_ag2_m_03	1188.7362	thirteen, you know what I'm saying.	1189.8734
+659	DCB_se1_ag2_m_03	1189.8734	(pause 0.76)	1190.6336
+660	DCB_se1_ag2_m_03	1190.6336	You know.	1191.0389

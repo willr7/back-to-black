@@ -1,0 +1,386 @@
+Line	Spkr	StTime	Content	EnTime
+1	DCA_int_06	0.5063	Okay /RD-NAME-3/,	1.8026
+2	DCA_int_06	1.8026	(pause 0.95)	2.7538
+3	DCA_int_06	2.7538	what kind of games do you play around here?	4.6936
+4	DCA_se1_ag1_m_06	5.1459	Basketball.	6.0167
+5	DCA_int_06	7.4436	That's all?	8.0684
+6	DCA_se1_ag1_m_06	9.2155	Um	9.8123
+7	DCA_se1_ag1_m_06	9.8123	(pause 1.54)	11.3511
+8	DCA_se1_ag1_m_06	11.3511	baseball	12.1100
+9	DCA_se1_ag1_m_06	12.1100	(pause 0.69)	12.8048
+10	DCA_se1_ag1_m_06	12.8048	and	13.2244
+11	DCA_se1_ag1_m_06	13.2244	(pause 1.00)	14.2223
+12	DCA_se1_ag1_m_06	14.2223	Four Corners.	15.1919
+13	DCA_int_06	16.1854	Er,	16.8801
+14	DCA_int_06	16.8801	(pause 0.14)	17.0247
+15	DCA_int_06	17.0247	have you ever played uh	18.3991
+16	DCA_int_06	18.3991	(pause 0.49)	18.8933
+17	DCA_int_06	18.8933	uh, Red Rover, Kick the Can, May I,	21.8496
+18	DCA_int_06	21.8496	(pause 1.24)	23.0935
+19	DCA_int_06	23.0935	Hide and Seek,	24.0074
+20	DCA_int_06	24.0074	(pause 0.72)	24.7301
+21	DCA_int_06	24.7301	games with bottle caps,	26.4787
+22	DCA_int_06	26.4787	(pause 1.15)	27.6305
+23	DCA_int_06	27.6305	or Capture the Flag?	29.1366
+24	DCA_se1_ag1_m_06	29.9981	Played Capture the Flag, uh	32.0124
+25	DCA_int_06	34.9722	And how did you [play that?]	36.0307
+26	DCA_se1_ag1_m_06	35.6362	[Hide] and go Seek.	36.4690
+27	DCA_int_06	37.7467	How do you play uh	38.7772
+28	DCA_int_06	38.7772	(pause 0.26)	39.0336
+29	DCA_int_06	39.0336	Capture the Flag?	39.8450
+30	DCA_se1_ag1_m_06	40.7962	You have two teams, and you have	42.6742
+31	DCA_se1_ag1_m_06	42.6742	(pause 0.43)	43.1078
+32	DCA_se1_ag1_m_06	43.1078	a man guarding a flag,	44.8098
+33	DCA_se1_ag1_m_06	44.8098	(pause 0.64)	45.4533
+34	DCA_se1_ag1_m_06	45.4533	and	45.9149
+35	DCA_se1_ag1_m_06	45.9149	(pause 0.14)	46.0595
+36	DCA_se1_ag1_m_06	46.0595	a-	46.3346
+37	DCA_se1_ag1_m_06	46.3346	(pause 0.10)	46.4325
+38	DCA_se1_ag1_m_06	46.4325	another team try to get your flag,	48.4970
+39	DCA_se1_ag1_m_06	48.4970	(pause 0.62)	49.1218
+40	DCA_se1_ag1_m_06	49.1218	and	49.7513
+41	DCA_se1_ag1_m_06	49.7513	(pause 0.40)	50.1523
+42	DCA_se1_ag1_m_06	50.1523	you try to get their flag,	51.6351
+43	DCA_se1_ag1_m_06	51.6351	(pause 0.18)	51.8170
+44	DCA_se1_ag1_m_06	51.8170	and if you get their flag	53.3033
+45	DCA_se1_ag1_m_06	53.3033	(pause 0.40)	53.6996
+46	DCA_se1_ag1_m_06	53.6996	and come back safe,	54.8980
+47	DCA_se1_ag1_m_06	54.8980	(pause 0.74)	55.6394
+48	DCA_se1_ag1_m_06	55.6394	that mean you captured their flag.	57.3973
+49	DCA_int_06	57.6911	Mm-hm. How did you play Hide and Seek?	59.5982
+50	DCA_se1_ag1_m_06	61.7606	Somebody say	62.7911
+51	DCA_se1_ag1_m_06	62.7911	(pause 0.28)	63.0709
+52	DCA_se1_ag1_m_06	63.0709	um,	63.7564
+53	DCA_se1_ag1_m_06	63.7564	(pause 1.07)	64.8288
+54	DCA_se1_ag1_m_06	64.8288	somebody stay still and close their eyes, while the other people hide /and do/.	68.9124
+55	DCA_se1_ag1_m_06	68.9124	(pause 0.27)	69.1782
+56	DCA_se1_ag1_m_06	69.1782	You say, are you ready? and then,	70.7169
+57	DCA_se1_ag1_m_06	70.7169	(pause 0.22)	70.9407
+58	DCA_se1_ag1_m_06	70.9407	while they're hiding you go- you try to find 'em.	73.4342
+59	DCA_se1_ag1_m_06	73.4342	(pause 0.72)	74.1523
+60	DCA_se1_ag1_m_06	74.1523	And if you-	75.0056
+61	DCA_se1_ag1_m_06	75.0056	(pause 0.68)	75.6818
+62	DCA_se1_ag1_m_06	75.6818	if you could say, first to last, and if s- catch the first one,	79.5135
+63	DCA_se1_ag1_m_06	79.5135	(pause 0.64)	80.1523
+64	DCA_se1_ag1_m_06	80.1523	they It.	80.5440
+65	DCA_int_06	81.3134	Mm-hm.	81.7564
+66	DCA_int_06	81.7564	(pause 0.97)	82.7216
+67	DCA_int_06	82.7216	How did you play Four Corners?	84.1193
+68	DCA_se1_ag1_m_06	86.0451	Um	86.4694
+69	DCA_se1_ag1_m_06	86.4694	(pause 0.33)	86.8005
+70	DCA_se1_ag1_m_06	86.8005	you have	87.4346
+71	DCA_se1_ag1_m_06	87.4346	(pause 0.32)	87.7564
+72	DCA_se1_ag1_m_06	87.7564	corners, and	88.6889
+73	DCA_se1_ag1_m_06	88.6889	(pause 0.17)	88.8568
+74	DCA_se1_ag1_m_06	88.8568	each person is in a block,	90.3058
+75	DCA_se1_ag1_m_06	90.3058	(pause 0.52)	90.8234
+76	DCA_se1_ag1_m_06	90.8234	and	91.1778
+77	DCA_se1_ag1_m_06	91.1778	(pause 0.83)	92.0124
+78	DCA_se1_ag1_m_06	92.0124	one person serve the balls and you hit it to different block,	95.4257
+79	DCA_se1_ag1_m_06	95.4257	(pause 0.77)	96.1939
+80	DCA_se1_ag1_m_06	96.1939	but um	97.0519
+81	DCA_se1_ag1_m_06	97.0519	(pause 0.39)	97.4389
+82	DCA_se1_ag1_m_06	97.4389	if somebody hit it, and you miss it,	99.3973
+83	DCA_se1_ag1_m_06	99.3973	(pause 0.37)	99.7704
+84	DCA_se1_ag1_m_06	99.7704	it's another person go to get in your block,	102.1100
+85	DCA_se1_ag1_m_06	102.1100	(pause 0.44)	102.5530
+86	DCA_se1_ag1_m_06	102.5530	else, you move around	103.9332
+87	DCA_int_06	104.3005	Mm-hm.	104.6418
+88	DCA_se1_ag1_m_06	104.5627	to another block.	105.4346
+89	DCA_int_06	106.7729	Hm.	107.1273
+90	DCA_int_06	107.1273	(pause 0.77)	107.8955
+91	DCA_int_06	107.8955	What are your favorite TV programs?	109.9891
+92	DCA_se1_ag1_m_06	114.9167	Uh	115.5881
+93	DCA_se1_ag1_m_06	115.5881	(pause 0.44)	116.0264
+94	DCA_se1_ag1_m_06	116.0264	basketball games and	117.4440
+95	DCA_se1_ag1_m_06	117.4440	(pause 1.99)	119.4292
+96	DCA_se1_ag1_m_06	119.4292	Tarzan, and Rat Patrol, and The Felony Squad.	122.5673
+97	DCA_int_06	122.9637	Um	123.6911
+98	DCA_int_06	123.6911	(pause 1.48)	125.1739
+99	DCA_int_06	125.1739	why do you like uh	126.7675
+100	DCA_int_06	126.7675	(pause 1.08)	127.8492
+101	DCA_int_06	127.8492	Rat Patrol?	128.7072
+102	DCA_se1_ag1_m_06	132.2172	Cause it's fun looking at.	133.6161
+103	DCA_int_06	135.7937	Well what happened on Rat Patrol?	137.3930
+104	DCA_se1_ag1_m_06	139.3690	They driving Jeeps on deserts, and	141.7097
+105	DCA_se1_ag1_m_06	141.7097	(pause 0.75)	142.4605
+106	DCA_se1_ag1_m_06	142.4605	always	143.1179
+107	DCA_se1_ag1_m_06	143.1179	(pause 0.26)	143.3779
+108	DCA_se1_ag1_m_06	143.3779	capture enemies.	144.6042
+109	DCA_int_06	145.0799	Mm-hm.	145.7959
+110	DCA_int_06	145.7959	(pause 0.67)	146.4647
+111	DCA_int_06	146.4647	Um	147.0709
+112	DCA_int_06	147.0709	(pause 2.94)	150.0074
+113	DCA_int_06	150.0074	uh, what is your favorite uh, movies?	152.1803
+114	DCA_int_06	152.1803	(pause 0.68)	152.8564
+115	DCA_int_06	152.8564	That you've seen?	153.9569
+116	DCA_se1_ag1_m_06	155.3220	I saw um	156.3245
+117	DCA_se1_ag1_m_06	156.3245	(pause 0.57)	156.8980
+118	DCA_se1_ag1_m_06	156.8980	movie called	157.8073
+119	DCA_se1_ag1_m_06	157.8073	(pause 0.62)	158.4228
+120	DCA_se1_ag1_m_06	158.4228	Fastest Guitar Alive.	160.2600
+121	DCA_int_06	160.9116	Um and why did you like The Fastest Guitar Alive?	163.4809
+122	DCA_se1_ag1_m_06	164.9637	Cause they was singing real well, and	167.1506
+123	DCA_se1_ag1_m_06	167.1506	(pause 0.93)	168.0820
+124	DCA_se1_ag1_m_06	168.0820	I like the singing, and I like the guitar that he had.	171.0989
+125	DCA_int_06	171.7517	What all exactly happened in the movie that you made you like it?	175.3037
+126	DCA_se1_ag1_m_06	176.1671	That guitar that he had,	177.4533
+127	DCA_se1_ag1_m_06	177.4533	(pause 0.40)	177.8496
+128	DCA_se1_ag1_m_06	177.8496	all he had to do was just press the button a	180.1706
+129	DCA_se1_ag1_m_06	180.1706	(pause 0.55)	180.7255
+130	DCA_se1_ag1_m_06	180.7255	gun a come out of the guitar, and then he pressed another button and it'll shoot.	184.4372
+131	DCA_int_06	185.6126	Mm-hm.	186.3235
+132	DCA_int_06	186.3235	(pause 0.75)	187.0752
+133	DCA_int_06	187.0752	Okay.	187.6674
+134	DCA_int_06	187.6674	(pause 0.67)	188.3388
+135	DCA_int_06	188.3388	Do you have a pet?	189.1036
+136	DCA_se1_ag1_m_06	191.0387	No.	191.4630
+137	DCA_int_06	192.2639	Mm, do you like to go fishing or	194.4368
+138	DCA_int_06	194.4368	(pause 0.28)	194.7119
+139	DCA_int_06	194.7119	anything like that?	195.8123
+140	DCA_se1_ag1_m_06	196.4931	I like to go fishing.	197.5283
+141	DCA_int_06	197.7136	Oh?	198.3105
+142	DCA_int_06	198.3105	(pause 0.20)	198.5110
+143	DCA_int_06	198.5110	What was the large amount of fish that you ever caught?	201.0942
+144	DCA_se1_ag1_m_06	202.0641	Twenty.	202.7263
+145	DCA_int_06	203.0841	Twenty. Were you really excited about it?	205.4762
+146	DCA_se1_ag1_m_06	205.9938	Yep, and I caught fourteen Wednesday.	208.6330
+147	DCA_int_06	209.4618	How often do you go fishing?	210.5017
+148	DCA_se1_ag1_m_06	211.5322	I went today, but I ain't-	213.0569
+149	DCA_se1_ag1_m_06	213.0569	(pause 0.12)	213.1782
+150	DCA_se1_ag1_m_06	213.1782	I don't go very often cause my mother. She don't like me down there.	216.9540
+151	DCA_int_06	217.5028	Mm-hm.	218.1096
+152	DCA_int_06	218.1096	(pause 0.26)	218.3668
+153	DCA_int_06	218.3668	Okay.	219.0569
+154	DCA_int_06	219.0569	(pause 0.14)	219.1968
+155	DCA_int_06	219.1968	Tell me about your schooling.	220.9034
+156	DCA_int_06	220.9034	(pause 2.43)	223.3363
+157	DCA_int_06	223.3363	What I mean by what- um, about your school,	225.9196
+158	DCA_int_06	225.9196	(pause 0.40)	226.3206
+159	DCA_int_06	226.3206	how large it is, how many people attend the school and.	230.0451
+160	DCA_se1_ag1_m_06	230.9870	Um	231.4346
+161	DCA_se1_ag1_m_06	231.4346	(pause 0.99)	232.4278
+162	DCA_se1_ag1_m_06	232.4278	Friday we had this award	234.1426
+163	DCA_se1_ag1_m_06	234.1426	(pause 0.41)	234.5530
+164	DCA_se1_ag1_m_06	234.5530	day for our basketball team.	236.3622
+165	DCA_se1_ag1_m_06	236.3622	(pause 0.21)	236.5720
+166	DCA_se1_ag1_m_06	236.5720	We won	237.3414
+167	DCA_se1_ag1_m_06	237.3414	(pause 0.15)	237.4952
+168	DCA_se1_ag1_m_06	237.4952	eight and lost	238.4884
+169	DCA_se1_ag1_m_06	238.4884	(pause 0.16)	238.6532
+170	DCA_se1_ag1_m_06	238.6532	two.	238.9361
+171	DCA_int_06	239.5458	Mm-hm. Alright.	241.0519
+172	DCA_int_06	241.0519	(pause 2.21)	243.2574
+173	DCA_int_06	243.2574	What do you study?	244.8195
+174	DCA_int_06	244.8195	(pause 1.03)	245.8489
+175	DCA_int_06	245.8489	In school, what are your studies? Your subjects?	248.8984
+176	DCA_se1_ag1_m_06	249.6305	Um	250.1341
+177	DCA_se1_ag1_m_06	250.1341	(pause 0.97)	251.1039
+178	DCA_se1_ag1_m_06	251.1039	English,	251.9000
+179	DCA_se1_ag1_m_06	251.9000	(pause 0.55)	252.4504
+180	DCA_se1_ag1_m_06	252.4504	Geography, Math,	253.9052
+181	DCA_se1_ag1_m_06	253.9052	(pause 0.84)	254.7445
+182	DCA_se1_ag1_m_06	254.7445	Science,	255.7843
+183	DCA_se1_ag1_m_06	255.7843	(pause 2.06)	257.8442
+184	DCA_se1_ag1_m_06	257.8442	and	258.7581
+185	DCA_se1_ag1_m_06	258.7581	(pause 0.66)	259.4156
+186	DCA_se1_ag1_m_06	259.4156	Wood work,	260.2689
+187	DCA_se1_ag1_m_06	260.2689	(pause 0.21)	260.4787
+188	DCA_se1_ag1_m_06	260.4787	and	261.0616
+189	DCA_se1_ag1_m_06	261.0616	(pause 1.05)	262.1154
+190	DCA_se1_ag1_m_06	262.1154	Music.	262.8335
+191	DCA_int_06	263.5504	Mm-hm.	264.2172
+192	DCA_int_06	264.2172	(pause 0.52)	264.7395
+193	DCA_int_06	264.7395	Um,	265.1591
+194	DCA_int_06	265.1591	(pause 0.32)	265.4762
+195	DCA_int_06	265.4762	what subject do you like the best?	267.1757
+196	DCA_se1_ag1_m_06	268.7009	Um	269.1972
+197	DCA_se1_ag1_m_06	269.1972	(pause 0.47)	269.6717
+198	DCA_se1_ag1_m_06	269.6717	I like Gym and Wood work the best.	271.6721
+199	DCA_int_06	271.7420	Oh you do?	272.7818
+200	DCA_int_06	272.7818	(pause 0.81)	273.5932
+201	DCA_int_06	273.5932	Okay, um	274.5584
+202	DCA_int_06	274.5584	(pause 1.29)	275.8442
+203	DCA_int_06	275.8442	what do kids do after school is out?	277.7467
+204	DCA_se1_ag1_m_06	280.8475	What?	281.1039
+205	DCA_int_06	281.3966	What do you kids do after school is out?	283.5089
+206	DCA_se1_ag1_m_06	285.4113	We go out on the basketball court and play basketball.	288.1286
+207	DCA_se1_ag1_m_06	288.1286	(pause 0.50)	288.6322
+208	DCA_se1_ag1_m_06	288.6322	Some of 'em hang around school for a little while.	290.8145
+209	DCA_int_06	290.9730	Mm-hm.	291.3787
+210	DCA_int_06	291.3787	(pause 1.34)	292.7216
+211	DCA_int_06	292.7216	Did you ever have a teacher who hollered a lot?	295.1312
+212	DCA_se1_ag1_m_06	297.7191	Yeah,	298.0874
+213	DCA_se1_ag1_m_06	298.0874	(pause 0.29)	298.3765
+214	DCA_se1_ag1_m_06	298.3765	in the um	299.1552
+215	DCA_se1_ag1_m_06	299.1552	(pause 0.53)	299.6810
+216	DCA_se1_ag1_m_06	299.6810	sixth grade.	300.6928
+217	DCA_int_06	300.8187	What about?	301.4529
+218	DCA_int_06	301.4529	(pause 1.41)	302.8611
+219	DCA_int_06	302.8611	Um, what about did you ever get hollered at?	305.5889
+220	DCA_se1_ag1_m_06	305.9794	Um	306.4550
+221	DCA_se1_ag1_m_06	306.4550	(pause 1.46)	307.9192
+222	DCA_se1_ag1_m_06	307.9192	stop talking.	308.7538
+223	DCA_int_06	309.5419	Stop talking?	310.3765
+224	DCA_int_06	310.3765	(pause 0.97)	311.3499
+225	DCA_int_06	311.3499	Was it fair?	312.2872
+226	DCA_se1_ag1_m_06	315.1875	Sometimes.	316.3439
+227	DCA_int_06	320.0684	Mm.	320.4461
+228	DCA_int_06	320.4461	(pause 0.18)	320.6279
+229	DCA_int_06	320.6279	Hm.	320.8751
+230	DCA_int_06	320.8751	(pause 0.15)	321.0243
+231	DCA_int_06	321.0243	Sometimes it's fair. Okay.	323.0946
+232	DCA_int_06	323.0946	(pause 0.86)	323.9514
+233	DCA_int_06	323.9514	Can you tell me about the best teacher you ever had?	326.2129
+234	DCA_se1_ag1_m_06	328.7775	Best teacher I ever had was in the first grade.	331.3503
+235	DCA_int_06	331.8726	Mm-hm. What did you like about her?	333.7470
+236	DCA_se1_ag1_m_06	335.0993	I used to help her after school, and	337.6674
+237	DCA_se1_ag1_m_06	337.6674	(pause 0.57)	338.2363
+238	DCA_se1_ag1_m_06	338.2363	she used to give me money,	339.5419
+239	DCA_se1_ag1_m_06	339.5419	(pause 0.62)	340.1574
+240	DCA_se1_ag1_m_06	340.1574	and I used to um	340.9780
+241	DCA_se1_ag1_m_06	340.9780	(pause 0.66)	341.6344
+242	DCA_se1_ag1_m_06	341.6344	wash the boards for her,	343.1078
+243	DCA_se1_ag1_m_06	343.1078	(pause 0.54)	343.6487
+244	DCA_se1_ag1_m_06	343.6487	and every time I break my glasses, she used to pay for 'em.	346.7623
+245	DCA_int_06	347.0562	Mm-hm.	347.7369
+246	DCA_int_06	347.7369	(pause 0.68)	348.4177
+247	DCA_int_06	348.4177	Um did you ever have a teacher	350.0731
+248	DCA_int_06	350.0731	(pause 0.33)	350.4041
+249	DCA_int_06	350.4041	you just couldn't stand?	351.8263
+250	DCA_se1_ag1_m_06	353.4852	In the sixth grade.	354.5856
+251	DCA_int_06	355.7653	Wh- well why didn't you like her?	357.3041
+252	DCA_se1_ag1_m_06	358.4920	Sh- she- sh-	359.8255
+253	DCA_se1_ag1_m_06	359.8255	(pause 1.59)	361.4156
+254	DCA_se1_ag1_m_06	361.4156	she- every time	362.6699
+255	DCA_se1_ag1_m_06	362.6699	(pause 0.52)	363.1922
+256	DCA_se1_ag1_m_06	363.1922	she think you talking, she'll get mad.	365.5143
+257	DCA_se1_ag1_m_06	365.5143	(pause 1.84)	367.3503
+258	DCA_se1_ag1_m_06	367.3503	And one day my grandma had to go and see her,	369.7610
+259	DCA_se1_ag1_m_06	369.7610	(pause 0.39)	370.1527
+260	DCA_se1_ag1_m_06	370.1527	and- and she used to send people home,	372.4364
+261	DCA_se1_ag1_m_06	372.4364	(pause 0.38)	372.8187
+262	DCA_se1_ag1_m_06	372.8187	and the principal didn't even know it.	374.8704
+263	DCA_int_06	376.3159	Did kids in your class ever play tricks on the teacher?	379.3270
+264	DCA_se1_ag1_m_06	379.9145	Nope.	380.6559
+265	DCA_int_06	380.9870	Never played tricks on the teacher. Okay.	383.2252
+266	DCA_int_06	383.2252	(pause 1.88)	385.1032
+267	DCA_int_06	385.1032	Was there a bunch of kids that you always hang around with and do things with?	388.2366
+268	DCA_se1_ag1_m_06	389.1366	Yeah.	389.6961
+269	DCA_int_06	390.1053	Mm, like what do you do?	391.6441
+270	DCA_se1_ag1_m_06	392.1850	Play basketball.	393.6584
+271	DCA_int_06	394.0975	Mm. /Is that so?/	394.9388
+272	DCA_int_06	394.9388	(pause 0.34)	395.2800
+273	DCA_int_06	395.2800	Hm.	395.7743
+274	DCA_int_06	395.7743	(pause 1.00)	396.7768
+275	DCA_int_06	396.7768	Alrighty.	397.9052
+276	DCA_int_06	397.9052	(pause 0.40)	398.3062
+277	DCA_int_06	398.3062	Um	398.8611
+278	DCA_int_06	398.8611	(pause 1.87)	400.7263
+279	DCA_int_06	400.7263	in your group	401.4630
+280	DCA_int_06	401.4630	(pause 0.59)	402.0494
+281	DCA_int_06	402.0494	is there any one person that everybody listened- listens to	405.6445
+282	DCA_int_06	405.6445	(pause 1.15)	406.7915
+283	DCA_int_06	406.7915	and regard as a leader?	408.2685
+284	DCA_se1_ag1_m_06	410.0218	Nope.	410.4694
+285	DCA_int_06	410.8611	You uh	411.9709
+286	DCA_int_06	411.9709	(pause 0.45)	412.4232
+287	DCA_int_06	412.4232	don't have anyone that you listen to and regard as a leader?	414.6602
+288	DCA_se1_ag1_m_06	414.9866	Mm-mm.	415.5695
+289	DCA_int_06	416.1383	Can a new kid get into your bunch	417.7797
+290	DCA_int_06	417.7797	(pause 0.19)	417.9709
+291	DCA_int_06	417.9709	and-	418.5257
+292	DCA_se1_ag1_m_06	420.1566	Yeah.	420.7488
+293	DCA_int_06	421.1412	What do you have to do?	422.3676
+294	DCA_se1_ag1_m_06	423.3234	Just come around and play with us.	425.3646
+295	DCA_int_06	425.9171	Mm-hm.	426.3861
+296	DCA_int_06	426.3861	(pause 2.13)	428.5168
+297	DCA_int_06	428.5168	Okay, what do you want to be when you finish school?	430.8482
+298	DCA_se1_ag1_m_06	433.7194	Um	434.4561
+299	DCA_se1_ag1_m_06	434.4561	(pause 0.39)	434.8478
+300	DCA_se1_ag1_m_06	434.8478	basketball player.	435.9856
+301	DCA_int_06	437.5092	Uh, how long does it take to become a basetball player?	440.0691
+302	DCA_se1_ag1_m_06	442.5067	I don't know.	443.3833
+303	DCA_se1_ag1_m_06	443.3833	(pause 0.56)	443.9475
+304	DCA_se1_ag1_m_06	443.9475	See how fast I can get tall.	445.6681
+305	DCA_int_06	446.3349	How fast you can get tall.	447.7851
+306	DCA_int_06	447.7851	(pause 0.15)	447.9311
+307	DCA_int_06	447.9311	What does a basketball player do?	449.5791
+308	DCA_se1_ag1_m_06	453.3607	Play basketball.	454.5684
+309	DCA_se1_ag1_m_06	454.5684	(pause 0.72)	455.2900
+310	DCA_se1_ag1_m_06	455.2900	Be's on TV and everything.	457.0013
+311	DCA_int_06	460.6232	In your job,	461.4626
+312	DCA_int_06	461.4626	(pause 0.57)	462.0314
+313	DCA_int_06	462.0314	describe what you do in a day's work.	464.0458
+314	DCA_se1_ag1_m_06	464.7779	Serve the stock.	466.1161
+315	DCA_int_06	466.1570	You serve the stock.	467.2994
+316	DCA_int_06	467.2994	(pause 3.11)	470.4142
+317	DCA_int_06	470.4142	Um	471.0623
+318	DCA_int_06	471.0623	(pause 3.42)	474.4791
+319	DCA_int_06	474.4791	if you had all the money you wanted, what would you do with it?	476.8152
+320	DCA_se1_ag1_m_06	477.8550	Save it and give it to my mother.	479.7610
+321	DCA_se1_ag1_m_06	479.7610	(pause 0.38)	480.1387
+322	DCA_se1_ag1_m_06	480.1387	Give most of it to my grandma.	481.9805
+323	DCA_int_06	483.6825	How do your family celebrate the holidays? Especially Christmas?	486.6003
+324	DCA_se1_ag1_m_06	487.9805	Giving me presents.	489.1789
+325	DCA_int_06	489.8772	Do you go any place /unintelligible/ and do you celebrate Easter?	492.0967
+326	DCA_int_06	492.0967	(pause 0.68)	492.7775
+327	DCA_int_06	492.7775	In your family.	493.5189
+328	DCA_se1_ag1_m_06	494.2389	Buy new clothes and	495.6646
+329	DCA_se1_ag1_m_06	495.6646	(pause 1.15)	496.8191
+330	DCA_se1_ag1_m_06	496.8191	make Easter Eggs.	498.1667
+331	DCA_int_06	500.9318	Uh, what would you like for Christmas this year?	503.4719
+332	DCA_se1_ag1_m_06	505.9805	A drum set.	506.7732
+333	DCA_int_06	507.1509	A drum set.	507.9828
+334	DCA_int_06	507.9828	(pause 0.16)	508.1465
+335	DCA_int_06	508.1465	Mm-hm.	508.6714
+336	DCA_int_06	508.6714	(pause 0.47)	509.1408
+337	DCA_int_06	509.1408	What was the best present you ever got?	510.7542
+338	DCA_se1_ag1_m_06	512.8945	A pool table.	514.0042
+339	DCA_int_06	514.1581	Describe the pool table to me.	515.7657
+340	DCA_se1_ag1_m_06	516.9687	Got two sticks and	518.3069
+341	DCA_se1_ag1_m_06	518.3069	(pause 0.86)	519.1649
+342	DCA_se1_ag1_m_06	519.1649	nine balls.	520.4647
+343	DCA_se1_ag1_m_06	520.4647	(pause 1.26)	521.7237
+344	DCA_se1_ag1_m_06	521.7237	And it's-	522.4278
+345	DCA_se1_ag1_m_06	522.4278	(pause 0.18)	522.6096
+346	DCA_se1_ag1_m_06	522.6096	it's not a big pool table, it's a small one.	524.8758
+347	DCA_int_06	526.1010	Hm.	526.5160
+348	DCA_int_06	526.5160	(pause 1.27)	527.7890
+349	DCA_int_06	527.7890	Okay, um	529.4117
+350	DCA_int_06	529.4117	(pause 1.37)	530.7825
+351	DCA_int_06	530.7825	were you ever in a situation where you thought you might be killed or might die?	534.5024
+352	DCA_se1_ag1_m_06	535.3510	Yeah.	535.8640
+353	DCA_int_06	536.5354	Mm, describe it to me. Tell me what happened?	539.1500
+354	DCA_se1_ag1_m_06	539.2994	One time I was serving papers on a Sunday, these boys was breaking in the machine,	543.6918
+355	DCA_se1_ag1_m_06	543.6918	(pause 0.44)	544.1348
+356	DCA_se1_ag1_m_06	544.1348	and I was scared.	545.0814
+357	DCA_se1_ag1_m_06	545.0814	(pause 1.19)	546.2692
+358	DCA_se1_ag1_m_06	546.2692	And	546.6143
+359	DCA_se1_ag1_m_06	546.6143	(pause 0.39)	547.0060
+360	DCA_se1_ag1_m_06	547.0060	I don't know how they broke in it,	548.5308
+361	DCA_se1_ag1_m_06	548.5308	(pause 0.24)	548.7732
+362	DCA_se1_ag1_m_06	548.7732	after they broke in it,	550.0415
+363	DCA_se1_ag1_m_06	550.0415	(pause 0.59)	550.6337
+364	DCA_se1_ag1_m_06	550.6337	they left and they ain't had no tools in their hand. And they saw me too but,	554.6800
+365	DCA_se1_ag1_m_06	554.6800	(pause 1.08)	555.7618
+366	DCA_se1_ag1_m_06	555.7618	they ain't seen what I look like.	557.2108
+367	DCA_int_06	557.9428	Mm, /they didn't/ see what you look like.	559.4583
+368	DCA_int_06	559.4583	(pause 0.28)	559.7427
+369	DCA_int_06	559.7427	Okay.	560.5308
+370	DCA_int_06	560.5308	(pause 1.33)	561.8597
+371	DCA_int_06	561.8597	Sometimes people say	563.3460
+372	DCA_int_06	563.3460	(pause 0.27)	563.6118
+373	DCA_int_06	563.6118	what is going to happen	564.9873
+374	DCA_int_06	564.9873	(pause 0.45)	565.4350
+375	DCA_int_06	565.4350	is going to happen.	566.6473
+376	DCA_int_06	566.6473	(pause 0.21)	566.8572
+377	DCA_int_06	566.8572	What do you say about that?	568.1395
+378	DCA_se1_ag1_m_06	570.9267	I don't believe it.	572.1297
+379	DCA_int_06	572.3302	You don't believe it. If someone says the sky is gonna fall,	575.5791
+380	DCA_int_06	575.5791	(pause 0.48)	576.0594
+381	DCA_int_06	576.0594	do you believe it?	576.8754
+382	DCA_se1_ag1_m_06	577.1039	No.	577.6168
+383	DCA_int_06	577.9199	Okay.	578.8711
+384	DCA_int_06	578.8711	(pause 0.72)	579.5868
+385	DCA_int_06	579.5868	Um.	580.0921

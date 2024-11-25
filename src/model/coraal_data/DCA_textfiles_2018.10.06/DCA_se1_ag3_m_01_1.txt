@@ -1,0 +1,1878 @@
+Line	Spkr	StTime	Content	EnTime
+1	DCA_int_01	0	She's got us	0.7800
+2	DCA_int_01	0.7800	(pause 0.43)	1.2064
+3	DCA_int_01	1.2064	on the air now.	1.9796
+4	DCA_int_01	1.9796	(pause 0.60)	2.5831
+5	DCA_int_01	2.5831	Not really.	3.0919
+6	DCA_int_01	3.0919	(pause 1.01)	4.1049
+7	DCA_int_01	4.1049	But uh-	4.5763
+8	DCA_int_01	4.5763	(pause 0.10)	4.6785
+9	DCA_int_01	4.6785	uh	5.0726
+10	DCA_int_01	5.0726	(pause 0.17)	5.2397
+11	DCA_int_01	5.2397	first question is what kind of	6.3470
+12	DCA_int_01	6.3470	(pause 0.09)	6.4343
+13	DCA_int_01	6.4343	games	6.8408
+14	DCA_int_01	6.8408	(pause 0.07)	6.9111
+15	DCA_int_01	6.9111	did-	7.0708
+16	DCA_int_01	7.0708	(pause 0.24)	7.3152
+17	DCA_int_01	7.3152	did you	7.6194
+18	DCA_int_01	7.6194	(pause 0.13)	7.7491
+19	DCA_int_01	7.7491	play when you were a kid, coming up	9.0634
+20	DCA_int_01	9.0634	(pause 0.34)	9.4001
+21	DCA_int_01	9.4001	around ten years old or so?	10.8421
+22	DCA_int_01	10.8421	(pause 0.29)	11.1289
+23	DCA_int_01	11.1289	You remember?	11.5504
+24	DCA_se1_ag3_m_01	12.1166	Oh,	12.2338
+25	DCA_se1_ag3_m_01	12.2338	(pause 0.18)	12.4183
+26	DCA_se1_ag3_m_01	12.4183	football, mostly	13.5735
+27	DCA_int_01	13.9875	Mm-hm.	14.2868
+28	DCA_int_01	14.2868	(pause 0.37)	14.6534
+29	DCA_int_01	14.6534	Anything else?	15.2644
+30	DCA_se1_ag3_m_01	16.0630	I- I played	16.8287
+31	DCA_se1_ag3_m_01	16.8287	(pause 0.42)	17.2452
+32	DCA_se1_ag3_m_01	17.2452	golf occasionally,	18.3126
+33	DCA_se1_ag3_m_01	18.3126	(pause 0.14)	18.4522
+34	DCA_se1_ag3_m_01	18.4522	but I never developed	20.1294
+35	DCA_se1_ag3_m_01	20.1294	(pause 0.21)	20.3382
+36	DCA_se1_ag3_m_01	20.3382	you know	20.7621
+37	DCA_se1_ag3_m_01	20.7621	(pause 0.07)	20.8295
+38	DCA_se1_ag3_m_01	20.8295	professional status.	21.9518
+39	DCA_int_01	22.5558	Mm-hm.	22.9474
+40	DCA_int_01	22.9474	(pause 0.84)	23.7878
+41	DCA_int_01	23.7878	Well how bout the	24.3215
+42	DCA_int_01	24.3215	(pause 0.47)	24.7904
+43	DCA_int_01	24.7904	sort of	25.1396
+44	DCA_int_01	25.1396	(pause 0.11)	25.2473
+45	DCA_int_01	25.2473	kid-	25.4443
+46	DCA_int_01	25.4443	(pause 0.26)	25.7012
+47	DCA_int_01	25.7012	kiddish games that the children play? Did you ever play any of those?	29.2905
+48	DCA_int_01	29.2905	(pause 0.82)	30.1085
+49	DCA_int_01	30.1085	Like the game where one kid hides his eyes and everybody else hides	33.3687
+50	DCA_se1_ag3_m_01	33.5675	Oh well	34.3687
+51	DCA_se1_ag3_m_01	34.3687	(pause 0.26)	34.6281
+52	DCA_se1_ag3_m_01	34.6281	we used to play	35.3469
+53	DCA_se1_ag3_m_01	35.3469	(pause 1.28)	36.6288
+54	DCA_se1_ag3_m_01	36.6288	hide and go seek quite frequently.	38.4665
+55	DCA_se1_ag3_m_01	38.4665	(pause 0.43)	38.9005
+56	DCA_se1_ag3_m_01	38.9005	You know, in my younger years, you know.	40.6072
+57	DCA_int_01	40.7748	Mm-hm. That's what I mean.	41.7848
+58	DCA_int_01	41.7848	(pause 0.35)	42.1315
+59	DCA_int_01	42.1315	Yeah.	42.3260
+60	DCA_int_01	42.3260	(pause 0.40)	42.7275
+61	DCA_int_01	42.7275	Were you /down when you/	43.4825
+62	DCA_int_01	43.4825	(pause 1.31)	44.7943
+63	DCA_int_01	44.7943	were little	45.5624
+64	DCA_int_01	45.5624	(pause 0.25)	45.8168
+65	DCA_int_01	45.8168	kid.	46.0762
+66	DCA_int_01	46.0762	(pause 1.19)	47.2633
+67	DCA_int_01	47.2633	How do you play hide and s- hide and go seek?	49.2435
+68	DCA_se1_ag3_m_01	50.7978	Well, it-	51.3844
+69	DCA_se1_ag3_m_01	51.3844	(pause 0.99)	52.3770
+70	DCA_se1_ag3_m_01	52.3770	sometime it would be at least twelve or	54.7662
+71	DCA_se1_ag3_m_01	54.7662	(pause 0.82)	55.5852
+72	DCA_se1_ag3_m_01	55.5852	eleven kids there	57.1440
+73	DCA_se1_ag3_m_01	57.1440	(pause 0.81)	57.9537
+74	DCA_se1_ag3_m_01	57.9537	We would-	58.4483
+75	DCA_se1_ag3_m_01	58.4483	(pause 0.61)	59.0568
+76	DCA_se1_ag3_m_01	59.0568	as soon as the sun go down we would	60.8175
+77	DCA_se1_ag3_m_01	60.8175	(pause 0.29)	61.1049
+78	DCA_se1_ag3_m_01	61.1049	always team up, and uh	62.8527
+79	DCA_se1_ag3_m_01	62.8527	(pause 2.28)	65.1281
+80	DCA_se1_ag3_m_01	65.1281	they would choose. We would toss a coin.	67.1832
+81	DCA_se1_ag3_m_01	67.1832	(pause 1.06)	68.2466
+82	DCA_se1_ag3_m_01	68.2466	Though, and those days it was a	69.9261
+83	DCA_se1_ag3_m_01	69.9261	(pause 0.78)	70.7106
+84	DCA_se1_ag3_m_01	70.7106	soda cap.	71.5037
+85	DCA_int_01	71.8379	Mm-hm.	72.3866
+86	DCA_se1_ag3_m_01	72.6958	And uh, if it came up with the cork,	75.2107
+87	DCA_se1_ag3_m_01	75.2107	(pause 1.34)	76.5475
+88	DCA_se1_ag3_m_01	76.5475	or if it came up with the top	78.0090
+89	DCA_se1_ag3_m_01	78.0090	(pause 0.08)	78.0938
+90	DCA_se1_ag3_m_01	78.0938	whichever one hit.	79.1113
+91	DCA_int_01	79.4527	Mm-hm.	79.8461
+92	DCA_se1_ag3_m_01	79.5951	It was just like tossing a coin.	81.1025
+93	DCA_se1_ag3_m_01	81.2322	Uh,	81.7110
+94	DCA_se1_ag3_m_01	81.7110	(pause 2.93)	84.6439
+95	DCA_se1_ag3_m_01	84.6439	whichever side you choose	86.4346
+96	DCA_se1_ag3_m_01	86.4346	(pause 0.14)	86.5753
+97	DCA_se1_ag3_m_01	86.5753	that would be the one that	87.7325
+98	DCA_se1_ag3_m_01	87.7325	(pause 0.29)	88.0268
+99	DCA_se1_ag3_m_01	88.0268	would be	88.5704
+100	DCA_se1_ag3_m_01	88.5704	(pause 0.23)	88.7999
+101	DCA_se1_ag3_m_01	88.7999	it	89.0513
+102	DCA_se1_ag3_m_01	89.0513	(pause 0.26)	89.3087
+103	DCA_se1_ag3_m_01	89.3087	they called it.	89.9820
+104	DCA_se1_ag3_m_01	89.9820	(pause 0.19)	90.1716
+105	DCA_se1_ag3_m_01	90.1716	And it would	91.1342
+106	DCA_se1_ag3_m_01	91.1342	(pause 0.27)	91.4036
+107	DCA_se1_ag3_m_01	91.4036	have to be	92.0670
+108	DCA_se1_ag3_m_01	92.0670	(pause 0.34)	92.4062
+109	DCA_se1_ag3_m_01	92.4062	the one that go	93.2651
+110	DCA_se1_ag3_m_01	93.2651	(pause 0.18)	93.4496
+111	DCA_se1_ag3_m_01	93.4496	seek out the others, you know.	94.7266
+112	DCA_int_01	95.2603	What happens if you find somebody?	96.8315
+113	DCA_se1_ag3_m_01	97.3467	Well then they would be it.	98.9065
+114	DCA_int_01	100.0347	The first one you find?	101.2867
+115	DCA_se1_ag3_m_01	101.7905	No.	102.3491
+116	DCA_se1_ag3_m_01	102.3491	(pause 0.21)	102.5586
+117	DCA_se1_ag3_m_01	102.5586	It would go through a stage.	104.0799
+118	DCA_se1_ag3_m_01	104.0799	(pause 0.62)	104.7034
+119	DCA_se1_ag3_m_01	104.7034	The last one it would have to /catch/ the last one.	107.0787
+120	DCA_int_01	107.4977	Mm-hm.	107.9167
+121	DCA_int_01	107.9167	(pause 1.50)	109.4180
+122	DCA_int_01	109.4180	Mm that's good.	110.0166
+123	DCA_se1_ag3_m_01	111.1253	Something similar to tag and swimming, you know.	113.7965
+124	DCA_int_01	114.3072	Well how is that-	114.8060
+125	DCA_int_01	114.8060	(pause 0.31)	115.1202
+126	DCA_int_01	115.1202	how does that work?	115.5193
+127	DCA_int_01	115.5193	(pause 0.19)	115.7088
+128	DCA_int_01	115.7088	Tag and swimming?	116.4770
+129	DCA_se1_ag3_m_01	116.6216	[Yes.]	117.0207
+130	DCA_int_01	116.9458	[How] do you play it swimming?	117.8337
+131	DCA_se1_ag3_m_01	118.9669	Well, if-	119.6653
+132	DCA_se1_ag3_m_01	119.6653	(pause 0.12)	119.7850
+133	DCA_se1_ag3_m_01	119.7850	but- uh- say if you have seven, eight guys, uh	122.6979
+134	DCA_se1_ag3_m_01	122.6979	(pause 1.65)	124.3499
+135	DCA_se1_ag3_m_01	124.3499	or, sometimes it'd be	125.4972
+136	DCA_se1_ag3_m_01	125.4972	(pause 0.15)	125.6518
+137	DCA_se1_ag3_m_01	125.6518	girls,	126.1863
+138	DCA_se1_ag3_m_01	126.1863	(pause 0.27)	126.4548
+139	DCA_se1_ag3_m_01	126.4548	and	126.8688
+140	DCA_se1_ag3_m_01	126.8688	(pause 0.83)	127.6962
+141	DCA_se1_ag3_m_01	127.6962	you say well, uh	128.7692
+142	DCA_se1_ag3_m_01	128.7692	(pause 1.77)	130.5410
+143	DCA_se1_ag3_m_01	130.5410	you're it.	131.1295
+144	DCA_se1_ag3_m_01	131.1295	(pause 0.84)	131.9690
+145	DCA_se1_ag3_m_01	131.9690	And he- he lose the toss up,	134.0026
+146	DCA_int_01	134.0225	Mm-hm.	134.4608
+147	DCA_se1_ag3_m_01	134.6460	well everybody who jumps in the water, well the first one he tag	137.4325
+148	DCA_se1_ag3_m_01	137.4325	(pause 0.28)	137.7146
+149	DCA_se1_ag3_m_01	137.7146	would be it.	138.3132
+150	DCA_int_01	138.5526	Mm-hm.	138.8668
+151	DCA_se1_ag3_m_01	139.0264	And	139.4005
+152	DCA_se1_ag3_m_01	139.4005	(pause 0.59)	139.9862
+153	DCA_se1_ag3_m_01	139.9862	then	140.4002
+154	DCA_se1_ag3_m_01	140.4002	(pause 0.14)	140.5448
+155	DCA_se1_ag3_m_01	140.5448	when he	140.9339
+156	DCA_se1_ag3_m_01	140.9339	(pause 0.29)	141.2232
+157	DCA_se1_ag3_m_01	141.2232	gets another one	141.9913
+158	DCA_se1_ag3_m_01	141.9913	(pause 0.11)	142.1010
+159	DCA_se1_ag3_m_01	142.1010	he would be it. It just keeps on til it	143.8069
+160	DCA_se1_ag3_m_01	143.8069	(pause 0.85)	144.6604
+161	DCA_se1_ag3_m_01	144.6604	materialized,	145.5233
+162	DCA_int_01	146.0283	Mm-hm.	146.4081
+163	DCA_se1_ag3_m_01	146.4710	and the group would be finished, you know. And then they organize again, you know.	149.7419
+164	DCA_int_01	150.8365	That's interesting.	151.4699
+165	DCA_int_01	151.4699	(pause 1.11)	152.5822
+166	DCA_int_01	152.5822	Can you play that running too?	153.9240
+167	DCA_int_01	153.9240	(pause 0.17)	154.0936
+168	DCA_int_01	154.0936	Or-	154.2532
+169	DCA_se1_ag3_m_01	154.7779	Oh sure,	155.3765
+170	DCA_se1_ag3_m_01	155.3765	(pause 0.36)	155.7406
+171	DCA_se1_ag3_m_01	155.7406	sure, sure.	156.4190
+172	DCA_int_01	157.3118	Was there any other ways of picking people to be it in these games beside flipping the bottle cap?	162.2159
+173	DCA_se1_ag3_m_01	163.8221	No, that's	164.6563
+174	DCA_se1_ag3_m_01	164.6563	(pause 0.07)	164.7298
+175	DCA_se1_ag3_m_01	164.7298	that's basically uh,	165.9918
+176	DCA_se1_ag3_m_01	165.9918	(pause 1.48)	167.4742
+177	DCA_se1_ag3_m_01	167.4742	you know [for-]	168.3022
+178	DCA_int_01	167.8234	[Did you ever] use any rhymes?	169.1951
+179	DCA_se1_ag3_m_01	170.4470	No.	170.8261
+180	DCA_int_01	170.8561	Uh, Tarzan was in a tree and he fell out.	173.0059
+181	DCA_se1_ag3_m_01	175.6056	Well once upon a time they-	177.2549
+182	DCA_se1_ag3_m_01	177.2549	(pause 0.59)	177.8402
+183	DCA_se1_ag3_m_01	177.8402	they'd use a thing	178.7230
+184	DCA_se1_ag3_m_01	178.7230	(pause 0.10)	178.8278
+185	DCA_se1_ag3_m_01	178.8278	called eenie meenie miney moe,	180.4199
+186	DCA_int_01	181.1482	Mm-hm.	181.4225
+187	DCA_se1_ag3_m_01	181.6120	you know.	181.8964
+188	DCA_se1_ag3_m_01	181.8964	(pause 0.24)	182.1358
+189	DCA_se1_ag3_m_01	182.1358	Something like that, but	183.3379
+190	DCA_se1_ag3_m_01	183.3379	(pause 0.81)	184.1509
+191	DCA_se1_ag3_m_01	184.1509	most of the time in-	185.0238
+192	DCA_se1_ag3_m_01	185.0238	(pause 0.18)	185.2083
+193	DCA_se1_ag3_m_01	185.2083	in these events, we just	186.6782
+194	DCA_se1_ag3_m_01	186.6782	(pause 0.81)	187.4838
+195	DCA_se1_ag3_m_01	187.4838	take the soda cop	188.5103
+196	DCA_se1_ag3_m_01	188.5103	(pause 0.22)	188.7258
+197	DCA_se1_ag3_m_01	188.7258	uh	189.1698
+198	DCA_se1_ag3_m_01	189.1698	(pause 0.22)	189.3892
+199	DCA_se1_ag3_m_01	189.3892	top and	189.8930
+200	DCA_int_01	190.0726	Mm-hm.	190.4417
+201	DCA_se1_ag3_m_01	190.4467	flip it.	190.8357
+202	DCA_int_01	191.9830	Sounds like a quick and easy way.	193.4205
+203	DCA_se1_ag3_m_01	193.6599	Yeah.	194.0839
+204	DCA_int_01	195.0865	What would you	195.5104
+205	DCA_int_01	195.5104	(pause 0.22)	195.7299
+206	DCA_int_01	195.7299	do a team two?	196.6178
+207	DCA_int_01	196.6178	(pause 0.91)	197.5306
+208	DCA_int_01	197.5306	Two people against each other, and	198.9830
+209	DCA_int_01	198.9830	(pause 0.96)	199.9457
+210	DCA_int_01	199.9457	the one was left?	200.7039
+211	DCA_int_01	200.7039	(pause 0.11)	200.8136
+212	DCA_int_01	200.8136	Or how would that work if you had twelve?	202.1703
+213	DCA_se1_ag3_m_01	203.1330	Well, it had odds.	204.6843
+214	DCA_int_01	204.9496	Mm.	205.4392
+215	DCA_se1_ag3_m_01	205.7626	It had odds.	206.6946
+216	DCA_int_01	209.4238	Okay.	209.9625
+217	DCA_int_01	209.9625	(pause 0.86)	210.8204
+218	DCA_int_01	210.8204	Um,	211.2893
+219	DCA_int_01	211.2893	(pause 2.74)	214.0287
+220	DCA_int_01	214.0287	Do you have any favorite TV programs?	215.8542
+221	DCA_se1_ag3_m_01	216.8219	Yes.	217.2858
+222	DCA_int_01	218.2495	What are some of those?	219.2670
+223	DCA_se1_ag3_m_01	221.2273	Well	221.6413
+224	DCA_se1_ag3_m_01	221.6413	(pause 0.33)	221.9705
+225	DCA_se1_ag3_m_01	221.9705	I definitely believe in	223.5726
+226	DCA_se1_ag3_m_01	223.5726	(pause 0.14)	223.7122
+227	DCA_se1_ag3_m_01	223.7122	"Outcasts".	224.6151
+228	DCA_se1_ag3_m_01	224.6151	(pause 2.34)	226.9544
+229	DCA_se1_ag3_m_01	226.9544	Uh	227.7475
+230	DCA_se1_ag3_m_01	227.7475	(pause 2.79)	230.5367
+231	DCA_se1_ag3_m_01	230.5367	"The Big Valley",	231.5343
+232	DCA_se1_ag3_m_01	231.5343	(pause 3.23)	234.7615
+233	DCA_se1_ag3_m_01	234.7615	/"Prairie Mason"/.	235.5047
+234	DCA_int_01	236.3886	Mm-hm	236.7776
+235	DCA_int_01	236.7776	(pause 0.90)	237.6755
+236	DCA_int_01	237.6755	What about "The Outcasts" then?	239.2595
+237	DCA_int_01	239.2595	(pause 0.88)	240.1345
+238	DCA_int_01	240.1345	Can you tell me sorta what that's	241.5761
+239	DCA_int_01	241.5761	(pause 0.16)	241.7407
+240	DCA_int_01	241.7407	like?	242.1846
+241	DCA_se1_ag3_m_01	243.4076	Well to be frank with you, it's more like uh,	246.0014
+242	DCA_se1_ag3_m_01	246.0014	(pause 1.76)	247.7601
+243	DCA_se1_ag3_m_01	247.7601	I don't know, it's-	248.7597
+244	DCA_se1_ag3_m_01	248.7597	(pause 1.20)	249.9628
+245	DCA_se1_ag3_m_01	249.9628	it's a togetherness thing.	251.3444
+246	DCA_se1_ag3_m_01	251.3444	(pause 0.19)	251.5381
+247	DCA_se1_ag3_m_01	251.5381	You see two people striving to	253.7287
+248	DCA_se1_ag3_m_01	253.7287	(pause 0.22)	253.9481
+249	DCA_se1_ag3_m_01	253.9481	do one thing,	254.9008
+250	DCA_se1_ag3_m_01	254.9008	(pause 0.78)	255.6799
+251	DCA_se1_ag3_m_01	255.6799	and	256.2137
+252	DCA_se1_ag3_m_01	256.2137	(pause 0.79)	257.0067
+253	DCA_se1_ag3_m_01	257.0067	similarly it's just like out here in the street everyday.	259.5805
+254	DCA_se1_ag3_m_01	259.5805	(pause 0.83)	260.4085
+255	DCA_se1_ag3_m_01	260.4085	When we try- try to get together and	262.1104
+256	DCA_se1_ag3_m_01	262.1104	(pause 1.64)	263.7464
+257	DCA_se1_ag3_m_01	263.7464	something pulls apart, but	265.3875
+258	DCA_se1_ag3_m_01	265.3875	(pause 0.52)	265.9112
+259	DCA_se1_ag3_m_01	265.9112	these people s-	266.5547
+260	DCA_se1_ag3_m_01	266.5547	(pause 0.22)	266.7741
+261	DCA_se1_ag3_m_01	266.7741	keep	267.0086
+262	DCA_se1_ag3_m_01	267.0086	(pause 0.25)	267.2540
+263	DCA_se1_ag3_m_01	267.2540	together	267.9931
+264	DCA_se1_ag3_m_01	267.9931	(pause 0.65)	268.6451
+265	DCA_se1_ag3_m_01	268.6451	regardless, you know.	269.8028
+266	DCA_int_01	270.0794	Mm-hm.	270.4843
+267	DCA_se1_ag3_m_01	270.3016	It's togetherness.	271.3989
+268	DCA_int_01	271.6455	Mm-hm.	271.8935
+269	DCA_int_01	271.8935	(pause 0.83)	272.7212
+270	DCA_int_01	272.7212	Do you remember a	273.6046
+271	DCA_int_01	273.6046	(pause 0.06)	273.6694
+272	DCA_int_01	273.6694	episode, or	274.6321
+273	DCA_int_01	274.6321	(pause 0.76)	275.3903
+274	DCA_int_01	275.3903	one show that you saw that you thought was	277.2059
+275	DCA_int_01	277.2059	(pause 0.16)	277.3705
+276	DCA_int_01	277.3705	better than the others, that you remember better?	279.2809
+277	DCA_se1_ag3_m_01	280.6224	Yes, I	281.5065
+278	DCA_se1_ag3_m_01	281.5065	(pause 0.14)	281.6462
+279	DCA_se1_ag3_m_01	281.6462	can remember one but	283.0079
+280	DCA_se1_ag3_m_01	283.0079	(pause 0.09)	283.0977
+281	DCA_se1_ag3_m_01	283.0977	I can't give you the date	284.4827
+282	DCA_se1_ag3_m_01	284.4827	(pause 0.46)	284.9432
+283	DCA_se1_ag3_m_01	284.9432	really	285.3522
+284	DCA_se1_ag3_m_01	285.3522	(pause 0.07)	285.4220
+285	DCA_se1_ag3_m_01	285.4220	because it was back in the winter time, but-	287.7025
+286	DCA_int_01	288.2063	Can you remember what happened?	289.2388
+287	DCA_se1_ag3_m_01	289.7625	I really	290.5667
+288	DCA_se1_ag3_m_01	290.5667	(pause 0.68)	291.2440
+289	DCA_se1_ag3_m_01	291.2440	thought that uh,	292.0720
+290	DCA_se1_ag3_m_01	292.0720	(pause 1.23)	293.3000
+291	DCA_se1_ag3_m_01	293.3000	well I knew that this man was really	295.3301
+292	DCA_se1_ag3_m_01	295.3301	(pause 1.32)	296.6519
+293	DCA_se1_ag3_m_01	296.6519	together with this	297.6495
+294	DCA_se1_ag3_m_01	297.6495	(pause 0.90)	298.5453
+295	DCA_se1_ag3_m_01	298.5453	fella	298.9094
+296	DCA_se1_ag3_m_01	298.9094	(pause 0.10)	299.0092
+297	DCA_se1_ag3_m_01	299.0092	by being a	299.8771
+298	DCA_se1_ag3_m_01	299.8771	(pause 0.28)	300.1564
+299	DCA_se1_ag3_m_01	300.1564	racial thing, you know.	301.2837
+300	DCA_int_01	301.3435	Mm-hm.	301.6927
+301	DCA_int_01	301.6927	(pause 1.55)	303.2399
+302	DCA_int_01	303.2399	Well what happened on that one that you remember?	305.2650
+303	DCA_int_01	305.2650	(pause 0.10)	305.3648
+304	DCA_int_01	305.3648	Can you remember the	306.1178
+305	DCA_se1_ag3_m_01	307.0308	[Well]	307.5745
+306	DCA_int_01	307.1598	[story?]	307.5772
+307	DCA_se1_ag3_m_01	310.9523	I can give you a brief	312.1095
+308	DCA_se1_ag3_m_01	312.1095	(pause 0.10)	312.2142
+309	DCA_se1_ag3_m_01	312.2142	episode of it,	313.3415
+310	DCA_se1_ag3_m_01	313.3415	(pause 0.08)	313.4213
+311	DCA_se1_ag3_m_01	313.4213	thing that I seen or-	314.6683
+312	DCA_se1_ag3_m_01	314.6683	(pause 1.42)	316.0859
+313	DCA_se1_ag3_m_01	316.0859	I remember they came into town	318.2363
+314	DCA_se1_ag3_m_01	318.2363	(pause 0.62)	318.8542
+315	DCA_se1_ag3_m_01	318.8542	and	319.3505
+316	DCA_se1_ag3_m_01	319.3505	(pause 1.93)	321.2843
+317	DCA_se1_ag3_m_01	321.2843	this is a fugutive thing, you know.	323.2595
+318	DCA_int_01	323.2795	Mm-hm.	323.5538
+319	DCA_se1_ag3_m_01	323.5438	They were bounty hunters.	324.8158
+320	DCA_int_01	324.9953	Mm-hm.	325.3146
+321	DCA_se1_ag3_m_01	325.6687	And	326.3038
+322	DCA_se1_ag3_m_01	326.3038	(pause 1.92)	328.2235
+323	DCA_se1_ag3_m_01	328.2235	the minute they got into town, the d-	329.8181
+324	DCA_se1_ag3_m_01	329.8181	(pause 0.26)	330.0741
+325	DCA_se1_ag3_m_01	330.0741	the dude they- they were hunting for	332.0343
+326	DCA_se1_ag3_m_01	332.0343	(pause 1.54)	333.5766
+327	DCA_se1_ag3_m_01	333.5766	somebody ambushed him,	335.0630
+328	DCA_se1_ag3_m_01	335.0630	(pause 0.44)	335.5019
+329	DCA_se1_ag3_m_01	335.5019	and killed him,	336.1354
+330	DCA_se1_ag3_m_01	336.1354	(pause 1.48)	337.6168
+331	DCA_se1_ag3_m_01	337.6168	and	338.3002
+332	DCA_se1_ag3_m_01	338.3002	(pause 0.39)	338.6942
+333	DCA_se1_ag3_m_01	338.6942	the sheriff got shot	339.9113
+334	DCA_se1_ag3_m_01	339.9113	(pause 1.31)	341.2191
+335	DCA_se1_ag3_m_01	341.2191	the same time.	342.3383
+336	DCA_se1_ag3_m_01	342.3383	(pause 1.01)	343.3520
+337	DCA_se1_ag3_m_01	343.3520	And he knew	344.6807
+338	DCA_se1_ag3_m_01	344.6807	(pause 0.62)	345.3042
+339	DCA_se1_ag3_m_01	345.3042	these two fellas had bounty hunters, and he knew they were	348.0536
+340	DCA_se1_ag3_m_01	348.0536	(pause 0.19)	348.2431
+341	DCA_se1_ag3_m_01	348.2431	capable	348.8267
+342	DCA_se1_ag3_m_01	348.8267	(pause 0.28)	349.1060
+343	DCA_se1_ag3_m_01	349.1060	of taking care of themselves.	350.7322
+344	DCA_int_01	350.7510	Mm-hm.	351.2563
+345	DCA_se1_ag3_m_01	352.0250	I mean	352.5487
+346	DCA_se1_ag3_m_01	352.5487	(pause 0.08)	352.6335
+347	DCA_se1_ag3_m_01	352.6335	even	353.1223
+348	DCA_se1_ag3_m_01	353.1223	(pause 0.30)	353.4216
+349	DCA_se1_ag3_m_01	353.4216	if one was black or white,	354.8432
+350	DCA_se1_ag3_m_01	354.8432	(pause 0.72)	355.5614
+351	DCA_se1_ag3_m_01	355.5614	he deputized the black one.	357.4851
+352	DCA_int_01	357.4752	Mm-hm.	357.8499
+353	DCA_se1_ag3_m_01	359.4730	And uh	360.2860
+354	DCA_se1_ag3_m_01	360.2860	(pause 2.71)	362.9945
+355	DCA_se1_ag3_m_01	362.9945	this man wanted	363.8773
+356	DCA_se1_ag3_m_01	363.8773	(pause 0.16)	364.0369
+357	DCA_se1_ag3_m_01	364.0369	to	364.3462
+358	DCA_se1_ag3_m_01	364.3462	(pause 0.34)	364.6854
+359	DCA_se1_ag3_m_01	364.6854	take over this town and make it wholesome again,	367.3693
+360	DCA_se1_ag3_m_01	367.3693	(pause 0.53)	367.8986
+361	DCA_se1_ag3_m_01	367.8986	and uh	368.6817
+362	DCA_se1_ag3_m_01	368.6817	(pause 4.95)	373.6307
+363	DCA_se1_ag3_m_01	373.6307	the white fella told him he was crazy, you know.	376.0100
+364	DCA_se1_ag3_m_01	376.0100	(pause 0.55)	376.5587
+365	DCA_se1_ag3_m_01	376.5587	So	377.0275
+366	DCA_se1_ag3_m_01	377.0275	(pause 1.20)	378.2256
+367	DCA_se1_ag3_m_01	378.2256	well you know, they live in a town was /pall/ white.	380.8094
+368	DCA_se1_ag3_m_01	380.8094	(pause 0.60)	381.4079
+369	DCA_se1_ag3_m_01	381.4079	And back in those days when the west was really like that	384.4965
+370	DCA_int_01	384.6874	Mm-hmm	385.0941
+371	DCA_se1_ag3_m_01	385.1798	it seemed crazy for a colored man try to rule the whole	388.1358
+372	DCA_se1_ag3_m_01	388.1358	(pause 0.33)	388.4619
+373	DCA_se1_ag3_m_01	388.4619	town, that were white.	389.8036
+374	DCA_se1_ag3_m_01	389.8036	(pause 0.89)	390.6929
+375	DCA_se1_ag3_m_01	390.6929	S-	390.8969
+376	DCA_se1_ag3_m_01	390.8969	(pause 0.14)	391.0366
+377	DCA_se1_ag3_m_01	391.0366	But	391.5155
+378	DCA_se1_ag3_m_01	391.5155	(pause 1.74)	393.2563
+379	DCA_se1_ag3_m_01	393.2563	down the line, he deputized this white fella.	395.7852
+380	DCA_int_01	396.0171	Mm-hm.	396.3037
+381	DCA_se1_ag3_m_01	396.4544	And	396.9084
+382	DCA_se1_ag3_m_01	396.9084	(pause 2.17)	399.0782
+383	DCA_se1_ag3_m_01	399.0782	he came in	399.9760
+384	DCA_se1_ag3_m_01	399.9760	(pause 0.69)	400.6623
+385	DCA_se1_ag3_m_01	400.6623	on the scene, and	401.6919
+386	DCA_se1_ag3_m_01	401.6919	(pause 0.76)	402.4550
+387	DCA_se1_ag3_m_01	402.4550	he really	402.9897
+388	DCA_se1_ag3_m_01	402.9897	(pause 0.28)	403.2741
+389	DCA_se1_ag3_m_01	403.2741	produced.	403.9674
+390	DCA_se1_ag3_m_01	403.9674	(pause 0.91)	404.8752
+391	DCA_se1_ag3_m_01	404.8752	He showed that he was a part of-	406.4863
+392	DCA_se1_ag3_m_01	406.4863	(pause 0.15)	406.6409
+393	DCA_se1_ag3_m_01	406.6409	he was	407.0898
+394	DCA_se1_ag3_m_01	407.0898	(pause 1.91)	409.0012
+395	DCA_se1_ag3_m_01	409.0012	in other words, what they call this day, a soul brother.	411.8044
+396	DCA_int_01	412.0128	Mm-hm.	412.3570
+397	DCA_se1_ag3_m_01	412.5714	So	413.0852
+398	DCA_se1_ag3_m_01	413.0852	(pause 0.31)	413.3994
+399	DCA_se1_ag3_m_01	413.3994	you know	413.6937
+400	DCA_se1_ag3_m_01	413.6937	(pause 2.65)	416.3433
+401	DCA_se1_ag3_m_01	416.3433	that	416.5478
+402	DCA_se1_ag3_m_01	416.5478	(pause 0.43)	416.9768
+403	DCA_se1_ag3_m_01	416.9768	took care of this thing pretty nice you know.	419.0468
+404	DCA_int_01	421.5717	How bout "The Big Valley"?	422.6441
+405	DCA_int_01	422.6441	(pause 0.11)	422.7538
+406	DCA_int_01	422.7538	Do you remember an episode of that?	424.2103
+407	DCA_se1_ag3_m_01	425.6568	Oh I've watched "The Big Valley" for years.	428.0777
+408	DCA_se1_ag3_m_01	428.0777	(pause 1.42)	429.4985
+409	DCA_se1_ag3_m_01	429.4985	I seen one, I think I seen 'em [all]-	431.4488
+410	DCA_int_01	431.2060	[<laugh>]	431.9373
+411	DCA_se1_ag3_m_01	432.3466	[all of 'em was]	433.4699
+412	DCA_int_01	432.3892	[/unintelligible/]	433.5316
+413	DCA_se1_ag3_m_01	434.3727	yeah.	434.5822
+414	DCA_int_01	436.2183	You can't remember the story of one of them?	437.8952
+415	DCA_se1_ag3_m_01	438.9876	Of "The Big Valley"?	440.0600
+416	DCA_int_01	440.1868	Mm-hm.	440.5446
+417	DCA_se1_ag3_m_01	443.3869	Well,	443.8658
+418	DCA_se1_ag3_m_01	443.8658	(pause 0.33)	444.1910
+419	DCA_se1_ag3_m_01	444.1910	to be discrete, I say	445.6475
+420	DCA_se1_ag3_m_01	445.6475	(pause 0.16)	445.8071
+421	DCA_se1_ag3_m_01	445.8071	I seen one where	447.1244
+422	DCA_se1_ag3_m_01	447.1244	(pause 1.24)	448.3609
+423	DCA_se1_ag3_m_01	448.3609	the son,	449.1613
+424	DCA_se1_ag3_m_01	449.1613	(pause 1.88)	451.0436
+425	DCA_se1_ag3_m_01	451.0436	he was similar to a outcast is-	453.1934
+426	DCA_se1_ag3_m_01	453.1934	(pause 1.96)	455.1555
+427	DCA_se1_ag3_m_01	455.1555	His father,	456.1554
+428	DCA_se1_ag3_m_01	456.1554	(pause 0.85)	457.0020
+429	DCA_se1_ag3_m_01	457.0020	well he was uh	458.0096
+430	DCA_se1_ag3_m_01	458.0096	(pause 1.83)	459.8401
+431	DCA_se1_ag3_m_01	459.8401	whatcha call it, a	460.7280
+432	DCA_se1_ag3_m_01	460.7280	(pause 0.78)	461.5061
+433	DCA_se1_ag3_m_01	461.5061	illegitmate child. He wasn't born by his mother,	464.1412
+434	DCA_se1_ag3_m_01	464.1412	(pause 0.12)	464.2654
+435	DCA_se1_ag3_m_01	464.2654	and	464.5298
+436	DCA_int_01	464.4771	Mm-hm.	464.8254
+437	DCA_se1_ag3_m_01	466.1908	they	466.5050
+438	DCA_se1_ag3_m_01	466.5050	(pause 0.59)	467.0969
+439	DCA_se1_ag3_m_01	467.0969	finally	467.6672
+440	DCA_se1_ag3_m_01	467.6672	(pause 0.48)	468.1510
+441	DCA_se1_ag3_m_01	468.1510	accepted him as a son	469.8525
+442	DCA_se1_ag3_m_01	469.8525	(pause 0.08)	469.9327
+443	DCA_se1_ag3_m_01	469.9327	and a brother, you know.	471.1248
+444	DCA_se1_ag3_m_01	471.1248	(pause 0.63)	471.7533
+445	DCA_se1_ag3_m_01	471.7533	And	472.2244
+446	DCA_se1_ag3_m_01	472.2244	(pause 2.58)	474.8010
+447	DCA_se1_ag3_m_01	474.8010	this man,	475.5791
+448	DCA_se1_ag3_m_01	475.5791	(pause 1.42)	476.9966
+449	DCA_se1_ag3_m_01	476.9966	this son	477.6501
+450	DCA_se1_ag3_m_01	477.6501	(pause 0.14)	477.7944
+451	DCA_se1_ag3_m_01	477.7944	he had	478.4082
+452	DCA_se1_ag3_m_01	478.4082	(pause 0.72)	479.1265
+453	DCA_se1_ag3_m_01	479.1265	killed this other man's son in a	481.1815
+454	DCA_se1_ag3_m_01	481.1815	(pause 0.34)	481.5207
+455	DCA_se1_ag3_m_01	481.5207	fair duel.	482.2589
+456	DCA_se1_ag3_m_01	482.2589	(pause 0.59)	482.8485
+457	DCA_se1_ag3_m_01	482.8485	And this-	483.4171
+458	DCA_se1_ag3_m_01	483.4171	(pause 0.16)	483.5802
+459	DCA_se1_ag3_m_01	483.5802	this man he had	484.5843
+460	DCA_se1_ag3_m_01	484.5843	(pause 0.31)	484.8985
+461	DCA_se1_ag3_m_01	484.8985	cash money.	485.6171
+462	DCA_se1_ag3_m_01	485.6171	(pause 0.45)	486.0659
+463	DCA_se1_ag3_m_01	486.0659	He was	486.6695
+464	DCA_se1_ag3_m_01	486.6695	(pause 0.75)	487.4241
+465	DCA_se1_ag3_m_01	487.4241	in the millions,	488.2804
+466	DCA_se1_ag3_m_01	488.2804	(pause 0.17)	488.4500
+467	DCA_se1_ag3_m_01	488.4500	and uh	489.0136
+468	DCA_se1_ag3_m_01	489.0136	(pause 1.25)	490.2666
+469	DCA_se1_ag3_m_01	490.2666	he hired this	491.3340
+470	DCA_se1_ag3_m_01	491.3340	(pause 2.11)	493.4489
+471	DCA_se1_ag3_m_01	493.4489	gun-slinger to come shoot him down so.	495.6610
+472	DCA_se1_ag3_m_01	495.6610	(pause 2.28)	497.9440
+473	DCA_se1_ag3_m_01	497.9440	by doing so	498.9316
+474	DCA_se1_ag3_m_01	498.9316	(pause 1.93)	500.8629
+475	DCA_se1_ag3_m_01	500.8629	this man s- saved his life when he first came to town. They had other	505.4070
+476	DCA_se1_ag3_m_01	505.4070	(pause 0.45)	505.8609
+477	DCA_se1_ag3_m_01	505.8609	people looking for him to kill him.	507.6615
+478	DCA_int_01	508.0463	Hm.	508.3225
+479	DCA_se1_ag3_m_01	508.4805	And he saved his life,	509.7724
+480	DCA_se1_ag3_m_01	509.7724	(pause 0.17)	509.9420
+481	DCA_se1_ag3_m_01	509.9420	and	510.2562
+482	DCA_se1_ag3_m_01	510.2562	(pause 0.35)	510.6054
+483	DCA_se1_ag3_m_01	510.6054	they gave him uh	511.5182
+484	DCA_se1_ag3_m_01	511.5182	(pause 0.53)	512.0519
+485	DCA_se1_ag3_m_01	512.0519	shelter in their home,	513.3338
+486	DCA_se1_ag3_m_01	513.3338	(pause 0.11)	513.4445
+487	DCA_se1_ag3_m_01	513.4445	treated him like he was a	514.9010
+488	DCA_se1_ag3_m_01	514.9010	(pause 0.31)	515.2152
+489	DCA_se1_ag3_m_01	515.2152	emperor,	515.8627
+490	DCA_se1_ag3_m_01	515.8627	(pause 0.52)	516.3874
+491	DCA_se1_ag3_m_01	516.3874	what's	516.5420
+492	DCA_se1_ag3_m_01	516.5420	(pause 0.32)	516.8613
+493	DCA_se1_ag3_m_01	516.8613	/what so for/.	517.5695
+494	DCA_se1_ag3_m_01	517.5695	(pause 0.78)	518.3527
+495	DCA_se1_ag3_m_01	518.3527	And	518.8365
+496	DCA_se1_ag3_m_01	518.8365	(pause 0.35)	519.1856
+497	DCA_se1_ag3_m_01	519.1856	later	519.6196
+498	DCA_se1_ag3_m_01	519.6196	(pause 0.79)	520.4064
+499	DCA_se1_ag3_m_01	520.4064	he found out that this fella was the one that he	522.8827
+500	DCA_se1_ag3_m_01	522.8827	(pause 0.63)	523.5158
+501	DCA_se1_ag3_m_01	523.5158	had been sent to kill.	524.9278
+502	DCA_int_01	525.1123	Mm.	525.2719
+503	DCA_se1_ag3_m_01	526.1508	So he played it as long as he could so finally	529.0357
+504	DCA_se1_ag3_m_01	529.0357	(pause 1.63)	530.6699
+505	DCA_se1_ag3_m_01	530.6699	they had a show down in town one day.	532.6351
+506	DCA_se1_ag3_m_01	532.6351	(pause 0.45)	533.0900
+507	DCA_se1_ag3_m_01	533.0900	He	533.4891
+508	DCA_se1_ag3_m_01	533.4891	(pause 0.28)	533.7684
+509	DCA_se1_ag3_m_01	533.7684	figured that only way he could get this boy to draw on him	536.2624
+510	DCA_se1_ag3_m_01	536.2624	(pause 0.22)	536.4818
+511	DCA_se1_ag3_m_01	536.4818	was to	537.2849
+512	DCA_se1_ag3_m_01	537.2849	(pause 0.51)	537.7936
+513	DCA_se1_ag3_m_01	537.7936	harass his sister which he's-	539.3309
+514	DCA_se1_ag3_m_01	539.3309	(pause 0.31)	539.6402
+515	DCA_se1_ag3_m_01	539.6402	was deeply in-	540.3983
+516	DCA_se1_ag3_m_01	540.3983	(pause 1.01)	541.4059
+517	DCA_se1_ag3_m_01	541.4059	in love with,	541.9945
+518	DCA_se1_ag3_m_01	541.9945	(pause 0.40)	542.3935
+519	DCA_se1_ag3_m_01	542.3935	family-wise you [know.]	543.6804
+520	DCA_int_01	543.3961	[Mm-hm.]	543.7502
+521	DCA_se1_ag3_m_01	544.2793	So,	544.7179
+522	DCA_se1_ag3_m_01	544.7179	(pause 0.96)	545.6816
+523	DCA_se1_ag3_m_01	545.6816	he did so,	546.5195
+524	DCA_se1_ag3_m_01	546.5195	(pause 0.50)	547.0233
+525	DCA_se1_ag3_m_01	547.0233	and the boy didn't draw,	548.1805
+526	DCA_se1_ag3_m_01	548.1805	(pause 1.18)	549.3597
+527	DCA_se1_ag3_m_01	549.3597	and	549.8714
+528	DCA_se1_ag3_m_01	549.8714	(pause 0.21)	550.0809
+529	DCA_se1_ag3_m_01	550.0809	he	550.3004
+530	DCA_se1_ag3_m_01	550.3004	(pause 0.80)	551.1045
+531	DCA_se1_ag3_m_01	551.1045	just beat him	551.7828
+532	DCA_se1_ag3_m_01	551.7828	(pause 0.62)	552.4013
+533	DCA_se1_ag3_m_01	552.4013	up and down the street.	553.3839
+534	DCA_se1_ag3_m_01	553.3839	(pause 0.26)	553.6483
+535	DCA_se1_ag3_m_01	553.6483	His sister was screaming please don't draw, please.	555.9029
+536	DCA_se1_ag3_m_01	555.9029	(pause 0.40)	556.3069
+537	DCA_se1_ag3_m_01	556.3069	So	556.6111
+538	DCA_se1_ag3_m_01	556.6111	(pause 0.67)	557.2795
+539	DCA_se1_ag3_m_01	557.2795	he didn't,	557.8092
+540	DCA_se1_ag3_m_01	557.8092	(pause 0.17)	557.9788
+541	DCA_se1_ag3_m_01	557.9788	and	558.3180
+542	DCA_se1_ag3_m_01	558.3180	(pause 1.82)	560.1412
+543	DCA_se1_ag3_m_01	560.1412	as time	560.8669
+544	DCA_se1_ag3_m_01	560.8669	(pause 0.75)	561.6200
+545	DCA_se1_ag3_m_01	561.6200	came to pass	562.5578
+546	DCA_se1_ag3_m_01	562.5578	(pause 0.29)	562.8521
+547	DCA_se1_ag3_m_01	562.8521	his mother went into town and offered him a reward not to k-kill her son,	567.0231
+548	DCA_int_01	567.1549	Mm-hm.	567.4750
+549	DCA_se1_ag3_m_01	568.2101	which wasn't	568.9134
+550	DCA_se1_ag3_m_01	568.9134	(pause 0.14)	569.0581
+551	DCA_se1_ag3_m_01	569.0581	actually her son,	570.2951
+552	DCA_se1_ag3_m_01	570.2951	(pause 0.31)	570.6003
+553	DCA_se1_ag3_m_01	570.6003	out of birth,	571.6428
+554	DCA_se1_ag3_m_01	571.6428	(pause 0.34)	571.9820
+555	DCA_se1_ag3_m_01	571.9820	but	572.3062
+556	DCA_se1_ag3_m_01	572.3062	(pause 0.17)	572.4808
+557	DCA_se1_ag3_m_01	572.4808	as an adopted kid t- they had accepted him.	575.2192
+558	DCA_se1_ag3_m_01	575.2192	(pause 0.62)	575.8377
+559	DCA_se1_ag3_m_01	575.8377	So	576.3913
+560	DCA_se1_ag3_m_01	576.3913	(pause 0.62)	577.0108
+561	DCA_se1_ag3_m_01	577.0108	they- he gave him a whole lot of money	579.0010
+562	DCA_se1_ag3_m_01	579.0010	(pause 0.32)	579.3202
+563	DCA_se1_ag3_m_01	579.3202	and	579.7392
+564	DCA_se1_ag3_m_01	579.7392	(pause 0.46)	580.2031
+565	DCA_se1_ag3_m_01	580.2031	at the end	580.8416
+566	DCA_se1_ag3_m_01	580.8416	(pause 1.27)	582.1095
+567	DCA_se1_ag3_m_01	582.1095	they were supposed to meet	582.9525
+568	DCA_se1_ag3_m_01	582.9525	(pause 0.09)	583.0422
+569	DCA_se1_ag3_m_01	583.0422	to shoot it out.	583.7256
+570	DCA_se1_ag3_m_01	583.7256	(pause 0.15)	583.8802
+571	DCA_se1_ag3_m_01	583.8802	Sh-	584.0847
+572	DCA_se1_ag3_m_01	584.0847	(pause 0.73)	584.8112
+573	DCA_se1_ag3_m_01	584.8112	so, when they sh-sh- got ready to shoot it out, it was the sa-same fella that hide him.	588.9031
+574	DCA_se1_ag3_m_01	588.9031	(pause 1.24)	590.1411
+575	DCA_se1_ag3_m_01	590.1411	He shot	590.8893
+576	DCA_se1_ag3_m_01	590.8893	(pause 0.13)	591.0189
+577	DCA_se1_ag3_m_01	591.0189	this man,	591.7821
+578	DCA_se1_ag3_m_01	591.7821	(pause 0.59)	592.3707
+579	DCA_se1_ag3_m_01	592.3707	and	592.8445
+580	DCA_se1_ag3_m_01	592.8445	(pause 0.71)	593.5578
+581	DCA_se1_ag3_m_01	593.5578	for him,	594.2659
+582	DCA_se1_ag3_m_01	594.2659	(pause 1.14)	595.4093
+583	DCA_se1_ag3_m_01	595.4093	cause he seen a gun flash	597.0154
+584	DCA_se1_ag3_m_01	597.0154	(pause 0.92)	597.9332
+585	DCA_se1_ag3_m_01	597.9332	and	598.4570
+586	DCA_se1_ag3_m_01	598.4570	(pause 1.04)	599.4945
+587	DCA_se1_ag3_m_01	599.4945	the son of the w-	600.3424
+588	DCA_se1_ag3_m_01	600.3424	(pause 0.64)	600.9868
+589	DCA_se1_ag3_m_01	600.9868	woman I was talking about, uh Barbara Stanwyck, as it is,	604.0744
+590	DCA_se1_ag3_m_01	604.0744	(pause 1.18)	605.2515
+591	DCA_se1_ag3_m_01	605.2515	he shot	605.8850
+592	DCA_se1_ag3_m_01	605.8850	(pause 0.53)	606.4187
+593	DCA_se1_ag3_m_01	606.4187	this fella	607.0023
+594	DCA_se1_ag3_m_01	607.0023	(pause 0.42)	607.4273
+595	DCA_se1_ag3_m_01	607.4273	but he thought he was drawing for his protection,	609.7916
+596	DCA_int_01	609.9238	Mm-hm.	610.2878
+597	DCA_se1_ag3_m_01	610.5547	but he was actually drawing to save him because	612.8492
+598	DCA_se1_ag3_m_01	612.8492	(pause 0.27)	613.1235
+599	DCA_se1_ag3_m_01	613.1235	this man wanted him dead. He thought this other guy was riding out on the whole deal.	616.7139
+600	DCA_int_01	617.6286	Hm.	617.8431
+601	DCA_int_01	617.8431	(pause 1.35)	619.1898
+602	DCA_int_01	619.1898	That's quite a	619.6886
+603	DCA_int_01	619.6886	(pause 0.90)	620.5875
+604	DCA_int_01	620.5875	complicated plot	621.5801
+605	DCA_int_01	621.5801	(pause 0.17)	621.7546
+606	DCA_int_01	621.7546	there, for awhile [there.]	623.3059
+607	DCA_se1_ag3_m_01	623.1862	[Indeed.]	623.7348
+608	DCA_int_01	625.1065	What about movies? Have you gotta favorite movie	627.4419
+609	DCA_int_01	627.4419	(pause 0.23)	627.6763
+610	DCA_int_01	627.6763	that you've seen you could talk about?	629.3523
+611	DCA_se1_ag3_m_01	630.6441	Well,	631.0881
+612	DCA_se1_ag3_m_01	631.0881	(pause 1.53)	632.6204
+613	DCA_se1_ag3_m_01	632.6204	to tell the truth, I uh	634.0120
+614	DCA_se1_ag3_m_01	634.0120	(pause 1.18)	635.1941
+615	DCA_se1_ag3_m_01	635.1941	I went to see The Wild Bunch.	636.8052
+616	DCA_int_01	636.9100	Mm-hm.	637.2891
+617	DCA_int_01	637.2891	(pause 1.80)	639.0907
+618	DCA_int_01	639.0907	Frank was gonna tell about that one.	640.8315
+619	DCA_se1_ag3_m_01	640.9362	It was a tough [thing.]	641.9089
+620	DCA_int_01	641.7094	[Haveta] ask him.	642.2431
+621	DCA_int_01	642.7519	<laugh>	643.7495
+622	DCA_se1_ag3_m_01	642.9514	It's a tough thing.	643.7844
+623	DCA_int_01	644.5276	What happened in the -?	645.3408
+624	DCA_se1_ag3_m_01	646.8230	Well,	647.2869
+625	DCA_se1_ag3_m_01	647.2869	(pause 1.45)	648.7384
+626	DCA_se1_ag3_m_01	648.7384	actually I can't ex- state	650.1481
+627	DCA_se1_ag3_m_01	650.1481	(pause 0.76)	650.9081
+628	DCA_se1_ag3_m_01	650.9081	state it	651.4069
+629	DCA_se1_ag3_m_01	651.4069	(pause 0.21)	651.6174
+630	DCA_se1_ag3_m_01	651.6174	as it was stated on film because uh,	654.1463
+631	DCA_se1_ag3_m_01	654.1463	(pause 1.07)	655.2187
+632	DCA_se1_ag3_m_01	655.2187	they stated that uh	656.3161
+633	DCA_se1_ag3_m_01	656.3161	(pause 0.40)	656.7201
+634	DCA_se1_ag3_m_01	656.7201	if you wasn't over 18 you couldn't be-	658.9706
+635	DCA_int_01	658.8110	<laugh>	659.4146
+636	DCA_se1_ag3_m_01	659.7887	be admitted, you know, but	661.4097
+637	DCA_se1_ag3_m_01	661.4097	(pause 0.07)	661.4796
+638	DCA_se1_ag3_m_01	661.4796	you know.	661.9385
+639	DCA_se1_ag3_m_01	661.9385	(pause 0.51)	662.4522
+640	DCA_se1_ag3_m_01	662.4522	Quite a few was admitted anyway.	664.1691
+641	DCA_int_01	664.3187	Mm-hm.	664.6878
+642	DCA_se1_ag3_m_01	665.2315	It was-	665.7203
+643	DCA_se1_ag3_m_01	665.7203	(pause 0.73)	666.4486
+644	DCA_se1_ag3_m_01	666.4486	it was-	666.9224
+645	DCA_se1_ag3_m_01	666.9224	(pause 0.80)	667.7255
+646	DCA_se1_ag3_m_01	667.7255	that's about the best movie I've seen in	669.6209
+647	DCA_int_01	670.0077	[Mm-hm.]	670.2663
+648	DCA_se1_ag3_m_01	670.0159	[quite awhile.] Everything was	671.5772
+649	DCA_se1_ag3_m_01	672.0610	right straight to the point.	673.1334
+650	DCA_int_01	673.4812	Mm-hm.	673.7982
+651	DCA_int_01	673.7982	(pause 0.89)	674.6846
+652	DCA_int_01	674.6846	What was the story about?	675.7670
+653	DCA_se1_ag3_m_01	678.9154	Well,	679.2596
+654	DCA_se1_ag3_m_01	679.2596	(pause 1.98)	681.2398
+655	DCA_se1_ag3_m_01	681.2398	they were professionals.	682.6165
+656	DCA_int_01	682.9327	Mm-hm.	683.2403
+657	DCA_se1_ag3_m_01	683.6051	Back in the old days,	684.8421
+658	DCA_se1_ag3_m_01	684.8421	(pause 1.32)	686.1589
+659	DCA_se1_ag3_m_01	686.1589	you know bank robbers and things like that,	688.2588
+660	DCA_se1_ag3_m_01	688.2588	(pause 0.58)	688.8384
+661	DCA_se1_ag3_m_01	688.8384	but they already had a name /ekstablished/.	691.3523
+662	DCA_se1_ag3_m_01	691.3523	(pause 1.18)	692.5373
+663	DCA_se1_ag3_m_01	692.5373	So, okay these uh	694.1955
+664	DCA_se1_ag3_m_01	694.1955	(pause 3.66)	697.8526
+665	DCA_se1_ag3_m_01	697.8526	officers, they enter	699.2685
+666	DCA_se1_ag3_m_01	699.2685	(pause 0.36)	699.6283
+667	DCA_se1_ag3_m_01	699.6283	this city.	700.3516
+668	DCA_se1_ag3_m_01	700.3516	(pause 0.49)	700.8404
+669	DCA_se1_ag3_m_01	700.8404	They all, it was about	701.8589
+670	DCA_se1_ag3_m_01	701.8589	(pause 0.67)	702.5323
+671	DCA_se1_ag3_m_01	702.5323	eight of 'em on horseback,	703.9539
+672	DCA_se1_ag3_m_01	703.9539	(pause 0.77)	704.7220
+673	DCA_se1_ag3_m_01	704.7220	but they already had	705.8094
+674	DCA_se1_ag3_m_01	705.8094	(pause 0.29)	706.1037
+675	DCA_se1_ag3_m_01	706.1037	people planted there, waiting you know.	708.0799
+676	DCA_se1_ag3_m_01	708.0799	(pause 0.72)	708.7982
+677	DCA_se1_ag3_m_01	708.7982	They had civilian clothes on, but these	710.6686
+678	DCA_se1_ag3_m_01	710.6686	(pause 0.60)	711.2722
+679	DCA_se1_ag3_m_01	711.2722	eight that entered,	712.3380
+680	DCA_se1_ag3_m_01	712.3380	(pause 0.74)	713.0828
+681	DCA_se1_ag3_m_01	713.0828	they had regular military uniforms on. In the old days	716.5155
+682	DCA_se1_ag3_m_01	716.5155	(pause 0.21)	716.7250
+683	DCA_se1_ag3_m_01	716.7250	with they	717.1490
+684	DCA_se1_ag3_m_01	717.1490	(pause 0.32)	717.4682
+685	DCA_se1_ag3_m_01	717.4682	washed out hat type [things.]	718.9347
+686	DCA_int_01	718.6322	[Mm-hm]	718.9617
+687	DCA_se1_ag3_m_01	720.0031	And they enter,	720.7662
+688	DCA_se1_ag3_m_01	720.7662	(pause 1.55)	722.3175
+689	DCA_se1_ag3_m_01	722.3175	and	722.7714
+690	DCA_se1_ag3_m_01	722.7714	(pause 1.48)	724.2548
+691	DCA_se1_ag3_m_01	724.2548	time they got there,	725.3701
+692	DCA_se1_ag3_m_01	725.3701	(pause 0.13)	725.4998
+693	DCA_se1_ag3_m_01	725.4998	and entered the bank,	726.4226
+694	DCA_se1_ag3_m_01	726.4226	(pause 0.75)	727.1717
+695	DCA_se1_ag3_m_01	727.1717	they had this	727.8601
+696	DCA_se1_ag3_m_01	727.8601	(pause 0.44)	728.3040
+697	DCA_se1_ag3_m_01	728.3040	the- this reception waiting on 'em,	729.9168
+698	DCA_se1_ag3_m_01	729.9168	(pause 0.10)	730.0166
+699	DCA_se1_ag3_m_01	730.0166	for 'em on top of the roof.	731.2785
+700	DCA_se1_ag3_m_01	731.2785	(pause 0.12)	731.3983
+701	DCA_se1_ag3_m_01	731.3983	They- they were bounty hunters.	732.9096
+702	DCA_int_01	733.4615	Mm.	733.6687
+703	DCA_se1_ag3_m_01	733.9920	And	734.4319
+704	DCA_se1_ag3_m_01	734.4319	(pause 0.48)	734.9108
+705	DCA_se1_ag3_m_01	734.9108	they went in the bank,	735.8235
+706	DCA_se1_ag3_m_01	735.8235	(pause 0.23)	736.0580
+707	DCA_se1_ag3_m_01	736.0580	so they	736.5019
+708	DCA_se1_ag3_m_01	736.5019	(pause 1.02)	737.5244
+709	DCA_se1_ag3_m_01	737.5244	got the little money	738.5520
+710	DCA_se1_ag3_m_01	738.5520	(pause 0.09)	738.6467
+711	DCA_se1_ag3_m_01	738.6467	that they thought they were getting,	739.9935
+712	DCA_se1_ag3_m_01	739.9935	(pause 1.06)	741.0519
+713	DCA_se1_ag3_m_01	741.0519	and when they came out,	742.0694
+714	DCA_se1_ag3_m_01	742.0694	(pause 0.95)	743.0221
+715	DCA_se1_ag3_m_01	743.0221	got ready to get out of there, uh	745.0273
+716	DCA_se1_ag3_m_01	745.0273	(pause 1.23)	746.2543
+717	DCA_se1_ag3_m_01	746.2543	they discovered	746.9078
+718	DCA_se1_ag3_m_01	746.9078	(pause 0.26)	747.1631
+719	DCA_se1_ag3_m_01	747.1631	they	747.3826
+720	DCA_se1_ag3_m_01	747.3826	(pause 0.21)	747.5921
+721	DCA_se1_ag3_m_01	747.5921	could see the gleam from rifles on rooftops, so	750.3804
+722	DCA_se1_ag3_m_01	750.3804	(pause 0.12)	750.5051
+723	DCA_se1_ag3_m_01	750.5051	they said well we can't make it.	751.6698
+724	DCA_se1_ag3_m_01	751.6698	(pause 0.78)	752.4526
+725	DCA_se1_ag3_m_01	752.4526	So that's about that time church meeting was /turning out/.	755.2239
+726	DCA_se1_ag3_m_01	755.2239	(pause 1.21)	756.4352
+727	DCA_se1_ag3_m_01	756.4352	So this man, well he was very /??/ conman.	759.3796
+728	DCA_se1_ag3_m_01	759.3796	(pause 0.57)	759.9503
+729	DCA_se1_ag3_m_01	759.9503	So William Holden	760.9079
+730	DCA_se1_ag3_m_01	760.9079	(pause 0.36)	761.2670
+731	DCA_se1_ag3_m_01	761.2670	actually p-	761.8032
+732	DCA_se1_ag3_m_01	761.8032	(pause 0.24)	762.0426
+733	DCA_se1_ag3_m_01	762.0426	and	762.3586
+734	DCA_se1_ag3_m_01	762.3586	(pause 0.19)	762.5453
+735	DCA_se1_ag3_m_01	762.5453	William	763.0001
+736	DCA_se1_ag3_m_01	763.0001	(pause 0.16)	763.1581
+737	DCA_se1_ag3_m_01	763.1581	uh	763.5699
+738	DCA_se1_ag3_m_01	763.5699	(pause 0.77)	764.3359
+739	DCA_se1_ag3_m_01	764.3359	William Holden and Ernest Borgnine	766.2472
+740	DCA_se1_ag3_m_01	766.2472	(pause 0.18)	766.4291
+741	DCA_se1_ag3_m_01	766.4291	and um	767.0228
+742	DCA_se1_ag3_m_01	767.0228	(pause 3.03)	770.0534
+743	DCA_se1_ag3_m_01	770.0534	I can't think of the name of the last fellow,	771.6870
+744	DCA_se1_ag3_m_01	771.6870	(pause 0.14)	771.8306
+745	DCA_se1_ag3_m_01	771.8306	but they features, they was on the side by side	774.2772
+746	DCA_se1_ag3_m_01	774.2772	(pause 0.35)	774.6315
+747	DCA_se1_ag3_m_01	774.6315	and uh	775.5699
+748	DCA_se1_ag3_m_01	775.5699	(pause 1.44)	777.0119
+749	DCA_se1_ag3_m_01	777.0119	Cary Grant,	777.7636
+750	DCA_se1_ag3_m_01	777.7636	(pause 0.97)	778.7326
+751	DCA_se1_ag3_m_01	778.7326	he was	779.4029
+752	DCA_se1_ag3_m_01	779.4029	(pause 0.19)	779.5969
+753	DCA_se1_ag3_m_01	779.5969	one of the opposed ones that was	781.4938
+754	DCA_se1_ag3_m_01	781.4938	(pause 0.14)	781.6375
+755	DCA_se1_ag3_m_01	781.6375	seeking,	782.2694
+756	DCA_se1_ag3_m_01	782.2694	(pause 0.41)	782.6764
+757	DCA_se1_ag3_m_01	782.6764	you know,	783.0690
+758	DCA_se1_ag3_m_01	783.0690	(pause 0.27)	783.3371
+759	DCA_se1_ag3_m_01	783.3371	for him,	783.8398
+760	DCA_se1_ag3_m_01	783.8398	(pause 1.39)	785.2331
+761	DCA_se1_ag3_m_01	785.2331	and uh	785.9644
+762	DCA_se1_ag3_m_01	785.9644	(pause 3.63)	789.5909
+763	DCA_se1_ag3_m_01	789.5909	they waited til this	790.6394
+764	DCA_se1_ag3_m_01	790.6394	(pause 0.11)	790.7495
+765	DCA_se1_ag3_m_01	790.7495	church turned out.	791.7310
+766	DCA_se1_ag3_m_01	791.7310	(pause 0.67)	792.3974
+767	DCA_se1_ag3_m_01	792.3974	And	792.7038
+768	DCA_se1_ag3_m_01	792.7038	(pause 0.23)	792.9337
+769	DCA_se1_ag3_m_01	792.9337	the people come down the river.	794.4801
+770	DCA_se1_ag3_m_01	794.4801	(pause 1.01)	795.4855
+771	DCA_se1_ag3_m_01	795.4855	I mean the street, excuse me.	796.8883
+772	DCA_int_01	797.1829	/??/	797.6192
+773	DCA_se1_ag3_m_01	798.1858	It's uh	798.8810
+774	DCA_se1_ag3_m_01	798.8810	(pause 0.14)	799.0246
+775	DCA_se1_ag3_m_01	799.0246	stating,	799.5896
+776	DCA_se1_ag3_m_01	799.5896	(pause 1.06)	800.6477
+777	DCA_se1_ag3_m_01	800.6477	shall we gather at the river	802.2228
+778	DCA_se1_ag3_m_01	802.2228	(pause 0.11)	802.3378
+779	DCA_se1_ag3_m_01	802.3378	singing this song.	803.2666
+780	DCA_int_01	803.3799	Mm-hm.	803.7185
+781	DCA_se1_ag3_m_01	803.9464	So when they got him	804.6129
+782	DCA_se1_ag3_m_01	804.6129	(pause 0.11)	804.7278
+783	DCA_se1_ag3_m_01	804.7278	right in front of this uh-	806.1354
+784	DCA_se1_ag3_m_01	806.1354	(pause 1.84)	807.9787
+785	DCA_se1_ag3_m_01	807.9787	it's a railway express building that they was taking,	810.4827
+786	DCA_se1_ag3_m_01	810.4827	(pause 0.30)	810.7852
+787	DCA_se1_ag3_m_01	810.7852	and	811.2832
+788	DCA_se1_ag3_m_01	811.2832	(pause 2.20)	813.4855
+789	DCA_se1_ag3_m_01	813.4855	they said let's go.	814.3808
+790	DCA_se1_ag3_m_01	814.3808	(pause 1.76)	816.1437
+791	DCA_se1_ag3_m_01	816.1437	So all of 'em	816.9432
+792	DCA_se1_ag3_m_01	816.9432	(pause 0.23)	817.1778
+793	DCA_se1_ag3_m_01	817.1778	broke out	817.8098
+794	DCA_se1_ag3_m_01	817.8098	(pause 0.16)	817.9726
+795	DCA_se1_ag3_m_01	817.9726	in the street, and	819.1791
+796	DCA_se1_ag3_m_01	819.1791	(pause 0.45)	819.6292
+797	DCA_se1_ag3_m_01	819.6292	everybody starts shooting.	820.7399
+798	DCA_se1_ag3_m_01	820.7399	(pause 0.13)	820.8740
+799	DCA_se1_ag3_m_01	820.8740	They killed a lot of innocent people,	822.4731
+800	DCA_se1_ag3_m_01	822.4731	(pause 0.56)	823.0294
+801	DCA_se1_ag3_m_01	823.0294	women	823.5848
+802	DCA_se1_ag3_m_01	823.5848	(pause 0.57)	824.1593
+803	DCA_se1_ag3_m_01	824.1593	and everything else.	825.3453
+804	DCA_se1_ag3_m_01	825.3453	(pause 1.16)	826.5101
+805	DCA_se1_ag3_m_01	826.5101	And	826.8788
+806	DCA_se1_ag3_m_01	826.8788	(pause 0.93)	827.8133
+807	DCA_se1_ag3_m_01	827.8133	they left this one	828.8858
+808	DCA_se1_ag3_m_01	828.8858	(pause 0.47)	829.3598
+809	DCA_se1_ag3_m_01	829.3598	specific idiot	830.4274
+810	DCA_se1_ag3_m_01	830.4274	(pause 0.32)	830.7434
+811	DCA_se1_ag3_m_01	830.7434	to guard	831.4669
+812	DCA_se1_ag3_m_01	831.4669	(pause 0.75)	832.2133
+813	DCA_se1_ag3_m_01	832.2133	I think it was three womens and	833.7214
+814	DCA_se1_ag3_m_01	833.7214	(pause 0.89)	834.6129
+815	DCA_se1_ag3_m_01	834.6129	oh	834.9384
+816	DCA_se1_ag3_m_01	834.9384	(pause 0.42)	835.3598
+817	DCA_se1_ag3_m_01	835.3598	a fella, young fella, and a old man.	837.5478
+818	DCA_se1_ag3_m_01	837.5478	(pause 0.49)	838.0342
+819	DCA_se1_ag3_m_01	838.0342	He told him say if they holler, kill 'em,	839.8315
+820	DCA_se1_ag3_m_01	839.8315	(pause 0.11)	839.9369
+821	DCA_se1_ag3_m_01	839.9369	you know.	840.3160
+822	DCA_se1_ag3_m_01	840.3160	(pause 0.89)	841.2018
+823	DCA_se1_ag3_m_01	841.2018	So uh	841.8481
+824	DCA_se1_ag3_m_01	841.8481	(pause 1.39)	843.2414
+825	DCA_se1_ag3_m_01	843.2414	After they shot up the whole town, I mean people just laying in the street just like Vietnam I guess.	848.2216
+826	DCA_int_01	848.2798	Mm-hm.	848.5779
+827	DCA_se1_ag3_m_01	849.2414	And	849.6818
+828	DCA_se1_ag3_m_01	849.6818	(pause 1.18)	850.8644
+829	DCA_se1_ag3_m_01	850.8644	it was five of 'em that got away,	852.7199
+830	DCA_se1_ag3_m_01	852.7199	(pause 0.94)	853.6566
+831	DCA_se1_ag3_m_01	853.6566	that	853.8768
+832	DCA_se1_ag3_m_01	853.8768	(pause 0.23)	854.1067
+833	DCA_se1_ag3_m_01	854.1067	l-lived to uh	855.4281
+834	DCA_se1_ag3_m_01	855.4281	(pause 0.25)	855.6818
+835	DCA_se1_ag3_m_01	855.6818	get away	856.3425
+836	DCA_se1_ag3_m_01	856.3425	(pause 0.33)	856.6681
+837	DCA_se1_ag3_m_01	856.6681	out of the whole bunch that were.	858.0901
+838	DCA_se1_ag3_m_01	858.0901	(pause 1.38)	859.4699
+839	DCA_se1_ag3_m_01	859.4699	And	860.0779
+840	DCA_se1_ag3_m_01	860.0779	(pause 1.13)	861.2031
+841	DCA_se1_ag3_m_01	861.2031	after- after they got away,	862.9841
+842	DCA_se1_ag3_m_01	862.9841	(pause 1.82)	864.8044
+843	DCA_se1_ag3_m_01	864.8044	this fella that they told to kill these if they said anything, well he was left holding the whole bag by hisself.	869.9847
+844	DCA_se1_ag3_m_01	869.9847	(pause 1.04)	871.0246
+845	DCA_se1_ag3_m_01	871.0246	So	871.6997
+846	DCA_se1_ag3_m_01	871.6997	(pause 0.72)	872.4179
+847	DCA_se1_ag3_m_01	872.4179	he made one mistake. He looked out the window and all of 'em ran. He went out and shot all of 'em.	876.9576
+848	DCA_se1_ag3_m_01	876.9576	(pause 0.59)	877.5465
+849	DCA_se1_ag3_m_01	877.5465	So,	877.9678
+850	DCA_se1_ag3_m_01	877.9678	(pause 0.06)	878.0301
+851	DCA_se1_ag3_m_01	878.0301	by the way they had	879.0307
+852	DCA_se1_ag3_m_01	879.0307	(pause 0.68)	879.7148
+853	DCA_se1_ag3_m_01	879.7148	the /??/ was getting itself together, they can't even	881.8363
+854	DCA_se1_ag3_m_01	881.8363	(pause 0.37)	882.2059
+855	DCA_se1_ag3_m_01	882.2059	investigate.	883.1922
+856	DCA_se1_ag3_m_01	883.1922	(pause 1.01)	884.2024
+857	DCA_se1_ag3_m_01	884.2024	They found him so they shot him	886.0074
+858	DCA_se1_ag3_m_01	886.0074	(pause 0.95)	886.9602
+859	DCA_se1_ag3_m_01	886.9602	two times. So he fell	888.6263
+860	DCA_se1_ag3_m_01	888.6263	(pause 0.58)	889.2066
+861	DCA_se1_ag3_m_01	889.2066	and he act like he was dead.	890.5663
+862	DCA_se1_ag3_m_01	890.5663	(pause 1.19)	891.7536
+863	DCA_se1_ag3_m_01	891.7536	And	892.1175
+864	DCA_se1_ag3_m_01	892.1175	(pause 2.54)	894.6560
+865	DCA_se1_ag3_m_01	894.6560	out of nowhere he just came to life again and shot about five or six more of 'em just like that.	899.2091
+866	DCA_se1_ag3_m_01	899.2091	(pause 0.72)	899.9321
+867	DCA_se1_ag3_m_01	899.9321	So	900.4252
+868	DCA_se1_ag3_m_01	900.4252	(pause 0.63)	901.0581
+869	DCA_se1_ag3_m_01	901.0581	then the hunt was on.	902.1545
+870	DCA_se1_ag3_m_01	902.1545	(pause 0.11)	902.2599
+871	DCA_se1_ag3_m_01	902.2599	This man	902.9302
+872	DCA_se1_ag3_m_01	902.9302	(pause 0.31)	903.2366
+873	DCA_se1_ag3_m_01	903.2366	that was pursuing them, that	904.5532
+874	DCA_se1_ag3_m_01	904.5532	(pause 0.16)	904.7160
+875	DCA_se1_ag3_m_01	904.7160	was charge of the railroad,	906.3965
+876	DCA_se1_ag3_m_01	906.3965	(pause 0.66)	907.0581
+877	DCA_se1_ag3_m_01	907.0581	he was uh, he had some connection with the president and	910.3330
+878	DCA_se1_ag3_m_01	910.3330	(pause 0.47)	910.8022
+879	DCA_se1_ag3_m_01	910.8022	This fella	911.3767
+880	DCA_se1_ag3_m_01	911.3767	(pause 1.20)	912.5794
+881	DCA_se1_ag3_m_01	912.5794	and really s- way he r-	913.9439
+882	DCA_se1_ag3_m_01	913.9439	(pause 0.29)	914.2359
+883	DCA_se1_ag3_m_01	914.2359	remembered how they had treated him down there so he told him say if you don't get 'em say	918.0661
+884	DCA_se1_ag3_m_01	918.0661	(pause 0.39)	918.4597
+885	DCA_se1_ag3_m_01	918.4597	I'm'a send you back so.	919.8338
+886	DCA_se1_ag3_m_01	919.8338	(pause 0.80)	920.6381
+887	DCA_se1_ag3_m_01	920.6381	That was Cary Grant's g- job to	922.5819
+888	DCA_se1_ag3_m_01	922.5819	(pause 0.14)	922.7208
+889	DCA_se1_ag3_m_01	922.7208	go	923.0799
+890	DCA_se1_ag3_m_01	923.0799	(pause 0.18)	923.2618
+891	DCA_se1_ag3_m_01	923.2618	seek them out so	924.3390
+892	DCA_se1_ag3_m_01	924.3390	(pause 0.89)	925.2305
+893	DCA_se1_ag3_m_01	925.2305	it was a chase.	926.3077
+894	DCA_se1_ag3_m_01	926.3077	(pause 1.18)	927.4855
+895	DCA_se1_ag3_m_01	927.4855	Morning, noon, and night,	928.5867
+896	DCA_se1_ag3_m_01	928.5867	(pause 0.24)	928.8261
+897	DCA_se1_ag3_m_01	928.8261	you know.	929.2283
+898	DCA_int_01	929.4284	Mm-hm.	929.7548
+899	DCA_se1_ag3_m_01	930.5028	So finally they chased him across the border.	932.9302
+900	DCA_se1_ag3_m_01	932.9302	(pause 0.36)	933.2892
+901	DCA_se1_ag3_m_01	933.2892	They got across the border,	934.5867
+902	DCA_se1_ag3_m_01	934.5867	(pause 1.72)	936.3113
+903	DCA_se1_ag3_m_01	936.3113	and the fella that was with 'em, one of 'em was Spanish.	938.9924
+904	DCA_se1_ag3_m_01	938.9924	(pause 0.70)	939.6914
+905	DCA_se1_ag3_m_01	939.6914	When he came to his home land	941.4772
+906	DCA_se1_ag3_m_01	941.4772	(pause 0.75)	942.2299
+907	DCA_se1_ag3_m_01	942.2299	he found that the girl that he was supposed to marry had went off	945.3802
+908	DCA_se1_ag3_m_01	945.3802	(pause 0.39)	945.7728
+909	DCA_se1_ag3_m_01	945.7728	with uh	946.3617
+910	DCA_se1_ag3_m_01	946.3617	(pause 0.97)	947.3288
+911	DCA_se1_ag3_m_01	947.3288	this bandit.	948.0518
+912	DCA_se1_ag3_m_01	948.0518	(pause 0.31)	948.3591
+913	DCA_se1_ag3_m_01	948.3591	And uh	948.9241
+914	DCA_se1_ag3_m_01	948.9241	(pause 0.44)	949.3646
+915	DCA_se1_ag3_m_01	949.3646	he had taken her	950.3891
+916	DCA_se1_ag3_m_01	950.3891	(pause 1.02)	951.4041
+917	DCA_se1_ag3_m_01	951.4041	but to come to find out,	952.4814
+918	DCA_se1_ag3_m_01	952.4814	(pause 0.31)	952.7926
+919	DCA_se1_ag3_m_01	952.7926	the bandit hadn't really taken her. She wanted to go. She was tired of	955.8529
+920	DCA_se1_ag3_m_01	955.8529	(pause 0.87)	956.7243
+921	DCA_se1_ag3_m_01	956.7243	the old way of life. She-	958.1750
+922	DCA_int_01	958.2373	Mm.	958.3597
+923	DCA_se1_ag3_m_01	958.7495	and the city where they were,	960.0470
+924	DCA_se1_ag3_m_01	960.0470	(pause 0.59)	960.6320
+925	DCA_se1_ag3_m_01	960.6320	which was a little small town,	962.1833
+926	DCA_se1_ag3_m_01	962.1833	(pause 0.51)	962.6956
+927	DCA_se1_ag3_m_01	962.6956	she had everything you know,	963.8630
+928	DCA_int_01	963.7877	Mm-hm.	964.0953
+929	DCA_se1_ag3_m_01	964.6825	clothes	965.3444
+930	DCA_se1_ag3_m_01	965.3444	(pause 0.71)	966.0575
+931	DCA_se1_ag3_m_01	966.0575	and things she wanted to uh	967.5321
+932	DCA_se1_ag3_m_01	967.5321	(pause 0.35)	967.8864
+933	DCA_se1_ag3_m_01	967.8864	consume.	968.5806
+934	DCA_se1_ag3_m_01	968.5806	(pause 1.31)	969.8877
+935	DCA_se1_ag3_m_01	969.8877	Some water,	970.5771
+936	DCA_se1_ag3_m_01	970.5771	(pause 0.16)	970.7399
+937	DCA_se1_ag3_m_01	970.7399	anything, you know.	971.6065
+938	DCA_se1_ag3_m_01	971.6065	(pause 1.38)	972.9863
+939	DCA_se1_ag3_m_01	972.9863	So	973.6470
+940	DCA_se1_ag3_m_01	973.6470	(pause 0.22)	973.8673
+941	DCA_se1_ag3_m_01	973.8673	uh	974.3317
+942	DCA_se1_ag3_m_01	974.3317	(pause 3.07)	977.3968
+943	DCA_se1_ag3_m_01	977.3968	he came to this town after they ran across the border. He seen her.	980.8535
+944	DCA_se1_ag3_m_01	980.8535	(pause 0.17)	981.0259
+945	DCA_se1_ag3_m_01	981.0259	So he tried to talk to her.	982.5676
+946	DCA_se1_ag3_m_01	982.5676	(pause 0.26)	982.8309
+947	DCA_se1_ag3_m_01	982.8309	He tried to express his love to her	984.6139
+948	DCA_se1_ag3_m_01	984.6139	(pause 0.09)	984.7086
+949	DCA_se1_ag3_m_01	984.7086	and all that.	985.1922
+950	DCA_se1_ag3_m_01	985.1922	(pause 1.74)	986.9349
+951	DCA_se1_ag3_m_01	986.9349	And she snatched away from him and went up	988.5331
+952	DCA_se1_ag3_m_01	988.5331	(pause 0.16)	988.6920
+953	DCA_se1_ag3_m_01	988.6920	and sit where all the	989.9129
+954	DCA_se1_ag3_m_01	989.9129	(pause 0.33)	990.2442
+955	DCA_se1_ag3_m_01	990.2442	Mexico gentlemen /was were/,	992.2264
+956	DCA_se1_ag3_m_01	992.2264	(pause 0.68)	992.9062
+957	DCA_se1_ag3_m_01	992.9062	so she was	993.8303
+958	DCA_se1_ag3_m_01	993.8303	(pause 1.06)	994.8883
+959	DCA_se1_ag3_m_01	994.8883	making the passionate love to him.	996.6272
+960	DCA_se1_ag3_m_01	996.6272	(pause 0.09)	996.7134
+961	DCA_se1_ag3_m_01	996.7134	Uh, you know,	997.7332
+962	DCA_int_01	997.9407	Mm-hm.	998.2640
+963	DCA_se1_ag3_m_01	999.3227	and he couldn't take it. He jumps up and he shoots her.	1002.2050
+964	DCA_int_01	1002.7613	Hm.	1002.9480
+965	DCA_se1_ag3_m_01	1004.0348	And when he shoots her, they thought that he was tryna assassinate the gentlemen	1007.3480
+966	DCA_se1_ag3_m_01	1007.3480	(pause 0.44)	1007.7837
+967	DCA_se1_ag3_m_01	1007.7837	because blood was all over him.	1009.3263
+968	DCA_se1_ag3_m_01	1009.3263	(pause 0.18)	1009.5082
+969	DCA_se1_ag3_m_01	1009.5082	They had magnums,	1010.5615
+970	DCA_se1_ag3_m_01	1010.5615	(pause 0.15)	1010.7147
+971	DCA_se1_ag3_m_01	1010.7147	forty four magnums.	1011.7441
+972	DCA_se1_ag3_m_01	1011.7441	(pause 0.08)	1011.8207
+973	DCA_se1_ag3_m_01	1011.8207	They make quite a hole.	1012.8453
+974	DCA_int_01	1013.0638	Mm-hm.	1013.3193
+975	DCA_se1_ag3_m_01	1014.1485	And after that	1015.0725
+976	DCA_se1_ag3_m_01	1015.0725	(pause 0.55)	1015.6183
+977	DCA_se1_ag3_m_01	1015.6183	yeah- all these men ran down there and grabbed this girl	1018.0265
+978	DCA_se1_ag3_m_01	1018.0265	(pause 0.30)	1018.3234
+979	DCA_se1_ag3_m_01	1018.3234	so	1018.7208
+980	DCA_se1_ag3_m_01	1018.7208	(pause 1.46)	1020.1772
+981	DCA_se1_ag3_m_01	1020.1772	the other four	1020.9720
+982	DCA_se1_ag3_m_01	1020.9720	(pause 0.18)	1021.1491
+983	DCA_se1_ag3_m_01	1021.1491	told 'em say f-	1021.7428
+984	DCA_se1_ag3_m_01	1021.7428	(pause 0.14)	1021.8816
+985	DCA_se1_ag3_m_01	1021.8816	you know, hold it, say.	1022.9732
+986	DCA_se1_ag3_m_01	1022.9732	(pause 0.62)	1023.5909
+987	DCA_se1_ag3_m_01	1023.5909	He wasn't tryna kill the gentlemen, say he	1025.4762
+988	DCA_se1_ag3_m_01	1025.4762	(pause 1.70)	1027.1807
+989	DCA_se1_ag3_m_01	1027.1807	was in love with this girl, and	1028.5021
+990	DCA_se1_ag3_m_01	1028.5021	(pause 0.81)	1029.3074
+991	DCA_se1_ag3_m_01	1029.3074	he was trying to uh,	1030.4708
+992	DCA_se1_ag3_m_01	1030.4708	(pause 1.28)	1031.7539
+993	DCA_se1_ag3_m_01	1031.7539	you know he just went off behind them.	1033.2238
+994	DCA_se1_ag3_m_01	1033.2238	(pause 0.68)	1033.9036
+995	DCA_se1_ag3_m_01	1033.9036	She doing the same to him right in front of his present.	1036.4756
+996	DCA_se1_ag3_m_01	1036.4756	(pause 1.53)	1038.0077
+997	DCA_se1_ag3_m_01	1038.0077	So	1038.5008
+998	DCA_se1_ag3_m_01	1038.5008	(pause 0.55)	1039.0514
+999	DCA_se1_ag3_m_01	1039.0514	they took him and they beat him up.	1040.5308
+1000	DCA_se1_ag3_m_01	1040.5308	(pause 0.82)	1041.3467
+1001	DCA_se1_ag3_m_01	1041.3467	So they made a-	1042.0351
+1002	DCA_se1_ag3_m_01	1042.0351	(pause 1.07)	1043.1028
+1003	DCA_se1_ag3_m_01	1043.1028	they made a deal	1044.0508
+1004	DCA_se1_ag3_m_01	1044.0508	(pause 0.16)	1044.2135
+1005	DCA_se1_ag3_m_01	1044.2135	to hijacks	1045.1424
+1006	DCA_se1_ag3_m_01	1045.1424	(pause 1.05)	1046.1909
+1007	DCA_se1_ag3_m_01	1046.1909	this uh	1046.8851
+1008	DCA_se1_ag3_m_01	1046.8851	(pause 0.98)	1047.8675
+1009	DCA_se1_ag3_m_01	1047.8675	cargo train,	1048.7916
+1010	DCA_se1_ag3_m_01	1048.7916	(pause 0.45)	1049.2416
+1011	DCA_se1_ag3_m_01	1049.2416	it had rifles.	1050.4194
+1012	DCA_se1_ag3_m_01	1050.4194	(pause 1.42)	1051.8414
+1013	DCA_se1_ag3_m_01	1051.8414	Sixteen boxes to-	1053.3313
+1014	DCA_se1_ag3_m_01	1053.3313	(pause 0.46)	1053.7957
+1015	DCA_se1_ag3_m_01	1053.7957	to the /maximum/ I think.	1054.9639
+1016	DCA_se1_ag3_m_01	1054.9639	(pause 1.16)	1056.1274
+1017	DCA_se1_ag3_m_01	1056.1274	And	1056.5008
+1018	DCA_se1_ag3_m_01	1056.5008	(pause 0.08)	1056.5822
+1019	DCA_se1_ag3_m_01	1056.5822	anyway	1057.1854
+1020	DCA_se1_ag3_m_01	1057.1854	(pause 1.15)	1058.3355
+1021	DCA_se1_ag3_m_01	1058.3355	their sort of release of the fella that's /?/,	1060.7102
+1022	DCA_se1_ag3_m_01	1060.7102	(pause 0.36)	1061.0693
+1023	DCA_se1_ag3_m_01	1061.0693	that shot	1061.5959
+1024	DCA_se1_ag3_m_01	1061.5959	(pause 0.14)	1061.7348
+1025	DCA_se1_ag3_m_01	1061.7348	this girl.	1062.3572
+1026	DCA_int_01	1062.3907	Mm-hm.	1062.8168
+1027	DCA_se1_ag3_m_01	1063.2429	So they gave him-	1064.1238
+1028	DCA_se1_ag3_m_01	1064.1238	(pause 1.08)	1065.2070
+1029	DCA_se1_ag3_m_01	1065.2070	say they didn't need you	1066.0878
+1030	DCA_se1_ag3_m_01	1066.0878	(pause 0.45)	1066.5330
+1031	DCA_se1_ag3_m_01	1066.5330	so they let him go.	1067.3805
+1032	DCA_se1_ag3_m_01	1067.3805	(pause 1.17)	1068.5487
+1033	DCA_se1_ag3_m_01	1068.5487	So they rode off.	1069.6211
+1034	DCA_se1_ag3_m_01	1069.6211	(pause 0.70)	1070.3249
+1035	DCA_se1_ag3_m_01	1070.3249	So they really hijacked the train.	1072.0638
+1036	DCA_se1_ag3_m_01	1072.0638	(pause 1.01)	1073.0741
+1037	DCA_se1_ag3_m_01	1073.0741	They made it to the uh	1073.9981
+1038	DCA_se1_ag3_m_01	1073.9981	(pause 1.25)	1075.2452
+1039	DCA_se1_ag3_m_01	1075.2452	the pursuiter	1076.0472
+1040	DCA_se1_ag3_m_01	1076.0472	(pause 0.58)	1076.6314
+1041	DCA_se1_ag3_m_01	1076.6314	who	1076.8324
+1042	DCA_se1_ag3_m_01	1076.8324	(pause 0.63)	1077.4606
+1043	DCA_se1_ag3_m_01	1077.4606	uh-	1078.0495
+1044	DCA_se1_ag3_m_01	1078.0495	(pause 1.80)	1079.8449
+1045	DCA_se1_ag3_m_01	1079.8449	they made him look read bad	1081.1807
+1046	DCA_se1_ag3_m_01	1081.1807	(pause 0.10)	1081.2812
+1047	DCA_se1_ag3_m_01	1081.2812	cause they	1081.8845
+1048	DCA_se1_ag3_m_01	1081.8845	(pause 0.40)	1082.2818
+1049	DCA_se1_ag3_m_01	1082.2818	took the train and	1083.2346
+1050	DCA_se1_ag3_m_01	1083.2346	(pause 0.43)	1083.6617
+1051	DCA_se1_ag3_m_01	1083.6617	derailed it.	1084.5043
+1052	DCA_se1_ag3_m_01	1084.5043	(pause 0.35)	1084.8538
+1053	DCA_se1_ag3_m_01	1084.8538	Not derailed it but uh	1086.3141
+1054	DCA_se1_ag3_m_01	1086.3141	(pause 3.74)	1090.0543
+1055	DCA_se1_ag3_m_01	1090.0543	you know, took it apart.	1091.1650
+1056	DCA_se1_ag3_m_01	1091.1650	(pause 0.12)	1091.2820
+1057	DCA_se1_ag3_m_01	1091.2820	And	1091.5035
+1058	DCA_se1_ag3_m_01	1091.5035	(pause 0.18)	1091.6821
+1059	DCA_se1_ag3_m_01	1091.6821	one, the end of it was going this way and the other part was [steering there], with with the people that had to protects it and they was gone with the rifles you know.	1098.2518
+1060	DCA_int_01	1094.1622	[<laugh>]	1094.6744
+1061	DCA_int_01	1098.3141	<laugh>	1098.9221
+1062	DCA_se1_ag3_m_01	1099.5302	So anyway	1100.3154
+1063	DCA_se1_ag3_m_01	1100.3154	(pause 2.19)	1102.5091
+1064	DCA_se1_ag3_m_01	1102.5091	after that	1103.1985
+1065	DCA_se1_ag3_m_01	1103.1985	(pause 0.33)	1103.5289
+1066	DCA_se1_ag3_m_01	1103.5289	they carried the guns on his back.	1104.8120
+1067	DCA_se1_ag3_m_01	1104.8120	(pause 0.55)	1105.3626
+1068	DCA_se1_ag3_m_01	1105.3626	So they had a welcome committee set up for him when they got back.	1108.3894
+1069	DCA_se1_ag3_m_01	1108.3894	(pause 0.48)	1108.8730
+1070	DCA_se1_ag3_m_01	1108.8730	The whole Spanish army was there, but this man was thinking all the time	1112.1909
+1071	DCA_se1_ag3_m_01	1112.1909	(pause 1.03)	1113.2164
+1072	DCA_se1_ag3_m_01	1113.2164	he wasn't expecting to find uh	1115.4810
+1073	DCA_se1_ag3_m_01	1115.4810	(pause 0.92)	1116.3991
+1074	DCA_se1_ag3_m_01	1116.3991	a water cooler machine gun on- on this train	1119.5111
+1075	DCA_se1_ag3_m_01	1119.5111	(pause 0.22)	1119.7266
+1076	DCA_se1_ag3_m_01	1119.7266	but he did. He found it.	1120.8230
+1077	DCA_se1_ag3_m_01	1120.8230	(pause 0.91)	1121.7374
+1078	DCA_se1_ag3_m_01	1121.7374	And uh he had ammo for it, so he set it up on the wagon	1124.7834
+1079	DCA_se1_ag3_m_01	1124.7834	(pause 0.34)	1125.1185
+1080	DCA_se1_ag3_m_01	1125.1185	just to protect hisself against	1126.5692
+1081	DCA_se1_ag3_m_01	1126.5692	(pause 0.23)	1126.8038
+1082	DCA_se1_ag3_m_01	1126.8038	his pursuor,	1127.6082
+1083	DCA_se1_ag3_m_01	1127.6082	(pause 0.31)	1127.9231
+1084	DCA_se1_ag3_m_01	1127.9231	uh whoever	1128.7114
+1085	DCA_se1_ag3_m_01	1128.7114	(pause 0.53)	1129.2463
+1086	DCA_se1_ag3_m_01	1129.2463	was coming	1129.8777
+1087	DCA_se1_ag3_m_01	1129.8777	(pause 0.41)	1130.2839
+1088	DCA_se1_ag3_m_01	1130.2839	to get the rifle, so when it got there in this passage,	1132.8746
+1089	DCA_se1_ag3_m_01	1132.8746	(pause 0.77)	1133.6429
+1090	DCA_se1_ag3_m_01	1133.6429	well,	1133.9687
+1091	DCA_se1_ag3_m_01	1133.9687	(pause 1.03)	1134.9943
+1092	DCA_se1_ag3_m_01	1134.9943	well just like any /?/, they had people all around.	1137.4810
+1093	DCA_se1_ag3_m_01	1137.4810	(pause 0.65)	1138.1321
+1094	DCA_se1_ag3_m_01	1138.1321	Spanish, that is.	1139.1577
+1095	DCA_se1_ag3_m_01	1139.1577	(pause 0.15)	1139.3105
+1096	DCA_se1_ag3_m_01	1139.3105	And	1139.6001
+1097	DCA_se1_ag3_m_01	1139.6001	(pause 1.02)	1140.6184
+1098	DCA_se1_ag3_m_01	1140.6184	they was gonna take the	1141.6761
+1099	DCA_se1_ag3_m_01	1141.6761	(pause 0.08)	1141.7565
+1100	DCA_se1_ag3_m_01	1141.7565	weapons	1142.3840
+1101	DCA_se1_ag3_m_01	1142.3840	(pause 0.11)	1142.4925
+1102	DCA_se1_ag3_m_01	1142.4925	and	1142.9068
+1103	DCA_se1_ag3_m_01	1142.9068	(pause 0.08)	1142.9872
+1104	DCA_se1_ag3_m_01	1142.9872	not give 'em the gold that they bargained for, see.	1145.5371
+1105	DCA_int_01	1145.4602	Mm-hm.	1145.7379
+1106	DCA_se1_ag3_m_01	1146.4428	So when they got in this canyon	1148.0998
+1107	DCA_se1_ag3_m_01	1148.0998	(pause 1.37)	1149.4712
+1108	DCA_se1_ag3_m_01	1149.4712	this one trooper	1150.3198
+1109	DCA_se1_ag3_m_01	1150.3198	(pause 0.29)	1150.6134
+1110	DCA_se1_ag3_m_01	1150.6134	came up,	1151.1563
+1111	DCA_se1_ag3_m_01	1151.1563	(pause 0.93)	1152.0862
+1112	DCA_se1_ag3_m_01	1152.0862	and he say you got the rifle? So he say yeah we got a rifle.	1155.3961
+1113	DCA_se1_ag3_m_01	1155.3961	(pause 0.80)	1156.1973
+1114	DCA_se1_ag3_m_01	1156.1973	And he say come on in. He said no, you come to me.	1158.5695
+1115	DCA_se1_ag3_m_01	1158.5695	(pause 1.62)	1160.1869
+1116	DCA_se1_ag3_m_01	1160.1869	So he came up there, so he told 'em what he would do so.	1162.8220
+1117	DCA_se1_ag3_m_01	1162.8220	(pause 1.13)	1163.9522
+1118	DCA_se1_ag3_m_01	1163.9522	He had also-	1164.9455
+1119	DCA_se1_ag3_m_01	1164.9455	(pause 0.31)	1165.2512
+1120	DCA_se1_ag3_m_01	1165.2512	was smart enough to	1166.2526
+1121	DCA_se1_ag3_m_01	1166.2526	(pause 1.61)	1167.8662
+1122	DCA_se1_ag3_m_01	1167.8662	tie a	1168.5097
+1123	DCA_se1_ag3_m_01	1168.5097	(pause 0.16)	1168.6746
+1124	DCA_se1_ag3_m_01	1168.6746	few sticks of dynamite together.	1170.4120
+1125	DCA_se1_ag3_m_01	1170.4120	(pause 0.91)	1171.3258
+1126	DCA_se1_ag3_m_01	1171.3258	He said well if you come to this wagon	1173.4453
+1127	DCA_se1_ag3_m_01	1173.4453	(pause 0.93)	1174.3783
+1128	DCA_se1_ag3_m_01	1174.3783	without the gold	1175.1787
+1129	DCA_se1_ag3_m_01	1175.1787	(pause 1.36)	1176.5388
+1130	DCA_se1_ag3_m_01	1176.5388	say	1176.9330
+1131	DCA_se1_ag3_m_01	1176.9330	(pause 0.29)	1177.2185
+1132	DCA_se1_ag3_m_01	1177.2185	I will blow this thing up.	1178.4371
+1133	DCA_se1_ag3_m_01	1178.4371	(pause 0.30)	1178.7388
+1134	DCA_se1_ag3_m_01	1178.7388	So he lit it.	1179.4345
+1135	DCA_se1_ag3_m_01	1179.4345	(pause 0.48)	1179.9131
+1136	DCA_se1_ag3_m_01	1179.9131	So he let it burn and so long so the guy say okay.	1182.6729
+1137	DCA_int_01	1182.9263	Mm.	1183.2440
+1138	DCA_se1_ag3_m_01	1184.3058	Say don't do it,	1185.0096
+1139	DCA_se1_ag3_m_01	1185.0096	(pause 0.47)	1185.4775
+1140	DCA_se1_ag3_m_01	1185.4775	so he cut it.	1186.3148
+1141	DCA_se1_ag3_m_01	1186.3148	(pause 0.88)	1187.1942
+1142	DCA_se1_ag3_m_01	1187.1942	So he went back	1188.0549
+1143	DCA_se1_ag3_m_01	1188.0549	(pause 0.30)	1188.3565
+1144	DCA_se1_ag3_m_01	1188.3565	and they made a bargain	1189.3861
+1145	DCA_se1_ag3_m_01	1189.3861	(pause 0.51)	1189.8929
+1146	DCA_se1_ag3_m_01	1189.8929	that	1190.1101
+1147	DCA_se1_ag3_m_01	1190.1101	(pause 0.28)	1190.3876
+1148	DCA_se1_ag3_m_01	1190.3876	he sends so many cases of rifles	1192.5360
+1149	DCA_se1_ag3_m_01	1192.5360	(pause 1.01)	1193.5495
+1150	DCA_se1_ag3_m_01	1193.5495	and	1194.0281
+1151	DCA_se1_ag3_m_01	1194.0281	(pause 0.33)	1194.3619
+1152	DCA_se1_ag3_m_01	1194.3619	the people that he sent with the rifle come back with so many	1196.7710
+1153	DCA_se1_ag3_m_01	1196.7710	(pause 0.74)	1197.5118
+1154	DCA_se1_ag3_m_01	1197.5118	pouches of gold.	1198.5042
+1155	DCA_se1_ag3_m_01	1198.5042	(pause 0.69)	1199.1929
+1156	DCA_se1_ag3_m_01	1199.1929	So they did so,	1200.1662
+1157	DCA_se1_ag3_m_01	1200.1662	(pause 0.62)	1200.7815
+1158	DCA_se1_ag3_m_01	1200.7815	but at last	1201.7436
+1159	DCA_se1_ag3_m_01	1201.7436	(pause 0.29)	1202.0372
+1160	DCA_se1_ag3_m_01	1202.0372	that they sent	1202.7008
+1161	DCA_se1_ag3_m_01	1202.7008	(pause 1.26)	1203.9596
+1162	DCA_se1_ag3_m_01	1203.9596	was this	1204.3939
+1163	DCA_se1_ag3_m_01	1204.3939	(pause 0.15)	1204.5468
+1164	DCA_se1_ag3_m_01	1204.5468	Spanish fella	1205.5040
+1165	DCA_se1_ag3_m_01	1205.5040	(pause 1.11)	1206.6108
+1166	DCA_se1_ag3_m_01	1206.6108	and one of the troopers that was with them.	1208.5734
+1167	DCA_se1_ag3_m_01	1208.5734	(pause 1.19)	1209.7639
+1168	DCA_se1_ag3_m_01	1209.7639	And when he sent him with him,	1211.3565
+1169	DCA_se1_ag3_m_01	1211.3565	(pause 1.03)	1212.3869
+1170	DCA_se1_ag3_m_01	1212.3869	the guy there with the ri- <stutter> he told him to say um	1215.0131
+1171	DCA_se1_ag3_m_01	1215.0131	(pause 1.76)	1216.7715
+1172	DCA_se1_ag3_m_01	1216.7715	we got the rifle so they throw	1218.4647
+1173	DCA_se1_ag3_m_01	1218.4647	(pause 0.52)	1218.9875
+1174	DCA_se1_ag3_m_01	1218.9875	two sacks of gold	1220.0855
+1175	DCA_se1_ag3_m_01	1220.0855	(pause 0.17)	1220.2544
+1176	DCA_se1_ag3_m_01	1220.2544	to one fella.	1221.0427
+1177	DCA_se1_ag3_m_01	1221.0427	(pause 0.08)	1221.1271
+1178	DCA_se1_ag3_m_01	1221.1271	They didn't even throw it to the Spanish fellow	1222.8251
+1179	DCA_se1_ag3_m_01	1222.8251	(pause 0.40)	1223.2233
+1180	DCA_se1_ag3_m_01	1223.2233	that was riding with the	1224.2408
+1181	DCA_se1_ag3_m_01	1224.2408	(pause 0.44)	1224.6832
+1182	DCA_se1_ag3_m_01	1224.6832	outlaws.	1225.5551
+1183	DCA_int_01	1225.3345	Mm-hm.	1225.7119
+1184	DCA_se1_ag3_m_01	1226.2485	So he said what is this?	1227.3907
+1185	DCA_se1_ag3_m_01	1227.3907	(pause 1.56)	1228.9512
+1186	DCA_se1_ag3_m_01	1228.9512	So he said	1229.5946
+1187	DCA_se1_ag3_m_01	1229.5946	(pause 0.49)	1230.0853
+1188	DCA_se1_ag3_m_01	1230.0853	that was fif-	1230.9049
+1189	DCA_se1_ag3_m_01	1230.9049	(pause 0.15)	1231.0546
+1190	DCA_se1_ag3_m_01	1231.0546	that was sixteen	1232.1016
+1191	DCA_se1_ag3_m_01	1232.1016	(pause 0.91)	1233.0140
+1192	DCA_se1_ag3_m_01	1233.0140	boxes of rifles. See we only received fifteen.	1235.5679
+1193	DCA_se1_ag3_m_01	1235.5679	(pause 1.60)	1237.1693
+1194	DCA_se1_ag3_m_01	1237.1693	He said well, somebody else musta stole 'em. He said no, say he stole 'em.	1240.5638
+1195	DCA_se1_ag3_m_01	1240.5638	(pause 0.53)	1241.0946
+1196	DCA_se1_ag3_m_01	1241.0946	That was the one that shot his girlfriend,	1242.9053
+1197	DCA_int_01	1242.7235	Mm-hm.	1243.0475
+1198	DCA_se1_ag3_m_01	1243.1908	killed her.	1243.5407
+1199	DCA_se1_ag3_m_01	1243.5407	(pause 2.29)	1245.8308
+1200	DCA_se1_ag3_m_01	1245.8308	So he looked around,	1247.0035
+1201	DCA_se1_ag3_m_01	1247.0035	(pause 2.76)	1249.7633
+1202	DCA_se1_ag3_m_01	1249.7633	so he say well he's a thief.	1251.3680
+1203	DCA_se1_ag3_m_01	1251.3680	(pause 0.62)	1251.9921
+1204	DCA_se1_ag3_m_01	1251.9921	So they took him.	1252.7281
+1205	DCA_se1_ag3_m_01	1252.7281	(pause 1.92)	1254.6465
+1206	DCA_se1_ag3_m_01	1254.6465	He rode back with his gold so	1256.4322
+1207	DCA_se1_ag3_m_01	1256.4322	(pause 0.22)	1256.6494
+1208	DCA_se1_ag3_m_01	1256.6494	they split up	1257.2889
+1209	DCA_se1_ag3_m_01	1257.2889	(pause 0.55)	1257.8367
+1210	DCA_se1_ag3_m_01	1257.8367	the gold. They buried half of it, and they just kept enough for spending you see.	1261.5568
+1211	DCA_se1_ag3_m_01	1261.5568	(pause 0.35)	1261.9035
+1212	DCA_se1_ag3_m_01	1261.9035	You know procedures.	1262.7159
+1213	DCA_se1_ag3_m_01	1262.7159	(pause 1.96)	1264.6786
+1214	DCA_se1_ag3_m_01	1264.6786	So they thought about this. This man had r- ridden with them all these years	1268.1743
+1215	DCA_se1_ag3_m_01	1268.1743	(pause 1.10)	1269.2723
+1216	DCA_se1_ag3_m_01	1269.2723	as a young boy.	1270.3059
+1217	DCA_se1_ag3_m_01	1270.3059	(pause 1.24)	1271.5494
+1218	DCA_se1_ag3_m_01	1271.5494	So they went back to this camp.	1273.0978
+1219	DCA_se1_ag3_m_01	1273.0978	(pause 0.52)	1273.6207
+1220	DCA_se1_ag3_m_01	1273.6207	They couldn't get out because the pursuers were still there, they could s-	1276.8985
+1221	DCA_se1_ag3_m_01	1276.8985	(pause 0.23)	1277.1285
+1222	DCA_se1_ag3_m_01	1277.1285	take	1277.4181
+1223	DCA_se1_ag3_m_01	1277.4181	(pause 0.39)	1277.8042
+1224	DCA_se1_ag3_m_01	1277.8042	high glasses- spy glasses and see 'em,	1279.8955
+1225	DCA_se1_ag3_m_01	1279.8955	(pause 1.11)	1281.0015
+1226	DCA_se1_ag3_m_01	1281.0015	and when they got back	1282.0110
+1227	DCA_se1_ag3_m_01	1282.0110	(pause 1.85)	1283.8578
+1228	DCA_se1_ag3_m_01	1283.8578	they /?/ 'em, they was	1284.9316
+1229	DCA_se1_ag3_m_01	1284.9316	(pause 0.12)	1285.0563
+1230	DCA_se1_ag3_m_01	1285.0563	having a fiesta. They had	1286.5524
+1231	DCA_se1_ag3_m_01	1286.5524	(pause 0.92)	1287.4702
+1232	DCA_se1_ag3_m_01	1287.4702	this machine gun mounted. They had rifles.	1290.0040
+1233	DCA_se1_ag3_m_01	1290.0040	(pause 0.29)	1290.2935
+1234	DCA_se1_ag3_m_01	1290.2935	You know, they was into something, you know.	1292.0993
+1235	DCA_int_01	1292.0993	Mm-hm.	1292.4090
+1236	DCA_se1_ag3_m_01	1293.0171	Fifteen, sixteen cases of rifles is a lot of rifles.	1295.6112
+1237	DCA_int_01	1295.3672	Mm yeah.	1295.7912
+1238	DCA_se1_ag3_m_01	1296.7863	And they was built	1297.6591
+1239	DCA_se1_ag3_m_01	1297.6591	(pause 0.34)	1298.0009
+1240	DCA_se1_ag3_m_01	1298.0009	something like M1s,	1299.3362
+1241	DCA_int_01	1299.5692	Mm-hm.	1299.9368
+1242	DCA_se1_ag3_m_01	1300.0320	American style.	1300.9369
+1243	DCA_se1_ag3_m_01	1300.9369	(pause 1.08)	1302.0147
+1244	DCA_se1_ag3_m_01	1302.0147	And	1302.4652
+1245	DCA_se1_ag3_m_01	1302.4652	(pause 1.97)	1304.4326
+1246	DCA_se1_ag3_m_01	1304.4326	this man told him say,	1305.7116
+1247	DCA_se1_ag3_m_01	1305.7116	(pause 1.40)	1307.1160
+1248	DCA_se1_ag3_m_01	1307.1160	to him, they was driving him around in an old antique car.	1310.0318
+1249	DCA_se1_ag3_m_01	1310.0318	(pause 0.11)	1310.1404
+1250	DCA_se1_ag3_m_01	1310.1404	Dragging him.	1310.8764
+1251	DCA_se1_ag3_m_01	1310.8764	(pause 1.21)	1312.0837
+1252	DCA_se1_ag3_m_01	1312.0837	Just dragging him. So they say, turn him a loose, I'll give you my part of the gold back.	1315.8522
+1253	DCA_se1_ag3_m_01	1315.8522	(pause 1.04)	1316.8938
+1254	DCA_se1_ag3_m_01	1316.8938	So he said no,	1318.1494
+1255	DCA_se1_ag3_m_01	1318.1494	(pause 0.25)	1318.3949
+1256	DCA_se1_ag3_m_01	1318.3949	say he stays.	1319.5088
+1257	DCA_se1_ag3_m_01	1319.5088	(pause 1.95)	1321.4594
+1258	DCA_se1_ag3_m_01	1321.4594	So he say-	1322.3120
+1259	DCA_se1_ag3_m_01	1322.3120	(pause 0.19)	1322.5059
+1260	DCA_se1_ag3_m_01	1322.5059	so the other one say, I'll give you my share of the gold. He says, no he stays.	1325.9284
+1261	DCA_se1_ag3_m_01	1325.9284	(pause 1.94)	1327.8659
+1262	DCA_se1_ag3_m_01	1327.8659	So the other	1328.6399
+1263	DCA_se1_ag3_m_01	1328.6399	(pause 0.77)	1329.4081
+1264	DCA_se1_ag3_m_01	1329.4081	general	1329.9712
+1265	DCA_se1_ag3_m_01	1329.9712	(pause 0.33)	1330.2969
+1266	DCA_se1_ag3_m_01	1330.2969	say,	1330.6991
+1267	DCA_se1_ag3_m_01	1330.6991	(pause 0.43)	1331.1294
+1268	DCA_se1_ag3_m_01	1331.1294	let's don't make trouble, say	1332.2596
+1269	DCA_se1_ag3_m_01	1332.2596	(pause 0.33)	1332.5894
+1270	DCA_se1_ag3_m_01	1332.5894	we'll just go	1333.2176
+1271	DCA_se1_ag3_m_01	1333.2176	(pause 0.89)	1334.1064
+1272	DCA_se1_ag3_m_01	1334.1064	get a drink you know.	1335.0113
+1273	DCA_se1_ag3_m_01	1335.0113	(pause 0.15)	1335.1601
+1274	DCA_se1_ag3_m_01	1335.1601	They was drinking tequila,	1336.2983
+1275	DCA_se1_ag3_m_01	1336.2983	(pause 0.16)	1336.4632
+1276	DCA_se1_ag3_m_01	1336.4632	wine.	1336.9297
+1277	DCA_se1_ag3_m_01	1336.9297	(pause 1.11)	1338.0365
+1278	DCA_se1_ag3_m_01	1338.0365	So I mean, if you could see the way they was treating that fella, you know, they's	1340.9443
+1279	DCA_se1_ag3_m_01	1340.9443	(pause 0.23)	1341.1776
+1280	DCA_se1_ag3_m_01	1341.1776	dragging him.	1341.7446
+1281	DCA_se1_ag3_m_01	1341.7446	(pause 0.25)	1341.9900
+1282	DCA_se1_ag3_m_01	1341.9900	He wasn't dead, they was just dragging him.	1343.6638
+1283	DCA_se1_ag3_m_01	1343.6638	(pause 0.99)	1344.6532
+1284	DCA_se1_ag3_m_01	1344.6532	But they say well	1345.4093
+1285	DCA_se1_ag3_m_01	1345.4093	(pause 0.46)	1345.8678
+1286	DCA_se1_ag3_m_01	1345.8678	some-	1346.2820
+1287	DCA_se1_ag3_m_01	1346.2820	(pause 1.38)	1347.6664
+1288	DCA_se1_ag3_m_01	1347.6664	you know to get that out of your st- out of your	1349.5727
+1289	DCA_se1_ag3_m_01	1349.5727	(pause 0.99)	1350.5580
+1290	DCA_se1_ag3_m_01	1350.5580	thinking this.	1351.1452
+1291	DCA_int_01	1351.1452	Mm-hm.	1351.5353
+1292	DCA_se1_ag3_m_01	1351.9094	So they all went and got a drink,	1353.4867
+1293	DCA_se1_ag3_m_01	1353.4867	(pause 1.64)	1355.1317
+1294	DCA_se1_ag3_m_01	1355.1317	and in the meantime they	1356.3141
+1295	DCA_se1_ag3_m_01	1356.3141	(pause 0.16)	1356.4749
+1296	DCA_se1_ag3_m_01	1356.4749	went, and	1357.2150
+1297	DCA_se1_ag3_m_01	1357.2150	(pause 0.39)	1357.6019
+1298	DCA_se1_ag3_m_01	1357.6019	they got	1358.0845
+1299	DCA_se1_ag3_m_01	1358.0845	(pause 1.78)	1359.8621
+1300	DCA_se1_ag3_m_01	1359.8621	pretty sh- pretty sharped up.	1361.4829
+1301	DCA_se1_ag3_m_01	1361.4829	(pause 0.37)	1361.8529
+1302	DCA_se1_ag3_m_01	1361.8529	And they had their girls and things, so	1363.9611
+1303	DCA_se1_ag3_m_01	1363.9611	(pause 0.76)	1364.7253
+1304	DCA_se1_ag3_m_01	1364.7253	later on	1365.3527
+1305	DCA_se1_ag3_m_01	1365.3527	(pause 0.96)	1366.3099
+1306	DCA_se1_ag3_m_01	1366.3099	all of 'em came out,	1367.3757
+1307	DCA_se1_ag3_m_01	1367.3757	(pause 1.54)	1368.9197
+1308	DCA_se1_ag3_m_01	1368.9197	and	1369.3311
+1309	DCA_se1_ag3_m_01	1369.3311	(pause 1.89)	1371.2173
+1310	DCA_se1_ag3_m_01	1371.2173	then anybody realized what they were getting ready to do.	1373.9713
+1311	DCA_int_01	1374.3512	Huh.	1374.5186
+1312	DCA_se1_ag3_m_01	1375.0268	So when they came out, all of 'em ran-	1376.5068
+1313	DCA_se1_ag3_m_01	1376.5068	(pause 0.72)	1377.2307
+1314	DCA_se1_ag3_m_01	1377.2307	ran up to the horse.	1378.3367
+1315	DCA_se1_ag3_m_01	1378.3367	(pause 2.27)	1380.6058
+1316	DCA_se1_ag3_m_01	1380.6058	They got the rifles.	1381.8888
+1317	DCA_se1_ag3_m_01	1381.8888	(pause 0.37)	1382.2628
+1318	DCA_se1_ag3_m_01	1382.2628	They already had forty five though.	1383.9729
+1319	DCA_se1_ag3_m_01	1383.9729	(pause 1.01)	1384.9784
+1320	DCA_se1_ag3_m_01	1384.9784	And they had forty fours	1386.5823
+1321	DCA_se1_ag3_m_01	1386.5823	(pause 0.46)	1387.0416
+1322	DCA_se1_ag3_m_01	1387.0416	magnum, stuck in the bag.	1388.4741
+1323	DCA_se1_ag3_m_01	1388.4741	(pause 1.00)	1389.4756
+1324	DCA_se1_ag3_m_01	1389.4756	Then they had another sack of caliber pistols stuck in the side, plus their knives.	1394.3387
+1325	DCA_se1_ag3_m_01	1394.3387	(pause 0.97)	1395.3120
+1326	DCA_se1_ag3_m_01	1395.3120	They went up there,	1396.2732
+1327	DCA_se1_ag3_m_01	1396.2732	(pause 1.13)	1397.4034
+1328	DCA_se1_ag3_m_01	1397.4034	and all f-	1397.8940
+1329	DCA_se1_ag3_m_01	1397.8940	(pause 0.27)	1398.1603
+1330	DCA_se1_ag3_m_01	1398.1603	all four of 'em stood up and looked at the general.	1400.4849
+1331	DCA_se1_ag3_m_01	1400.4849	(pause 0.31)	1400.7986
+1332	DCA_se1_ag3_m_01	1400.7986	They was partying,	1401.6874
+1333	DCA_se1_ag3_m_01	1401.6874	(pause 0.22)	1401.9046
+1334	DCA_se1_ag3_m_01	1401.9046	soldiers all around .	1403.3605
+1335	DCA_se1_ag3_m_01	1403.3605	(pause 1.73)	1405.0907
+1336	DCA_se1_ag3_m_01	1405.0907	So they told him they wanted	1406.3334
+1337	DCA_se1_ag3_m_01	1406.3334	(pause 1.77)	1408.1038
+1338	DCA_se1_ag3_m_01	1408.1038	their companion,	1409.1414
+1339	DCA_se1_ag3_m_01	1409.1414	(pause 0.46)	1409.6039
+1340	DCA_se1_ag3_m_01	1409.6039	and uh	1410.1228
+1341	DCA_se1_ag3_m_01	1410.1228	(pause 1.75)	1411.8723
+1342	DCA_se1_ag3_m_01	1411.8723	the man said no.	1413.2759
+1343	DCA_se1_ag3_m_01	1413.2759	(pause 1.15)	1414.4269
+1344	DCA_se1_ag3_m_01	1414.4269	So they said, we want him.	1415.8910
+1345	DCA_se1_ag3_m_01	1415.8910	(pause 0.50)	1416.3936
+1346	DCA_se1_ag3_m_01	1416.3936	So everybody's tryna look. It was	1418.2074
+1347	DCA_se1_ag3_m_01	1418.2074	(pause 0.40)	1418.6062
+1348	DCA_se1_ag3_m_01	1418.6062	a state of shock	1419.4630
+1349	DCA_se1_ag3_m_01	1419.4630	(pause 0.13)	1419.5917
+1350	DCA_se1_ag3_m_01	1419.5917	to see somebody talk to the general like that. That's four mens and they got a whole army.	1423.7028
+1351	DCA_int_01	1423.7069	Mm-hm.	1424.1694
+1352	DCA_se1_ag3_m_01	1424.3463	Plus all his lieutenants and	1425.9028
+1353	DCA_se1_ag3_m_01	1425.9028	(pause 0.68)	1426.5825
+1354	DCA_se1_ag3_m_01	1426.5825	things around the table he was sitting.	1428.4687
+1355	DCA_int_01	1428.4816	Mm-hm.	1428.7962
+1356	DCA_se1_ag3_m_01	1429.5835	So he said, okay. You want him?	1431.0676
+1357	DCA_se1_ag3_m_01	1431.0676	(pause 0.30)	1431.3652
+1358	DCA_se1_ag3_m_01	1431.3652	So	1431.6387
+1359	DCA_se1_ag3_m_01	1431.6387	(pause 0.29)	1431.9242
+1360	DCA_se1_ag3_m_01	1431.9242	you could see him	1432.9257
+1361	DCA_se1_ag3_m_01	1432.9257	(pause 0.29)	1433.2120
+1362	DCA_se1_ag3_m_01	1433.2120	laying	1433.7952
+1363	DCA_se1_ag3_m_01	1433.7952	(pause 1.34)	1435.1344
+1364	DCA_se1_ag3_m_01	1435.1344	on the floor. He was	1436.3628
+1365	DCA_se1_ag3_m_01	1436.3628	(pause 1.21)	1437.5717
+1366	DCA_se1_ag3_m_01	1437.5717	You know of m-	1438.0623
+1367	DCA_se1_ag3_m_01	1438.0623	(pause 0.40)	1438.4613
+1368	DCA_se1_ag3_m_01	1438.4613	a matter of days, he woulda died [anyway.]	1440.5406
+1369	DCA_int_01	1440.1400	[Mm-hm.]	1440.5239
+1370	DCA_se1_ag3_m_01	1441.6466	Without medical care, they were just-	1443.4765
+1371	DCA_se1_ag3_m_01	1443.4765	(pause 0.23)	1443.7025
+1372	DCA_se1_ag3_m_01	1443.7025	they was using him as a puppet, you know,	1445.5646
+1373	DCA_se1_ag3_m_01	1445.5646	(pause 0.16)	1445.7255
+1374	DCA_se1_ag3_m_01	1445.7255	doing, do- doing that thing.	1447.2618
+1375	DCA_se1_ag3_m_01	1447.2618	(pause 0.69)	1447.9496
+1376	DCA_se1_ag3_m_01	1447.9496	So he	1448.3879
+1377	DCA_se1_ag3_m_01	1448.3879	(pause 0.18)	1448.5697
+1378	DCA_se1_ag3_m_01	1448.5697	picked him up,	1449.2293
+1379	DCA_se1_ag3_m_01	1449.2293	(pause 0.24)	1449.4666
+1380	DCA_se1_ag3_m_01	1449.4666	stood him on his feet. So he looked,	1451.2643
+1381	DCA_se1_ag3_m_01	1451.2643	(pause 0.44)	1451.7027
+1382	DCA_se1_ag3_m_01	1451.7027	and his eyes focus and he seeing his four friends. So I think he felt	1455.1341
+1383	DCA_se1_ag3_m_01	1455.1341	(pause 0.74)	1455.8782
+1384	DCA_se1_ag3_m_01	1455.8782	good about dying like that. [He seeing] his four friends.	1458.9798
+1385	DCA_int_01	1457.5044	Mm-hm.	1457.8937
+1386	DCA_se1_ag3_m_01	1459.1165	They had came back.	1460.0737
+1387	DCA_se1_ag3_m_01	1460.0737	(pause 0.26)	1460.3311
+1388	DCA_se1_ag3_m_01	1460.3311	They hadn't deserted him.	1461.3406
+1389	DCA_int_01	1461.5430	Mm-hm.	1461.9392
+1390	DCA_se1_ag3_m_01	1462.9373	The general	1463.5526
+1391	DCA_se1_ag3_m_01	1463.5526	(pause 0.19)	1463.7384
+1392	DCA_se1_ag3_m_01	1463.7384	had a knife in his hand, a dagger.	1465.4959
+1393	DCA_se1_ag3_m_01	1465.4959	(pause 0.71)	1466.2078
+1394	DCA_se1_ag3_m_01	1466.2078	He said, okay. You want him?	1467.5833
+1395	DCA_se1_ag3_m_01	1467.5833	(pause 0.86)	1468.4480
+1396	DCA_se1_ag3_m_01	1468.4480	And he took his hand back like that,	1470.3632
+1397	DCA_se1_ag3_m_01	1470.3632	(pause 0.59)	1470.9503
+1398	DCA_se1_ag3_m_01	1470.9503	cut his throat,	1471.6984
+1399	DCA_se1_ag3_m_01	1471.6984	(pause 0.47)	1472.1730
+1400	DCA_se1_ag3_m_01	1472.1730	and you see blood that's splashed out like that.	1474.7156
+1401	DCA_se1_ag3_m_01	1474.7156	(pause 0.85)	1475.5682
+1402	DCA_se1_ag3_m_01	1475.5682	And when they pushed him away,	1477.1085
+1403	DCA_se1_ag3_m_01	1477.1085	(pause 3.30)	1480.4072
+1404	DCA_se1_ag3_m_01	1480.4072	I guess all four of 'em shot him at once.	1482.5348
+1405	DCA_se1_ag3_m_01	1482.5348	(pause 0.12)	1482.6514
+1406	DCA_se1_ag3_m_01	1482.6514	He just-	1483.1019
+1407	DCA_se1_ag3_m_01	1483.1019	(pause 0.61)	1483.7140
+1408	DCA_se1_ag3_m_01	1483.7140	his /just sits/ in the air, that's where they- that's how fast he shot him.	1486.3282
+1409	DCA_se1_ag3_m_01	1486.3282	(pause 0.47)	1486.7987
+1410	DCA_se1_ag3_m_01	1486.7987	And everybody was so astonished and amazed about this thing	1489.8279
+1411	DCA_se1_ag3_m_01	1489.8279	(pause 0.49)	1490.3226
+1412	DCA_se1_ag3_m_01	1490.3226	that they couldn't move.	1491.3120
+1413	DCA_int_01	1491.6096	Hm.	1491.8751
+1414	DCA_se1_ag3_m_01	1492.1164	So another general came to the door that,	1494.0106
+1415	DCA_se1_ag3_m_01	1494.0106	(pause 0.30)	1494.3091
+1416	DCA_se1_ag3_m_01	1494.3091	he was supposed to be the biggest general,	1496.1430
+1417	DCA_se1_ag3_m_01	1496.1430	(pause 1.44)	1497.5868
+1418	DCA_se1_ag3_m_01	1497.5868	/??/ and shot him.	1498.9663
+1419	DCA_se1_ag3_m_01	1498.9663	(pause 0.81)	1499.7715
+1420	DCA_se1_ag3_m_01	1499.7715	And when he shot him,	1500.6482
+1421	DCA_se1_ag3_m_01	1500.6482	(pause 0.29)	1500.9418
+1422	DCA_se1_ag3_m_01	1500.9418	the fight was on.	1501.8347
+1423	DCA_se1_ag3_m_01	1501.8347	(pause 0.68)	1502.5144
+1424	DCA_se1_ag3_m_01	1502.5144	When they got through,	1503.6123
+1425	DCA_se1_ag3_m_01	1503.6123	(pause 0.32)	1503.9349
+1426	DCA_se1_ag3_m_01	1503.9349	I don't think it was a soldier in the villa.	1505.7326
+1427	DCA_se1_ag3_m_01	1505.7326	(pause 1.19)	1506.9231
+1428	DCA_se1_ag3_m_01	1506.9231	But all of the-	1507.6309
+1429	DCA_se1_ag3_m_01	1507.6309	(pause 0.17)	1507.7998
+1430	DCA_se1_ag3_m_01	1507.7998	all of them died that I guess that's the way they wanted it.	1510.2942
+1431	DCA_int_01	1510.5770	[Mm]	1511.0170
+1432	DCA_se1_ag3_m_01	1510.7245	[All of] them died, right there.	1512.4861
+1433	DCA_se1_ag3_m_01	1513.4433	So	1513.8052
+1434	DCA_se1_ag3_m_01	1513.8052	(pause 1.34)	1515.1453
+1435	DCA_se1_ag3_m_01	1515.1453	that sums up that.	1516.2473
+1436	DCA_se1_ag3_m_01	1516.2473	(pause 0.39)	1516.6334
+1437	DCA_se1_ag3_m_01	1516.6334	[But it was] very interesting.	1518.2468
+1438	DCA_int_01	1516.7701	[I think so.]	1517.3573
+1439	DCA_int_01	1518.7617	Mm-hm.	1519.0794
+1440	DCA_int_01	1519.0794	(pause 1.05)	1520.1331
+1441	DCA_int_01	1520.1331	You must have left out the parts that was under eighteen <laugh>	1524.3359
+1442	DCA_se1_ag3_m_01	1523.8855	<laugh>	1524.3569
+1443	DCA_se1_ag3_m_01	1524.7711	Yes, I	1525.4186
+1444	DCA_se1_ag3_m_01	1525.4186	(pause 0.45)	1525.8650
+1445	DCA_se1_ag3_m_01	1525.8650	I had better do that.	1527.1000
+1446	DCA_int_01	1525.8811	<clears throat>	1526.2592
+1447	DCA_int_01	1527.6065	Yeah.	1527.8880
+1448	DCA_int_01	1527.8880	(pause 0.55)	1528.4350
+1449	DCA_int_01	1528.4350	Guess you have to. Well it sounds like an exciting movie.	1530.9374
+1450	DCA_int_01	1530.9374	(pause 2.12)	1533.0609
+1451	DCA_int_01	1533.0609	Uh, what did you study in elementary school? What were the subjects they had	1536.4038
+1452	DCA_int_01	1536.4038	(pause 0.61)	1537.0111
+1453	DCA_int_01	1537.0111	then?	1537.1720
+1454	DCA_se1_ag3_m_01	1538.6641	In elementary school, I had	1540.3178
+1455	DCA_se1_ag3_m_01	1540.3178	(pause 0.56)	1540.8769
+1456	DCA_se1_ag3_m_01	1540.8769	you know, normal basics. You know, you had the math,	1543.7806
+1457	DCA_se1_ag3_m_01	1543.7806	(pause 0.55)	1544.3287
+1458	DCA_se1_ag3_m_01	1544.3287	English,	1544.9719
+1459	DCA_se1_ag3_m_01	1544.9719	(pause 1.44)	1546.4157
+1460	DCA_se1_ag3_m_01	1546.4157	um, a small portion of algebra.	1548.5473
+1461	DCA_int_01	1549.3524	Mm-hm.	1549.7707
+1462	DCA_se1_ag3_m_01	1550.0040	And uh	1550.7641
+1463	DCA_se1_ag3_m_01	1550.7641	(pause 1.92)	1552.6825
+1464	DCA_se1_ag3_m_01	1552.6825	arithmetic	1553.4788
+1465	DCA_se1_ag3_m_01	1553.4788	(pause 0.15)	1553.6317
+1466	DCA_se1_ag3_m_01	1553.6317	normally,	1554.2912
+1467	DCA_se1_ag3_m_01	1554.2912	(pause 0.41)	1554.7023
+1468	DCA_se1_ag3_m_01	1554.7023	and history.	1555.3538
+1469	DCA_int_01	1560.5789	How about in high school?	1561.8418
+1470	DCA_se1_ag3_m_01	1562.7910	In high school, I had	1564.1021
+1471	DCA_se1_ag3_m_01	1564.1021	(pause 0.13)	1564.2348
+1472	DCA_se1_ag3_m_01	1564.2348	algebra,	1564.9193
+1473	DCA_se1_ag3_m_01	1564.9193	(pause 0.22)	1565.1365
+1474	DCA_se1_ag3_m_01	1565.1365	geometry,	1565.9569
+1475	DCA_se1_ag3_m_01	1565.9569	(pause 0.88)	1566.8337
+1476	DCA_se1_ag3_m_01	1566.8337	English, history,	1568.1689
+1477	DCA_se1_ag3_m_01	1568.1689	(pause 0.85)	1569.0216
+1478	DCA_se1_ag3_m_01	1569.0216	music,	1569.6814
+1479	DCA_se1_ag3_m_01	1569.6814	(pause 0.72)	1570.4059
+1480	DCA_se1_ag3_m_01	1570.4059	science,	1571.4475
+1481	DCA_se1_ag3_m_01	1571.4475	(pause 1.86)	1573.3096
+1482	DCA_se1_ag3_m_01	1573.3096	and uh	1574.1180
+1483	DCA_se1_ag3_m_01	1574.1180	(pause 4.31)	1578.4262
+1484	DCA_se1_ag3_m_01	1578.4262	And I think that just about sums it up.	1580.2810
+1485	DCA_int_01	1580.5424	Mm-hm.	1580.9607
+1486	DCA_int_01	1580.9607	(pause 1.44)	1582.4005
+1487	DCA_int_01	1582.4005	What about after school was out	1584.1299
+1488	DCA_int_01	1584.1299	(pause 0.62)	1584.7460
+1489	DCA_int_01	1584.7460	when you were in elementary school?	1586.0652
+1490	DCA_int_01	1586.0652	(pause 0.29)	1586.3548
+1491	DCA_int_01	1586.3548	What did you do as a child?	1587.6940
+1492	DCA_int_01	1587.6940	(pause 0.46)	1588.1525
+1493	DCA_int_01	1588.1525	After school mostly.	1589.4797
+1494	DCA_se1_ag3_m_01	1590.4900	I uh, enlisted	1591.7247
+1495	DCA_se1_ag3_m_01	1591.7247	(pause 0.54)	1592.2636
+1496	DCA_se1_ag3_m_01	1592.2636	in the uh-	1592.9594
+1497	DCA_se1_ag3_m_01	1592.9594	(pause 0.86)	1593.8201
+1498	DCA_se1_ag3_m_01	1593.8201	a- after uh	1594.9221
+1499	DCA_se1_ag3_m_01	1594.9221	(pause 0.31)	1595.2325
+1500	DCA_se1_ag3_m_01	1595.2325	[high school you mean.]	1596.8413
+1501	DCA_int_01	1595.2969	[Everyday after school.]	1596.8010
+1502	DCA_se1_ag3_m_01	1597.2233	You mean h-	1597.7582
+1503	DCA_se1_ag3_m_01	1597.7582	(pause 0.24)	1597.9955
+1504	DCA_se1_ag3_m_01	1597.9955	high school uh?	1599.0372
+1505	DCA_int_01	1599.1538	Elementary school every day.	1600.5462
+1506	DCA_se1_ag3_m_01	1600.5059	Oh well,	1601.4430
+1507	DCA_int_01	1601.4430	[At school /?/]	1603.0035
+1508	DCA_se1_ag3_m_01	1601.9820	[I had to-]	1603.0156
+1509	DCA_se1_ag3_m_01	1603.6510	I had chores such as um	1605.6267
+1510	DCA_se1_ag3_m_01	1605.6267	(pause 2.91)	1608.5400
+1511	DCA_se1_ag3_m_01	1608.5400	getting uh	1609.3790
+1512	DCA_se1_ag3_m_01	1609.3790	(pause 0.62)	1610.0018
+1513	DCA_se1_ag3_m_01	1610.0018	a little coal and the wood and stuff in,	1612.0401
+1514	DCA_int_01	1612.6269	Mm-hm.	1613.1673
+1515	DCA_se1_ag3_m_01	1613.6161	et cetera, like that.	1614.8721
+1516	DCA_int_01	1617.1574	You living in Georgia at the time or?	1618.8778
+1517	DCA_se1_ag3_m_01	1620.8130	Well,	1621.5130
+1518	DCA_se1_ag3_m_01	1621.5130	(pause 0.94)	1622.4549
+1519	DCA_se1_ag3_m_01	1622.4549	I had uh	1623.3814
+1520	DCA_se1_ag3_m_01	1623.3814	(pause 0.88)	1624.2616
+1521	DCA_se1_ag3_m_01	1624.2616	I had a /part/ of Georgia at that time. I migrated here at the age of thirteen.	1628.3958
+1522	DCA_se1_ag3_m_01	1628.3958	(pause 1.74)	1630.1407
+1523	DCA_se1_ag3_m_01	1630.1407	And uh	1630.9076
+1524	DCA_int_01	1636.8691	Okay uh	1637.9861
+1525	DCA_int_01	1637.9861	(pause 0.62)	1638.6037
+1526	DCA_int_01	1638.6037	what about in high school? What did kids do after school in high school?	1641.8452
+1527	DCA_se1_ag3_m_01	1643.8858	Well uh,	1645.1623
+1528	DCA_se1_ag3_m_01	1645.1623	(pause 0.82)	1645.9817
+1529	DCA_se1_ag3_m_01	1645.9817	I also had my job cut out in high school, now. In high school,	1649.4458
+1530	DCA_se1_ag3_m_01	1649.4458	(pause 0.86)	1650.3054
+1531	DCA_se1_ag3_m_01	1650.3054	when I,	1650.7944
+1532	DCA_se1_ag3_m_01	1650.7944	(pause 0.29)	1651.0888
+1533	DCA_se1_ag3_m_01	1651.0888	when we were out of school, I- I played	1653.3907
+1534	DCA_se1_ag3_m_01	1653.3907	(pause 0.14)	1653.5332
+1535	DCA_se1_ag3_m_01	1653.5332	football	1654.1874
+1536	DCA_se1_ag3_m_01	1654.1874	(pause 0.21)	1654.4023
+1537	DCA_se1_ag3_m_01	1654.4023	for the team.	1655.1602
+1538	DCA_se1_ag3_m_01	1655.1602	(pause 0.73)	1655.8860
+1539	DCA_se1_ag3_m_01	1655.8860	I would-	1656.4038
+1540	DCA_se1_ag3_m_01	1656.4038	(pause 0.48)	1656.8845
+1541	DCA_se1_ag3_m_01	1656.8845	every evening I would have to do that.	1658.4863
+1542	DCA_se1_ag3_m_01	1658.4863	(pause 0.25)	1658.7385
+1543	DCA_se1_ag3_m_01	1658.7385	You know.	1659.2172
+1544	DCA_se1_ag3_m_01	1659.2172	(pause 1.48)	1660.6996
+1545	DCA_se1_ag3_m_01	1660.6996	Like	1660.9959
+1546	DCA_se1_ag3_m_01	1660.9959	(pause 0.13)	1661.1278
+1547	DCA_se1_ag3_m_01	1661.1278	practice, you know.	1662.0173
+1548	DCA_int_01	1662.0224	Mm-hm.	1662.4033
+1549	DCA_se1_ag3_m_01	1662.4085	And usually on Fridays we would play	1664.4725
+1550	DCA_se1_ag3_m_01	1664.4725	(pause 0.50)	1664.9677
+1551	DCA_se1_ag3_m_01	1664.9677	some team here or there, you know. We would travel you know.	1667.8913
+1552	DCA_int_01	1667.9346	Mm-hm.	1668.2772
+1553	DCA_int_01	1668.2772	(pause 3.12)	1671.3975
+1554	DCA_int_01	1671.3975	What about today? Do you think kids do pretty much the same thing	1674.3984
+1555	DCA_int_01	1674.3984	(pause 1.13)	1675.5307
+1556	DCA_int_01	1675.5307	as you did, or is it different?	1676.8896
+1557	DCA_se1_ag3_m_01	1677.7090	Oh, it's entirely different.	1679.1093
+1558	DCA_se1_ag3_m_01	1679.1093	(pause 1.39)	1680.5040
+1559	DCA_se1_ag3_m_01	1680.5040	Some of them	1681.7650
+1560	DCA_se1_ag3_m_01	1681.7650	(pause 0.41)	1682.1768
+1561	DCA_se1_ag3_m_01	1682.1768	might participate in sports, but	1684.1791
+1562	DCA_se1_ag3_m_01	1684.1791	(pause 1.68)	1685.8581
+1563	DCA_se1_ag3_m_01	1685.8581	you got,	1686.2956
+1564	DCA_se1_ag3_m_01	1686.2956	(pause 0.18)	1686.4706
+1565	DCA_se1_ag3_m_01	1686.4706	in, in the District of Columbia, kids uh,	1689.2758
+1566	DCA_se1_ag3_m_01	1689.2758	(pause 0.88)	1690.1508
+1567	DCA_se1_ag3_m_01	1690.1508	they just not like they used to be.	1691.6497
+1568	DCA_se1_ag3_m_01	1691.6497	(pause 1.72)	1693.3740
+1569	DCA_se1_ag3_m_01	1693.3740	They	1693.7961
+1570	DCA_se1_ag3_m_01	1693.7961	(pause 0.13)	1693.9299
+1571	DCA_se1_ag3_m_01	1693.9299	seek out the happenings	1695.5153
+1572	DCA_se1_ag3_m_01	1695.5153	(pause 0.72)	1696.2307
+1573	DCA_se1_ag3_m_01	1696.2307	what you might say. I mean happenings range from anything you know	1699.3921
+1574	DCA_int_01	1699.5568	Mm-hm.	1699.9480
+1575	DCA_int_01	1699.9480	(pause 2.85)	1702.7954
+1576	DCA_int_01	1702.7954	Hm, that's interesting to get your opinion.	1704.5764
+1577	DCA_int_01	1704.5764	(pause 1.02)	1705.5955
+1578	DCA_int_01	1705.5955	Did you ever have a teacher that hollered a lot?	1707.2992
+1579	DCA_int_01	1707.2992	(pause 0.82)	1708.1177
+1580	DCA_int_01	1708.1177	/?/ come on you were coming up through school?	1710.0901
+1581	DCA_se1_ag3_m_01	1711.7011	Oh yes.	1712.4526
+1582	DCA_int_01	1713.4357	What did they holler about?	1714.3983
+1583	DCA_se1_ag3_m_01	1716.4479	Well we had w-	1717.3538
+1584	DCA_se1_ag3_m_01	1717.3538	(pause 0.12)	1717.4722
+1585	DCA_se1_ag3_m_01	1717.4722	uh	1717.9766
+1586	DCA_se1_ag3_m_01	1717.9766	(pause 1.24)	1719.2178
+1587	DCA_se1_ag3_m_01	1719.2178	a mathematics teacher	1720.7149
+1588	DCA_se1_ag3_m_01	1720.7149	(pause 1.49)	1722.2058
+1589	DCA_se1_ag3_m_01	1722.2058	If sh-	1722.4531
+1590	DCA_se1_ag3_m_01	1722.4531	(pause 0.10)	1722.5544
+1591	DCA_se1_ag3_m_01	1722.5544	if you	1723.2432
+1592	DCA_se1_ag3_m_01	1723.2432	(pause 0.18)	1723.4182
+1593	DCA_se1_ag3_m_01	1723.4182	didn't	1723.9381
+1594	DCA_se1_ag3_m_01	1723.9381	(pause 1.03)	1724.9675
+1595	DCA_se1_ag3_m_01	1724.9675	comprehend on what she was trying to explain to you after she sit up there and tried to explain it to you,	1730.1775
+1596	DCA_se1_ag3_m_01	1730.1775	(pause 0.83)	1731.0062
+1597	DCA_se1_ag3_m_01	1731.0062	Well she went off her rocker.	1732.7151
+1598	DCA_int_01	1734.3364	Did she ever yell at you for anything?	1735.8034
+1599	DCA_se1_ag3_m_01	1736.1479	Oh, many times.	1737.6729
+1600	DCA_int_01	1737.6008	<laugh>	1738.2339
+1601	DCA_int_01	1739.3097	You think it was fair or was she	1740.9413
+1602	DCA_int_01	1740.9413	(pause 0.13)	1741.0700
+1603	DCA_int_01	1741.0700	just grouchy?	1741.8781
+1604	DCA_se1_ag3_m_01	1742.5328	No.	1743.1608
+1605	DCA_se1_ag3_m_01	1743.1608	(pause 0.21)	1743.3667
+1606	DCA_se1_ag3_m_01	1743.3667	I think it was fair at	1745.0189
+1607	DCA_se1_ag3_m_01	1745.0189	(pause 0.15)	1745.1734
+1608	DCA_se1_ag3_m_01	1745.1734	as I look at it in this day in time, I	1747.5977
+1609	DCA_se1_ag3_m_01	1747.5977	(pause 1.32)	1748.9164
+1610	DCA_se1_ag3_m_01	1748.9164	being of age now, I st- see she wanted to get this thing to me, and	1753.0033
+1611	DCA_se1_ag3_m_01	1753.0033	(pause 1.20)	1754.2077
+1612	DCA_se1_ag3_m_01	1754.2077	basically, she wanted to get it to me, she figured that was her main strike. You [know], was to do this.	1759.6596
+1613	DCA_int_01	1758.4059	[Mm-hm.]	1758.7972
+1614	DCA_int_01	1759.8034	Mm-hm.	1760.1236
+1615	DCA_int_01	1760.1236	(pause 1.67)	1761.7916
+1616	DCA_int_01	1761.7916	But at the time you didn't feel like that?	1763.8505
+1617	DCA_se1_ag3_m_01	1763.8505	No, I thought she was a crabby old woman.	1766.2154
+1618	DCA_int_01	1768.1854	How about the best teacher you ever had?	1769.9767
+1619	DCA_int_01	1769.9767	(pause 0.69)	1770.6715
+1620	DCA_int_01	1770.6715	Did you ever	1771.1245
+1621	DCA_int_01	1771.1245	(pause 1.29)	1772.4164
+1622	DCA_int_01	1772.4164	have [one that] was [/?/]	1773.7187
+1623	DCA_se1_ag3_m_01	1772.6532	[Well]	1773.0959
+1624	DCA_se1_ag3_m_01	1773.0959	(pause 0.18)	1773.2760
+1625	DCA_se1_ag3_m_01	1773.2760	[that was] my music teacher.	1775.1558
+1626	DCA_int_01	1775.9793	What was so good about her?	1777.2044
+1627	DCA_se1_ag3_m_01	1778.0176	It was a m- he.	1779.1294
+1628	DCA_int_01	1779.2735	It was a he?	1779.7780
+1629	DCA_se1_ag3_m_01	1780.0971	Yes.	1780.5603
+1630	DCA_int_01	1781.8070	What did he do that was	1782.9342
+1631	DCA_int_01	1782.9342	(pause 0.68)	1783.6188
+1632	DCA_int_01	1783.6188	outstanding?	1784.3137
+1633	DCA_se1_ag3_m_01	1784.8387	Well	1785.3801
+1634	DCA_se1_ag3_m_01	1785.3801	(pause 2.34)	1787.7170
+1635	DCA_se1_ag3_m_01	1787.7170	you may look at it like this.	1789.6420
+1636	DCA_se1_ag3_m_01	1789.6420	(pause 0.31)	1789.9560
+1637	DCA_se1_ag3_m_01	1789.9560	You seen these things	1791.2325
+1638	DCA_se1_ag3_m_01	1791.2325	(pause 0.14)	1791.3715
+1639	DCA_se1_ag3_m_01	1791.3715	they call uh teacher's pet?	1793.0701
+1640	DCA_int_01	1793.4149	Mm-hm.	1793.7907
+1641	DCA_se1_ag3_m_01	1794.3579	Well	1794.7336
+1642	DCA_se1_ag3_m_01	1794.7336	(pause 0.28)	1795.0116
+1643	DCA_se1_ag3_m_01	1795.0116	I wasn't his teacher's pet,	1796.8852
+1644	DCA_se1_ag3_m_01	1796.8852	(pause 0.17)	1797.0550
+1645	DCA_se1_ag3_m_01	1797.0550	but uh	1797.6624
+1646	DCA_se1_ag3_m_01	1797.6624	(pause 0.98)	1798.6455
+1647	DCA_se1_ag3_m_01	1798.6455	it seems like he wanted me to learn	1800.8753
+1648	DCA_int_01	1801.2468	Mm-hm.	1801.5873
+1649	DCA_se1_ag3_m_01	1802.1569	what he was trying to	1803.4026
+1650	DCA_se1_ag3_m_01	1803.4026	(pause 0.55)	1803.9482
+1651	DCA_se1_ag3_m_01	1803.9482	do.	1804.4320
+1652	DCA_int_01	1804.5906	Mm-hm.	1804.9514
+1653	DCA_se1_ag3_m_01	1805.0908	And he,	1806.0379
+1654	DCA_se1_ag3_m_01	1806.0379	(pause 1.13)	1807.1662
+1655	DCA_se1_ag3_m_01	1807.1662	not like	1807.6912
+1656	DCA_se1_ag3_m_01	1807.6912	(pause 0.27)	1807.9589
+1657	DCA_se1_ag3_m_01	1807.9589	the uh mathematics teacher,	1809.9354
+1658	DCA_se1_ag3_m_01	1809.9354	(pause 0.20)	1810.1387
+1659	DCA_se1_ag3_m_01	1810.1387	he took another routine. He	1812.2825
+1660	DCA_se1_ag3_m_01	1812.2825	(pause 0.63)	1812.9115
+1661	DCA_se1_ag3_m_01	1812.9115	used kindness more or less,	1814.5895
+1662	DCA_se1_ag3_m_01	1814.5895	(pause 1.02)	1815.6138
+1663	DCA_se1_ag3_m_01	1815.6138	and that lured me	1816.6535
+1664	DCA_int_01	1816.8697	Mm-hm.	1817.2763
+1665	DCA_se1_ag3_m_01	1817.5131	in his belief,	1818.3984
+1666	DCA_se1_ag3_m_01	1818.3984	(pause 0.56)	1818.9553
+1667	DCA_se1_ag3_m_01	1818.9553	and I learned.	1819.7892
+1668	DCA_int_01	1820.3810	Hm.	1820.6402
+1669	DCA_int_01	1820.6402	(pause 1.72)	1822.3628
+1670	DCA_int_01	1822.3628	Was there ever a teacher you just couldn't stand?	1824.3753
+1671	DCA_se1_ag3_m_01	1825.9977	No,	1826.5485
+1672	DCA_se1_ag3_m_01	1826.5485	(pause 0.32)	1826.8727
+1673	DCA_se1_ag3_m_01	1826.8727	never.	1827.4441
+1674	DCA_int_01	1829.8684	Were you ever in a class where the kids played a trick on the teacher?	1832.6726
+1675	DCA_se1_ag3_m_01	1834.8674	No, and m-	1835.8093
+1676	DCA_se1_ag3_m_01	1835.8093	(pause 0.15)	1835.9586
+1677	DCA_se1_ag3_m_01	1835.9586	and in my time, you better not.	1837.5439
+1678	DCA_int_01	1837.6675	<laugh>	1838.2903
+1679	DCA_int_01	1838.2903	(pause 1.29)	1839.5781
+1680	DCA_int_01	1839.5781	Teachers were tough then.	1840.7414
+1681	DCA_se1_ag3_m_01	1841.0090	Oh they	1841.4877
+1682	DCA_se1_ag3_m_01	1841.4877	(pause 0.18)	1841.6679
+1683	DCA_se1_ag3_m_01	1841.6679	had to,	1842.1054
+1684	DCA_se1_ag3_m_01	1842.1054	(pause 0.41)	1842.5120
+1685	DCA_se1_ag3_m_01	1842.5120	they had to um,	1843.4385
+1686	DCA_se1_ag3_m_01	1843.4385	(pause 1.50)	1844.9425
+1687	DCA_se1_ag3_m_01	1844.9425	they could beat you then.	1846.1315
+1688	DCA_int_01	1846.3940	Oh really?	1846.8830
+1689	DCA_se1_ag3_m_01	1847.5058	Sure,	1847.9999
+1690	DCA_se1_ag3_m_01	1847.9999	(pause 0.09)	1848.0874
+1691	DCA_se1_ag3_m_01	1848.0874	I mean	1848.5610
+1692	DCA_se1_ag3_m_01	1848.5610	(pause 0.56)	1849.1220
+1693	DCA_se1_ag3_m_01	1849.1220	they could actually	1849.8272
+1694	DCA_se1_ag3_m_01	1849.8272	(pause 0.18)	1850.0073
+1695	DCA_se1_ag3_m_01	1850.0073	whip you,	1850.4294
+1696	DCA_se1_ag3_m_01	1850.4294	(pause 0.26)	1850.6929
+1697	DCA_se1_ag3_m_01	1850.6929	and you go home and tell you mother and she'd give you another one.	1853.3798
+1698	DCA_int_01	1853.4879	<laugh>	1854.2136
+1699	DCA_se1_ag3_m_01	1854.8776	My parents, I know.	1855.9843
+1700	DCA_int_01	1856.2159	Mm-hm.	1856.6585
+1701	DCA_int_01	1856.6585	(pause 0.77)	1857.4265
+1702	DCA_int_01	1857.4265	Did she use a strap or something?	1858.9707
+1703	DCA_se1_ag3_m_01	1859.8045	Yes.	1860.6384
+1704	DCA_int_01	1860.4231	That'll work.	1861.3378
+1705	DCA_se1_ag3_m_01	1861.6163	A strap.	1862.1105
+1706	DCA_int_01	1862.5625	Mm.	1862.9233
+1707	DCA_int_01	1862.9233	(pause 1.61)	1864.5358
+1708	DCA_int_01	1864.5358	So the kids never put tacks on their seats or anything like that?	1867.5624
+1709	DCA_se1_ag3_m_01	1868.1131	No.	1868.5712
+1710	DCA_int_01	1869.0448	Mm-hm.	1869.5698
+1711	DCA_int_01	1869.5698	(pause 2.00)	1871.5731
+1712	DCA_int_01	1871.5731	Kay, when you were a-	1872.4996
+1713	DCA_int_01	1872.4996	(pause 0.62)	1873.1172
+1714	DCA_int_01	1873.1172	a child, was there a group of kids that you	1875.3202
+1715	DCA_int_01	1875.3202	(pause 0.49)	1875.8092
+1716	DCA_int_01	1875.8092	hung out with?	1876.4475
+1717	DCA_int_01	1876.4475	(pause 0.27)	1876.7151
+1718	DCA_int_01	1876.7151	Were	1877.0239
+1719	DCA_int_01	1877.0239	(pause 0.44)	1877.4676
+1720	DCA_int_01	1877.4676	always together with?	1878.4302
+1721	DCA_se1_ag3_m_01	1881.5185	There were about four.	1883.1296
+1722	DCA_int_01	1883.7894	Can you still call their first names?	1885.2821
+1723	DCA_se1_ag3_m_01	1885.8277	Yes.	1886.5226
+1724	DCA_int_01	1888.5102	What were they?	1888.9881
+1725	DCA_se1_ag3_m_01	1890.3686	Bennett,	1890.8473
+1726	DCA_se1_ag3_m_01	1890.8473	(pause 0.76)	1891.6039
+1727	DCA_se1_ag3_m_01	1891.6039	Freddy,	1892.1392
+1728	DCA_se1_ag3_m_01	1892.1392	(pause 0.60)	1892.7363
+1729	DCA_se1_ag3_m_01	1892.7363	Ernest,	1893.3797
+1730	DCA_se1_ag3_m_01	1893.3797	(pause 1.23)	1894.6047
+1731	DCA_se1_ag3_m_01	1894.6047	Harold,	1895.1555
+1732	DCA_se1_ag3_m_01	1895.1555	(pause 0.65)	1895.8092
+1733	DCA_se1_ag3_m_01	1895.8092	and Jimmy.	1896.3754
+1734	DCA_int_01	1896.6754	Mm-hm.	1897.1175
+1735	DCA_int_01	1897.1175	(pause 1.65)	1898.7698
+1736	DCA_int_01	1898.7698	Uh	1899.0941
+1737	DCA_int_01	1899.0941	(pause 0.27)	1899.3669
+1738	DCA_int_01	1899.3669	did any of them speak any foreign languages?	1901.4764
+1739	DCA_se1_ag3_m_01	1902.6199	At that time, no.	1903.6391
+1740	DCA_int_01	1903.7429	Mm-hm.	1904.2511
+1741	DCA_int_01	1904.2511	(pause 1.05)	1905.3026
+1742	DCA_int_01	1905.3026	Were any of those white?	1906.3063
+1743	DCA_se1_ag3_m_01	1907.2586	No.	1907.7733
+1744	DCA_int_01	1908.8697	Was there one of- one of those kids that everyone listened to and considered as a leader?	1913.3899
+1745	DCA_se1_ag3_m_01	1916.8705	At that time, I would say no.	1918.9448
+1746	DCA_int_01	1919.6173	Mm-hm.	1920.0044
+1747	DCA_se1_ag3_m_01	1921.4463	We all had our minds,	1923.0636
+1748	DCA_int_01	1923.5458	Mm-hm.	1923.8745
+1749	DCA_se1_ag3_m_01	1924.1702	but	1924.4482
+1750	DCA_se1_ag3_m_01	1924.4482	(pause 0.12)	1924.5665
+1751	DCA_se1_ag3_m_01	1924.5665	we usually,	1925.2872
+1752	DCA_se1_ag3_m_01	1925.2872	(pause 0.54)	1925.8225
+1753	DCA_se1_ag3_m_01	1925.8225	if one suggested it,	1926.9754
+1754	DCA_se1_ag3_m_01	1926.9754	(pause 2.06)	1929.0353
+1755	DCA_se1_ag3_m_01	1929.0353	or if the other suggested it,	1930.5692
+1756	DCA_se1_ag3_m_01	1930.5692	(pause 0.75)	1931.3155
+1757	DCA_se1_ag3_m_01	1931.3155	we usually,	1932.1391
+1758	DCA_se1_ag3_m_01	1932.1391	(pause 1.53)	1933.6678
+1759	DCA_se1_ag3_m_01	1933.6678	you know,	1934.1259
+1760	DCA_se1_ag3_m_01	1934.1259	(pause 0.18)	1934.3009
+1761	DCA_se1_ag3_m_01	1934.3009	went along with the program.	1935.7318
+1762	DCA_int_01	1936.6233	It wasn't just one	1937.6631
+1763	DCA_int_01	1937.6631	(pause 0.47)	1938.1315
+1764	DCA_int_01	1938.1315	person that always	1938.9653
+1765	DCA_se1_ag3_m_01	1939.5933	[No.]	1940.1234
+1766	DCA_int_01	1939.7220	[had the best] suggestion?	1940.7205
+1767	DCA_se1_ag3_m_01	1940.8029	No.	1941.1168
+1768	DCA_int_01	1942.7392	What about if a new kid wanted to get into that group?	1945.3231
+1769	DCA_int_01	1945.3231	(pause 0.27)	1945.5959
+1770	DCA_int_01	1945.5959	What would he have to do?	1946.5945
+1771	DCA_se1_ag3_m_01	1948.8860	Well,	1949.3390
+1772	DCA_se1_ag3_m_01	1949.3390	(pause 0.71)	1950.0493
+1773	DCA_se1_ag3_m_01	1950.0493	it wasn't a violent group.	1951.4648
+1774	DCA_se1_ag3_m_01	1951.4648	(pause 0.23)	1951.6912
+1775	DCA_se1_ag3_m_01	1951.6912	You	1952.2317
+1776	DCA_se1_ag3_m_01	1952.2317	(pause 0.14)	1952.3707
+1777	DCA_se1_ag3_m_01	1952.3707	more or less had to be accepted.	1954.0950
+1778	DCA_int_01	1954.4667	Mm-hm.	1954.7432
+1779	DCA_se1_ag3_m_01	1955.9078	If one said, oh	1956.8353
+1780	DCA_se1_ag3_m_01	1956.8353	(pause 0.23)	1957.0608
+1781	DCA_se1_ag3_m_01	1957.0608	you know, he's alright	1958.3630
+1782	DCA_se1_ag3_m_01	1958.3630	(pause 1.74)	1960.1079
+1783	DCA_se1_ag3_m_01	1960.1079	other ones usually	1961.0962
+1784	DCA_se1_ag3_m_01	1961.0962	(pause 0.28)	1961.3752
+1785	DCA_se1_ag3_m_01	1961.3752	go along with the	1961.9723
+1786	DCA_se1_ag3_m_01	1961.9723	(pause 0.20)	1962.1678
+1787	DCA_se1_ag3_m_01	1962.1678	program, but	1962.9399
+1788	DCA_se1_ag3_m_01	1962.9399	(pause 2.57)	1965.5135
+1789	DCA_se1_ag3_m_01	1965.5135	we basically ah, just	1967.4283
+1790	DCA_se1_ag3_m_01	1967.4283	(pause 1.15)	1968.5771
+1791	DCA_se1_ag3_m_01	1968.5771	just /as fine/, we-	1969.7198
+1792	DCA_se1_ag3_m_01	1969.7198	(pause 1.49)	1971.2074
+1793	DCA_se1_ag3_m_01	1971.2074	we-	1971.4956
+1794	DCA_se1_ag3_m_01	1971.4956	(pause 0.60)	1972.0978
+1795	DCA_se1_ag3_m_01	1972.0978	we would	1972.5250
+1796	DCA_se1_ag3_m_01	1972.5250	(pause 0.74)	1973.2611
+1797	DCA_se1_ag3_m_01	1973.2611	just be together all the time. I don't know where, what it was.	1976.2887
+1798	DCA_int_01	1976.4593	[Mm-hm.]	1976.8494
+1799	DCA_se1_ag3_m_01	1976.6335	[We] would go fishing together. We'd go swimming together.	1979.5366
+1800	DCA_se1_ag3_m_01	1980.5927	We'd play football together.	1982.2862
+1801	DCA_se1_ag3_m_01	1982.2862	(pause 0.84)	1983.1303
+1802	DCA_se1_ag3_m_01	1983.1303	Baseball.	1983.8715
+1803	DCA_se1_ag3_m_01	1983.8715	(pause 0.55)	1984.4171
+1804	DCA_se1_ag3_m_01	1984.4171	Softball.	1985.2149
+1805	DCA_se1_ag3_m_01	1985.2149	(pause 0.83)	1986.0488
+1806	DCA_se1_ag3_m_01	1986.0488	We,	1986.5223
+1807	DCA_se1_ag3_m_01	1986.5223	(pause 0.53)	1987.0535
+1808	DCA_se1_ag3_m_01	1987.0535	if we went to a playground	1988.4844
+1809	DCA_se1_ag3_m_01	1988.4844	(pause 1.25)	1989.7301
+1810	DCA_se1_ag3_m_01	1989.7301	and they had a team,	1990.7698
+1811	DCA_se1_ag3_m_01	1990.7698	(pause 0.63)	1991.4029
+1812	DCA_se1_ag3_m_01	1991.4029	or if we went to basketball court, and they had a team,	1994.0650
+1813	DCA_se1_ag3_m_01	1994.0650	(pause 1.93)	1995.9952
+1814	DCA_se1_ag3_m_01	1995.9952	and they had uh	1996.9320
+1815	DCA_se1_ag3_m_01	1996.9320	(pause 0.68)	1997.6166
+1816	DCA_se1_ag3_m_01	1997.6166	say twenty four or thirty others,	1999.3306
+1817	DCA_se1_ag3_m_01	1999.3306	(pause 0.53)	1999.8618
+1818	DCA_se1_ag3_m_01	1999.8618	we would get our group	2000.9736
+1819	DCA_se1_ag3_m_01	2000.9736	(pause 0.64)	2001.6170
+1820	DCA_se1_ag3_m_01	2001.6170	you know.	2002.0236
+1821	DCA_se1_ag3_m_01	2002.0236	(pause 0.20)	2002.2192
+1822	DCA_se1_ag3_m_01	2002.2192	And wait til	2003.0942
+1823	DCA_se1_ag3_m_01	2003.0942	(pause 0.30)	2003.3979
+1824	DCA_se1_ag3_m_01	2003.3979	this team lost and we would play them.	2005.2149
+1825	DCA_se1_ag3_m_01	2005.2149	(pause 0.63)	2005.8410
+1826	DCA_se1_ag3_m_01	2005.8410	And we wouldn't split up among us. We just like that so,	2008.5050
+1827	DCA_se1_ag3_m_01	2008.5050	(pause 0.63)	2009.1329
+1828	DCA_se1_ag3_m_01	2009.1329	what they call this day togetherness, you know.	2011.1867
+1829	DCA_int_01	2011.1712	Mm-hm.	2011.5161
+1830	DCA_se1_ag3_m_01	2012.2573	That's what we were.	2013.0963
+1831	DCA_int_01	2013.4424	Mm-hm.	2013.9308
+1832	DCA_int_01	2013.9308	(pause 1.60)	2015.5299
+1833	DCA_int_01	2015.5299	So it would be pretty hard for another kid to-	2017.4795
+1834	DCA_se1_ag3_m_01	2019.0690	No, not actually.	2020.2755
+1835	DCA_se1_ag3_m_01	2020.2755	(pause 0.12)	2020.4000
+1836	DCA_se1_ag3_m_01	2020.4000	Um,	2020.8261
+1837	DCA_se1_ag3_m_01	2020.8261	(pause 0.36)	2021.1900
+1838	DCA_se1_ag3_m_01	2021.1900	we also-	2022.1523
+1839	DCA_se1_ag3_m_01	2022.1523	(pause 1.74)	2023.8912
+1840	DCA_se1_ag3_m_01	2023.8912	one sport that we really cherished was fishing.	2026.4287
+1841	DCA_se1_ag3_m_01	2026.4287	(pause 1.42)	2027.8516
+1842	DCA_se1_ag3_m_01	2027.8516	Float fishing, spinning,	2029.3693
+1843	DCA_se1_ag3_m_01	2029.3693	(pause 0.19)	2029.5561
+1844	DCA_se1_ag3_m_01	2029.5561	any kind.	2030.3077
+1845	DCA_se1_ag3_m_01	2030.3077	(pause 0.09)	2030.3987
+1846	DCA_se1_ag3_m_01	2030.3987	Uh	2030.7530
+1847	DCA_se1_ag3_m_01	2030.7530	(pause 1.09)	2031.8398
+1848	DCA_se1_ag3_m_01	2031.8398	go spinning	2032.5915
+1849	DCA_se1_ag3_m_01	2032.5915	(pause 0.11)	2032.7064
+1850	DCA_se1_ag3_m_01	2032.7064	is, wasn't-	2033.6113
+1851	DCA_se1_ag3_m_01	2033.6113	(pause 0.14)	2033.7501
+1852	DCA_se1_ag3_m_01	2033.7501	it wasn't like it is now.	2035.1635
+1853	DCA_se1_ag3_m_01	2035.1635	(pause 0.41)	2035.5752
+1854	DCA_se1_ag3_m_01	2035.5752	Mo- more so less than bait casting.	2037.9452
+1855	DCA_se1_ag3_m_01	2037.9452	(pause 0.77)	2038.7160
+1856	DCA_se1_ag3_m_01	2038.7160	Uh	2039.1756
+1857	DCA_se1_ag3_m_01	2039.1756	(pause 0.27)	2039.4485
+1858	DCA_se1_ag3_m_01	2039.4485	everybody	2040.2193
+1859	DCA_se1_ag3_m_01	2040.2193	(pause 0.12)	2040.3400
+1860	DCA_se1_ag3_m_01	2040.3400	used to go there, and you go to the uh	2042.8727
+1861	DCA_se1_ag3_m_01	2042.8727	(pause 0.28)	2043.1504
+1862	DCA_se1_ag3_m_01	2043.1504	to the lake you might see in 'em	2044.5724
+1863	DCA_se1_ag3_m_01	2044.5724	(pause 0.41)	2044.9793
+1864	DCA_se1_ag3_m_01	2044.9793	kids there that went to school to- with you,	2047.0773
+1865	DCA_int_01	2046.9537	Mm-hm.	2047.2210
+1866	DCA_se1_ag3_m_01	2047.5944	whatever di- they didn't have to be with you, but if they came up and spoke, you know we spoke	2051.7086
+1867	DCA_se1_ag3_m_01	2051.7086	(pause 0.34)	2052.0470
+1868	DCA_se1_ag3_m_01	2052.0470	but	2052.2825
+1869	DCA_se1_ag3_m_01	2052.2825	(pause 0.16)	2052.4453
+1870	DCA_se1_ag3_m_01	2052.4453	the five of us would go there alone, you know.	2054.4274
+1871	DCA_int_01	2054.6632	Mm-hm.	2055.0165
+1872	DCA_se1_ag3_m_01	2055.4281	If somebody else say, you going fishing? We say yeah, if they want to go, they gotta bite.	2059.4181
+1873	DCA_se1_ag3_m_01	2059.4181	(pause 1.17)	2060.5930
+1874	DCA_se1_ag3_m_01	2060.5930	Let's go,	2061.2010
+1875	DCA_se1_ag3_m_01	2061.2010	(pause 0.08)	2061.2824
+1876	DCA_se1_ag3_m_01	2061.2824	[you know.]	2061.6941
+1877	DCA_int_01	2061.3447	[Mm-hm.]	2061.7103

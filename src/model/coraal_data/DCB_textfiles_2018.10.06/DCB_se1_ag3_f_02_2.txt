@@ -1,0 +1,562 @@
+Line	Spkr	StTime	Content	EnTime
+1	DCB_se1_ag3_m_01	0.7350	Let me aks you another question. Now what- how has DC changed since you	4.8941
+2	DCB_se1_ag3_m_01	4.8941	(pause 0.35)	5.2423
+3	DCB_se1_ag3_m_01	5.2423	grown up,	5.7505
+4	DCB_se1_ag3_m_01	5.7505	(pause 0.24)	5.9866
+5	DCB_se1_ag3_m_01	5.9866	over the years?	6.6960
+6	DCB_se1_ag3_f_02	7.0042	Um,	7.7237
+7	DCB_se1_ag3_f_02	7.7237	(pause 1.27)	8.9959
+8	DCB_se1_ag3_f_02	8.9959	they tryna revitalize.	10.7433
+9	DCB_se1_ag3_f_02	10.7433	(pause 0.42)	11.1623
+10	DCB_se1_ag3_f_02	11.1623	But	11.5497
+11	DCB_se1_ag3_f_02	11.5497	(pause 1.01)	12.5578
+12	DCB_se1_ag3_f_02	12.5578	I don't see	13.5691
+13	DCB_se1_ag3_f_02	13.5691	(pause 0.59)	14.1582
+14	DCB_se1_ag3_f_02	14.1582	the real change.	15.4825
+15	DCB_se1_ag3_f_02	15.4825	(pause 0.79)	16.2732
+16	DCB_se1_ag3_f_02	16.2732	Um,	16.9096
+17	DCB_se1_ag3_f_02	16.9096	(pause 0.88)	17.7905
+18	DCB_se1_ag3_f_02	17.7905	I see	18.5549
+19	DCB_se1_ag3_f_02	18.5549	(pause 0.55)	19.1030
+20	DCB_se1_ag3_f_02	19.1030	they rebuilding	20.2036
+21	DCB_se1_ag3_f_02	20.2036	(pause 0.09)	20.2957
+22	DCB_se1_ag3_f_02	20.2957	houses, townhomes,	22.0365
+23	DCB_se1_ag3_f_02	22.0365	(pause 0.63)	22.6648
+24	DCB_se1_ag3_f_02	22.6648	and um,	23.9569
+25	DCB_se1_ag3_f_02	23.9569	(pause 1.31)	25.2694
+26	DCB_se1_ag3_f_02	25.2694	new aqua center but	27.0042
+27	DCB_se1_ag3_f_02	27.0042	(pause 0.77)	27.7790
+28	DCB_se1_ag3_f_02	27.7790	the reality is they not	29.0361
+29	DCB_se1_ag3_f_02	29.0361	(pause 0.34)	29.3722
+30	DCB_se1_ag3_f_02	29.3722	um,	30.1233
+31	DCB_se1_ag3_f_02	30.1233	(pause 1.20)	31.3204
+32	DCB_se1_ag3_f_02	31.3204	building more affordable apartment buildings for low income families.	35.8400
+33	DCB_se1_ag3_f_02	35.8400	(pause 0.95)	36.7871
+34	DCB_se1_ag3_f_02	36.7871	Um,	37.5804
+35	DCB_se1_ag3_f_02	37.5804	(pause 0.27)	37.8544
+36	DCB_se1_ag3_f_02	37.8544	<ts>	37.9533
+37	DCB_se1_ag3_f_02	37.9533	(pause 2.18)	40.1308
+38	DCB_se1_ag3_f_02	40.1308	down on Eighth Street	41.6093
+39	DCB_se1_ag3_f_02	41.6093	(pause 0.31)	41.9177
+40	DCB_se1_ag3_f_02	41.9177	it's very different from when I grew up.	43.9490
+41	DCB_se1_ag3_f_02	43.9490	(pause 0.41)	44.3601
+42	DCB_se1_ag3_f_02	44.3601	Now /in this/-	45.1824
+43	DCB_se1_ag3_f_02	45.1824	(pause 0.74)	45.9216
+44	DCB_se1_ag3_f_02	45.9216	buildings after buildings, clubs,	47.8587
+45	DCB_se1_ag3_f_02	47.8587	(pause 0.53)	48.3838
+46	DCB_se1_ag3_f_02	48.3838	um, new buildings that they building up with new condos and	52.3964
+47	DCB_se1_ag3_f_02	52.3964	(pause 1.00)	53.3998
+48	DCB_se1_ag3_f_02	53.3998	um,	54.1865
+49	DCB_se1_ag3_f_02	54.1865	(pause 0.35)	54.5383
+50	DCB_se1_ag3_f_02	54.5383	it's different now.	55.5978
+51	DCB_se1_ag3_f_02	55.5978	(pause 0.77)	56.3727
+52	DCB_se1_ag3_f_02	56.3727	Um, I remember you wouldn't see a white person on them streets, now they are everywhere.	60.9735
+53	DCB_se1_ag3_f_02	60.9735	(pause 0.83)	61.8070
+54	DCB_se1_ag3_f_02	61.8070	Um,	62.5700
+55	DCB_se1_ag3_f_02	62.5700	(pause 0.19)	62.7637
+56	DCB_se1_ag3_f_02	62.7637	<ts>	62.8823
+57	DCB_se1_ag3_f_02	62.8823	(pause 0.20)	63.0799
+58	DCB_se1_ag3_f_02	63.0799	Southeast,	64.0773
+59	DCB_se1_ag3_f_02	64.0773	(pause 2.28)	66.3604
+60	DCB_se1_ag3_f_02	66.3604	mm,	67.1313
+61	DCB_se1_ag3_f_02	67.1313	(pause 0.19)	67.3211
+62	DCB_se1_ag3_f_02	67.3211	only thing change about Southeast is	69.8464
+63	DCB_se1_ag3_f_02	69.8464	(pause 0.49)	70.3367
+64	DCB_se1_ag3_f_02	70.3367	um,	70.9613
+65	DCB_se1_ag3_f_02	70.9613	(pause 0.12)	71.0839
+66	DCB_se1_ag3_f_02	71.0839	they building more schools.	72.6138
+67	DCB_se1_ag3_f_02	72.6138	(pause 0.26)	72.8707
+68	DCB_se1_ag3_f_02	72.8707	Uh, they re- tryna revitalize schools like Ballou.	76.1947
+69	DCB_se1_ag3_f_02	76.1947	(pause 0.87)	77.0605
+70	DCB_se1_ag3_f_02	77.0605	Um,	77.7563
+71	DCB_se1_ag3_f_02	77.7563	(pause 0.96)	78.7130
+72	DCB_se1_ag3_f_02	78.7130	but	79.1014
+73	DCB_se1_ag3_f_02	79.1014	(pause 0.17)	79.2695
+74	DCB_se1_ag3_f_02	79.2695	the crime still-	80.2722
+75	DCB_se1_ag3_f_02	80.2722	(pause 2.03)	82.3018
+76	DCB_se1_ag3_f_02	82.3018	still the same.	83.2822
+77	DCB_se1_ag3_f_02	83.2822	(pause 1.37)	84.6533
+78	DCB_se1_ag3_f_02	84.6533	Um,	85.2621
+79	DCB_se1_ag3_f_02	85.2621	(pause 0.77)	86.0369
+80	DCB_se1_ag3_f_02	86.0369	I think they need to make more	87.6538
+81	DCB_se1_ag3_f_02	87.6538	(pause 1.25)	88.9024
+82	DCB_se1_ag3_f_02	88.9024	uh, Boys and Girl Club, bring back the Boys and Girl Clubs and	93.0368
+83	DCB_se1_ag3_f_02	93.0368	(pause 2.79)	95.8238
+84	DCB_se1_ag3_f_02	95.8238	um, somewhere where the kids could go and play.	98.3532
+85	DCB_se1_ag3_f_02	98.3532	(pause 0.73)	99.0806
+86	DCB_se1_ag3_f_02	99.0806	Um,	99.7685
+87	DCB_se1_ag3_f_02	99.7685	(pause 0.59)	100.3614
+88	DCB_se1_ag3_f_02	100.3614	they need to bring back /edunalcation-/ educational programs.	103.2980
+89	DCB_se1_ag3_f_02	103.2980	(pause 0.43)	103.7289
+90	DCB_se1_ag3_f_02	103.7289	Which I think	104.6896
+91	DCB_se1_ag3_f_02	104.6896	(pause 0.19)	104.8833
+92	DCB_se1_ag3_f_02	104.8833	DC schools has gotten better cause when I went to schools	108.0731
+93	DCB_se1_ag3_f_02	108.0731	(pause 0.12)	108.1931
+94	DCB_se1_ag3_f_02	108.1931	you had to learn on your own.	109.5297
+95	DCB_se1_ag3_f_02	109.5297	(pause 0.48)	110.0092
+96	DCB_se1_ag3_f_02	110.0092	So with these new	111.0489
+97	DCB_se1_ag3_f_02	111.0489	(pause 0.11)	111.1557
+98	DCB_se1_ag3_f_02	111.1557	uh, chartered schools I think they doing a very fine job	114.7801
+99	DCB_se1_ag3_f_02	114.7801	(pause 0.26)	115.0371
+100	DCB_se1_ag3_f_02	115.0371	with the schooling.	115.8989
+101	DCB_se1_ag3_f_02	115.8989	(pause 0.64)	116.5422
+102	DCB_se1_ag3_f_02	116.5422	But as-	117.4407
+103	DCB_se1_ag3_f_02	117.4407	(pause 0.35)	117.7925
+104	DCB_se1_ag3_f_02	117.7925	All in all I think they need to	119.3007
+105	DCB_se1_ag3_f_02	119.3007	(pause 0.18)	119.4848
+106	DCB_se1_ag3_f_02	119.4848	really focus on	120.7654
+107	DCB_se1_ag3_f_02	120.7654	(pause 0.54)	121.3102
+108	DCB_se1_ag3_f_02	121.3102	the inner city people.	122.4869
+109	DCB_se1_ag3_f_02	122.4869	(pause 0.29)	122.7729
+110	DCB_se1_ag3_f_02	122.7729	Low income families.	124.1045
+111	DCB_se1_ag3_f_02	124.1045	(pause 0.37)	124.4761
+112	DCB_se1_ag3_f_02	124.4761	Find a way where they can	126.2708
+113	DCB_se1_ag3_f_02	126.2708	(pause 0.53)	126.7966
+114	DCB_se1_ag3_f_02	126.7966	live affordable and find better jobs.	129.5632
+115	DCB_se1_ag3_m_01	131.3936	When you say you had to learn on your own, what do you mean by that?	133.6264
+116	DCB_se1_ag3_f_02	136.4365	The teachers didn't care. You had to uh,	138.6405
+117	DCB_se1_ag3_f_02	138.6405	(pause 0.45)	139.0931
+118	DCB_se1_ag3_f_02	139.0931	basically learn on your own.	140.3581
+119	DCB_se1_ag3_f_02	140.3581	(pause 0.35)	140.7053
+120	DCB_se1_ag3_f_02	140.7053	Like I was a sports player,	142.0415
+121	DCB_se1_ag3_f_02	142.0415	(pause 0.44)	142.4843
+122	DCB_se1_ag3_f_02	142.4843	and it was difference between boys and girls	144.8239
+123	DCB_se1_ag3_f_02	144.8239	(pause 0.38)	145.2074
+124	DCB_se1_ag3_f_02	145.2074	uh, basketball team.	146.3262
+125	DCB_se1_ag3_f_02	146.3262	(pause 0.66)	146.9903
+126	DCB_se1_ag3_f_02	146.9903	Like we had to work for our grades,	148.8485
+127	DCB_se1_ag3_f_02	148.8485	(pause 0.07)	148.9205
+128	DCB_se1_ag3_f_02	148.9205	they boys they didn't.	149.9783
+129	DCB_se1_ag3_f_02	149.9783	(pause 0.31)	150.2866
+130	DCB_se1_ag3_f_02	150.2866	They would get they grade handed to.	151.9312
+131	DCB_se1_ag3_f_02	151.9312	(pause 0.57)	152.5044
+132	DCB_se1_ag3_f_02	152.5044	Um,	153.2031
+133	DCB_se1_ag3_f_02	153.2031	(pause 1.10)	154.3024
+134	DCB_se1_ag3_f_02	154.3024	when we needed help, it was nobody to go to, I had to learn on my own.	158.1008
+135	DCB_se1_ag3_f_02	158.1008	(pause 0.65)	158.7531
+136	DCB_se1_ag3_f_02	158.7531	Um,	159.4963
+137	DCB_se1_ag3_f_02	159.4963	(pause 2.92)	162.4171
+138	DCB_se1_ag3_f_02	162.4171	<ts>	162.5040
+139	DCB_se1_ag3_f_02	162.5040	(pause 0.25)	162.7531
+140	DCB_se1_ag3_f_02	162.7531	only teacher who had a impact on me	165.3029
+141	DCB_se1_ag3_f_02	165.3029	(pause 0.37)	165.6745
+142	DCB_se1_ag3_f_02	165.6745	was /RD-NAME-6/ in /RD-SCHOOL-3/ High School um,	169.7180
+143	DCB_se1_ag3_f_02	169.7180	(pause 0.60)	170.3229
+144	DCB_se1_ag3_f_02	170.3229	he was our ROTC instructor.	172.2909
+145	DCB_se1_ag3_f_02	172.2909	(pause 0.09)	172.3858
+146	DCB_se1_ag3_f_02	172.3858	And	172.9985
+147	DCB_se1_ag3_f_02	172.9985	(pause 0.66)	173.6627
+148	DCB_se1_ag3_f_02	173.6627	um,	174.2873
+149	DCB_se1_ag3_f_02	174.2873	(pause 0.68)	174.9712
+150	DCB_se1_ag3_f_02	174.9712	he was very d- well disciplined, he disciplined all his s- uh,	178.2280
+151	DCB_se1_ag3_f_02	178.2280	(pause 0.93)	179.1530
+152	DCB_se1_ag3_f_02	179.1530	kids and	180.2830
+153	DCB_se1_ag3_f_02	180.2830	(pause 0.60)	180.8878
+154	DCB_se1_ag3_f_02	180.8878	he treated every	181.8643
+155	DCB_se1_ag3_f_02	181.8643	(pause 0.23)	182.0936
+156	DCB_se1_ag3_f_02	182.0936	uh, kid like a cadet like we was his kids, so.	185.0162
+157	DCB_se1_ag3_f_02	185.0162	(pause 0.71)	185.7259
+158	DCB_se1_ag3_f_02	185.7259	He really had a impact on me.	187.4930
+159	DCB_se1_ag3_f_02	187.4930	(pause 0.86)	188.3509
+160	DCB_se1_ag3_f_02	188.3509	So.	188.8522
+161	DCB_se1_ag3_f_02	188.8522	(pause 0.53)	189.3820
+162	DCB_se1_ag3_f_02	189.3820	That's it.	189.9750
+163	DCB_se1_ag3_m_01	192.1295	Okay, well that's good.	193.3029
+164	DCB_se1_ag3_m_01	193.3029	(pause 2.67)	195.9753
+165	DCB_se1_ag3_m_01	195.9753	What um-	196.8313
+166	DCB_se1_ag3_m_01	196.8313	(pause 1.04)	197.8682
+167	DCB_se1_ag3_m_01	197.8682	what's your occupation?	198.8482
+168	DCB_se1_ag3_f_02	200.0979	I'm a mail handler assistant	201.6159
+169	DCB_se1_ag3_f_02	201.6159	(pause 0.41)	202.0224
+170	DCB_se1_ag3_f_02	202.0224	at	202.2635
+171	DCB_se1_ag3_f_02	202.2635	(pause 0.72)	202.9830
+172	DCB_se1_ag3_f_02	202.9830	the United States Postal Service.	204.9359
+173	DCB_se1_ag3_f_02	204.9359	(pause 0.61)	205.5487
+174	DCB_se1_ag3_f_02	205.5487	Currently	206.3341
+175	DCB_se1_ag3_f_02	206.3341	(pause 0.16)	206.4902
+176	DCB_se1_ag3_f_02	206.4902	um, getting my	207.5879
+177	DCB_se1_ag3_f_02	207.5879	(pause 0.38)	207.9634
+178	DCB_se1_ag3_f_02	207.9634	degree, bachelor's degree	209.7503
+179	DCB_se1_ag3_f_02	209.7503	(pause 0.51)	210.2642
+180	DCB_se1_ag3_f_02	210.2642	in business administration with a minor in HR, hopefully I could	213.5922
+181	DCB_se1_ag3_f_02	213.5922	(pause 0.16)	213.7543
+182	DCB_se1_ag3_f_02	213.7543	continue to get my master's.	215.5444
+183	DCB_se1_ag3_m_01	216.9794	Your master's in what?	217.8491
+184	DCB_se1_ag3_f_02	218.0428	Business administration with a minor HR.	220.5029
+185	DCB_se1_ag3_m_01	221.3747	Oh, awesome.	222.0863
+186	DCB_se1_ag3_m_01	222.0863	(pause 1.82)	223.9081
+187	DCB_se1_ag3_m_01	223.9081	When you were talking about kids like,	225.3984
+188	DCB_se1_ag3_m_01	225.3984	(pause 0.46)	225.8610
+189	DCB_se1_ag3_m_01	225.8610	and being as though you that you have kids,	227.5372
+190	DCB_se1_ag3_m_01	227.5372	(pause 0.88)	228.4141
+191	DCB_se1_ag3_m_01	228.4141	what do you do with your kids? Like what do your kids do after school?	231.7012
+192	DCB_se1_ag3_f_02	232.1136	Keep them active.	233.0643
+193	DCB_se1_ag3_f_02	233.0643	(pause 0.48)	233.5408
+194	DCB_se1_ag3_f_02	233.5408	I try to keep 'em in sports.	235.1407
+195	DCB_se1_ag3_f_02	235.1407	(pause 0.62)	235.7585
+196	DCB_se1_ag3_f_02	235.7585	Um,	236.5334
+197	DCB_se1_ag3_f_02	236.5334	(pause 1.32)	237.8570
+198	DCB_se1_ag3_f_02	237.8570	they love to stay in the house and play the game but	239.9562
+199	DCB_se1_ag3_f_02	239.9562	(pause 0.39)	240.3476
+200	DCB_se1_ag3_f_02	240.3476	we have to iterate with them that	242.7030
+201	DCB_se1_ag3_f_02	242.7030	(pause 0.20)	242.9046
+202	DCB_se1_ag3_f_02	242.9046	they need to read.	244.0620
+203	DCB_se1_ag3_f_02	244.0620	(pause 1.12)	245.1817
+204	DCB_se1_ag3_f_02	245.1817	And one thing I don't like about the public schools	248.3159
+205	DCB_se1_ag3_f_02	248.3159	(pause 1.17)	249.4821
+206	DCB_se1_ag3_f_02	249.4821	um, is that they took out phonics.	251.9245
+207	DCB_se1_ag3_f_02	251.9245	(pause 0.84)	252.7626
+208	DCB_se1_ag3_f_02	252.7626	Phonics and	254.2128
+209	DCB_se1_ag3_f_02	254.2128	(pause 0.18)	254.3946
+210	DCB_se1_ag3_f_02	254.3946	handwriting.	255.4146
+211	DCB_se1_ag3_f_02	255.4146	(pause 0.78)	256.1973
+212	DCB_se1_ag3_f_02	256.1973	I think	256.8496
+213	DCB_se1_ag3_f_02	256.8496	(pause 0.59)	257.4426
+214	DCB_se1_ag3_f_02	257.4426	phonics should still be in the school cause that's how I learned how to read.	261.1540
+215	DCB_se1_ag3_f_02	261.1540	(pause 0.29)	261.4426
+216	DCB_se1_ag3_f_02	261.4426	That's why you-	262.2016
+217	DCB_se1_ag3_f_02	262.2016	(pause 0.26)	262.4586
+218	DCB_se1_ag3_f_02	262.4586	we have so many kids who growing up in the inner city that don't know how to read cause they don't know how to break-	267.1759
+219	DCB_se1_ag3_f_02	267.1759	(pause 0.35)	267.5213
+220	DCB_se1_ag3_f_02	267.5213	break they words down.	268.6005
+221	DCB_se1_ag3_f_02	268.6005	(pause 0.87)	269.4742
+222	DCB_se1_ag3_f_02	269.4742	Versus when we had phonics in the school system,	272.0708
+223	DCB_se1_ag3_f_02	272.0708	(pause 0.32)	272.3871
+224	DCB_se1_ag3_f_02	272.3871	they taught the kids how to break the word down before they c- can know the word and learn how to read better.	277.3003
+225	DCB_se1_ag3_f_02	277.3003	(pause 0.96)	278.2648
+226	DCB_se1_ag3_f_02	278.2648	Um,	278.8929
+227	DCB_se1_ag3_f_02	278.8929	(pause 0.22)	279.1108
+228	DCB_se1_ag3_f_02	279.1108	also me and my husband	280.4701
+229	DCB_se1_ag3_f_02	280.4701	(pause 0.51)	280.9800
+230	DCB_se1_ag3_f_02	280.9800	when they was growing up we always read to them.	283.5655
+231	DCB_se1_ag3_f_02	283.5655	(pause 0.24)	283.8027
+232	DCB_se1_ag3_f_02	283.8027	Um,	284.4233
+233	DCB_se1_ag3_f_02	284.4233	(pause 0.73)	285.1579
+234	DCB_se1_ag3_f_02	285.1579	and they have other people in they lives that	288.0873
+235	DCB_se1_ag3_f_02	288.0873	(pause 0.75)	288.8345
+236	DCB_se1_ag3_f_02	288.8345	had a impact on 'em too like my husband father he was real smart.	292.4352
+237	DCB_se1_ag3_f_02	292.4352	(pause 0.54)	292.9768
+238	DCB_se1_ag3_f_02	292.9768	Um,	293.5809
+239	DCB_se1_ag3_f_02	293.5809	(pause 1.21)	294.7867
+240	DCB_se1_ag3_f_02	294.7867	<ts>	294.8697
+241	DCB_se1_ag3_f_02	294.8697	(pause 0.27)	295.1424
+242	DCB_se1_ag3_f_02	295.1424	his brothers,	296.2335
+243	DCB_se1_ag3_f_02	296.2335	(pause 0.66)	296.8977
+244	DCB_se1_ag3_f_02	296.8977	my uh, sisters,	298.6048
+245	DCB_se1_ag3_f_02	298.6048	(pause 1.11)	299.7117
+246	DCB_se1_ag3_f_02	299.7117	um,	300.4024
+247	DCB_se1_ag3_f_02	300.4024	(pause 1.74)	302.1390
+248	DCB_se1_ag3_f_02	302.1390	and	302.6799
+249	DCB_se1_ag3_f_02	302.6799	(pause 0.23)	302.9052
+250	DCB_se1_ag3_f_02	302.9052	you know	303.6050
+251	DCB_se1_ag3_f_02	303.6050	(pause 0.84)	304.4470
+252	DCB_se1_ag3_f_02	304.4470	my kids was just very early at learning how to use the computer and stuff like that cause they had family members who showed 'em how to, so.	310.6464
+253	DCB_se1_ag3_f_02	310.6464	(pause 1.58)	312.2256
+254	DCB_se1_ag3_f_02	312.2256	That's one way you could, you know	314.0125
+255	DCB_se1_ag3_f_02	314.0125	(pause 0.24)	314.2497
+256	DCB_se1_ag3_f_02	314.2497	teach 'em	314.8497
+257	DCB_se1_ag3_f_02	314.8497	(pause 1.13)	315.9805
+258	DCB_se1_ag3_f_02	315.9805	how to be responsible and	317.6567
+259	DCB_se1_ag3_f_02	317.6567	(pause 0.42)	318.0757
+260	DCB_se1_ag3_f_02	318.0757	you know, how to study	319.5543
+261	DCB_se1_ag3_f_02	319.5543	(pause 1.05)	320.6051
+262	DCB_se1_ag3_f_02	320.6051	but they gotta want it for theyself too and you-	322.8624
+263	DCB_se1_ag3_f_02	322.8624	(pause 0.17)	323.0285
+264	DCB_se1_ag3_f_02	323.0285	being a parent you have to want that for your kids, too.	325.4907
+265	DCB_se1_ag3_m_01	327.7756	Yep, mm-hm.	328.6365
+266	DCB_se1_ag3_m_01	328.6365	(pause 3.02)	331.6531
+267	DCB_se1_ag3_m_01	331.6531	Did you um-	332.4951
+268	DCB_se1_ag3_m_01	332.4951	(pause 1.31)	333.8069
+269	DCB_se1_ag3_m_01	333.8069	What was your first job?	334.8427
+270	DCB_se1_ag3_f_02	337.0090	My first job.	338.9138
+271	DCB_se1_ag3_f_02	338.9138	(pause 0.59)	339.4989
+272	DCB_se1_ag3_f_02	339.4989	Hm.	340.2976
+273	DCB_se1_ag3_f_02	340.2976	(pause 4.04)	344.3370
+274	DCB_se1_ag3_f_02	344.3370	What was my first job?	345.5743
+275	DCB_se1_ag3_f_02	345.5743	(pause 2.96)	348.5386
+276	DCB_se1_ag3_f_02	348.5386	I think it was a-	349.4874
+277	DCB_se1_ag3_f_02	349.4874	(pause 0.39)	349.8787
+278	DCB_se1_ag3_f_02	349.8787	/I d- uh-/	350.3294
+279	DCB_se1_ag3_f_02	350.3294	(pause 1.44)	351.7717
+280	DCB_se1_ag3_f_02	351.7717	In high school	352.9418
+281	DCB_se1_ag3_f_02	352.9418	(pause 0.18)	353.1237
+282	DCB_se1_ag3_f_02	353.1237	my last year of high school cause I had a half day schedule	356.1037
+283	DCB_se1_ag3_f_02	356.1037	(pause 0.47)	356.5702
+284	DCB_se1_ag3_f_02	356.5702	me and my sister work at this peanut factory all the way out Laurel,	360.1472
+285	DCB_se1_ag3_f_02	360.1472	(pause 0.75)	360.8944
+286	DCB_se1_ag3_f_02	360.8944	and	361.7245
+287	DCB_se1_ag3_f_02	361.7245	(pause 0.37)	362.0922
+288	DCB_se1_ag3_f_02	362.0922	I quit	362.5626
+289	DCB_se1_ag3_f_02	362.5626	(pause 1.33)	363.8902
+290	DCB_se1_ag3_f_02	363.8902	like	364.2381
+291	DCB_se1_ag3_f_02	364.2381	(pause 0.86)	365.0960
+292	DCB_se1_ag3_f_02	365.0960	in two weeks cause I did- I couldn't do that and sports at the ta- same time and try to go to school.	369.7641
+293	DCB_se1_ag3_f_02	369.7641	(pause 1.18)	370.9461
+294	DCB_se1_ag3_f_02	370.9461	Cause it was a night job, so	372.6651
+295	DCB_se1_ag3_f_02	372.6651	(pause 0.52)	373.1869
+296	DCB_se1_ag3_f_02	373.1869	it didn't last long.	374.3057
+297	DCB_se1_ag3_f_02	374.3057	(pause 1.90)	376.2072
+298	DCB_se1_ag3_f_02	376.2072	At all.	376.9765
+299	DCB_se1_ag3_m_01	377.4873	<laugh>	378.7959
+300	DCB_se1_ag3_f_02	381.5190	And then as I got out of	383.5509
+301	DCB_se1_ag3_f_02	383.5509	(pause 0.26)	383.8158
+302	DCB_se1_ag3_f_02	383.8158	high school,	384.7409
+303	DCB_se1_ag3_f_02	384.7409	(pause 0.74)	385.4801
+304	DCB_se1_ag3_f_02	385.4801	I went to college for a little while	387.3533
+305	DCB_se1_ag3_f_02	387.3533	(pause 1.45)	388.8041
+306	DCB_se1_ag3_f_02	388.8041	and	389.4524
+307	DCB_se1_ag3_f_02	389.4524	(pause 1.23)	390.6812
+308	DCB_se1_ag3_f_02	390.6812	when I got to college, cause I didn't have the freedom that I didn't have,	394.5231
+309	DCB_se1_ag3_f_02	394.5231	(pause 0.19)	394.7168
+310	DCB_se1_ag3_f_02	394.7168	while I was in school,	395.8988
+311	DCB_se1_ag3_f_02	395.8988	(pause 0.91)	396.8120
+312	DCB_se1_ag3_f_02	396.8120	party was like a-	397.9031
+313	DCB_se1_ag3_f_02	397.9031	(pause 0.20)	398.1047
+314	DCB_se1_ag3_f_02	398.1047	uh,	398.5079
+315	DCB_se1_ag3_f_02	398.5079	(pause 0.15)	398.6621
+316	DCB_se1_ag3_f_02	398.6621	college was like a partying ground for me.	400.7725
+317	DCB_se1_ag3_f_02	400.7725	(pause 1.44)	402.2154
+318	DCB_se1_ag3_f_02	402.2154	So.	402.8487
+319	DCB_se1_ag3_f_02	402.8487	(pause 0.54)	403.3928
+320	DCB_se1_ag3_f_02	403.3928	I left that,	404.3574
+321	DCB_se1_ag3_f_02	404.3574	(pause 1.00)	405.3575
+322	DCB_se1_ag3_f_02	405.3575	then I went to hair school.	406.8202
+323	DCB_se1_ag3_f_02	406.8202	(pause 0.80)	407.6221
+324	DCB_se1_ag3_f_02	407.6221	Had to drop out of hair school cause I had got pregnant with my twins.	412.0648
+325	DCB_se1_ag3_f_02	412.0648	(pause 1.17)	413.2389
+326	DCB_se1_ag3_f_02	413.2389	Then I went back to get my license so I'm currently licensed as a hair stylist	417.2853
+327	DCB_se1_ag3_f_02	417.2853	(pause 1.04)	418.3221
+328	DCB_se1_ag3_f_02	418.3221	as well as a licensed daycare	420.6934
+329	DCB_se1_ag3_f_02	420.6934	(pause 0.26)	420.9543
+330	DCB_se1_ag3_f_02	420.9543	provider.	421.5473
+331	DCB_se1_ag3_f_02	421.5473	(pause 0.44)	421.9861
+332	DCB_se1_ag3_f_02	421.9861	Cause eventually I wanna open my salon	424.7541
+333	DCB_se1_ag3_f_02	424.7541	(pause 1.01)	425.7687
+334	DCB_se1_ag3_f_02	425.7687	slash daycare center.	427.5358
+335	DCB_se1_ag3_f_02	427.5358	(pause 0.72)	428.2553
+336	DCB_se1_ag3_f_02	428.2553	So that's why I went back to school to get my degree in business management	432.2948
+337	DCB_se1_ag3_f_02	432.2948	(pause 1.17)	433.4610
+338	DCB_se1_ag3_f_02	433.4610	and HR.	434.3837
+339	DCB_se1_ag3_m_01	435.8955	Awesome.	436.4569
+340	DCB_se1_ag3_m_01	436.4569	(pause 4.85)	441.3108
+341	DCB_se1_ag3_m_01	441.3108	Okay.	441.9077
+342	DCB_se1_ag3_m_01	441.9077	(pause 0.39)	442.2951
+343	DCB_se1_ag3_m_01	442.2951	Um,	442.7965
+344	DCB_se1_ag3_m_01	442.7965	(pause 0.20)	442.9965
+345	DCB_se1_ag3_m_01	442.9965	I have another question for you.	444.3845
+346	DCB_se1_ag3_m_01	444.3845	(pause 1.57)	445.9512
+347	DCB_se1_ag3_m_01	445.9512	What did you learn from your neighborhood	447.3381
+348	DCB_se1_ag3_m_01	447.3381	(pause 0.29)	447.6267
+349	DCB_se1_ag3_m_01	447.6267	growing up?	448.1208
+350	DCB_se1_ag3_f_02	449.2712	Nothing but to protect myself.	451.0752
+351	DCB_se1_ag3_m_01	453.7733	To protect yourself? What do you mean?	455.0818
+352	DCB_se1_ag3_f_02	455.9231	Everywhere I looked around I had to fight.	457.7654
+353	DCB_se1_ag3_f_02	457.7654	(pause 1.10)	458.8644
+354	DCB_se1_ag3_f_02	458.8644	So I learned how to protect myself.	461.1526
+355	DCB_se1_ag3_f_02	461.1526	(pause 0.47)	461.6191
+356	DCB_se1_ag3_f_02	461.6191	And I learned that	463.4494
+357	DCB_se1_ag3_f_02	463.4494	(pause 0.19)	463.6392
+358	DCB_se1_ag3_f_02	463.6392	if you wanna succeed and get out the ghetto you gotta work hard for it.	467.1490
+359	DCB_se1_ag3_f_02	467.1490	(pause 0.59)	467.7380
+360	DCB_se1_ag3_f_02	467.7380	So that's what I did.	469.1605
+361	DCB_se1_ag3_m_01	471.2478	If you was to go um,	472.7184
+362	DCB_se1_ag3_m_01	472.7184	(pause 1.05)	473.7653
+363	DCB_se1_ag3_m_01	473.7653	to like a movie theater	475.1253
+364	DCB_se1_ag3_m_01	475.1253	(pause 0.38)	475.5008
+365	DCB_se1_ag3_m_01	475.5008	in DC, where would you go?	477.0584
+366	DCB_se1_ag3_f_02	477.3549	Georgetown.	478.1804
+367	DCB_se1_ag3_m_01	479.4850	What's the name of the movie theater?	480.4140
+368	DCB_se1_ag3_f_02	480.8449	Georgetown.	481.6514
+369	DCB_se1_ag3_m_01	481.8760	Oh Georgetown [movie theater?]	483.0395
+370	DCB_se1_ag3_f_02	482.6515	[Mm-hm.]	483.2399
+371	DCB_se1_ag3_f_02	483.4810	I think it's Georgetown sixteen, or something like that.	485.9953
+372	DCB_se1_ag3_m_01	487.0383	How often have you visited National Mall?	488.8924
+373	DCB_se1_ag3_f_02	490.9513	I ain't even gonna lie.	492.0543
+374	DCB_se1_ag3_f_02	492.0543	(pause 0.26)	492.3191
+375	DCB_se1_ag3_f_02	492.3191	I visited National Mall one time and that was when I was in school.	495.9950
+376	DCB_se1_ag3_m_01	497.5960	<laugh> You said it.	498.8176
+377	DCB_se1_ag3_m_01	498.8176	(pause 0.64)	499.4613
+378	DCB_se1_ag3_m_01	499.4613	Where do you go to see the fireworks?	501.0347
+379	DCB_se1_ag3_m_01	501.0347	(pause 2.20)	503.2327
+380	DCB_se1_ag3_m_01	503.2327	Fourth of July. On July fourth.	505.1770
+381	DCB_se1_ag3_f_02	507.6991	My brother backyard.	509.0525
+382	DCB_se1_ag3_m_01	510.3234	[<laugh>]	510.9006
+383	DCB_se1_ag3_f_02	510.7069	[<laugh>]	511.4699
+384	DCB_se1_ag3_m_01	511.9363	You can see everything	512.7930
+385	DCB_se1_ag3_m_01	512.7930	(pause 0.32)	513.1085
+386	DCB_se1_ag3_m_01	513.1085	[from there?]	513.5671
+387	DCB_se1_ag3_f_02	513.2007	[Yup.]	513.6553
+388	DCB_se1_ag3_f_02	514.3550	Well sometimes we can look out our window and	516.6716
+389	DCB_se1_ag3_f_02	516.6716	(pause 0.14)	516.8140
+390	DCB_se1_ag3_f_02	516.8140	see it.	517.3865
+391	DCB_se1_ag3_f_02	517.3865	(pause 2.03)	519.4185
+392	DCB_se1_ag3_f_02	519.4185	Or sometime we go to Cosca Park.	521.1816
+393	DCB_se1_ag3_f_02	521.1816	(pause 1.80)	522.9796
+394	DCB_se1_ag3_f_02	522.9796	Or sometimes you could sit on two ninety-five	525.2211
+395	DCB_se1_ag3_f_02	525.2211	(pause 0.60)	525.8253
+396	DCB_se1_ag3_f_02	525.8253	and look at it.	526.5408
+397	DCB_se1_ag3_m_01	527.9956	Mm-hm.	528.6440
+398	DCB_se1_ag3_m_01	528.6440	(pause 1.65)	530.2957
+399	DCB_se1_ag3_m_01	530.2957	<ts>	530.3590
+400	DCB_se1_ag3_m_01	530.3590	(pause 0.17)	530.5250
+401	DCB_se1_ag3_m_01	530.5250	The people um- is there a group of people that you hang around with?	533.4741
+402	DCB_se1_ag3_f_02	534.8175	My husband, my family, that's it.	536.7981
+403	DCB_se1_ag3_m_01	539.7782	You don't have any like, real close friends?	541.3832
+404	DCB_se1_ag3_f_02	541.8141	Yes, but all us work.	543.1622
+405	DCB_se1_ag3_f_02	543.1622	(pause 0.86)	544.0233
+406	DCB_se1_ag3_f_02	544.0233	I have a	544.6242
+407	DCB_se1_ag3_f_02	544.6242	(pause 0.15)	544.7693
+408	DCB_se1_ag3_f_02	544.7693	uh, friend she's a police officer that's my best friend, we went to hair school together, w- basically we did everything together	550.7510
+409	DCB_se1_ag3_f_02	550.7510	(pause 0.42)	551.1740
+410	DCB_se1_ag3_f_02	551.1740	until she went into the police force.	553.0114
+411	DCB_se1_ag3_f_02	553.0114	(pause 0.88)	553.8932
+412	DCB_se1_ag3_f_02	553.8932	Um,	554.5336
+413	DCB_se1_ag3_f_02	554.5336	(pause 0.19)	554.7273
+414	DCB_se1_ag3_f_02	554.7273	back in high school I still talk to	557.0748
+415	DCB_se1_ag3_f_02	557.0748	(pause 0.49)	557.5650
+416	DCB_se1_ag3_f_02	557.5650	um, some of my friends from the basketball team.	559.9212
+417	DCB_se1_ag3_f_02	559.9212	(pause 0.82)	560.7388
+418	DCB_se1_ag3_f_02	560.7388	<ts>	560.8218
+419	DCB_se1_ag3_f_02	560.8218	(pause 0.09)	560.9127
+420	DCB_se1_ag3_f_02	560.9127	Uh, /RD-NAME-3/	562.0434
+421	DCB_se1_ag3_f_02	562.0434	(pause 0.70)	562.7391
+422	DCB_se1_ag3_f_02	562.7391	uh, me and her close	564.1386
+423	DCB_se1_ag3_f_02	564.1386	(pause 0.57)	564.7039
+424	DCB_se1_ag3_f_02	564.7039	but uh, we have our families, she live out Clinton.	567.7252
+425	DCB_se1_ag3_f_02	567.7252	(pause 0.82)	568.5418
+426	DCB_se1_ag3_f_02	568.5418	So we see each other when we go to church sometimes.	571.9418
+427	DCB_se1_ag3_f_02	571.9418	(pause 0.60)	572.5370
+428	DCB_se1_ag3_f_02	572.5370	And we talk on the phone but when we get together it's always	575.6594
+429	DCB_se1_ag3_f_02	575.6594	(pause 0.56)	576.2176
+430	DCB_se1_ag3_f_02	576.2176	the same, so we know that	577.7161
+431	DCB_se1_ag3_f_02	577.7161	(pause 0.14)	577.8545
+432	DCB_se1_ag3_f_02	577.8545	you know we are true friends cause it alway the s-	579.8425
+433	DCB_se1_ag3_f_02	579.8425	(pause 0.14)	579.9839
+434	DCB_se1_ag3_f_02	579.9839	always the same when we see each other.	581.7759
+435	DCB_se1_ag3_f_02	581.7759	(pause 2.69)	584.4646
+436	DCB_se1_ag3_f_02	584.4646	But all in all I stays in the house.	586.6052
+437	DCB_se1_ag3_f_02	586.6052	(pause 0.56)	587.1680
+438	DCB_se1_ag3_f_02	587.1680	Trying to get them book works done.	588.7496
+439	DCB_se1_ag3_f_02	588.7496	(pause 0.31)	589.0587
+440	DCB_se1_ag3_f_02	589.0587	That's it.	589.5754
+441	DCB_se1_ag3_m_01	591.1947	Do they ever like, come around and visit?	592.8601
+442	DCB_se1_ag3_f_02	593.8050	Yeah they'll come around and visit	595.2323
+443	DCB_se1_ag3_f_02	595.2323	(pause 0.16)	595.3918
+444	DCB_se1_ag3_f_02	595.3918	as well as I visit them but	597.3527
+445	DCB_se1_ag3_f_02	597.3527	(pause 0.51)	597.8647
+446	DCB_se1_ag3_f_02	597.8647	like I said	598.7043
+447	DCB_se1_ag3_f_02	598.7043	(pause 0.11)	598.8160
+448	DCB_se1_ag3_f_02	598.8160	we be too busy	599.8707
+449	DCB_se1_ag3_f_02	599.8707	(pause 0.40)	600.2675
+450	DCB_se1_ag3_f_02	600.2675	with our family.	601.4162
+451	DCB_se1_ag3_m_01	602.9386	Mm-hm.	603.6851
+452	DCB_se1_ag3_m_01	603.6851	(pause 4.17)	607.8588
+453	DCB_se1_ag3_m_01	607.8588	Okay.	608.5099
+454	DCB_se1_ag3_m_01	608.5099	(pause 2.15)	610.6643
+455	DCB_se1_ag3_m_01	610.6643	Well let me see if have anything else, you've been awesome so far and I appreciate your time.	615.4723
+456	DCB_se1_ag3_m_01	615.4723	(pause 1.12)	616.5963
+457	DCB_se1_ag3_m_01	616.5963	Um,	617.2329
+458	DCB_se1_ag3_m_01	617.2329	(pause 2.46)	619.6956
+459	DCB_se1_ag3_m_01	619.6956	let's see and make sure I covered everything.	621.5594
+460	DCB_se1_ag3_m_01	621.5594	(pause 5.01)	626.5733
+461	DCB_se1_ag3_m_01	626.5733	Yep.	627.1822
+462	DCB_se1_ag3_m_01	627.1822	(pause 0.90)	628.0865
+463	DCB_se1_ag3_m_01	628.0865	Oh.	628.4509
+464	DCB_se1_ag3_m_01	628.4509	(pause 0.27)	628.7185
+465	DCB_se1_ag3_m_01	628.7185	One more thing.	629.2482
+466	DCB_se1_ag3_m_01	629.2482	(pause 1.14)	630.3923
+467	DCB_se1_ag3_m_01	630.3923	Any special words	631.6979
+468	DCB_se1_ag3_m_01	631.6979	(pause 0.41)	632.1085
+469	DCB_se1_ag3_m_01	632.1085	give me some s- DC words that are /pecifically/ Southeast DC	636.7263
+470	DCB_se1_ag3_f_02	636.8502	I [can't remember.]	638.2142
+471	DCB_se1_ag3_m_01	637.0744	[words-]	637.6114
+472	DCB_se1_ag3_f_02	640.0095	You gonna have to come back with me with that.	642.1270
+473	DCB_se1_ag3_f_02	642.1270	(pause 0.95)	643.0820
+474	DCB_se1_ag3_f_02	643.0820	I been out [of DC for so long um-]	645.7016
+475	DCB_se1_ag3_m_01	643.4318	[Give me word- just give me- no just give me words] that- that-	646.6381
+476	DCB_se1_ag3_m_01	646.8964	that-	647.2516
+477	DCB_se1_ag3_m_01	647.2516	(pause 0.27)	647.5192
+478	DCB_se1_ag3_m_01	647.5192	that just from DC just g- in- even now,	649.9589
+479	DCB_se1_ag3_m_01	649.9589	(pause 0.39)	650.3464
+480	DCB_se1_ag3_m_01	650.3464	even- about, you know,	651.5043
+481	DCB_se1_ag3_m_01	651.5043	(pause 0.23)	651.7304
+482	DCB_se1_ag3_m_01	651.7304	no matter how far back you go with the [words.]	653.6101
+483	DCB_se1_ag3_f_02	653.4324	[Mm-mm.]	654.0463
+484	DCB_se1_ag3_m_01	654.8528	With they used to say compared to what they say now, how people talk now.	657.8745
+485	DCB_se1_ag3_f_02	658.8526	That's the bomb right there.	660.3179
+486	DCB_se1_ag3_f_02	660.3179	(pause 0.55)	660.8632
+487	DCB_se1_ag3_f_02	660.8632	That's the bomb dot com.	662.3625
+488	DCB_se1_ag3_f_02	662.3625	(pause 0.51)	662.8700
+489	DCB_se1_ag3_f_02	662.8700	That's it, that's all I know right now. But it was a lot of words we used to say.	666.7075
+490	DCB_se1_ag3_f_02	666.7075	(pause 0.79)	667.5009
+491	DCB_se1_ag3_f_02	667.5009	But once you leave,	669.0879
+492	DCB_se1_ag3_f_02	669.0879	(pause 0.53)	669.6185
+493	DCB_se1_ag3_f_02	669.6185	and you got a	670.4158
+494	DCB_se1_ag3_f_02	670.4158	(pause 0.21)	670.6234
+495	DCB_se1_ag3_f_02	670.6234	you know	671.0478
+496	DCB_se1_ag3_f_02	671.0478	(pause 0.63)	671.6798
+497	DCB_se1_ag3_f_02	671.6798	order for you to get a job you gotta leave them slang words behind, so	675.8910
+498	DCB_se1_ag3_f_02	675.8910	(pause 1.14)	677.0351
+499	DCB_se1_ag3_f_02	677.0351	I really don't even know anymore.	678.7928
+500	DCB_se1_ag3_f_02	678.7928	(pause 0.58)	679.3694
+501	DCB_se1_ag3_f_02	679.3694	To be honest. Maybe when you leave they'll come back.	682.0028
+502	DCB_se1_ag3_f_02	682.0028	(pause 0.12)	682.1274
+503	DCB_se1_ag3_f_02	682.1274	<laugh>	682.9071
+504	DCB_se1_ag3_f_02	682.9071	(pause 1.51)	684.4156
+505	DCB_se1_ag3_f_02	684.4156	You know how I talk with y'all around so I don't know.	687.3812
+506	DCB_se1_ag3_f_02	687.3812	(pause 1.06)	688.4423
+507	DCB_se1_ag3_f_02	688.4423	Mm-mm. (I don't know intonation)	689.0789
+508	DCB_se1_ag3_m_01	691.6108	Do you think DC like has they own language like do you think-	694.5536
+509	DCB_se1_ag3_m_01	694.5536	(pause 0.81)	695.3653
+510	DCB_se1_ag3_m_01	695.3653	like,	695.6928
+511	DCB_se1_ag3_m_01	695.6928	(pause 0.27)	695.9604
+512	DCB_se1_ag3_m_01	695.9604	could you recogni- could you know if you talking to someone if they're from DC or not? If they say they're from DC [you could tell that?]	701.3099
+513	DCB_se1_ag3_f_02	700.6513	[<sigh> Well some] people tell me when I talk that I sound like I'm from South Carolina, so.	705.4215
+514	DCB_se1_ag3_f_02	706.1173	I don't know. I don't know what they saying when they say I sound like I'm from the South.	709.7307
+515	DCB_se1_ag3_m_01	711.7679	You think you sound like you from the [South?]	713.4056
+516	DCB_se1_ag3_f_02	713.0365	[No.]	713.4287
+517	DCB_se1_ag3_m_01	713.5209	[<laugh>]	715.0710
+518	DCB_se1_ag3_f_02	713.9546	[<laugh>]	714.7839
+519	DCB_se1_ag3_m_01	717.0862	Okay.	718.0181
+520	DCB_se1_ag3_m_01	718.0181	(pause 2.42)	720.4347
+521	DCB_se1_ag3_m_01	720.4347	How- how many kids do you have?	721.9663
+522	DCB_se1_ag3_f_02	722.7552	Three.	723.2258
+523	DCB_se1_ag3_m_01	723.7056	What are their names?	724.5498
+524	DCB_se1_ag3_f_02	724.8128	/RD-NAME-2/, /RD-NAME-2/ and /RD-NAME-4/.	726.6527
+525	DCB_se1_ag3_m_01	729.3192	How long did you live in DC?	730.4494
+526	DCB_se1_ag3_f_02	732.1279	Uh, from	733.5995
+527	DCB_se1_ag3_f_02	733.5995	(pause 1.68)	735.2834
+528	DCB_se1_ag3_f_02	735.2834	nineteen seventy-seven until	737.5016
+529	DCB_se1_ag3_f_02	737.5016	(pause 1.30)	738.8026
+530	DCB_se1_ag3_f_02	738.8026	ninety	740.1597
+531	DCB_se1_ag3_f_02	740.1597	(pause 0.18)	740.3429
+532	DCB_se1_ag3_f_02	740.3429	six.	741.0732
+533	DCB_se1_ag3_f_02	741.0732	(pause 0.93)	742.0004
+534	DCB_se1_ag3_f_02	742.0004	After I graduated from high school ninety-five, we moved to Maryland ninety-six.	746.0851
+535	DCB_se1_ag3_m_01	747.3864	Ninety-six?	748.2167
+536	DCB_se1_ag3_f_02	748.2906	[Mm-hm.]	748.8027
+537	DCB_se1_ag3_m_01	748.6653	[And] you stay in DC currently now?	750.6388
+538	DCB_se1_ag3_f_02	751.3769	Yeah we just moved back, me and my husband just moved back in DC, it's been a year and a half now.	756.4329
+539	DCB_se1_ag3_m_01	758.0739	Mm okay.	758.9032
+540	DCB_se1_ag3_m_01	758.9032	(pause 0.45)	759.3517
+541	DCB_se1_ag3_m_01	759.3517	You like it	759.9053
+542	DCB_se1_ag3_m_01	759.9053	(pause 0.60)	760.5097
+543	DCB_se1_ag3_m_01	760.5097	better	760.9470
+544	DCB_se1_ag3_f_02	761.1048	[Uh no.]	761.9152
+545	DCB_se1_ag3_m_01	761.1048	[than Maryland?]	761.8128
+546	DCB_se1_ag3_f_02	762.4465	I'm go- I'm moving back to Maryland.	764.0196
+547	DCB_se1_ag3_m_01	764.0612	<laugh>	764.9792
+548	DCB_se1_ag3_m_01	764.9792	(pause 1.13)	766.1049
+549	DCB_se1_ag3_m_01	766.1049	Ah, [okay.]	766.9417
+550	DCB_se1_ag3_f_02	766.5239	[Only thing] I like now n- is the school system.	768.7265
+551	DCB_se1_ag3_f_02	769.8835	[And that's it.]	770.5098
+552	DCB_se1_ag3_m_01	769.9008	[School systems] in DC?	771.1095
+553	DCB_se1_ag3_f_02	771.1926	Yes.	771.7739
+554	DCB_se1_ag3_m_01	774.1443	Wow.	774.5336
+555	DCB_se1_ag3_m_01	774.5336	(pause 1.39)	775.9250
+556	DCB_se1_ag3_m_01	775.9250	Okay well,	776.8154
+557	DCB_se1_ag3_m_01	776.8154	(pause 1.12)	777.9356
+558	DCB_se1_ag3_m_01	777.9356	you have been awesome,	779.0982
+559	DCB_se1_ag3_m_01	779.0982	(pause 0.25)	779.3473
+560	DCB_se1_ag3_m_01	779.3473	and I appreciate you, and thank you.	781.2434
+561	DCB_se1_ag3_f_02	781.4925	You're welcome.	782.1015

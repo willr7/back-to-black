@@ -1,0 +1,1357 @@
+Line	Spkr	StTime	Content	EnTime
+1	DCA_int_03	0.4865	Alright um,	1.3429
+2	DCA_int_03	1.3429	(pause 1.15)	2.4886
+3	DCA_int_03	2.4886	what kind of	3.0851
+4	DCA_int_03	3.0851	(pause 0.17)	3.2570
+5	DCA_int_03	3.2570	games do you play now?	4.6096
+6	DCA_se3_ag1_m_06	5.0898	Uh,	5.4500
+7	DCA_se3_ag1_m_06	5.4500	(pause 0.10)	5.5540
+8	DCA_se3_ag1_m_06	5.5540	mostly basketball and uh,	7.0667
+9	DCA_se3_ag1_m_06	7.0667	(pause 1.49)	8.5566
+10	DCA_se3_ag1_m_06	8.5566	I shoot a lot of pool.	9.5171
+11	DCA_int_03	10.0373	Oh yeah, well tell me how do you play basketball?	12.1489
+12	DCA_se3_ag1_m_06	12.9267	Well uh,	13.5260
+13	DCA_se3_ag1_m_06	13.5260	(pause 1.36)	14.8848
+14	DCA_se3_ag1_m_06	14.8848	what you want- I [mean, what you wanna know?]	16.2734
+15	DCA_int_03	15.4370	[Yeah just tell me everything] about basketball, that you- that you know, [how do you] play, what the rules are,	19.9250
+16	DCA_se3_ag1_m_06	18.2103	[W-]	18.5833
+17	DCA_int_03	20.3966	[how do you score.]	21.1770
+18	DCA_se3_ag1_m_06	20.4326	[<ts> Well],	21.0087
+19	DCA_se3_ag1_m_06	21.0087	(pause 0.09)	21.0969
+20	DCA_se3_ag1_m_06	21.0969	generally we play uh,	22.1911
+21	DCA_se3_ag1_m_06	22.4535	playground ball and	23.4650
+22	DCA_se3_ag1_m_06	23.4650	(pause 0.72)	24.1823
+23	DCA_se3_ag1_m_06	24.1823	we don't have a referee and	25.3389
+24	DCA_se3_ag1_m_06	25.3389	(pause 1.25)	26.5927
+25	DCA_se3_ag1_m_06	26.5927	play- uh, make him take the- you know uh,	28.5736
+26	DCA_se3_ag1_m_06	28.5736	(pause 0.46)	29.0338
+27	DCA_se3_ag1_m_06	29.0338	whoever make the point /well they/-	30.2107
+28	DCA_se3_ag1_m_06	30.2107	(pause 0.46)	30.6745
+29	DCA_se3_ag1_m_06	30.6745	they take out	31.2129
+30	DCA_se3_ag1_m_06	31.2129	(pause 0.51)	31.7230
+31	DCA_se3_ag1_m_06	31.7230	in the-	32.1992
+32	DCA_se3_ag1_m_06	32.1992	(pause 1.40)	33.5971
+33	DCA_se3_ag1_m_06	33.5971	It's-	33.8221
+34	DCA_se3_ag1_m_06	33.8221	(pause 0.54)	34.3575
+35	DCA_se3_ag1_m_06	34.3575	s-	34.5816
+36	DCA_se3_ag1_m_06	34.5816	(pause 0.19)	34.7697
+37	DCA_se3_ag1_m_06	34.7697	it's different than uh, when you have a referee	36.8106
+38	DCA_se3_ag1_m_06	36.8106	(pause 0.27)	37.0827
+39	DCA_se3_ag1_m_06	37.0827	cause uh,	37.4869
+40	DCA_se3_ag1_m_06	37.4869	(pause 0.65)	38.1404
+41	DCA_se3_ag1_m_06	38.1404	you know, every- you have to be your own judge and	40.1094
+42	DCA_se3_ag1_m_06	40.1094	(pause 2.83)	42.9387
+43	DCA_se3_ag1_m_06	42.9387	generally that's about it.	43.9342
+44	DCA_int_03	44.2725	Uh, well	44.8530
+45	DCA_int_03	44.8530	(pause 1.08)	45.9293
+46	DCA_int_03	45.9293	what about uh,	46.7391
+47	DCA_int_03	46.7391	(pause 0.25)	46.9938
+48	DCA_int_03	46.9938	how many players?	47.7020
+49	DCA_se3_ag1_m_06	48.2904	Oh we usually play uh, three	49.8711
+50	DCA_se3_ag1_m_06	49.8711	(pause 0.26)	50.1284
+51	DCA_se3_ag1_m_06	50.1284	unless we running the whole court,	51.2691
+52	DCA_se3_ag1_m_06	51.2691	(pause 0.56)	51.8292
+53	DCA_se3_ag1_m_06	51.8292	which consist of five on each team.	53.5620
+54	DCA_int_03	53.9982	Uh-huh, well how do you choose up sides?	55.7987
+55	DCA_int_03	55.7987	(pause 0.07)	55.8673
+56	DCA_int_03	55.8673	[/inaudible/]	56.1142
+57	DCA_se3_ag1_m_06	55.9952	[Well] uh, we uh-	57.1910
+58	DCA_se3_ag1_m_06	58.2094	usually-	58.6201
+59	DCA_se3_ag1_m_06	58.6201	(pause 2.41)	61.0307
+60	DCA_se3_ag1_m_06	61.0307	we usually go to the foul line and uh	62.8585
+61	DCA_se3_ag1_m_06	62.8585	(pause 0.96)	63.8172
+62	DCA_se3_ag1_m_06	63.8172	first two people make it uh, choose the teams and uh-	66.4264
+63	DCA_se3_ag1_m_06	66.4264	(pause 3.21)	69.6349
+64	DCA_se3_ag1_m_06	69.6349	and uh, first two people choose the teams	71.5299
+65	DCA_se3_ag1_m_06	71.5299	(pause 0.31)	71.8438
+66	DCA_se3_ag1_m_06	71.8438	and uh,	72.4174
+67	DCA_se3_ag1_m_06	72.4174	(pause 1.38)	73.7957
+68	DCA_se3_ag1_m_06	73.7957	well then after you uh, choose your team, well then	75.5944
+69	DCA_se3_ag1_m_06	75.5944	(pause 0.35)	75.9433
+70	DCA_se3_ag1_m_06	75.9433	we shoot again, see who takes out	77.4219
+71	DCA_se3_ag1_m_06	77.4219	(pause 0.81)	78.2349
+72	DCA_se3_ag1_m_06	78.2349	first.	78.5858
+73	DCA_int_03	78.6804	Mm-hm.	79.0870
+74	DCA_se3_ag1_m_06	79.1009	Then we can take on to the game.	80.6248
+75	DCA_int_03	81.1344	Well what about pool, how do you-	82.4608
+76	DCA_se3_ag1_m_06	83.2394	Well uh, usually we uh,	84.5603
+77	DCA_se3_ag1_m_06	84.5603	(pause 0.28)	84.8413
+78	DCA_se3_ag1_m_06	84.8413	lag to see who-	85.6488
+79	DCA_se3_ag1_m_06	85.6488	(pause 0.13)	85.7825
+80	DCA_se3_ag1_m_06	85.7825	who's going to break.	86.5203
+81	DCA_se3_ag1_m_06	86.5203	(pause 0.77)	87.2944
+82	DCA_se3_ag1_m_06	87.2944	And uh,	87.7566
+83	DCA_se3_ag1_m_06	87.7566	(pause 0.53)	88.2893
+84	DCA_se3_ag1_m_06	88.2893	when we lag uh,	89.2889
+85	DCA_se3_ag1_m_06	89.2889	(pause 0.71)	90.0018
+86	DCA_se3_ag1_m_06	90.0018	first one person shoots and see how	91.4457
+87	DCA_se3_ag1_m_06	91.4457	(pause 0.17)	91.6195
+88	DCA_se3_ag1_m_06	91.6195	close they get to the cushion with the ball and	93.2334
+89	DCA_se3_ag1_m_06	93.2334	(pause 0.37)	93.6029
+90	DCA_se3_ag1_m_06	93.6029	then the second person shoots.	95.0135
+91	DCA_int_03	95.3459	Mm-hm.	95.7508
+92	DCA_se3_ag1_m_06	95.8109	And uh,	96.2565
+93	DCA_se3_ag1_m_06	96.2565	(pause 0.20)	96.4522
+94	DCA_se3_ag1_m_06	96.4522	then we break and	97.2461
+95	DCA_se3_ag1_m_06	97.2461	(pause 0.82)	98.0700
+96	DCA_se3_ag1_m_06	98.0700	first ball to go in it's either high or low,	100.1511
+97	DCA_se3_ag1_m_06	100.1511	(pause 0.42)	100.5685
+98	DCA_se3_ag1_m_06	100.5685	/then/	100.9527
+99	DCA_se3_ag1_m_06	100.9527	(pause 0.40)	101.3565
+100	DCA_se3_ag1_m_06	101.3565	just going	101.9885
+101	DCA_se3_ag1_m_06	101.9885	(pause 0.31)	102.3004
+102	DCA_se3_ag1_m_06	102.3004	/??/	102.8796
+103	DCA_se3_ag1_m_06	102.8796	(pause 0.20)	103.0773
+104	DCA_se3_ag1_m_06	103.0773	try knocking all the	103.8875
+105	DCA_se3_ag1_m_06	103.8875	(pause 0.29)	104.1799
+106	DCA_se3_ag1_m_06	104.1799	high or the low whichever one you have.	105.8364
+107	DCA_int_03	106.2106	Are you good at that?	107.0905
+108	DCA_se3_ag1_m_06	108.2349	I'm alright.	108.8967
+109	DCA_int_03	110.0874	Okay what about um,	111.5576
+110	DCA_int_03	111.5576	(pause 0.55)	112.1117
+111	DCA_int_03	112.1117	football, did you play football?	113.4664
+112	DCA_se3_ag1_m_06	113.4741	<ts>	113.5827
+113	DCA_se3_ag1_m_06	113.5827	(pause 0.40)	113.9837
+114	DCA_se3_ag1_m_06	113.9837	Not too much, I don't	114.9666
+115	DCA_se3_ag1_m_06	114.9666	(pause 0.37)	115.3369
+116	DCA_se3_ag1_m_06	115.3369	[particularly care-]	116.0292
+117	DCA_int_03	115.3453	[What about games you] used to play when you were a kid?	117.2192
+118	DCA_int_03	117.5542	When you were younger.	118.4229
+119	DCA_se3_ag1_m_06	118.4842	Well,	118.8601
+120	DCA_se3_ag1_m_06	118.8601	(pause 0.13)	118.9882
+121	DCA_se3_ag1_m_06	118.9882	used to play a lot uh, uh, kickball and uh-	121.1050
+122	DCA_int_03	121.1804	How do you play that?	122.0238
+123	DCA_se3_ag1_m_06	122.4863	Well,	122.8761
+124	DCA_se3_ag1_m_06	122.8761	(pause 0.39)	123.2632
+125	DCA_se3_ag1_m_06	123.2632	when we play kickball,	124.2355
+126	DCA_se3_ag1_m_06	124.2355	(pause 0.47)	124.7055
+127	DCA_se3_ag1_m_06	124.7055	we usually choose sides you know, we'll appoint people to choose sides and then uh,	128.1201
+128	DCA_se3_ag1_m_06	128.1201	(pause 0.61)	128.7299
+129	DCA_se3_ag1_m_06	128.7299	you have one person on first,	130.1050
+130	DCA_se3_ag1_m_06	130.1050	(pause 0.35)	130.4543
+131	DCA_se3_ag1_m_06	130.4543	second, and third base and uh,	132.2509
+132	DCA_se3_ag1_m_06	132.2509	(pause 0.16)	132.4118
+133	DCA_se3_ag1_m_06	132.4118	you have a pitcher and	133.1998
+134	DCA_se3_ag1_m_06	133.1998	(pause 0.67)	133.8744
+135	DCA_se3_ag1_m_06	133.8744	catcher and uh, rest are outfielders.	135.8987
+136	DCA_int_03	136.4055	Mm.	136.6115
+137	DCA_se3_ag1_m_06	136.5642	Usually have about-	137.2854
+138	DCA_se3_ag1_m_06	137.3884	uh, say about seven on the team.	139.3244
+139	DCA_se3_ag1_m_06	139.3244	(pause 1.85)	141.1733
+140	DCA_se3_ag1_m_06	141.1733	<ts> And uh,	141.8467
+141	DCA_se3_ag1_m_06	141.8467	(pause 0.83)	142.6750
+142	DCA_se3_ag1_m_06	142.6750	the pitcher uh, rolls the ball to the person and	144.9332
+143	DCA_se3_ag1_m_06	144.9332	(pause 0.21)	145.1448
+144	DCA_se3_ag1_m_06	145.1448	they kick the ball,	146.0274
+145	DCA_se3_ag1_m_06	146.0274	(pause 0.77)	146.8024
+146	DCA_se3_ag1_m_06	146.8024	they run the base,	147.6906
+147	DCA_se3_ag1_m_06	147.6906	(pause 0.46)	148.1528
+148	DCA_se3_ag1_m_06	148.1528	in order,	148.6178
+149	DCA_se3_ag1_m_06	148.6178	(pause 0.13)	148.7515
+150	DCA_se3_ag1_m_06	148.7515	you know like from first to second,	150.1331
+151	DCA_se3_ag1_m_06	150.1331	(pause 0.43)	150.5586
+152	DCA_se3_ag1_m_06	150.5586	third,	150.8462
+153	DCA_se3_ag1_m_06	150.8462	(pause 0.45)	151.2945
+154	DCA_se3_ag1_m_06	151.2945	then come on in to home.	152.3859
+155	DCA_se3_ag1_m_06	152.3859	(pause 1.63)	154.0177
+156	DCA_se3_ag1_m_06	154.0177	And uh,	154.5440
+157	DCA_se3_ag1_m_06	154.5440	(pause 0.18)	154.7202
+158	DCA_se3_ag1_m_06	154.7202	you get three outs	155.7588
+159	DCA_se3_ag1_m_06	155.7588	(pause 1.90)	157.6550
+160	DCA_se3_ag1_m_06	157.6550	and then uh, the other side goes.	159.4474
+161	DCA_int_03	160.6269	Could you talk a little louder?	161.8910
+162	DCA_se3_ag1_m_06	163.1115	Uh,	163.5458
+163	DCA_se3_ag1_m_06	163.5458	(pause 1.11)	164.6541
+164	DCA_se3_ag1_m_06	164.6541	usually uh, you get three outs in	166.4333
+165	DCA_se3_ag1_m_06	166.4333	(pause 0.82)	167.2528
+166	DCA_se3_ag1_m_06	167.2528	after	167.5981
+167	DCA_se3_ag1_m_06	167.5981	(pause 0.12)	167.7150
+168	DCA_se3_ag1_m_06	167.7150	the three outs the other side goes up and	169.5722
+169	DCA_se3_ag1_m_06	169.5722	(pause 0.42)	169.9899
+170	DCA_se3_ag1_m_06	169.9899	they exchange places with- (mic feedback) with the outfielders.	172.1626
+171	DCA_int_03	175.8027	Is that all? Okay what about uh, hide and seek, did you ever play that?	179.2610
+172	DCA_se3_ag1_m_06	179.5506	<ts>	179.6731
+173	DCA_se3_ag1_m_06	179.6731	(pause 0.33)	180.0081
+174	DCA_se3_ag1_m_06	180.0081	No I-	180.5427
+175	DCA_se3_ag1_m_06	180.5427	(pause 0.18)	180.7181
+176	DCA_se3_ag1_m_06	180.7181	I didn't care for hide and go seek too much.	182.6728
+177	DCA_int_03	182.8844	You never played it?	183.5861
+178	DCA_se3_ag1_m_06	183.8543	Yeah I used to play it sometimes.	185.2938
+179	DCA_int_03	187.1399	Huh I see, what about marbles or-	189.7553
+180	DCA_se3_ag1_m_06	190.4626	No but I uh,	191.2738
+181	DCA_se3_ag1_m_06	191.2738	(pause 0.14)	191.4093
+182	DCA_se3_ag1_m_06	191.4093	played a lot of four square.	192.5979
+183	DCA_int_03	193.1560	Oh what's that?	193.7336
+184	DCA_se3_ag1_m_06	194.0971	Well [that's a] game-	194.7988
+185	DCA_int_03	194.3916	[/inaudible/]	194.5562
+186	DCA_int_03	194.5562	(pause 0.20)	194.7543
+187	DCA_int_03	194.7543	/inaudible/	195.0503
+188	DCA_se3_ag1_m_06	195.1719	uh, four square is a game where uh,	196.7980
+189	DCA_se3_ag1_m_06	196.7980	(pause 0.48)	197.2806
+190	DCA_se3_ag1_m_06	197.2806	have these four blocks in there,	198.5981
+191	DCA_se3_ag1_m_06	198.5981	(pause 0.29)	198.8927
+192	DCA_se3_ag1_m_06	198.8927	lettered A, B, C, and D and uh,	201.0856
+193	DCA_se3_ag1_m_06	201.0856	(pause 0.50)	201.5859
+194	DCA_se3_ag1_m_06	201.5859	A is uh, person who always serves the ball and	203.9240
+195	DCA_se3_ag1_m_06	203.9240	(pause 0.45)	204.3774
+196	DCA_se3_ag1_m_06	204.3774	whenever	204.8026
+197	DCA_se3_ag1_m_06	204.8026	(pause 0.24)	205.0472
+198	DCA_se3_ag1_m_06	205.0472	you know you	205.4797
+199	DCA_se3_ag1_m_06	205.4797	(pause 0.55)	206.0260
+200	DCA_se3_ag1_m_06	206.0260	hit the ball like in volleyball	207.4455
+201	DCA_se3_ag1_m_06	207.4455	(pause 0.26)	207.7058
+202	DCA_se3_ag1_m_06	207.7058	to each person's square and uh,	209.1831
+203	DCA_se3_ag1_m_06	209.1831	(pause 0.84)	210.0183
+204	DCA_se3_ag1_m_06	210.0183	whatever goes out	210.8096
+205	DCA_se3_ag1_m_06	210.8096	(pause 0.39)	211.1983
+206	DCA_se3_ag1_m_06	211.1983	you know hit your square and go out running,	212.9996
+207	DCA_se3_ag1_m_06	212.9996	(pause 0.29)	213.2876
+208	DCA_se3_ag1_m_06	213.2876	you out the game and um,	214.2645
+209	DCA_se3_ag1_m_06	214.2645	(pause 0.58)	214.8470
+210	DCA_se3_ag1_m_06	214.8470	you proceed on around like if	216.1560
+211	DCA_se3_ag1_m_06	216.1560	(pause 0.97)	217.1307
+212	DCA_se3_ag1_m_06	217.1307	uh, somebody knocks the ball in A and he misses well then person in D takes A place and	221.2618
+213	DCA_se3_ag1_m_06	221.2618	(pause 0.60)	221.8588
+214	DCA_se3_ag1_m_06	221.8588	person in uh, C takes B place so on around like that.	224.6329
+215	DCA_int_03	224.6017	Oh huh.	225.1256
+216	DCA_se3_ag1_m_06	226.8090	Then it goes on like that.	227.8432
+217	DCA_int_03	227.7773	Yeah/inaudible/ Um, did you ever play any other games?	231.8890
+218	DCA_se3_ag1_m_06	232.2104	<ts>	232.3180
+219	DCA_se3_ag1_m_06	232.3180	(pause 0.70)	233.0225
+220	DCA_se3_ag1_m_06	233.0225	Well uh, we played uh,	234.7901
+221	DCA_se3_ag1_m_06	234.7901	(pause 2.56)	237.3480
+222	DCA_se3_ag1_m_06	237.3480	baseball, so	238.1534
+223	DCA_se3_ag1_m_06	238.1534	(pause 0.35)	238.5037
+224	DCA_se3_ag1_m_06	238.5037	I ain't particularly care for baseball too much either.	240.7815
+225	DCA_se3_ag1_m_06	240.7815	(pause 0.82)	241.5971
+226	DCA_se3_ag1_m_06	241.5971	Guess because the Senators never won.	243.2109
+227	DCA_int_03	243.3220	<laugh>	244.4497
+228	DCA_se3_ag1_m_06	244.5021	So I ain't care too much for baseball.	246.1616
+229	DCA_int_03	247.6822	Well um,	248.5733
+230	DCA_int_03	248.5733	(pause 0.37)	248.9386
+231	DCA_int_03	248.9386	<ts>	249.0184
+232	DCA_int_03	249.0184	(pause 2.15)	251.1713
+233	DCA_int_03	251.1713	what about	251.6746
+234	DCA_int_03	251.6746	(pause 0.38)	252.0563
+235	DCA_int_03	252.0563	television programs?	253.2363
+236	DCA_int_03	253.2363	(pause 0.85)	254.0901
+237	DCA_int_03	254.0901	What are- what are your favorite TV programs?	256.1656
+238	DCA_se3_ag1_m_06	257.5445	Well my favorite TV programs are	259.2382
+239	DCA_se3_ag1_m_06	259.2382	(pause 1.05)	260.2863
+240	DCA_se3_ag1_m_06	260.2863	I Spy, High Chaparral,	262.2309
+241	DCA_se3_ag1_m_06	262.2309	(pause 0.74)	262.9736
+242	DCA_se3_ag1_m_06	262.9736	Mission Impossible,	264.0519
+243	DCA_se3_ag1_m_06	264.0519	(pause 0.44)	264.4903
+244	DCA_se3_ag1_m_06	264.4903	uh,	264.9562
+245	DCA_se3_ag1_m_06	264.9562	(pause 3.07)	268.0280
+246	DCA_se3_ag1_m_06	268.0280	<ts>	268.2431
+247	DCA_se3_ag1_m_06	268.2431	(pause 1.52)	269.7668
+248	DCA_se3_ag1_m_06	269.7668	uh,	270.1717
+249	DCA_se3_ag1_m_06	270.1717	(pause 0.18)	270.3533
+250	DCA_se3_ag1_m_06	270.3533	Les Crane,	271.1665
+251	DCA_se3_ag1_m_06	271.1665	(pause 0.87)	272.0342
+252	DCA_se3_ag1_m_06	272.0342	sometimes Joe Pyne [and uh]	273.7730
+253	DCA_int_03	273.6307	[What] about Mission Impossible tell me a story about /one/.	275.9976
+254	DCA_int_03	276.5783	Can you remember any of the	277.5362
+255	DCA_int_03	277.5362	(pause 0.65)	278.1817
+256	DCA_int_03	278.1817	episodes?	278.9418
+257	DCA_se3_ag1_m_06	280.1045	I mean I don't look at- See usually uh, Mission Impossible come on the same time as	283.7636
+258	DCA_se3_ag1_m_06	283.7636	(pause 0.33)	284.0968
+259	DCA_se3_ag1_m_06	284.0968	High Chaparral so I usually look at High Chaparral.	286.5894
+260	DCA_int_03	286.5759	Oh, well did you see it last time?	288.3459
+261	DCA_se3_ag1_m_06	289.1095	What, [High Chaparral?]	290.2062
+262	DCA_int_03	289.5711	[High Chaparral.]	290.4561
+263	DCA_se3_ag1_m_06	290.6782	No I wasn't at home.	291.5493
+264	DCA_se3_ag1_m_06	291.5493	(pause 0.19)	291.7367
+265	DCA_se3_ag1_m_06	291.7367	I went bowling.	292.3927
+266	DCA_int_03	292.3521	Well can you think of uh, a- uh, of a story	295.1779
+267	DCA_int_03	295.6874	an episode?	296.5639
+268	DCA_se3_ag1_m_06	297.6147	Of High Chaparral?	298.5885
+269	DCA_se3_ag1_m_06	298.5885	(pause 0.16)	298.7461
+270	DCA_se3_ag1_m_06	298.7461	One time uh,	299.7068
+271	DCA_se3_ag1_m_06	299.7068	(pause 0.46)	300.1691
+272	DCA_se3_ag1_m_06	300.1691	Blue was-	300.7695
+273	DCA_se3_ag1_m_06	300.7695	(pause 0.47)	301.2380
+274	DCA_se3_ag1_m_06	301.2380	There uh-	301.7968
+275	DCA_se3_ag1_m_06	301.7968	(pause 0.43)	302.2248
+276	DCA_se3_ag1_m_06	302.2248	the story mostly consist of uh,	303.9880
+277	DCA_se3_ag1_m_06	303.9880	(pause 0.68)	304.6646
+278	DCA_se3_ag1_m_06	304.6646	Buck Cannon his brother	305.9522
+279	DCA_se3_ag1_m_06	305.9522	(pause 0.21)	306.1605
+280	DCA_se3_ag1_m_06	306.1605	uh,	306.6205
+281	DCA_se3_ag1_m_06	306.6205	(pause 1.27)	307.8899
+282	DCA_se3_ag1_m_06	307.8899	John Cannon,	308.7200
+283	DCA_se3_ag1_m_06	308.7200	(pause 0.90)	309.6183
+284	DCA_se3_ag1_m_06	309.6183	uh,	309.9307
+285	DCA_se3_ag1_m_06	309.9307	(pause 0.46)	310.3923
+286	DCA_se3_ag1_m_06	310.3923	Blue which is	311.1870
+287	DCA_se3_ag1_m_06	311.1870	(pause 0.26)	311.4439
+288	DCA_se3_ag1_m_06	311.4439	uh, John Cannon's son.	313.0334
+289	DCA_se3_ag1_m_06	313.0334	(pause 0.36)	313.3920
+290	DCA_se3_ag1_m_06	313.3920	Manolito	314.2076
+291	DCA_se3_ag1_m_06	314.2076	(pause 0.48)	314.6865
+292	DCA_se3_ag1_m_06	314.6865	is uh,	315.4803
+293	DCA_se3_ag1_m_06	315.4803	(pause 0.59)	316.0713
+294	DCA_se3_ag1_m_06	316.0713	brother in-law,	316.8158
+295	DCA_se3_ag1_m_06	316.8158	(pause 0.64)	317.4561
+296	DCA_se3_ag1_m_06	317.4561	Victoria	318.2165
+297	DCA_se3_ag1_m_06	318.2165	(pause 0.62)	318.8350
+298	DCA_se3_ag1_m_06	318.8350	she's uh,	319.6622
+299	DCA_se3_ag1_m_06	319.6622	(pause 0.99)	320.6571
+300	DCA_se3_ag1_m_06	320.6571	John Cannon's wife and	322.0503
+301	DCA_se3_ag1_m_06	322.0503	(pause 0.39)	322.4410
+302	DCA_se3_ag1_m_06	322.4410	Manolito's sister.	323.6037
+303	DCA_se3_ag1_m_06	323.6037	(pause 0.42)	324.0212
+304	DCA_se3_ag1_m_06	324.0212	And uh,	324.6077
+305	DCA_se3_ag1_m_06	324.6077	(pause 0.60)	325.2116
+306	DCA_se3_ag1_m_06	325.2116	Sam and some more of the hands and uh-	327.0997
+307	DCA_se3_ag1_m_06	327.0997	(pause 0.91)	328.0090
+308	DCA_se3_ag1_m_06	328.0090	One particular time uh, Buck left home and	330.4048
+309	DCA_se3_ag1_m_06	330.4048	(pause 0.61)	331.0156
+310	DCA_se3_ag1_m_06	331.0156	he uh,	331.7146
+311	DCA_se3_ag1_m_06	331.7146	(pause 0.51)	332.2234
+312	DCA_se3_ag1_m_06	332.2234	his-	332.6191
+313	DCA_se3_ag1_m_06	332.6191	(pause 0.14)	332.7579
+314	DCA_se3_ag1_m_06	332.7579	he met this girl, he was getting ready to marry her.	334.6227
+315	DCA_se3_ag1_m_06	334.6227	(pause 0.82)	335.4418
+316	DCA_se3_ag1_m_06	335.4418	But uh, there's a Indian raid and uh,	337.8532
+317	DCA_se3_ag1_m_06	337.8532	(pause 0.50)	338.3571
+318	DCA_se3_ag1_m_06	338.3571	she was killed and	339.2362
+319	DCA_se3_ag1_m_06	339.2362	(pause 0.64)	339.8714
+320	DCA_se3_ag1_m_06	339.8714	so Blue decided to come back with the family.	341.5998
+321	DCA_se3_ag1_m_06	341.5998	(pause 0.83)	342.4327
+322	DCA_se3_ag1_m_06	342.4327	That was about it.	343.0470
+323	DCA_int_03	343.5711	Oh, that's very interesting. What about- do you know other stories?	346.7113
+324	DCA_se3_ag1_m_06	347.3517	<ts>	347.4558
+325	DCA_se3_ag1_m_06	347.4558	(pause 0.22)	347.6745
+326	DCA_se3_ag1_m_06	347.6745	Of	348.0518
+327	DCA_se3_ag1_m_06	348.0518	(pause 0.16)	348.2124
+328	DCA_se3_ag1_m_06	348.2124	High Chaparral?	349.0523
+329	DCA_int_03	349.2807	Mm-hm.	349.5523
+330	DCA_se3_ag1_m_06	349.9766	Well uh,	350.5208
+331	DCA_se3_ag1_m_06	350.5208	(pause 0.89)	351.4065
+332	DCA_se3_ag1_m_06	351.4065	the uh,	351.9159
+333	DCA_se3_ag1_m_06	351.9159	(pause 0.16)	352.0728
+334	DCA_se3_ag1_m_06	352.0728	people in the High Chaparral-	353.2181
+335	DCA_se3_ag1_m_06	353.2181	(pause 0.30)	353.5166
+336	DCA_se3_ag1_m_06	353.5166	the High Chaparral was originally a Indian Land and	356.0131
+337	DCA_se3_ag1_m_06	356.0131	(pause 0.48)	356.4920
+338	DCA_se3_ag1_m_06	356.4920	the In- the Apaches are always you know	358.4556
+339	DCA_se3_ag1_m_06	358.4556	(pause 0.41)	358.8625
+340	DCA_se3_ag1_m_06	358.8625	pulling raids on them, they're	359.9582
+341	DCA_se3_ag1_m_06	359.9582	(pause 0.56)	360.5225
+342	DCA_se3_ag1_m_06	360.5225	constantly uh,	361.3628
+343	DCA_se3_ag1_m_06	361.3628	(pause 0.53)	361.8899
+344	DCA_se3_ag1_m_06	361.8899	at war with them and	362.8027
+345	DCA_se3_ag1_m_06	362.8027	(pause 1.02)	363.8196
+346	DCA_se3_ag1_m_06	363.8196	one particular time this Indian chief name	366.0280
+347	DCA_se3_ag1_m_06	366.0280	(pause 0.28)	366.3057
+348	DCA_se3_ag1_m_06	366.3057	Nock-Ay-Del came down and they were trying to uh,	368.6249
+349	DCA_se3_ag1_m_06	368.6249	(pause 0.75)	369.3703
+350	DCA_se3_ag1_m_06	369.3703	negotiate on some c- type of peace terms	371.6481
+351	DCA_se3_ag1_m_06	371.6481	(pause 0.40)	372.0507
+352	DCA_se3_ag1_m_06	372.0507	but uh,	372.5643
+353	DCA_se3_ag1_m_06	372.5643	(pause 0.45)	373.0190
+354	DCA_se3_ag1_m_06	373.0190	some of the other Indians didn't feel that uh, this the right way so they	376.1436
+355	DCA_se3_ag1_m_06	376.1436	(pause 0.38)	376.5219
+356	DCA_se3_ag1_m_06	376.5219	attempted to uh, kill	377.8512
+357	DCA_se3_ag1_m_06	377.8512	(pause 0.15)	377.9969
+358	DCA_se3_ag1_m_06	377.9969	Nock-Ay-Del and	378.8715
+359	DCA_se3_ag1_m_06	378.8715	(pause 0.13)	379.0034
+360	DCA_se3_ag1_m_06	379.0034	blame it on the people	379.8884
+361	DCA_se3_ag1_m_06	379.8884	(pause 0.39)	380.2806
+362	DCA_se3_ag1_m_06	380.2806	High Chaparral but uh,	381.5311
+363	DCA_se3_ag1_m_06	381.5311	(pause 0.68)	382.2148
+364	DCA_se3_ag1_m_06	382.2148	they uh,	382.6591
+365	DCA_se3_ag1_m_06	382.6591	(pause 0.32)	382.9784
+366	DCA_se3_ag1_m_06	382.9784	they weren't successful and uh-	384.0751
+367	DCA_se3_ag1_m_06	384.0751	(pause 0.88)	384.9532
+368	DCA_se3_ag1_m_06	384.9532	But the peace term didn't uh,	386.4291
+369	DCA_se3_ag1_m_06	386.4291	(pause 0.22)	386.6479
+370	DCA_se3_ag1_m_06	386.6479	go on because	387.4374
+371	DCA_se3_ag1_m_06	387.4374	(pause 0.23)	387.6683
+372	DCA_se3_ag1_m_06	387.6683	too many of the other chiefs dif- disagreed with it.	389.8951
+373	DCA_se3_ag1_m_06	389.8951	(pause 1.05)	390.9411
+374	DCA_se3_ag1_m_06	390.9411	So uh,	391.6363
+375	DCA_se3_ag1_m_06	391.6363	(pause 0.47)	392.1048
+376	DCA_se3_ag1_m_06	392.1048	that was the end of the story.	393.0351
+377	DCA_int_03	395.1174	What about movies?	396.0244
+378	DCA_se3_ag1_m_06	396.5483	<ts>	396.6455
+379	DCA_se3_ag1_m_06	396.6455	(pause 0.56)	397.2008
+380	DCA_se3_ag1_m_06	397.2008	Well I usually go- I go to movies	398.8077
+381	DCA_se3_ag1_m_06	398.8077	(pause 0.34)	399.1513
+382	DCA_se3_ag1_m_06	399.1513	you know,	399.4822
+383	DCA_se3_ag1_m_06	399.4822	(pause 1.07)	400.5500
+384	DCA_se3_ag1_m_06	400.5500	whenever I have the money.	401.4812
+385	DCA_se3_ag1_m_06	401.4812	(pause 0.13)	401.6096
+386	DCA_se3_ag1_m_06	401.6096	I-	401.7380
+387	DCA_se3_ag1_m_06	401.7380	(pause 0.15)	401.8838
+388	DCA_se3_ag1_m_06	401.8838	I like to go to the movies but uh,	403.3060
+389	DCA_se3_ag1_m_06	403.3060	(pause 0.28)	403.5879
+390	DCA_se3_ag1_m_06	403.5879	I don't usually go too much unless there's a pic-	405.1878
+391	DCA_se3_ag1_m_06	405.1878	(pause 0.43)	405.6217
+392	DCA_se3_ag1_m_06	405.6217	picture I'd like to see.	406.5810
+393	DCA_int_03	407.1047	What kind do you like to see?	408.4652
+394	DCA_se3_ag1_m_06	408.5277	Uh,	409.0205
+395	DCA_se3_ag1_m_06	409.0205	(pause 0.96)	409.9853
+396	DCA_se3_ag1_m_06	409.9853	mystery uh,	410.8605
+397	DCA_se3_ag1_m_06	410.8605	(pause 1.07)	411.9324
+398	DCA_se3_ag1_m_06	411.9324	suspense and things like that.	413.4119
+399	DCA_int_03	413.9603	What was the last one you- (interrupted by engine revving)	414.8368
+400	DCA_int_03	414.8368	(pause 2.71)	417.5465
+401	DCA_int_03	417.5465	Okay now we were talking about movies.	419.3661
+402	DCA_se3_ag1_m_06	419.7747	Uh, the last movie I saw was uh, Guess Who's Coming to Dinner.	422.7501
+403	DCA_int_03	424.2668	Tell me about that. (tape skips)	425.0477
+404	DCA_se3_ag1_m_06	425.0268	Uh,	425.3969
+405	DCA_se3_ag1_m_06	425.8945	I en-	426.2704
+406	DCA_se3_ag1_m_06	426.2704	(pause 0.13)	426.4012
+407	DCA_se3_ag1_m_06	426.4012	I enjoyed it to a certain extent but uh,	428.3560
+408	DCA_se3_ag1_m_06	428.3560	(pause 0.94)	429.3003
+409	DCA_se3_ag1_m_06	429.3003	to some-	429.7480
+410	DCA_se3_ag1_m_06	429.7480	(pause 0.31)	430.0534
+411	DCA_se3_ag1_m_06	430.0534	some parts of the movies uh,	431.2812
+412	DCA_se3_ag1_m_06	431.2812	(pause 1.22)	432.5002
+413	DCA_se3_ag1_m_06	432.5002	it just didn't seem very realistic.	434.1984
+414	DCA_int_03	435.1963	[/inaudible/]	435.3855
+415	DCA_se3_ag1_m_06	435.2084	[And] uh,	435.7337
+416	DCA_se3_ag1_m_06	437.2873	those were the parts I didn't particularly care for.	439.2909
+417	DCA_se3_ag1_m_06	439.2909	(pause 1.59)	440.8840
+418	DCA_se3_ag1_m_06	440.8840	But uh, for the most part uh, the movie was real good and	443.5981
+419	DCA_se3_ag1_m_06	443.5981	(pause 0.42)	444.0155
+420	DCA_se3_ag1_m_06	444.0155	I think it was about	444.7687
+421	DCA_se3_ag1_m_06	444.7687	(pause 0.40)	445.1678
+422	DCA_se3_ag1_m_06	445.1678	you know, true-	445.8151
+423	DCA_se3_ag1_m_06	445.8151	(pause 0.15)	445.9626
+424	DCA_se3_ag1_m_06	445.9626	true to life as it could ever get.	447.3035
+425	DCA_se3_ag1_m_06	447.3035	(pause 1.29)	448.5944
+426	DCA_se3_ag1_m_06	448.5944	But um,	449.0248
+427	DCA_se3_ag1_m_06	449.0248	(pause 0.15)	449.1740
+428	DCA_se3_ag1_m_06	449.1740	a lot of pictures you find uh,	450.5380
+429	DCA_se3_ag1_m_06	450.5380	(pause 0.31)	450.8468
+430	DCA_se3_ag1_m_06	450.8468	they're not too uh-	451.7902
+431	DCA_se3_ag1_m_06	451.7902	(pause 0.98)	452.7734
+432	DCA_se3_ag1_m_06	452.7734	you know, realistic-	453.6016
+433	DCA_se3_ag1_m_06	453.6016	(pause 0.74)	454.3407
+434	DCA_se3_ag1_m_06	454.3407	they uh,	454.8130
+435	DCA_se3_ag1_m_06	454.8130	(pause 0.15)	454.9613
+436	DCA_se3_ag1_m_06	454.9613	the people	455.4854
+437	DCA_se3_ag1_m_06	455.4854	(pause 1.11)	456.5966
+438	DCA_se3_ag1_m_06	456.5966	they play parts that uh	457.8041
+439	DCA_se3_ag1_m_06	457.8041	(pause 0.30)	458.0999
+440	DCA_se3_ag1_m_06	458.0999	you know,	458.4343
+441	DCA_se3_ag1_m_06	458.4343	(pause 0.31)	458.7412
+442	DCA_se3_ag1_m_06	458.7412	people couldn't possibly live	460.0996
+443	DCA_se3_ag1_m_06	460.0996	(pause 0.11)	460.2134
+444	DCA_se3_ag1_m_06	460.2134	the type of life	461.1973
+445	DCA_se3_ag1_m_06	461.1973	(pause 0.76)	461.9591
+446	DCA_se3_ag1_m_06	461.9591	like uh, James Bond pictures.	463.5796
+447	DCA_se3_ag1_m_06	463.5796	(pause 0.20)	463.7830
+448	DCA_se3_ag1_m_06	463.7830	They're uh, lot of fun to look at but uh,	465.4035
+449	DCA_se3_ag1_m_06	465.4035	(pause 0.85)	466.2551
+450	DCA_se3_ag1_m_06	466.2551	you know, they not too realistic.	467.4525
+451	DCA_int_03	467.8352	Well are you saying that uh, Guess- that uh, Sidney Poitier's part was realistic or-	472.3150
+452	DCA_se3_ag1_m_06	472.8667	It was a good part, he played a good part and uh,	474.7561
+453	DCA_se3_ag1_m_06	474.7561	(pause 0.09)	474.8492
+454	DCA_se3_ag1_m_06	474.8492	I enjoyed it but uh,	476.0077
+455	DCA_se3_ag1_m_06	476.0077	(pause 0.45)	476.4535
+456	DCA_se3_ag1_m_06	476.4535	for the most part you won't find a person uh,	478.3764
+457	DCA_se3_ag1_m_06	478.3764	(pause 0.58)	478.9601
+458	DCA_se3_ag1_m_06	478.9601	you know,	479.4375
+459	DCA_se3_ag1_m_06	479.4375	(pause 1.48)	480.9219
+460	DCA_se3_ag1_m_06	480.9219	/that/ very well educated	482.2917
+461	DCA_se3_ag1_m_06	482.2917	(pause 1.25)	483.5399
+462	DCA_se3_ag1_m_06	483.5399	in our society but uh-	484.8723
+463	DCA_se3_ag1_m_06	484.8723	(pause 0.93)	485.7982
+464	DCA_se3_ag1_m_06	485.7982	If- it was a very good part and it was uh- he was believable though.	488.7093
+465	DCA_int_03	489.6987	[When you say in our society] /you mean/	491.4444
+466	DCA_se3_ag1_m_06	489.8160	[I still enjoyed it.]	490.8848
+467	DCA_int_03	491.9030	United States society or Negro society?	494.7095
+468	DCA_se3_ag1_m_06	494.7750	Negro society.	495.7645
+469	DCA_int_03	496.1128	Why do you say that?	496.9458
+470	DCA_se3_ag1_m_06	497.1516	Uh,	497.4274
+471	DCA_se3_ag1_m_06	497.4274	(pause 0.84)	498.2722
+472	DCA_se3_ag1_m_06	498.2722	our level of achievement isn't quite that high.	500.2788
+473	DCA_se3_ag1_m_06	500.2788	(pause 0.80)	501.0787
+474	DCA_se3_ag1_m_06	501.0787	I don't think. I mean	501.9866
+475	DCA_se3_ag1_m_06	501.9866	(pause 0.20)	502.1900
+476	DCA_se3_ag1_m_06	502.1900	we have a lot of uh, successful people you find a lot of doctors and all but uh,	505.7046
+477	DCA_se3_ag1_m_06	505.7046	(pause 0.64)	506.3446
+478	DCA_se3_ag1_m_06	506.3446	all the degrees and all the travel he did uh,	508.3971
+479	DCA_se3_ag1_m_06	508.3971	(pause 0.30)	508.6971
+480	DCA_se3_ag1_m_06	508.6971	I don't think you could possibly do it in /enough/ of time that he had.	511.3283
+481	DCA_int_03	511.5864	Mm-hm.	512.0622
+482	DCA_se3_ag1_m_06	512.0518	I mean you know he was entirely too young	513.6279
+483	DCA_se3_ag1_m_06	514.0320	if he was a little older.	514.9898
+484	DCA_int_03	517.6763	Anything else you have to say about the movie?	519.2599
+485	DCA_se3_ag1_m_06	519.7082	About the movie?	520.3286
+486	DCA_int_03	521.3700	What [about her parents?]	522.5484
+487	DCA_se3_ag1_m_06	521.5286	[I like Sidney Poitier.]	522.8057
+488	DCA_int_03	523.4880	What about her parents?	524.4473
+489	DCA_se3_ag1_m_06	525.3119	<ts>	525.4464
+490	DCA_se3_ag1_m_06	525.4464	(pause 0.34)	525.7843
+491	DCA_se3_ag1_m_06	525.7843	Her parents I believe uh,	527.4496
+492	DCA_se3_ag1_m_06	527.4496	(pause 0.29)	527.7368
+493	DCA_se3_ag1_m_06	527.7368	I really couldn't speak cause I don't know how	529.3573
+494	DCA_se3_ag1_m_06	529.3573	(pause 0.33)	529.6883
+495	DCA_se3_ag1_m_06	529.6883	you know	529.9945
+496	DCA_se3_ag1_m_06	529.9945	(pause 1.20)	531.1985
+497	DCA_se3_ag1_m_06	531.1985	generally white people are but uh, I believe-	533.2395
+498	DCA_se3_ag1_m_06	533.2395	(pause 0.41)	533.6475
+499	DCA_se3_ag1_m_06	533.6475	from what I	534.2233
+500	DCA_se3_ag1_m_06	534.2233	(pause 0.42)	534.6439
+501	DCA_se3_ag1_m_06	534.6439	you know, interpret them to be	536.1230
+502	DCA_se3_ag1_m_06	536.1230	(pause 0.23)	536.3506
+503	DCA_se3_ag1_m_06	536.3506	they was about	536.8934
+504	DCA_se3_ag1_m_06	536.8934	(pause 0.63)	537.5282
+505	DCA_se3_ag1_m_06	537.5282	as good of parents as you'll find they-	539.0759
+506	DCA_se3_ag1_m_06	539.0759	(pause 0.10)	539.1802
+507	DCA_se3_ag1_m_06	539.1802	they	539.5092
+508	DCA_se3_ag1_m_06	539.5092	(pause 0.20)	539.7131
+509	DCA_se3_ag1_m_06	539.7131	reacted uh,	540.5989
+510	DCA_se3_ag1_m_06	540.5989	(pause 0.52)	541.1225
+511	DCA_se3_ag1_m_06	541.1225	as	541.4561
+512	DCA_se3_ag1_m_06	541.4561	(pause 0.16)	541.6183
+513	DCA_se3_ag1_m_06	541.6183	I guess the	542.1262
+514	DCA_se3_ag1_m_06	542.1262	(pause 0.32)	542.4431
+515	DCA_se3_ag1_m_06	542.4431	regular parents would	543.4904
+516	DCA_se3_ag1_m_06	543.4904	(pause 0.18)	543.6741
+517	DCA_se3_ag1_m_06	543.6741	to the situation.	544.6044
+518	DCA_se3_ag1_m_06	544.6044	(pause 0.84)	545.4465
+519	DCA_se3_ag1_m_06	545.4465	They weren't uh,	546.2970
+520	DCA_se3_ag1_m_06	546.2970	(pause 0.12)	546.4197
+521	DCA_se3_ag1_m_06	546.4197	no kind of extremists.	547.5510
+522	DCA_se3_ag1_m_06	547.5510	(pause 1.25)	548.8045
+523	DCA_se3_ag1_m_06	548.8045	So uh,	549.2950
+524	DCA_se3_ag1_m_06	549.2950	(pause 0.16)	549.4578
+525	DCA_se3_ag1_m_06	549.4578	this	549.6710
+526	DCA_se3_ag1_m_06	549.6710	(pause 0.18)	549.8517
+527	DCA_se3_ag1_m_06	549.8517	helped a lot in the picture.	550.9367
+528	DCA_int_03	551.1870	Mm-hm.	551.5991
+529	DCA_int_03	551.5991	(pause 1.48)	553.0822
+530	DCA_int_03	553.0822	Well that's very interesting.	554.3572
+531	DCA_int_03	554.3572	(pause 0.77)	555.1287
+532	DCA_int_03	555.1287	Um,	555.6385
+533	DCA_int_03	555.6385	(pause 0.87)	556.5096
+534	DCA_int_03	556.5096	do you have another story maybe?	557.9955
+535	DCA_int_03	557.9955	(pause 0.73)	558.7230
+536	DCA_int_03	558.7230	Any other stories?	559.5995
+537	DCA_int_03	559.5995	(pause 0.79)	560.3912
+538	DCA_int_03	560.3912	Movies?	560.7996
+539	DCA_se3_ag1_m_06	561.5457	Well uh,	562.2365
+540	DCA_int_03	562.3288	That you [like, what's] your favorite one?	563.8294
+541	DCA_se3_ag1_m_06	562.6254	[in-]	562.8474
+542	DCA_se3_ag1_m_06	564.7252	Favorite [movie?]	565.3183
+543	DCA_int_03	565.1932	[Favorite] movie, yes.	566.0667
+544	DCA_se3_ag1_m_06	566.3864	Well I don't have any favorite movie I like	567.9017
+545	DCA_se3_ag1_m_06	567.9017	(pause 0.25)	568.1526
+546	DCA_se3_ag1_m_06	568.1526	just about all of 'em.	568.8755
+547	DCA_se3_ag1_m_06	568.8755	(pause 0.09)	568.9636
+548	DCA_se3_ag1_m_06	568.9636	All the ones I go to see I enjoy.	570.3792
+549	DCA_int_03	571.0673	How do you pick a movie anyway?	572.3771
+550	DCA_int_03	572.3771	(pause 0.39)	572.7640
+551	DCA_int_03	572.7640	That you decide you're gonna /see/.	574.2402
+552	DCA_se3_ag1_m_06	574.6993	Well if I don't ever get to see the previews uh,	576.4996
+553	DCA_se3_ag1_m_06	576.4996	(pause 0.61)	577.1112
+554	DCA_se3_ag1_m_06	577.1112	I kind of listen around, you know.	578.4432
+555	DCA_se3_ag1_m_06	578.4432	(pause 0.44)	578.8867
+556	DCA_se3_ag1_m_06	578.8867	See how everybody else response were to the movie.	581.3400
+557	DCA_se3_ag1_m_06	581.3400	(pause 0.78)	582.1241
+558	DCA_se3_ag1_m_06	582.1241	Cause generally you know I like the same thing everybody else likes.	585.1454
+559	DCA_int_03	585.1368	Mm-hm.	585.5621
+560	DCA_se3_ag1_m_06	586.2235	But if they say it's bad sometime I go see it just to see how bad it was.	589.8432
+561	DCA_int_03	589.8131	Mm-hm.	590.2339
+562	DCA_se3_ag1_m_06	590.8348	And uh,	591.2905
+563	DCA_se3_ag1_m_06	591.2905	(pause 0.18)	591.4720
+564	DCA_se3_ag1_m_06	591.4720	they say it's real good well I'll go to see it.	593.2120
+565	DCA_se3_ag1_m_06	593.2120	(pause 0.76)	593.9680
+566	DCA_se3_ag1_m_06	593.9680	And sometime it doesn't turn out to be as good as I expected.	596.2741
+567	DCA_se3_ag1_m_06	596.2741	(pause 0.77)	597.0433
+568	DCA_se3_ag1_m_06	597.0433	So uh,	597.5762
+569	DCA_se3_ag1_m_06	597.5762	(pause 0.36)	597.9376
+570	DCA_se3_ag1_m_06	597.9376	if I hear about a movie I g- you usually judge by the uh, players that's gonna be in it.	601.8423
+571	DCA_int_03	601.8307	Mm-hm.	602.2408
+572	DCA_se3_ag1_m_06	602.3937	The actors and actresses.	603.7522
+573	DCA_int_03	604.8550	Do you have a pet at home?	605.8433
+574	DCA_se3_ag1_m_06	606.4382	<ts>	606.5146
+575	DCA_se3_ag1_m_06	606.5146	(pause 0.41)	606.9247
+576	DCA_se3_ag1_m_06	606.9247	No I don't.	607.4327
+577	DCA_int_03	607.6059	[/inaudible/]	608.2981
+578	DCA_se3_ag1_m_06	607.6638	[Live in apartment.]	608.4539
+579	DCA_int_03	608.6925	Oh. Have you ever had a pet?	609.8424
+580	DCA_se3_ag1_m_06	609.9814	Yes when I used to live uh, in a house I had a pet, I had a dog.	613.1876
+581	DCA_se3_ag1_m_06	613.1876	(pause 0.54)	613.7309
+582	DCA_se3_ag1_m_06	613.7309	Had several dogs.	614.8257
+583	DCA_int_03	614.7990	Oh yeah?	615.3127
+584	DCA_se3_ag1_m_06	615.4246	Yes.	615.8578
+585	DCA_int_03	616.2170	Tell me how it was with all of- how many dogs /did you-/	618.2844
+586	DCA_se3_ag1_m_06	618.2751	No I only had	618.8566
+587	DCA_se3_ag1_m_06	618.9748	one	619.3333
+588	DCA_se3_ag1_m_06	619.3333	(pause 0.22)	619.5540
+589	DCA_se3_ag1_m_06	619.5540	each time [but] uh,	620.5638
+590	DCA_int_03	620.0529	[Oh.]	620.2807
+591	DCA_se3_ag1_m_06	621.2368	/Um/	621.4198
+592	DCA_se3_ag1_m_06	621.4198	(pause 0.22)	621.6400
+593	DCA_se3_ag1_m_06	621.6400	w- dog I had the longest was	623.1860
+594	DCA_se3_ag1_m_06	623.1860	(pause 0.76)	623.9506
+595	DCA_se3_ag1_m_06	623.9506	uh,	624.2859
+596	DCA_se3_ag1_m_06	624.2859	(pause 1.42)	625.7092
+597	DCA_se3_ag1_m_06	625.7092	<laugh>	626.0647
+598	DCA_se3_ag1_m_06	626.0647	(pause 0.43)	626.4992
+599	DCA_se3_ag1_m_06	626.4992	he was a mixed dog we	627.5472
+600	DCA_se3_ag1_m_06	627.5472	(pause 0.36)	627.9040
+601	DCA_se3_ag1_m_06	627.9040	[called him] Shep.	628.5713
+602	DCA_int_03	627.9967	[A mutt.]	628.2747
+603	DCA_se3_ag1_m_06	628.8586	Yeah, a mutt.	629.9220
+604	DCA_se3_ag1_m_06	629.9220	(pause 0.56)	630.4788
+605	DCA_se3_ag1_m_06	630.4788	And uh, we called him Shep.	631.7207
+606	DCA_se3_ag1_m_06	631.7207	(pause 0.99)	632.7146
+607	DCA_se3_ag1_m_06	632.7146	And uh,	633.1427
+608	DCA_se3_ag1_m_06	633.1427	(pause 0.43)	633.5749
+609	DCA_se3_ag1_m_06	633.5749	he was a uh,	634.1495
+610	DCA_se3_ag1_m_06	634.1495	(pause 0.24)	634.3928
+611	DCA_se3_ag1_m_06	634.3928	you know he was a real good watch dog, he wasn't very big but uh,	636.9506
+612	DCA_se3_ag1_m_06	636.9506	(pause 0.35)	637.3035
+613	DCA_se3_ag1_m_06	637.3035	he used to go with me serving my papers and	639.1787
+614	DCA_se3_ag1_m_06	639.1787	(pause 0.44)	639.6158
+615	DCA_se3_ag1_m_06	639.6158	you know	640.0000
+616	DCA_se3_ag1_m_06	640.0000	(pause 0.24)	640.2437
+617	DCA_se3_ag1_m_06	640.2437	he wouldn't let anybody bother us or anything like that.	642.1958
+618	DCA_se3_ag1_m_06	642.1958	(pause 1.08)	643.2726
+619	DCA_se3_ag1_m_06	643.2726	He could uh- he was a real good jumper,	645.0406
+620	DCA_se3_ag1_m_06	645.0406	(pause 0.11)	645.1498
+621	DCA_se3_ag1_m_06	645.1498	he was fast.	645.9179
+622	DCA_se3_ag1_m_06	645.9179	(pause 0.88)	646.7973
+623	DCA_se3_ag1_m_06	646.7973	And uh,	647.2255
+624	DCA_se3_ag1_m_06	647.2255	(pause 0.20)	647.4275
+625	DCA_se3_ag1_m_06	647.4275	he used to bite a lot. <laugh>	648.6099
+626	DCA_se3_ag1_m_06	648.6099	(pause 0.47)	649.0825
+627	DCA_se3_ag1_m_06	649.0825	Used to bite a lot of people but uh, he was killed.	651.4829
+628	DCA_se3_ag1_m_06	651.4829	(pause 0.35)	651.8288
+629	DCA_se3_ag1_m_06	651.8288	He got hit by a car.	652.7347
+630	DCA_se3_ag1_m_06	652.7347	(pause 1.36)	654.0901
+631	DCA_se3_ag1_m_06	654.0901	A policeman.	654.8732
+632	DCA_int_03	655.1718	/Uh/	655.5027
+633	DCA_se3_ag1_m_06	655.6130	So [uh-]	656.2051
+634	DCA_int_03	655.8841	[Hit] by a policeman?	657.1075
+635	DCA_se3_ag1_m_06	657.6032	Yeah.	658.0125
+636	DCA_int_03	658.6280	[How'd that happen?]	659.4158
+637	DCA_se3_ag1_m_06	658.6628	[And uh-]	659.2389
+638	DCA_se3_ag1_m_06	660.0830	Well I was serving my papers and uh,	661.6516
+639	DCA_se3_ag1_m_06	661.6516	(pause 0.70)	662.3543
+640	DCA_se3_ag1_m_06	662.3543	he went out in the street,	663.1699
+641	DCA_se3_ag1_m_06	663.1699	(pause 0.43)	663.6008
+642	DCA_se3_ag1_m_06	663.6008	he- the policeman had time to stop but he didn't so.	666.1409
+643	DCA_se3_ag1_m_06	666.1409	(pause 0.72)	666.8614
+644	DCA_se3_ag1_m_06	666.8614	He went out in the street and	667.8222
+645	DCA_se3_ag1_m_06	667.8222	(pause 0.11)	667.9295
+646	DCA_se3_ag1_m_06	667.9295	car hit him.	668.5273
+647	DCA_se3_ag1_m_06	668.5273	(pause 0.79)	669.3134
+648	DCA_se3_ag1_m_06	669.3134	So I took him to the vet and everything,	670.9519
+649	DCA_se3_ag1_m_06	670.9519	(pause 0.65)	671.6025
+650	DCA_se3_ag1_m_06	671.6025	but I never saw the man again, he gave me his name and everything but I never could get in	674.9419
+651	DCA_se3_ag1_m_06	674.9419	(pause 0.50)	675.4447
+652	DCA_se3_ag1_m_06	675.4447	reach with him.	676.0557
+653	DCA_se3_ag1_m_06	676.0557	(pause 0.37)	676.4255
+654	DCA_se3_ag1_m_06	676.4255	So they had to put him to sleep.	677.4210
+655	DCA_se3_ag1_m_06	677.4210	(pause 0.28)	677.7021
+656	DCA_se3_ag1_m_06	677.7021	They [put him to sleep.]	678.4875
+657	DCA_int_03	677.8619	[Aw.]	678.3554
+658	DCA_int_03	679.0842	/That's too bad/.	680.0552
+659	DCA_int_03	680.0552	(pause 0.84)	680.8932
+660	DCA_int_03	680.8932	Well let's see.	681.6739
+661	DCA_int_03	681.6739	(pause 0.51)	682.1837
+662	DCA_int_03	682.1837	You're in school now,	683.3403
+663	DCA_int_03	683.3403	(pause 1.15)	684.4921
+664	DCA_int_03	684.4921	so what-	684.8072
+665	DCA_int_03	684.8072	(pause 0.16)	684.9670
+666	DCA_int_03	684.9670	what do you take here at Phelps?	686.3370
+667	DCA_se3_ag1_m_06	686.8398	Uh, I'm in draft engineering.	688.5149
+668	DCA_int_03	688.6678	Mm-hm.	689.1729
+669	DCA_se3_ag1_m_06	689.4725	Uh-	689.8818
+670	DCA_int_03	690.0286	What- what type of	690.8534
+671	DCA_int_03	690.8534	(pause 0.38)	691.2334
+672	DCA_int_03	691.2334	uh,	691.6718
+673	DCA_int_03	691.6718	(pause 0.96)	692.6282
+674	DCA_int_03	692.6282	curriculum do you have, what do you study?	694.5033
+675	DCA_se3_ag1_m_06	694.6770	Well uh,	695.4259
+676	DCA_se3_ag1_m_06	695.4259	(pause 0.34)	695.7613
+677	DCA_se3_ag1_m_06	695.7613	my courses here,	696.5544
+678	DCA_se3_ag1_m_06	696.5544	(pause 0.44)	696.9946
+679	DCA_se3_ag1_m_06	696.9946	I take English,	698.0018
+680	DCA_se3_ag1_m_06	698.0018	(pause 0.69)	698.6929
+681	DCA_se3_ag1_m_06	698.6929	uh,	699.1355
+682	DCA_se3_ag1_m_06	699.1355	(pause 0.92)	700.0560
+683	DCA_se3_ag1_m_06	700.0560	government,	700.5654
+684	DCA_se3_ag1_m_06	700.5654	(pause 1.29)	701.8516
+685	DCA_se3_ag1_m_06	701.8516	algebra two and trig and	703.1630
+686	DCA_se3_ag1_m_06	703.1630	(pause 0.23)	703.3907
+687	DCA_se3_ag1_m_06	703.3907	uh,	703.7332
+688	DCA_se3_ag1_m_06	703.7332	(pause 0.80)	704.5376
+689	DCA_se3_ag1_m_06	704.5376	chemistry.	705.1123
+690	DCA_int_03	706.3101	Oh /it's/ just quite a bit of math, and sciences.	709.1189
+691	DCA_se3_ag1_m_06	709.5730	[Yes.]	710.2287
+692	DCA_int_03	709.6309	[What- what-]	710.0910
+693	DCA_int_03	710.3058	I don't understand so um,	711.8118
+694	DCA_int_03	711.8118	(pause 1.86)	713.6723
+695	DCA_int_03	713.6723	what is- what is	714.1802
+696	DCA_int_03	714.1802	(pause 0.26)	714.4376
+697	DCA_int_03	714.4376	draft?	714.7815
+698	DCA_int_03	714.7815	(pause 0.09)	714.8685
+699	DCA_int_03	714.8685	What do you- [/inaudible/]	716.0618
+700	DCA_se3_ag1_m_06	715.8440	[It's] drafting engineering uh,	717.5100
+701	DCA_se3_ag1_m_06	717.8905	it deals with uh,	718.9331
+702	DCA_se3_ag1_m_06	718.9331	(pause 0.66)	719.5888
+703	DCA_se3_ag1_m_06	719.5888	you know, the building of homes and uh,	721.4711
+704	DCA_se3_ag1_m_06	721.4711	(pause 0.80)	722.2725
+705	DCA_se3_ag1_m_06	722.2725	all the drawing of mechanical parts.	724.0241
+706	DCA_int_03	724.5948	Oh, something like an architect?	725.9052
+707	DCA_se3_ag1_m_06	726.2537	Yes it's the same field but uh,	727.7828
+708	DCA_int_03	727.7557	Oh.	728.0982
+709	DCA_se3_ag1_m_06	728.0593	drafting is a more generalized field.	729.7935
+710	DCA_int_03	729.9406	Uh-huh.	730.4712
+711	DCA_se3_ag1_m_06	730.4202	It's not uh, specialized in any	732.0080
+712	DCA_se3_ag1_m_06	732.4412	particular way but uh,	733.6368
+713	DCA_se3_ag1_m_06	733.6368	(pause 1.03)	734.6685
+714	DCA_se3_ag1_m_06	734.6685	it still deals with most of- all of 'em we uh,	736.8847
+715	DCA_se3_ag1_m_06	736.8847	(pause 1.00)	737.8890
+716	DCA_se3_ag1_m_06	737.8890	here, with a instructor we have now Mr. /RD-NAME-2/ uh,	740.6203
+717	DCA_se3_ag1_m_06	740.6203	(pause 0.28)	740.8971
+718	DCA_se3_ag1_m_06	740.8971	we deal mostly with uh,	742.0569
+719	DCA_se3_ag1_m_06	742.0569	(pause 1.24)	743.2981
+720	DCA_se3_ag1_m_06	743.2981	you know the building of houses, we don't go too much in uh, mechanics.	746.3768
+721	DCA_int_03	746.6908	Mm-hm.	747.1310
+722	DCA_se3_ag1_m_06	747.3210	But uh,	747.7883
+723	DCA_se3_ag1_m_06	747.7883	(pause 0.56)	748.3504
+724	DCA_se3_ag1_m_06	748.3504	he teaches a lot	749.1266
+725	DCA_se3_ag1_m_06	749.1266	(pause 0.30)	749.4255
+726	DCA_se3_ag1_m_06	749.4255	of	749.9352
+727	DCA_se3_ag1_m_06	749.9352	(pause 0.09)	750.0209
+728	DCA_se3_ag1_m_06	750.0209	you know the funda- basic fundamentals that we'll need	752.1740
+729	DCA_se3_ag1_m_06	752.1740	(pause 1.43)	753.6059
+730	DCA_se3_ag1_m_06	753.6059	to uh,	754.0484
+731	DCA_se3_ag1_m_06	754.0484	(pause 0.31)	754.3542
+732	DCA_se3_ag1_m_06	754.3542	further our education because uh,	755.9230
+733	DCA_se3_ag1_m_06	755.9230	(pause 0.14)	756.0602
+734	DCA_se3_ag1_m_06	756.0602	we can't learn enough here.	757.2009
+735	DCA_int_03	757.3971	Mm.	757.6264
+736	DCA_se3_ag1_m_06	757.5963	So we have to go on but uh,	759.1056
+737	DCA_se3_ag1_m_06	759.5618	usually the fellows who have gone on, go on to college say,	762.2865
+738	DCA_se3_ag1_m_06	762.2865	(pause 0.40)	762.6857
+739	DCA_se3_ag1_m_06	762.6857	they're you know head of the- of a class.	764.7315
+740	DCA_se3_ag1_m_06	764.7315	(pause 1.15)	765.8814
+741	DCA_se3_ag1_m_06	765.8814	So.	766.1432
+742	DCA_se3_ag1_m_06	766.1432	(pause 0.73)	766.8730
+743	DCA_se3_ag1_m_06	766.8730	must have a pretty good shot.	767.8647
+744	DCA_int_03	767.8114	You going to college?	768.7262
+745	DCA_int_03	769.3760	Are you going to college?	770.4070
+746	DCA_se3_ag1_m_06	770.5715	I plan on going to [college.]	772.3509
+747	DCA_int_03	771.8528	[Wow.]	772.2795
+748	DCA_int_03	772.5718	Have you uh, put in any applications?	774.5904
+749	DCA_se3_ag1_m_06	774.6037	Yes I've put in uh, several applications.	776.5280
+750	DCA_se3_ag1_m_06	776.5280	(pause 0.40)	776.9259
+751	DCA_se3_ag1_m_06	776.9259	One at uh /RD-SCHOOL-2/'s Community College uh,	779.3147
+752	DCA_se3_ag1_m_06	779.3147	(pause 0.58)	779.8900
+753	DCA_se3_ag1_m_06	779.8900	one to the /RD-SCHOOL-4/ College and one to the Technical Institute.	782.5591
+754	DCA_se3_ag1_m_06	782.5591	(pause 0.72)	783.2780
+755	DCA_se3_ag1_m_06	783.2780	I don't wanna leave the city	784.2766
+756	DCA_int_03	784.4040	[Uh-huh.]	784.8684
+757	DCA_se3_ag1_m_06	784.5129	[too much.]	785.0498
+758	DCA_int_03	786.2112	What- what makes you wanna go to college?	787.8639
+759	DCA_se3_ag1_m_06	788.8185	Well uh,	789.6456
+760	DCA_se3_ag1_m_06	789.6456	(pause 1.09)	790.7353
+761	DCA_se3_ag1_m_06	790.7353	one I would like to have a college education.	792.8715
+762	DCA_se3_ag1_m_06	792.8715	(pause 0.82)	793.6877
+763	DCA_se3_ag1_m_06	793.6877	And uh,	794.2494
+764	DCA_se3_ag1_m_06	794.2494	(pause 0.66)	794.9087
+765	DCA_se3_ag1_m_06	794.9087	you know, just	795.2447
+766	DCA_se3_ag1_m_06	795.2447	(pause 0.16)	795.4092
+767	DCA_se3_ag1_m_06	795.4092	just you know-	796.0826
+768	DCA_se3_ag1_m_06	796.0826	(pause 0.10)	796.1807
+769	DCA_se3_ag1_m_06	796.1807	just to have it	796.8251
+770	DCA_se3_ag1_m_06	796.8251	(pause 0.30)	797.1221
+771	DCA_se3_ag1_m_06	797.1221	for the education and	798.4335
+772	DCA_se3_ag1_m_06	798.4335	(pause 0.62)	799.0498
+773	DCA_se3_ag1_m_06	799.0498	secondly uh,	799.9371
+774	DCA_se3_ag1_m_06	799.9371	(pause 1.09)	801.0314
+775	DCA_se3_ag1_m_06	801.0314	from what I understand you know	802.0909
+776	DCA_se3_ag1_m_06	802.0909	(pause 0.45)	802.5374
+777	DCA_se3_ag1_m_06	802.5374	really get a uh,	803.3516
+778	DCA_se3_ag1_m_06	803.3516	(pause 1.54)	804.8921
+779	DCA_se3_ag1_m_06	804.8921	you know, respectable job you know one in which you can uh, be satisfied with or content with.	809.1675
+780	DCA_se3_ag1_m_06	809.1675	(pause 0.57)	809.7329
+781	DCA_se3_ag1_m_06	809.7329	You know, financially and uh,	811.3307
+782	DCA_se3_ag1_m_06	811.3307	(pause 0.39)	811.7215
+783	DCA_se3_ag1_m_06	811.7215	socially well,	812.5208
+784	DCA_se3_ag1_m_06	812.5208	(pause 0.33)	812.8521
+785	DCA_se3_ag1_m_06	812.8521	you have to get a college education.	814.3373
+786	DCA_se3_ag1_m_06	814.3373	(pause 0.66)	814.9960
+787	DCA_se3_ag1_m_06	814.9960	So.	815.2902
+788	DCA_se3_ag1_m_06	815.2902	(pause 0.85)	816.1452
+789	DCA_se3_ag1_m_06	816.1452	I'm going.	816.6386
+790	DCA_se3_ag1_m_06	816.6386	(pause 0.31)	816.9515
+791	DCA_se3_ag1_m_06	816.9515	My mother wants me to go.	818.0381
+792	DCA_int_03	819.5981	Do you think the fact that she went has anything to do with	822.2957
+793	DCA_int_03	822.2957	(pause 0.60)	822.8935
+794	DCA_int_03	822.8935	your going?	823.4711
+795	DCA_se3_ag1_m_06	824.0125	Partially.	824.5974
+796	DCA_se3_ag1_m_06	824.5974	(pause 0.76)	825.3524
+797	DCA_se3_ag1_m_06	825.3524	Kinda.	825.7414
+798	DCA_se3_ag1_m_06	825.7414	(pause 0.48)	826.2189
+799	DCA_se3_ag1_m_06	826.2189	Kinda make me wanna go too.	827.5309
+800	DCA_se3_ag1_m_06	827.5309	(pause 0.18)	827.7087
+801	DCA_se3_ag1_m_06	827.7087	Cause	828.0354
+802	DCA_se3_ag1_m_06	828.0354	(pause 0.54)	828.5783
+803	DCA_se3_ag1_m_06	828.5783	you know,	828.9096
+804	DCA_se3_ag1_m_06	828.9096	(pause 0.69)	829.5977
+805	DCA_se3_ag1_m_06	829.5977	she's a d-	830.2072
+806	DCA_se3_ag1_m_06	830.2072	(pause 0.22)	830.4318
+807	DCA_se3_ag1_m_06	830.4318	She /you know/ everything they do and so- so she went.	832.7448
+808	DCA_se3_ag1_m_06	832.7448	(pause 0.21)	832.9579
+809	DCA_se3_ag1_m_06	832.9579	She said	833.5181
+810	DCA_se3_ag1_m_06	833.5181	(pause 0.40)	833.9195
+811	DCA_se3_ag1_m_06	833.9195	you know,	834.3273
+812	DCA_se3_ag1_m_06	834.3273	(pause 0.27)	834.5938
+813	DCA_se3_ag1_m_06	834.5938	she wished she could have finished, she didn't get a chance to finish.	837.1662
+814	DCA_se3_ag1_m_06	837.1662	(pause 0.51)	837.6759
+815	DCA_se3_ag1_m_06	837.6759	So I'm'a go and	838.4842
+816	DCA_se3_ag1_m_06	838.4842	(pause 0.63)	839.1131
+817	DCA_se3_ag1_m_06	839.1131	I'm'a finish I guess.	840.1812
+818	DCA_int_03	841.6408	Well um, what do you do	843.1522
+819	DCA_int_03	843.1522	(pause 1.07)	844.2180
+820	DCA_int_03	844.2180	uh, after school?	845.4899
+821	DCA_se3_ag1_m_06	845.9471	After school well,	847.0453
+822	DCA_se3_ag1_m_06	847.0453	(pause 0.52)	847.5666
+823	DCA_se3_ag1_m_06	847.5666	I usually-	848.0763
+824	DCA_se3_ag1_m_06	848.0763	(pause 0.18)	848.2547
+825	DCA_se3_ag1_m_06	848.2547	I used to	848.8468
+826	DCA_se3_ag1_m_06	848.8468	(pause 0.15)	848.9992
+827	DCA_se3_ag1_m_06	848.9992	uh, go	849.4940
+828	DCA_se3_ag1_m_06	849.4940	(pause 0.23)	849.7220
+829	DCA_se3_ag1_m_06	849.7220	play basketball or look at television or something but	851.9568
+830	DCA_se3_ag1_m_06	851.9568	(pause 0.64)	852.5973
+831	DCA_se3_ag1_m_06	852.5973	here lately uh, I've been going to work. I work at the art gallery.	855.4955
+832	DCA_se3_ag1_m_06	855.4955	(pause 0.93)	856.4263
+833	DCA_se3_ag1_m_06	856.4263	/RD-WORK-8/.	857.6010
+834	DCA_int_03	858.0667	Do you work in it?	858.8498
+835	DCA_se3_ag1_m_06	859.1487	Yes I'm- [I'm a night] guard.	860.7318
+836	DCA_int_03	859.6498	[Oh, okay.]	860.3449
+837	DCA_int_03	861.0261	Oh really? What are your hours, tell me about it, [what's it like] there?	864.0898
+838	DCA_se3_ag1_m_06	863.4132	[Uh-]	863.7561
+839	DCA_se3_ag1_m_06	864.5948	I work from five to nine.	865.9850
+840	DCA_se3_ag1_m_06	865.9850	(pause 0.22)	866.2097
+841	DCA_se3_ag1_m_06	866.2097	we change up into our	867.4801
+842	DCA_se3_ag1_m_06	867.4801	(pause 0.15)	867.6330
+843	DCA_se3_ag1_m_06	867.6330	guard uniforms and	868.8656
+844	DCA_int_03	868.9351	Mm-hm.	869.4605
+845	DCA_se3_ag1_m_06	869.6510	We c- watch all the paintings, we change galleries every night and uh,	873.1549
+846	DCA_se3_ag1_m_06	873.1549	(pause 1.95)	875.1042
+847	DCA_se3_ag1_m_06	875.1042	<ts>	875.4169
+848	DCA_se3_ag1_m_06	875.4169	(pause 0.40)	875.8155
+849	DCA_se3_ag1_m_06	875.8155	just watch the people and make sure they don't touch the paintings and uh,	878.6729
+850	DCA_se3_ag1_m_06	878.6729	(pause 0.54)	879.2174
+851	DCA_se3_ag1_m_06	879.2174	keep a constant check	880.2044
+852	DCA_se3_ag1_m_06	880.2044	(pause 0.56)	880.7658
+853	DCA_se3_ag1_m_06	880.7658	you know,	881.0855
+854	DCA_se3_ag1_m_06	881.0855	(pause 0.28)	881.3636
+855	DCA_se3_ag1_m_06	881.3636	watch the room temperature and things like that.	883.0989
+856	DCA_int_03	883.9221	Why do you have to watch the room /temp-/ temperature?	885.7641
+857	DCA_se3_ag1_m_06	886.0885	Cause uh the paintings are very old and they uh,	888.4084
+858	DCA_se3_ag1_m_06	888.4084	(pause 1.31)	889.7160
+859	DCA_se3_ag1_m_06	889.7160	<ts>	889.7845
+860	DCA_se3_ag1_m_06	889.7845	(pause 0.16)	889.9445
+861	DCA_se3_ag1_m_06	889.9445	/Over/ temperature you know they destroy the uh,	891.8743
+862	DCA_se3_ag1_m_06	891.8743	(pause 0.19)	892.0629
+863	DCA_se3_ag1_m_06	892.0629	quality of the paint	892.9734
+864	DCA_se3_ag1_m_06	892.9734	(pause 0.37)	893.3395
+865	DCA_se3_ag1_m_06	893.3395	because	893.6453
+866	DCA_se3_ag1_m_06	893.6453	(pause 0.28)	893.9280
+867	DCA_se3_ag1_m_06	893.9280	they t- t- you know so /oh/ a lot of 'em have already start to	896.3962
+868	DCA_se3_ag1_m_06	896.3962	(pause 0.79)	897.1909
+869	DCA_se3_ag1_m_06	897.1909	you know crack and /grow/ and things so uh,	899.6563
+870	DCA_se3_ag1_m_06	899.6563	(pause 0.61)	900.2615
+871	DCA_se3_ag1_m_06	900.2615	they keep the rooms at certain temperatures.	901.9748
+872	DCA_int_03	903.6079	Oh that's very interesting.	905.1012
+873	DCA_int_03	905.1012	(pause 0.96)	906.0645
+874	DCA_int_03	906.0645	How'd you come about that job?	907.2429
+875	DCA_se3_ag1_m_06	907.8648	Uh, it was in the newspaper	909.3830
+876	DCA_se3_ag1_m_06	909.3830	(pause 0.16)	909.5475
+877	DCA_se3_ag1_m_06	909.5475	[and uh,]	909.8538
+878	DCA_int_03	909.5900	[Oh] /inaudible/.	910.6189
+879	DCA_se3_ag1_m_06	911.0860	brought the ad in, one of the fellas brought the ad in and so the placement counselor	914.4601
+880	DCA_se3_ag1_m_06	914.4601	(pause 0.48)	914.9451
+881	DCA_se3_ag1_m_06	914.9451	he- it's about	915.6850
+882	DCA_se3_ag1_m_06	915.6850	(pause 0.52)	916.2090
+883	DCA_se3_ag1_m_06	916.2090	ten fellas who go to school here work down there	918.1935
+884	DCA_se3_ag1_m_06	918.1935	(pause 0.99)	919.1805
+885	DCA_se3_ag1_m_06	919.1805	so we all work down there.	920.3909
+886	DCA_int_03	923.2407	Uh, did you ever have a teacher that hollered a lot?	925.6733
+887	DCA_se3_ag1_m_06	928.3325	I had one that uh-	929.2264
+888	DCA_se3_ag1_m_06	929.2264	(pause 0.59)	929.8190
+889	DCA_se3_ag1_m_06	929.8190	but uh,	930.3131
+890	DCA_se3_ag1_m_06	930.3131	(pause 0.51)	930.8235
+891	DCA_se3_ag1_m_06	930.8235	/?/ what do you mean by hollered?	932.1485
+892	DCA_int_03	932.2895	Yeah right, you know what I'm talking about.	934.1153
+893	DCA_se3_ag1_m_06	934.3950	You mean yell at you [or-]	935.7225
+894	DCA_int_03	935.6058	[Yes.]	936.0513
+895	DCA_se3_ag1_m_06	937.6407	Well in /??/	938.7393
+896	DCA_se3_ag1_m_06	938.7393	(pause 0.20)	938.9356
+897	DCA_se3_ag1_m_06	938.9356	we have a teacher now, I like, Mr. /RD-NAME-2/ my shop teacher uh,	942.1295
+898	DCA_se3_ag1_m_06	942.1295	(pause 1.45)	943.5837
+899	DCA_se3_ag1_m_06	943.5837	he doesn't really holler	944.5533
+900	DCA_se3_ag1_m_06	944.5533	(pause 0.37)	944.9194
+901	DCA_se3_ag1_m_06	944.9194	uh, no.	945.5986
+902	DCA_se3_ag1_m_06	945.5986	(pause 1.08)	946.6828
+903	DCA_se3_ag1_m_06	946.6828	He gets his points over	947.7851
+904	DCA_int_03	947.7606	Mm-hm.	948.3310
+905	DCA_se3_ag1_m_06	948.6375	but I don't really have any teacher that holler.	950.1008
+906	DCA_int_03	951.2887	Why does he holler?	952.0543
+907	DCA_se3_ag1_m_06	955.7859	I don't know, I don't really know, it's not ne-	957.6281
+908	DCA_se3_ag1_m_06	957.6281	(pause 0.27)	957.8969
+909	DCA_se3_ag1_m_06	957.8969	I don't know, sometimes it's necessa- sometime he be kind of angry.	960.6557
+910	DCA_se3_ag1_m_06	960.6557	(pause 0.67)	961.3299
+911	DCA_se3_ag1_m_06	961.3299	But uh, for the [most part-]	962.5624
+912	DCA_int_03	962.1878	[Sometimes what?]	962.8583
+913	DCA_se3_ag1_m_06	963.1135	He be kind of angry, you [know.]	964.2252
+914	DCA_int_03	964.0354	[Uh-huh.]	964.4536
+915	DCA_se3_ag1_m_06	964.8417	But for the most part uh,	966.0535
+916	DCA_se3_ag1_m_06	966.0535	(pause 0.66)	966.7176
+917	DCA_se3_ag1_m_06	966.7176	he'll just-	967.2253
+918	DCA_se3_ag1_m_06	967.2253	(pause 0.42)	967.6449
+919	DCA_se3_ag1_m_06	967.6449	I guess his	968.0711
+920	DCA_se3_ag1_m_06	968.0711	(pause 0.18)	968.2557
+921	DCA_se3_ag1_m_06	968.2557	quality of voice, he not really hollering.	969.8318
+922	DCA_se3_ag1_m_06	969.8318	(pause 0.39)	970.2212
+923	DCA_se3_ag1_m_06	970.2212	just- just have a kind of heavy voice.	972.1035
+924	DCA_se3_ag1_m_06	972.1035	(pause 1.32)	973.4235
+925	DCA_se3_ag1_m_06	973.4235	Kinda loud, to me.	974.3357
+926	DCA_se3_ag1_m_06	974.3357	(pause 0.34)	974.6711
+927	DCA_se3_ag1_m_06	974.6711	It might not be ho- loud to you, though.	976.3735
+928	DCA_int_03	976.4819	[Uh-huh.]	976.9896
+929	DCA_se3_ag1_m_06	976.7588	[You know.]	977.1245
+930	DCA_int_03	979.9801	Well uh,	980.7420
+931	DCA_int_03	980.7420	(pause 2.38)	983.1254
+932	DCA_int_03	983.1254	What's- who's the best teacher you ever had?	984.8086
+933	DCA_se3_ag1_m_06	986.1512	I think my third grade teacher	987.5276
+934	DCA_se3_ag1_m_06	987.5276	(pause 0.29)	987.8181
+935	DCA_se3_ag1_m_06	987.8181	uh, Mrs. /RD-NAME-1/.	988.8137
+936	DCA_se3_ag1_m_06	988.8137	(pause 0.16)	988.9707
+937	DCA_se3_ag1_m_06	988.9707	When I used to go to	989.6963
+938	DCA_se3_ag1_m_06	989.6963	(pause 0.41)	990.1082
+939	DCA_se3_ag1_m_06	990.1082	elementary school.	991.0138
+940	DCA_se3_ag1_m_06	991.0138	(pause 0.88)	991.8961
+941	DCA_se3_ag1_m_06	991.8961	I like her the best.	992.9105
+942	DCA_int_03	993.1224	Why /?/	993.8596
+943	DCA_se3_ag1_m_06	994.8083	She was uh, sh-	995.8580
+944	DCA_se3_ag1_m_06	995.8580	(pause 0.59)	996.4435
+945	DCA_se3_ag1_m_06	996.4435	seemed to be you know,	997.4710
+946	DCA_se3_ag1_m_06	997.4710	(pause 0.08)	997.5516
+947	DCA_se3_ag1_m_06	997.5516	closer to the students and uh,	998.9572
+948	DCA_se3_ag1_m_06	998.9572	(pause 0.44)	999.4005
+949	DCA_se3_ag1_m_06	999.4005	/seemed/ more likeable person and everything uh,	1001.2523
+950	DCA_se3_ag1_m_06	1001.2523	(pause 0.63)	1001.8817
+951	DCA_se3_ag1_m_06	1001.8817	she teach school for a long time.	1003.4197
+952	DCA_se3_ag1_m_06	1003.4197	(pause 1.10)	1004.5201
+953	DCA_se3_ag1_m_06	1004.5201	And she knew	1005.0198
+954	DCA_se3_ag1_m_06	1005.0198	(pause 0.13)	1005.1476
+955	DCA_se3_ag1_m_06	1005.1476	you know, everything to do.	1006.0604
+956	DCA_se3_ag1_m_06	1006.0604	(pause 1.05)	1007.1147
+957	DCA_se3_ag1_m_06	1007.1147	And she taught us Spanish and	1008.5470
+958	DCA_se3_ag1_m_06	1008.5470	(pause 0.53)	1009.0799
+959	DCA_se3_ag1_m_06	1009.0799	we did a whole lot of things the other classes didn't do.	1011.0156
+960	DCA_se3_ag1_m_06	1011.0156	(pause 1.87)	1012.8874
+961	DCA_se3_ag1_m_06	1012.8874	We really enjoyed ourself in the class.	1014.7869
+962	DCA_int_03	1015.3591	/inaudible/	1017.1545
+963	DCA_se3_ag1_m_06	1017.3205	Yes she did.	1018.0243
+964	DCA_se3_ag1_m_06	1018.0243	(pause 0.66)	1018.6841
+965	DCA_se3_ag1_m_06	1018.6841	She used to fix things, you know we used to have a lot of uh,	1021.0272
+966	DCA_se3_ag1_m_06	1021.0272	(pause 0.71)	1021.7402
+967	DCA_se3_ag1_m_06	1021.7402	creative	1022.2151
+968	DCA_se3_ag1_m_06	1022.2151	(pause 0.50)	1022.7175
+969	DCA_se3_ag1_m_06	1022.7175	artwork to take home because uh,	1024.1879
+970	DCA_se3_ag1_m_06	1024.1879	(pause 0.63)	1024.8211
+971	DCA_se3_ag1_m_06	1024.8211	you know she	1025.4447
+972	DCA_se3_ag1_m_06	1025.4447	(pause 0.28)	1025.7212
+973	DCA_se3_ag1_m_06	1025.7212	used to	1026.1446
+974	DCA_se3_ag1_m_06	1026.1446	(pause 0.49)	1026.6356
+975	DCA_se3_ag1_m_06	1026.6356	show us how to make	1027.3031
+976	DCA_se3_ag1_m_06	1027.3031	(pause 0.35)	1027.6540
+977	DCA_se3_ag1_m_06	1027.6540	type of things that other people didn't.	1029.1492
+978	DCA_se3_ag1_m_06	1029.1492	(pause 1.61)	1030.7578
+979	DCA_se3_ag1_m_06	1030.7578	Like uh,	1031.1831
+980	DCA_se3_ag1_m_06	1031.1831	(pause 0.15)	1031.3299
+981	DCA_se3_ag1_m_06	1031.3299	pencil holders and things like that.	1032.7667
+982	DCA_se3_ag1_m_06	1032.7667	(pause 0.54)	1033.3096
+983	DCA_se3_ag1_m_06	1033.3096	They weren't real hard to make or anything.	1034.9181
+984	DCA_int_03	1037.0187	Could you talk a little louder?	1038.2698
+985	DCA_se3_ag1_m_06	1039.0041	Yeah I'll talk a little louder.	1040.3315
+986	DCA_int_03	1040.3075	Okay.	1040.7429
+987	DCA_int_03	1041.3088	Um,	1041.7267
+988	DCA_int_03	1041.7267	(pause 0.68)	1042.4111
+989	DCA_int_03	1042.4111	<ts> did you ever have a teacher you couldn't stand?	1044.5193
+990	DCA_int_03	1044.5193	(pause 3.33)	1047.8501
+991	DCA_int_03	1047.8501	That you just couldn't stand, you don't have to mention any names.	1050.4057
+992	DCA_se3_ag1_m_06	1050.3770	Yes I did, one time.	1051.8704
+993	DCA_se3_ag1_m_06	1052.6283	That was last year though.	1053.6108
+994	DCA_se3_ag1_m_06	1053.6108	(pause 0.87)	1054.4791
+995	DCA_se3_ag1_m_06	1054.4791	I don't have him anymore though.	1055.4918
+996	DCA_se3_ag1_m_06	1055.4918	(pause 1.48)	1056.9698
+997	DCA_se3_ag1_m_06	1056.9698	I'm glad I don't have him.	1058.0883
+998	DCA_int_03	1058.2370	Why- why couldn't you stand him?	1059.6027
+999	DCA_se3_ag1_m_06	1060.1156	Uh,	1060.5858
+1000	DCA_se3_ag1_m_06	1060.5858	(pause 0.30)	1060.8907
+1001	DCA_se3_ag1_m_06	1060.8907	his methods of teaching /?/	1062.3783
+1002	DCA_se3_ag1_m_06	1062.3783	(pause 0.72)	1063.0973
+1003	DCA_se3_ag1_m_06	1063.0973	you know,	1063.3977
+1004	DCA_se3_ag1_m_06	1063.3977	(pause 0.23)	1063.6275
+1005	DCA_se3_ag1_m_06	1063.6275	mostly him as a individual.	1065.0269
+1006	DCA_se3_ag1_m_06	1065.0269	(pause 0.80)	1065.8292
+1007	DCA_se3_ag1_m_06	1065.8292	Cause	1066.2297
+1008	DCA_se3_ag1_m_06	1066.2297	(pause 0.68)	1066.9143
+1009	DCA_se3_ag1_m_06	1066.9143	I don't know he didn't seem to uh,	1068.2455
+1010	DCA_se3_ag1_m_06	1068.2455	(pause 1.34)	1069.5890
+1011	DCA_se3_ag1_m_06	1069.5890	know how to teach right.	1070.6179
+1012	DCA_se3_ag1_m_06	1070.6179	(pause 1.53)	1072.1473
+1013	DCA_se3_ag1_m_06	1072.1473	Wasn't my type of teacher.	1073.2878
+1014	DCA_int_03	1076.6948	Okay let's see.	1077.7152
+1015	DCA_int_03	1077.7152	(pause 1.22)	1078.9347
+1016	DCA_int_03	1078.9347	Uh,	1079.3584
+1017	DCA_int_03	1079.3584	(pause 1.11)	1080.4699
+1018	DCA_int_03	1080.4699	do you hang- do you have a uh, group of kids that you hang around with?	1083.3651
+1019	DCA_se3_ag1_m_06	1083.4993	Yes I have uh, several friends uh,	1085.5533
+1020	DCA_se3_ag1_m_06	1085.5533	(pause 1.07)	1086.6203
+1021	DCA_se3_ag1_m_06	1086.6203	one of- one goes to school with me and the others finished school.	1089.2693
+1022	DCA_se3_ag1_m_06	1089.2693	(pause 0.59)	1089.8594
+1023	DCA_se3_ag1_m_06	1089.8594	Uh, there's usually about four of us.	1091.3585
+1024	DCA_se3_ag1_m_06	1091.3585	(pause 0.33)	1091.6884
+1025	DCA_se3_ag1_m_06	1091.6884	/There be uh/ two of 'em go to school here	1093.3046
+1026	DCA_se3_ag1_m_06	1093.3046	(pause 0.64)	1093.9397
+1027	DCA_se3_ag1_m_06	1093.9397	and uh,	1094.3838
+1028	DCA_se3_ag1_m_06	1094.3838	(pause 0.49)	1094.8780
+1029	DCA_se3_ag1_m_06	1094.8780	that I usually hang with uh,	1096.1730
+1030	DCA_se3_ag1_m_06	1096.1730	(pause 0.63)	1096.8070
+1031	DCA_se3_ag1_m_06	1096.8070	I don't have-	1097.2227
+1032	DCA_se3_ag1_m_06	1097.2227	(pause 0.29)	1097.5088
+1033	DCA_se3_ag1_m_06	1097.5088	I don't have- I ain't have a lot of friends but um,	1099.4346
+1034	DCA_se3_ag1_m_06	1099.4346	(pause 0.19)	1099.6288
+1035	DCA_se3_ag1_m_06	1099.6288	in general I hang with uh,	1101.0249
+1036	DCA_se3_ag1_m_06	1101.0249	(pause 1.23)	1102.2524
+1037	DCA_se3_ag1_m_06	1102.2524	two or three p- people in particular,	1104.0490
+1038	DCA_se3_ag1_m_06	1104.0490	(pause 0.18)	1104.2283
+1039	DCA_se3_ag1_m_06	1104.2283	you know we go out a lot together.	1105.5376
+1040	DCA_int_03	1106.6000	Where do you go when you go out?	1107.7561
+1041	DCA_se3_ag1_m_06	1108.6687	Go to uh, parties, go bowling,	1110.5217
+1042	DCA_se3_ag1_m_06	1110.5217	(pause 0.42)	1110.9390
+1043	DCA_se3_ag1_m_06	1110.9390	and uh,	1111.5040
+1044	DCA_se3_ag1_m_06	1111.5040	(pause 0.75)	1112.2585
+1045	DCA_se3_ag1_m_06	1112.2585	play basketball together, do everything together, you know.	1114.5806
+1046	DCA_se3_ag1_m_06	1114.5806	(pause 0.12)	1114.7027
+1047	DCA_se3_ag1_m_06	1114.7027	What you do.	1115.1460
+1048	DCA_int_03	1115.8700	What do you call /inaudible/	1117.3927
+1049	DCA_se3_ag1_m_06	1118.3060	What'd you say?	1118.8067
+1050	DCA_int_03	1118.7865	What do you call them? What do you call yourselves?	1120.5642
+1051	DCA_se3_ag1_m_06	1121.1597	Oh no, we don't have no name you know, just call 'em	1123.1457
+1052	DCA_se3_ag1_m_06	1123.1457	(pause 0.63)	1123.7784
+1053	DCA_se3_ag1_m_06	1123.7784	you know,	1124.1946
+1054	DCA_se3_ag1_m_06	1124.1946	(pause 0.32)	1124.5194
+1055	DCA_se3_ag1_m_06	1124.5194	/RD-NAME-2/ and /RD-NAME-1/ and /RD-NAME-1/.	1126.4416
+1056	DCA_se3_ag1_m_06	1126.4416	(pause 1.90)	1128.3373
+1057	DCA_se3_ag1_m_06	1128.3373	Those the [three.]	1129.0629
+1058	DCA_int_03	1128.7805	[Oh.]	1129.2043
+1059	DCA_int_03	1129.9545	Is it hard for anybody else to get into your group?	1132.5465
+1060	DCA_se3_ag1_m_06	1133.4307	If- not if we like them. I mean you know,	1134.9431
+1061	DCA_se3_ag1_m_06	1134.9431	(pause 0.27)	1135.2171
+1062	DCA_se3_ag1_m_06	1135.2171	we associate with everybody but uh,	1136.9528
+1063	DCA_se3_ag1_m_06	1136.9528	(pause 0.46)	1137.4096
+1064	DCA_se3_ag1_m_06	1137.4096	you know, everybody we just don't go with.	1138.8379
+1065	DCA_se3_ag1_m_06	1138.8379	(pause 0.51)	1139.3463
+1066	DCA_se3_ag1_m_06	1139.3463	I mean they can come with us, we don't have no objections but uh,	1142.0059
+1067	DCA_se3_ag1_m_06	1142.0059	(pause 1.08)	1143.0816
+1068	DCA_se3_ag1_m_06	1143.0816	certain things you know we just don't do with them.	1144.9627
+1069	DCA_int_03	1145.9623	What do you- what is it about the- about the four of you that uh,	1148.9024
+1070	DCA_int_03	1148.9024	(pause 0.19)	1149.0883
+1071	DCA_int_03	1149.0883	brings together	1149.9887
+1072	DCA_int_03	1149.9887	(pause 0.47)	1150.4569
+1073	DCA_int_03	1150.4569	to be closer?	1151.2564
+1074	DCA_se3_ag1_m_06	1151.2705	<ts>	1151.5578
+1075	DCA_se3_ag1_m_06	1151.5578	(pause 0.22)	1151.7747
+1076	DCA_se3_ag1_m_06	1151.7747	Well we like a lot of same things and	1153.7005
+1077	DCA_se3_ag1_m_06	1153.7005	(pause 0.44)	1154.1398
+1078	DCA_se3_ag1_m_06	1154.1398	we d- like to do the same things.	1155.9086
+1079	DCA_se3_ag1_m_06	1155.9086	(pause 0.75)	1156.6570
+1080	DCA_se3_ag1_m_06	1156.6570	Guess that's just about it.	1157.6308
+1081	DCA_int_03	1159.0233	Is there any one of you who is more or less the leader?	1162.1072
+1082	DCA_se3_ag1_m_06	1163.9696	Yeah I guess it's- yeah, it's /RD-NAME-2/ I guess.	1166.0797
+1083	DCA_int_03	1166.1158	/RD-NAME-2/? [/Say/ why] is he the leader?	1167.6237
+1084	DCA_se3_ag1_m_06	1166.5440	[You know, he-]	1167.0322
+1085	DCA_se3_ag1_m_06	1168.3729	I don't know, he always the leader.	1169.6978
+1086	DCA_se3_ag1_m_06	1169.6978	(pause 0.22)	1169.9188
+1087	DCA_se3_ag1_m_06	1169.9188	I don't know.	1170.5031
+1088	DCA_se3_ag1_m_06	1170.5031	(pause 0.29)	1170.7912
+1089	DCA_se3_ag1_m_06	1170.7912	I guess cause you know, he have leader qualities.	1172.9522
+1090	DCA_se3_ag1_m_06	1172.9522	(pause 0.92)	1173.8686
+1091	DCA_se3_ag1_m_06	1173.8686	You know, everybody kind of looks up to him.	1175.5054
+1092	DCA_se3_ag1_m_06	1175.5054	(pause 0.80)	1176.3070
+1093	DCA_se3_ag1_m_06	1176.3070	Looks down at him but looks up to him you know, he kind of short.	1179.3629
+1094	DCA_int_03	1179.6125	Uh-huh.	1180.1568
+1095	DCA_se3_ag1_m_06	1180.9891	So uh,	1181.5146
+1096	DCA_se3_ag1_m_06	1181.5146	(pause 0.70)	1182.2109
+1097	DCA_se3_ag1_m_06	1182.2109	I guess you know he's always- you know, he had leader qualities you know everybody always follow him, so.	1186.1188
+1098	DCA_int_03	1186.1167	What are leader qualities?	1187.3793
+1099	DCA_se3_ag1_m_06	1188.2389	You know, able to make	1189.3755
+1100	DCA_se3_ag1_m_06	1189.3755	(pause 0.20)	1189.5756
+1101	DCA_se3_ag1_m_06	1189.5756	you know decisions or decide where to go and	1192.0647
+1102	DCA_se3_ag1_m_06	1192.0647	(pause 1.42)	1193.4814
+1103	DCA_se3_ag1_m_06	1193.4814	you know, just able to	1194.3260
+1104	DCA_se3_ag1_m_06	1194.3260	(pause 0.53)	1194.8592
+1105	DCA_se3_ag1_m_06	1194.8592	you know, make all the plans and everything.	1196.5520
+1106	DCA_int_03	1196.7721	[Uh-huh.]	1197.2481
+1107	DCA_se3_ag1_m_06	1197.1723	[And] it usually work out, so	1198.4088
+1108	DCA_se3_ag1_m_06	1198.8531	you know, everybody else just follows.	1200.2318
+1109	DCA_se3_ag1_m_06	1200.2318	(pause 0.68)	1200.9153
+1110	DCA_se3_ag1_m_06	1200.9153	No objections.	1201.7367
+1111	DCA_se3_ag1_m_06	1201.7367	(pause 0.55)	1202.2839
+1112	DCA_se3_ag1_m_06	1202.2839	But nobody actually you know,	1203.3044
+1113	DCA_se3_ag1_m_06	1203.3044	(pause 0.14)	1203.4484
+1114	DCA_se3_ag1_m_06	1203.4484	say, I'm the leader, you know, do like I say, but	1205.6735
+1115	DCA_se3_ag1_m_06	1205.6735	(pause 0.54)	1206.2109
+1116	DCA_se3_ag1_m_06	1206.2109	you know, we all, you know kind of come to agreement.	1208.0526
+1117	DCA_se3_ag1_m_06	1208.0526	(pause 0.25)	1208.3039
+1118	DCA_se3_ag1_m_06	1208.3039	You know he makes an idea we come to agreement.	1210.2304
+1119	DCA_se3_ag1_m_06	1210.2304	(pause 0.93)	1211.1652
+1120	DCA_se3_ag1_m_06	1211.1652	But he'll go along with our program you know just like we go along with his.	1214.3493
+1121	DCA_int_03	1215.9767	Does it take a- an athlete or	1217.7787
+1122	DCA_int_03	1217.7787	(pause 0.45)	1218.2269
+1123	DCA_int_03	1218.2269	uh,	1218.7320
+1124	DCA_int_03	1218.7320	(pause 0.50)	1219.2274
+1125	DCA_int_03	1219.2274	intelligence to be the leader?	1220.9413
+1126	DCA_se3_ag1_m_06	1222.7250	Takes a little of both I guess	1224.0216
+1127	DCA_se3_ag1_m_06	1224.0216	(pause 0.35)	1224.3670
+1128	DCA_se3_ag1_m_06	1224.3670	be a leader.	1224.9707
+1129	DCA_int_03	1226.7761	Okay.	1227.3604
+1130	DCA_int_03	1227.3604	(pause 0.31)	1227.6725
+1131	DCA_int_03	1227.6725	Uh-	1228.2356
+1132	DCA_int_03	1228.2356	(pause 2.73)	1230.9673
+1133	DCA_int_03	1230.9673	uh, do you have any um,	1232.5160
+1134	DCA_int_03	1232.5160	(pause 0.66)	1233.1723
+1135	DCA_int_03	1233.1723	friends or anybody that you know who speaks a foreign language?	1236.7070
+1136	DCA_se3_ag1_m_06	1237.7156	Yes I have several friends that speak foreign languages.	1240.3208
+1137	DCA_se3_ag1_m_06	1240.3208	(pause 0.59)	1240.9131
+1138	DCA_se3_ag1_m_06	1240.9131	When I used to work in Hot Shop uh,	1242.4921
+1139	DCA_se3_ag1_m_06	1242.4921	(pause 0.40)	1242.8912
+1140	DCA_se3_ag1_m_06	1242.8912	most of the people there uh, you know they were young	1244.6281
+1141	DCA_se3_ag1_m_06	1244.6281	(pause 0.44)	1245.0723
+1142	DCA_se3_ag1_m_06	1245.0723	they go to college and	1246.0047
+1143	DCA_se3_ag1_m_06	1246.0047	(pause 0.33)	1246.3368
+1144	DCA_se3_ag1_m_06	1246.3368	they speak several languages, you know.	1248.0987
+1145	DCA_se3_ag1_m_06	1248.0987	(pause 1.60)	1249.6996
+1146	DCA_se3_ag1_m_06	1249.6996	And uh, my friends	1250.9477
+1147	DCA_se3_ag1_m_06	1250.9477	(pause 0.19)	1251.1403
+1148	DCA_se3_ag1_m_06	1251.1403	like I've mentioned before /RD-NAME-2/, his sister speak uh, two languages.	1254.5420
+1149	DCA_int_03	1255.1594	Mm-hm.	1255.8157
+1150	DCA_int_03	1255.8157	(pause 1.78)	1257.5925
+1151	DCA_int_03	1257.5925	Well did she learn them in school?	1259.5380
+1152	DCA_se3_ag1_m_06	1259.6454	Yes she uh, learned them in school, French and uh-	1262.4240
+1153	DCA_se3_ag1_m_06	1262.4240	(pause 0.76)	1263.1843
+1154	DCA_se3_ag1_m_06	1263.1843	French and Latin.	1264.1167
+1155	DCA_int_03	1264.3727	Uh-huh.	1264.8884
+1156	DCA_int_03	1264.8884	(pause 1.49)	1266.3830
+1157	DCA_int_03	1266.3830	Uh,	1266.8256
+1158	DCA_int_03	1266.8256	(pause 0.40)	1267.2234
+1159	DCA_int_03	1267.2234	what about your /friends, any in your group/	1269.6885
+1160	DCA_int_03	1269.6885	(pause 0.36)	1270.0527
+1161	DCA_int_03	1270.0527	speak a [foreign language?]	1271.0976
+1162	DCA_se3_ag1_m_06	1270.4849	[Well uh,]	1271.0412
+1163	DCA_se3_ag1_m_06	1271.6027	Me and /RD-NAME-1/ we had uh, Spanish.	1273.4315
+1164	DCA_int_03	1273.7281	Uh-huh.	1274.0737
+1165	DCA_int_03	1274.0737	(pause 1.15)	1275.2243
+1166	DCA_int_03	1275.2243	Well do you speak it at all?	1276.5649
+1167	DCA_se3_ag1_m_06	1277.4133	No.	1277.8864
+1168	DCA_int_03	1278.0108	Uh-huh.	1278.6247
+1169	DCA_se3_ag1_m_06	1278.8032	Don't care for it too much.	1280.0878
+1170	DCA_int_03	1280.6160	Do you have any white friends?	1282.1283
+1171	DCA_se3_ag1_m_06	1283.2413	I had uh, one	1284.5391
+1172	DCA_se3_ag1_m_06	1284.5391	(pause 0.17)	1284.7112
+1173	DCA_se3_ag1_m_06	1284.7112	when I used to work in the Hot Shop uh,	1286.5645
+1174	DCA_se3_ag1_m_06	1286.5645	(pause 1.91)	1288.4729
+1175	DCA_se3_ag1_m_06	1288.4729	Well we used to go out, you know	1289.9038
+1176	DCA_se3_ag1_m_06	1289.9038	(pause 0.16)	1290.0589
+1177	DCA_se3_ag1_m_06	1290.0589	like after work we'd go and	1291.2754
+1178	DCA_se3_ag1_m_06	1291.2754	(pause 0.36)	1291.6396
+1179	DCA_se3_ag1_m_06	1291.6396	go to a night club or something like that we uh,	1293.7206
+1180	DCA_se3_ag1_m_06	1293.7206	(pause 0.42)	1294.1448
+1181	DCA_se3_ag1_m_06	1294.1448	go with him.	1294.6861
+1182	DCA_int_03	1295.0613	Mm-hm.	1295.5105
+1183	DCA_se3_ag1_m_06	1295.4253	You know he'd come along with us.	1296.5619
+1184	DCA_se3_ag1_m_06	1297.0473	He's just like one of the fellas.	1298.4079
+1185	DCA_se3_ag1_m_06	1298.4079	(pause 1.03)	1299.4364
+1186	DCA_se3_ag1_m_06	1299.4364	He's alright.	1300.1766
+1187	DCA_int_03	1303.4075	Um,	1303.8557
+1188	DCA_int_03	1303.8557	(pause 4.70)	1308.5539
+1189	DCA_int_03	1308.5539	if you had- if you could do it all over again is there anything about your early life that you'd change?	1314.6579
+1190	DCA_se3_ag1_m_06	1315.0113	Yeah there's several things I'd change.	1316.7905
+1191	DCA_int_03	1316.7983	Kay.	1316.9575
+1192	DCA_se3_ag1_m_06	1317.4084	Uh,	1317.9193
+1193	DCA_se3_ag1_m_06	1317.9193	(pause 0.37)	1318.2848
+1194	DCA_se3_ag1_m_06	1318.2848	I'd-	1318.6447
+1195	DCA_se3_ag1_m_06	1318.6447	(pause 0.52)	1319.1692
+1196	DCA_se3_ag1_m_06	1319.1692	I'd go into uh, sports more.	1321.0793
+1197	DCA_se3_ag1_m_06	1321.0793	(pause 0.82)	1321.8997
+1198	DCA_se3_ag1_m_06	1321.8997	And uh,	1322.4251
+1199	DCA_se3_ag1_m_06	1322.4251	(pause 0.49)	1322.9162
+1200	DCA_se3_ag1_m_06	1322.9162	I'd study a little more harder.	1324.4409
+1201	DCA_se3_ag1_m_06	1324.4409	(pause 0.26)	1324.6970
+1202	DCA_se3_ag1_m_06	1324.6970	You know,	1325.0812
+1203	DCA_se3_ag1_m_06	1325.0812	(pause 0.21)	1325.2933
+1204	DCA_se3_ag1_m_06	1325.2933	lot of things I found hard uh,	1326.9274
+1205	DCA_se3_ag1_m_06	1326.9274	(pause 0.65)	1327.5796
+1206	DCA_se3_ag1_m_06	1327.5796	<cough>	1327.9525
+1207	DCA_se3_ag1_m_06	1327.9525	(pause 0.39)	1328.3399
+1208	DCA_se3_ag1_m_06	1328.3399	they were hard because I didn't study you know, for 'em before, I had 'em but I didn't take 'em seriously enough and uh,	1333.5124
+1209	DCA_se3_ag1_m_06	1333.5124	(pause 1.32)	1334.8321
+1210	DCA_se3_ag1_m_06	1334.8321	like I say I'd go into sports more and-	1336.4495
+1211	DCA_int_03	1337.5094	What about um, what things would you s- would you have studied more?	1340.5585
+1212	DCA_se3_ag1_m_06	1340.8041	I'd study more math.	1342.0247
+1213	DCA_int_03	1342.1928	Mm-hm.	1342.7500
+1214	DCA_se3_ag1_m_06	1343.2733	[And uh-]	1343.7319
+1215	DCA_int_03	1343.3933	[Are you] good at it or-	1344.3541
+1216	DCA_se3_ag1_m_06	1344.8712	I like math	1345.6999
+1217	DCA_se3_ag1_m_06	1345.6999	(pause 0.40)	1346.1038
+1218	DCA_se3_ag1_m_06	1346.1038	but uh,	1346.6074
+1219	DCA_se3_ag1_m_06	1346.6074	(pause 0.54)	1347.1483
+1220	DCA_se3_ag1_m_06	1347.1483	I couldn't-	1347.5750
+1221	DCA_se3_ag1_m_06	1347.5750	(pause 0.16)	1347.7326
+1222	DCA_se3_ag1_m_06	1347.7326	I don't know, all my teachers tell me I could be good at it but I don't apply myself.	1351.1075
+1223	DCA_se3_ag1_m_06	1351.1075	(pause 0.64)	1351.7516
+1224	DCA_se3_ag1_m_06	1351.7516	And uh,	1352.1566
+1225	DCA_se3_ag1_m_06	1352.1566	(pause 0.19)	1352.3439
+1226	DCA_se3_ag1_m_06	1352.3439	you know, when you kind of	1353.1392
+1227	DCA_se3_ag1_m_06	1353.1392	(pause 0.59)	1353.7326
+1228	DCA_se3_ag1_m_06	1353.7326	a little bit behind you know,	1354.9011
+1229	DCA_se3_ag1_m_06	1354.9011	(pause 0.32)	1355.2172
+1230	DCA_se3_ag1_m_06	1355.2172	you start	1355.6613
+1231	DCA_se3_ag1_m_06	1355.6613	(pause 0.34)	1355.9976
+1232	DCA_se3_ag1_m_06	1355.9976	not caring so much, so.	1357.3734
+1233	DCA_int_03	1357.5996	Mm-hm.	1358.1264
+1234	DCA_se3_ag1_m_06	1358.1078	You don't	1358.5011
+1235	DCA_se3_ag1_m_06	1359.0122	really go into it like you should.	1360.3924
+1236	DCA_int_03	1363.0593	Is there anything that uh-	1364.5600
+1237	DCA_int_03	1364.5600	(pause 0.36)	1364.9202
+1238	DCA_int_03	1364.9202	any ways that you can	1366.0144
+1239	DCA_int_03	1366.0144	(pause 0.42)	1366.4329
+1240	DCA_int_03	1366.4329	appro- improve yourself?	1368.2189
+1241	DCA_se3_ag1_m_06	1369.1033	Well uh, on my own I could but um,	1371.1370
+1242	DCA_se3_ag1_m_06	1371.1370	(pause 0.17)	1371.3060
+1243	DCA_se3_ag1_m_06	1371.3060	<ts>	1371.4377
+1244	DCA_se3_ag1_m_06	1371.4377	(pause 0.25)	1371.6885
+1245	DCA_se3_ag1_m_06	1371.6885	I just don't find the time to do it	1373.3573
+1246	DCA_se3_ag1_m_06	1373.3573	(pause 0.66)	1374.0176
+1247	DCA_se3_ag1_m_06	1374.0176	really.	1374.4018
+1248	DCA_int_03	1376.2159	Okay, let's see.	1377.4291
+1249	DCA_int_03	1377.4291	(pause 1.24)	1378.6650
+1250	DCA_int_03	1378.6650	Um, well you told me already what you wanna be when you finish school.	1382.1318
+1251	DCA_int_03	1382.1318	(pause 0.64)	1382.7761
+1252	DCA_int_03	1382.7761	Um,	1383.2038
+1253	DCA_int_03	1383.2038	(pause 1.52)	1384.7250
+1254	DCA_int_03	1384.7250	how long do you think it'll take to become	1386.5471
+1255	DCA_int_03	1386.5471	(pause 1.76)	1388.3079
+1256	DCA_int_03	1388.3079	a draft-	1389.1049
+1257	DCA_int_03	1389.1049	(pause 0.79)	1389.8926
+1258	DCA_int_03	1389.8926	mechanical drawer or whatever?	1391.2453
+1259	DCA_se3_ag1_m_06	1391.1852	Uh,	1391.8499
+1260	DCA_se3_ag1_m_06	1392.2309	a draftsman uh, I think it'll take me about six years after I finish school.	1396.4218
+1261	DCA_se3_ag1_m_06	1396.4218	(pause 0.51)	1396.9291
+1262	DCA_se3_ag1_m_06	1396.9291	Because uh,	1397.5227
+1263	DCA_se3_ag1_m_06	1397.5227	(pause 0.37)	1397.8908
+1264	DCA_se3_ag1_m_06	1397.8908	after I go to college uh,	1399.2154
+1265	DCA_se3_ag1_m_06	1399.2154	(pause 0.87)	1400.0838
+1266	DCA_se3_ag1_m_06	1400.0838	well you know it takes about two years apprentice.	1402.2728
+1267	DCA_int_03	1402.2808	Mm-hm.	1402.8171
+1268	DCA_se3_ag1_m_06	1403.5706	And uh,	1403.9988
+1269	DCA_se3_ag1_m_06	1403.9988	(pause 0.68)	1404.6832
+1270	DCA_se3_ag1_m_06	1404.6832	six years- six to eight years from that time.	1407.0042
+1271	DCA_se3_ag1_m_06	1407.0042	(pause 0.97)	1407.9767
+1272	DCA_se3_ag1_m_06	1407.9767	I hope it don't take any longer, [you know.]	1409.6694
+1273	DCA_int_03	1409.4146	[Yeah.]	1409.9414
+1274	DCA_int_03	1410.8032	If you had all the money that you wanted,	1412.8241
+1275	DCA_int_03	1412.8241	(pause 0.64)	1413.4684
+1276	DCA_int_03	1413.4684	you know,	1413.9669
+1277	DCA_int_03	1413.9669	(pause 0.34)	1414.3088
+1278	DCA_int_03	1414.3088	what would you do?	1415.1012
+1279	DCA_int_03	1415.1012	(pause 1.59)	1416.6872
+1280	DCA_int_03	1416.6872	What would you do with it? How would you spend it?	1418.6521
+1281	DCA_se3_ag1_m_06	1419.0202	Well I'd buy myself	1420.2928
+1282	DCA_se3_ag1_m_06	1420.2928	(pause 0.91)	1421.2012
+1283	DCA_se3_ag1_m_06	1421.2012	a house,	1421.8027
+1284	DCA_se3_ag1_m_06	1421.8027	(pause 0.93)	1422.7352
+1285	DCA_se3_ag1_m_06	1422.7352	and uh,	1423.4274
+1286	DCA_se3_ag1_m_06	1423.4274	(pause 0.49)	1423.9157
+1287	DCA_se3_ag1_m_06	1423.9157	I'd buy myself all the clothes I needed.	1425.5525
+1288	DCA_se3_ag1_m_06	1425.5525	(pause 0.21)	1425.7606
+1289	DCA_se3_ag1_m_06	1425.7606	Fix-	1426.1510
+1290	DCA_se3_ag1_m_06	1426.1510	(pause 0.25)	1426.4049
+1291	DCA_se3_ag1_m_06	1426.4049	fix up a couple of basketball courts and uh,	1428.6707
+1292	DCA_se3_ag1_m_06	1428.6707	(pause 1.59)	1430.2599
+1293	DCA_se3_ag1_m_06	1430.2599	we'd uh,	1430.8563
+1294	DCA_se3_ag1_m_06	1430.8563	(pause 2.67)	1433.5254
+1295	DCA_se3_ag1_m_06	1433.5254	you know I'd fix up all my friends who needed- you know, need some cash.	1436.5803
+1296	DCA_se3_ag1_m_06	1436.5803	(pause 0.64)	1437.2163
+1297	DCA_se3_ag1_m_06	1437.2163	And uh,	1437.7765
+1298	DCA_se3_ag1_m_06	1437.7765	(pause 1.00)	1438.7810
+1299	DCA_se3_ag1_m_06	1438.7810	I'd buy my mother whatever she needed.	1440.2918
+1300	DCA_se3_ag1_m_06	1440.2918	(pause 0.90)	1441.1954
+1301	DCA_se3_ag1_m_06	1441.1954	You know whoever I thought needed- you know, needed the money I'd give it to 'em.	1444.2642
+1302	DCA_se3_ag1_m_06	1444.2642	(pause 0.73)	1444.9931
+1303	DCA_se3_ag1_m_06	1444.9931	That's about it.	1445.6294
+1304	DCA_int_03	1445.7507	/That's it?/	1446.2190
+1305	DCA_se3_ag1_m_06	1446.2630	Yes.	1446.6992
+1306	DCA_int_03	1447.9637	Okay.	1448.5442
+1307	DCA_int_03	1448.5442	(pause 0.92)	1449.4644
+1308	DCA_int_03	1449.4644	Um,	1449.9825
+1309	DCA_int_03	1449.9825	(pause 3.90)	1453.8797
+1310	DCA_int_03	1453.8797	Can you tell me about your job also.	1455.6165
+1311	DCA_int_03	1455.6165	(pause 0.32)	1455.9407
+1312	DCA_int_03	1455.9407	What about a typical um,	1457.6865
+1313	DCA_int_03	1457.6865	(pause 1.14)	1458.8232
+1314	DCA_int_03	1458.8232	a holiday?	1459.7126
+1315	DCA_int_03	1459.7126	(pause 1.20)	1460.9122
+1316	DCA_int_03	1460.9122	How do you spend your holidays?	1462.3547
+1317	DCA_se3_ag1_m_06	1463.3773	Well uh, you know usually on the holidays a lot of parties are given and	1467.1083
+1318	DCA_se3_ag1_m_06	1467.1083	(pause 0.50)	1467.6085
+1319	DCA_se3_ag1_m_06	1467.6085	we usually go to uh, all the	1469.2905
+1320	DCA_se3_ag1_m_06	1469.2905	(pause 0.14)	1469.4346
+1321	DCA_se3_ag1_m_06	1469.4346	parties we can find.	1470.4110
+1322	DCA_int_03	1470.4751	Mm-hm.	1471.1238
+1323	DCA_se3_ag1_m_06	1473.9847	Yeah [uh]	1475.0721
+1324	DCA_int_03	1474.5574	[<laugh>]	1474.9798
+1325	DCA_se3_ag1_m_06	1475.5094	Yeah, we go to all the parties we can find and	1477.7080
+1326	DCA_se3_ag1_m_06	1477.7080	(pause 0.51)	1478.2199
+1327	DCA_se3_ag1_m_06	1478.2199	we go out,	1478.7081
+1328	DCA_se3_ag1_m_06	1478.7081	(pause 0.09)	1478.7961
+1329	DCA_se3_ag1_m_06	1478.7961	you know,	1479.1563
+1330	DCA_se3_ag1_m_06	1479.1563	(pause 0.19)	1479.3484
+1331	DCA_se3_ag1_m_06	1479.3484	might go bowling or	1480.3488
+1332	DCA_se3_ag1_m_06	1480.3488	(pause 0.28)	1480.6330
+1333	DCA_se3_ag1_m_06	1480.6330	we go skating.	1481.4854
+1334	DCA_int_03	1485.8806	/I guess they'll be coming out. Okay/. (tape skips)	1487.3101
+1335	DCA_se3_ag1_m_06	1487.7655	Uh, we go bowling and skating a lot I forgot to tell you that.	1490.3095
+1336	DCA_int_03	1490.4760	Oh, uh-huh.	1491.3924
+1337	DCA_se3_ag1_m_06	1492.0487	And uh,	1492.6727
+1338	DCA_se3_ag1_m_06	1492.6727	(pause 0.75)	1493.4266
+1339	DCA_se3_ag1_m_06	1493.4266	usually on the holidays we go bowling and skating,	1495.7196
+1340	DCA_se3_ag1_m_06	1495.7196	(pause 0.55)	1496.2679
+1341	DCA_se3_ag1_m_06	1496.2679	go to parties and	1497.1619
+1342	DCA_se3_ag1_m_06	1497.1619	(pause 1.52)	1498.6850
+1343	DCA_se3_ag1_m_06	1498.6850	just you know,	1499.4974
+1344	DCA_se3_ag1_m_06	1499.4974	(pause 0.60)	1500.0989
+1345	DCA_se3_ag1_m_06	1500.0989	drive around a lot.	1501.0113
+1346	DCA_se3_ag1_m_06	1501.0113	(pause 0.57)	1501.5836
+1347	DCA_se3_ag1_m_06	1501.5836	play [basketball.]	1502.5000
+1348	DCA_int_03	1501.8077	[What about your family] how do you spend it with your family?	1504.4141
+1349	DCA_se3_ag1_m_06	1504.3889	Uh,	1504.8199
+1350	DCA_se3_ag1_m_06	1505.1372	I don't spend too much time- I spend some time at home but most of the time I'm on the go.	1509.0376
+1351	DCA_int_03	1509.1723	Mm-hm.	1509.7296
+1352	DCA_se3_ag1_m_06	1509.8726	So,	1510.3501
+1353	DCA_se3_ag1_m_06	1510.3501	(pause 0.28)	1510.6290
+1354	DCA_se3_ag1_m_06	1510.6290	you know I see 'em, I talk to 'em,	1511.9988
+1355	DCA_int_03	1511.9428	Yeah, hm.	1512.4376
+1356	DCA_se3_ag1_m_06	1512.5151	that's about it.	1513.0767
