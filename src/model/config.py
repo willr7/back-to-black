@@ -17,6 +17,7 @@ def get_config():
         "tokenizer_file": "model/tokenizer_{0}.json",
         "data_folder": "data/",
         "experiment_name": "runs/aave_to_sae",
+        "vocab_size": 1000
     }
 
 
