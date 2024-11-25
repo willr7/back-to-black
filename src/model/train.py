@@ -511,7 +511,6 @@ def train_model(config):
             model_filename,
         )
 
-
 def translate(sentence: str):
     device = (
         "cuda"

@@ -1,5 +1,5 @@
 import torch 
-from dataset.dataset import causal_mask
+from dataset import causal_mask
 
 def greedy_decode(model, source, source_mask, tokenizer_src, tokenizer_tgt, max_len, device):
     sos_idx = tokenizer_tgt.token_to_id("[SOS]")
@@ -29,9 +29,13 @@ def greedy_decode(model, source, source_mask, tokenizer_src, tokenizer_tgt, max_
 
 def beam_search(model, beam_size, encoder_input, encoder_mask, tokenizer_source, tokenizer_target, max_len, device):
     """
-    Performs beam search on the encoder
+    Performs beam search on the encoder input
     
     Parameters:
+    model: Torch.Tensor
+
+    beam_size: int
+        integer value of the number of beams you want to explore in beam search 
     encoder_input: Torch.Tensor
         encoded input source sentence
     
