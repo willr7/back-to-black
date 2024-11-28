@@ -91,7 +91,8 @@ def yield_mono_lines(path, lang):
 
 if __name__ == "__main__":
     tokenizer = AutoTokenizer.from_pretrained("google-t5/t5-small")
-    model = AutoModelForSeq2SeqLM.from_pretrained("google-t5/t5-small")
+    source_to_target_model = AutoModelForSeq2SeqLM.from_pretrained("google-t5/t5-small")
+    target_to_source_model = AutoModelForSeq2SeqLM.from_pretrained("google-t5/t5-small")
 
     paired_src_data_path = ""
     paired_tgt_data_path = ""
