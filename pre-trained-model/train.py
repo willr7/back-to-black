@@ -89,32 +89,48 @@ def yield_mono_lines(path, lang):
         for line in file:
             yield {lang: line}
 
-def translate(translation_model, monolingual_data, tokenizer):
+def translate(translation_model, monolingual_data, tokenizer, source_lang, target_lang):
     """
     Creates synthetic data using a translation model and monolingual dataset
 
     Parameters
     ==========
-    translation_model: torch.tensor
-        pretrained model that can translate source data into target data
+    translation_model: Dataset
+        pretrained model that can translate sentences from source language into sentences from target language
 
-    monolingual_data: torch.
+    monolingual_data: Dataset
+        list of dictionaries with item {lang: text}
+    
+    tokenizer: torch tokenizer?
+        object that can tokenize list of text
 
+    source_lang: str
+        the source language
+    
+    target_lang: str
+        the target language 
+        
     Returns
     =======
+        returns a HuggingFace Dataset using the following dictionary {lang: [lines of translated text]} 
     """
     # might need to prefix each line of the data with f'translate {source_language} to {target_language}'
     # assume the data does not have translation prompt prefix
     # what data type is the monolingual data, dictionary? list? HuggingFace Dataset?
 
-    # prefix = f'translate {source_lang} to {target_lang}: '
-    # new_mono_data = [prefix + text for text in monolingual_data]
-    input_tokens = tokenizer(monolingual_data, return_tensors='pt').input_ids
+    prefix = f'translate {source_lang} to {target_lang}: '
+    new_mono_data = [prefix + source_dict[source_lang] for source_dict in monolingual_data]
+
+    # tokenizer just takens in the lines from the language
+    input_tokens = tokenizer(new_mono_data, return_tensors='pt').input_ids
 
     # translates the tokens from the source language to tokens in the target language
-    output_tokens = translation_model.generate(input_tokens, max_new_tokens=40, top_k=10, top_p=0.95)
+    # top 5 tokens retained
+    output_tokens = translation_model.generate(input_tokens, max_new_tokens=40, top_k=5, top_p=0.95)
     # decode the generated token ids back into text from the target language
-    synthetic_data = tokenizer.decode(output_tokens[0], skip_special_tokens=True)
+    # not sure if I should only index first element, might change this code later once we get data
+    synthetic_lines = tokenizer.decode(output_tokens[0], skip_special_tokens=True)
+    synthetic_data = Dataset.from_dict({target_lang: synthetic_lines})
 
     return synthetic_data
 
@@ -138,8 +154,10 @@ def combine(source_data, synthetic_target_data, parallel_data, source_lang, targ
     ======= 
         HuggingFace dataset with the keys, values items source_lang: source_text, target_lang: target_text
     """
-    # mono_dataset => {lang: line}
-    # paired_dataset => {source_lang: source_line, target_lang: target_line}
+    # I assumed the data will look like the following:
+        # source_dataset => {lang: line}
+        # synthetic_target_data => {lang: line}
+        # parallel_dataset => {source_lang: source_line, target_lang: target_line}
     
     # can't append to a HuggingFace Dataset, immutable (uses similar interface to an array), 
     # have to create a new dataset object 
