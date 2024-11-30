@@ -7,16 +7,37 @@ import numpy as np
 
 
 def train_model(
-    parallel_data,
-    source_to_target_model,
-    target_to_source_model,
-    tokenizer,
-    source_data,
-    target_data,
-    iterations,
-    source_lang,
-    target_lang,
+    parallel_data: Dataset,
+    source_to_target_model: AutoModelForSeq2SeqLM,
+    target_to_source_model: AutoModelForSeq2SeqLM,
+    tokenizer: AutoTokenizer,
+    source_data: Dataset,
+    target_data: Dataset,
+    iterations: int,
+    source_lang: str,
+    target_lang: str,
 ):
+    """
+    Trains the source_to_target_model and the target_to_source_model using iterative back translation
+
+    Paramter
+    ========
+    parallel_data: huggingface Dataset with two keys src_lang and tgt_lang
+
+    source_to_target_model and target_to_source_model are huggingface Language Models for translation
+
+    tokenizer is the tokenizer for the given language models
+
+    source_data and target_data are huggingface datasets with one key, either src_lang or tgt_lang
+
+    iterations is the number of iterations to do back translation
+
+    source_lang and target_lang are the source and target languages
+
+    Returns
+    =======
+        the two models, trained
+    """
     # prepare data, consider putting this in a function
     source_to_target_data = parallel_data
     target_to_source_data = parallel_data
