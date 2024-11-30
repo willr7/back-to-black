@@ -174,10 +174,8 @@ def translate(translation_model, monolingual_data, tokenizer, source_lang, targe
     # assume the data does not have translation prompt prefix
     # what data type is the monolingual data, dictionary? list? HuggingFace Dataset?
 
-    prefix = f"translate {source_lang} to {target_lang}: "
-    new_mono_data = [
-        prefix + source_dict[source_lang] for source_dict in monolingual_data
-    ]
+    prompt = f'translate {source_lang} to {target_lang}: '
+    new_mono_data = [prompt + source_dict[source_lang] for source_dict in monolingual_data]
 
     # tokenizer just takes in the lines from the language
     input_tokens = tokenizer(new_mono_data, return_tensors="pt").input_ids
