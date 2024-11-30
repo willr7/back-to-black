@@ -1,14 +1,52 @@
+import openai
 from openai import OpenAI
+import openAI_call
+import os
 
-client = OpenAI()
+# gets the api key environment variable to be able to access the OpenAI API
+# openai.api_key = os.environ.get("OPENAI_API", "")
+api_key = open("openAI_api_key.txt", "r").read()
+os.environ["OPENAI_API_KEY"] = api_key
 
-completion = client.chat.completions.create(
-    model="gpt-40-mini",
-    messages=[
-        {"role":"system", "content": "You are a helpful African American Vernacular English(AAVE) to Standard Academic English(SAE) translator"},
-        {"role":"user", "content": "Translate the following AAVE lyrics where each line is separated by a semicolon to SAE lyrics: Ayy, ayy; Oh, oh-oh; Yeah, yeah, yeah, woah; Ayy, one main girl, fuck a mistress, oh; Heart still hurt, like a wrist slit, oh; I don't fit in, I'm a misfit, oh; First thing on my mind, that's to get rich, oh; One main girl, fuck a mistress, oh; Heart still hurt, like a wrist slit, oh; I don't fit in, I'm a misfit, oh; First thing on my mind, that's to get rich, oh; I'm a misfit, that means I don't fit, nah, I don't fit in; I just bought a coupé, baby girl, get in; Lord forgive me, I know I'ma sin tonight; Prolly get high with my friends tonight; Have a ménage in the Benz tonight; (Yeah); Prolly go and fuck on some twins tonight; Pop a xanax so I'll forget tonight (Yeah, tonight); Went to L.A., almost missed my flight twice; (Yeah, yeah, twice); I was off the xans that night, right (Right); Almost died on 'em, that's the last flight (Flight); I was pretty cool in my last life (Life); Ayy, one main girl, fuck a mistress, oh (Ayy, ayy, yeah); Heart still hurt, like a wrist slit, oh (Yeah); I don't fit in, I'm a misfit, oh (Yeah); First thing on my mind is to get rich, oh; One main girl, fuck a mistress, oh; Heart still hurt, like a wrist slit, oh; I don't fit in, I'm a misfit, oh; First thing on my mind, that's to get rich, oh; Uh, ayy; Xanny turning me into a beast (Uh, uh); Don't make me call them niggas, I'm over the east (Ayy); Then I'll probably push you in the street (Uh, yeah, ayy); Make a motherfucker hit his feet; Tell them niggas, Check my swag Yours too bad, take that back; I quit drugs, then relapsed; I run back, like gym class; Brand new bitch, I need it (Uh, ayy); If it's too good, I'll keep it; Be my Victoria's Secret; Be my Victoria's Secret, yeah; (Ayy); One main girl, fuck a mistress, oh; Heart still hurt, never wrist slit, oh (Yeah); I don't fit in, I'm a misfit, oh; First thing on my mind, that's to get rich, oh; One main girl, fuck a mistress, oh (Ayy); Heart still hurt, never wrist slit, oh; I don't fit in, I'm a misfit, oh; First thing on my mind, that's to get rich, oh"}
-    ]
+client = OpenAI(
+    api_key=os.environ["OPENAI_API_KEY"]
 )
 
+text = ""
+target_lang = "Standard Academic English"
+source_lang = "African American Vernacular"
+website_url = "https://genius.com/Travis-scott-sicko-mode-lyrics"
+prompt = f"Translate the {source_lang} rap lyrics from this website to {target_lang}: {website_url}"
 
-print(completion.choices[0].message)
+# # chat_translation = openai.Completion.create(
+# chat_translation = client.completions.create(
+#     model="gpt-40-mini",
+#     # model="text-davinci-003",
+#     prompt=prompt,
+#     max_tokens=500
+# )
+
+# print(chat_translation.choices[0].text)
+
+# client = OpenAI()
+
+try:
+    completion = client.chat.completions.create(
+        model="gpt-40-mini",
+        # model="gpt-3.5-turbo",
+        # model="text-embedding-3-large", # free model that allows 1,000,000 tokens per min
+        messages=[
+            {"role":"system", "content": "You are a helpful African American Vernacular English(AAVE) to Standard Academic English(SAE) translator"},
+            {"role":"user", "content": prompt}
+            #  "Translate the following AAVE lyrics where each line is separated by a semicolon to SAE lyrics: "}
+        ]
+    )
+    print(completion.choices[0].message)
+
+except openai.RateLimitError as e:
+    print("Oh no you exceeded the rate limit because you broke :(")
+    print(f"Error message: {e}")
+
+
+# need to pay for all the requests to the openai api 
+# will look into perplexity api 
