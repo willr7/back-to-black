@@ -3,3 +3,6 @@ torchmetrics
 datasets
 tokenizers
 tqdm
+evaluate
+sacrebleu
+transformers
