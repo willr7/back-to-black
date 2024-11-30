@@ -197,18 +197,21 @@ def translate(translation_model, monolingual_data, tokenizer, source_lang, targe
 
     prompt = f'translate {source_lang} to {target_lang}: '
     new_mono_data = [prompt + source_dict[source_lang] for source_dict in monolingual_data]
+    synthetic_lines = []
+    
+    for text in new_mono_data:
+        # tokenizer just takes in the lines from the language
+        input_token = tokenizer(text, return_tensors="pt").input_ids
 
-    # tokenizer just takes in the lines from the language
-    input_tokens = tokenizer(new_mono_data, return_tensors="pt").input_ids
-
-    # translates the tokens from the source language to tokens in the target language
-    # top 5 tokens retained
-    output_tokens = translation_model.generate(
-        input_tokens, max_new_tokens=40, top_k=5, top_p=0.95
-    )
-    # decode the generated token ids back into text from the target language
-    # not sure if I should only index first element, might change this code later once we get data
-    synthetic_lines = tokenizer.decode(output_tokens[0], skip_special_tokens=True)
+        # translates the tokens from the source language to tokens in the target language
+        # top 5 tokens retained
+        output_token = translation_model.generate(
+            input_token, max_new_tokens=40, top_k=5, top_p=0.95
+        )
+        # decode the generated token ids back into text from the target language
+        # not sure if I should only index first element, might change this code later once we get data
+        synthetic_line = tokenizer.decode(output_token[0], skip_special_tokens=True)
+        synthetic_lines.append(synthetic_line)
     synthetic_data = Dataset.from_dict({target_lang: synthetic_lines})
 
     return synthetic_data
