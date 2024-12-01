@@ -120,11 +120,15 @@ def train_model(
 
         target_to_source_trainer.train()
 
-        synthetic_source_to_target_data = source_data.add_column("labels", target_to_source_trainer.predict(target_data)["predictions"].tolist())
+        synthetic_source_data = target_to_source_trainer.predict(target_data).predictions
+        synthetic_source_data = list(map(lambda x: int(x), synthetic_source_data))
+
+        synthetic_source_to_target_data = target_data.rename_column("input_ids", "labels")
+        synthetic_source_to_target_data = synthetic_source_to_target_data.add_column("input_ids", synthetic_source_data)
+        
         combined_source_to_target_data = concatenate_datasets([source_to_target_data, synthetic_source_to_target_data])
-
+        
         combined_source_to_target_data = combined_source_to_target_data.train_test_split(test_size=0.1)
-
         source_to_target_trainer = Seq2SeqTrainer(
             model=source_to_target_model,
             args=source_to_target_training_args,
@@ -137,8 +141,13 @@ def train_model(
 
         source_to_target_trainer.train()
 
-        synthetic_target_to_source_data = target_data.add_column("labels", source_to_target_trainer.predict(source_data)["predictions"].tolist())
-        combined_source_to_target_data = concatenate_datasets([source_to_target_data, synthetic_target_to_source_data])
+        synthetic_target_data = source_to_target_trainer.predict(source_data).predictions
+        synthetic_target_data = list(map(lambda x: int(x), synthetic_target_data))
+
+        synthetic_target_to_source_data = source_data.rename_column("input_ids", "labels")
+        synthetic_target_to_source_data = synthetic_target_to_source_data.add_column("input_ids", synthetic_target_data)
+
+        combined_target_to_source_data = concatenate_datasets([target_to_source_data, synthetic_target_to_source_data])
 
         combined_source_to_target_data = combined_target_to_source_data.train_test_split(test_size=0.1)
 
