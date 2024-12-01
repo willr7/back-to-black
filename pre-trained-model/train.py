@@ -120,8 +120,7 @@ def train_model(
 
         target_to_source_trainer.train()
 
-        synthetic_source_data = target_to_source_trainer.predict(target_data).predictions
-        synthetic_source_data = list(map(lambda x: int(x), synthetic_source_data))
+        synthetic_source_data = target_to_source_trainer.predict(target_data).predictions.astype(np.int64).tolist()
 
         synthetic_source_to_target_data = target_data.rename_column("input_ids", "labels")
         synthetic_source_to_target_data = synthetic_source_to_target_data.add_column("input_ids", synthetic_source_data)
@@ -141,8 +140,7 @@ def train_model(
 
         source_to_target_trainer.train()
 
-        synthetic_target_data = source_to_target_trainer.predict(source_data).predictions
-        synthetic_target_data = list(map(lambda x: int(x), synthetic_target_data))
+        synthetic_target_data = source_to_target_trainer.predict(source_data).predictions.astype(np.int64).tolist()
 
         synthetic_target_to_source_data = source_data.rename_column("input_ids", "labels")
         synthetic_target_to_source_data = synthetic_target_to_source_data.add_column("input_ids", synthetic_target_data)
