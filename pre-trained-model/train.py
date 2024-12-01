@@ -1,9 +1,10 @@
-from datasets import Dataset, load_dataset
+from datasets import Dataset, concatenate_datasets
 from transformers import (AutoModelForSeq2SeqLM, AutoTokenizer, Seq2SeqTrainer,
                           Seq2SeqTrainingArguments)
 from transformers import DataCollatorForSeq2Seq
 import evaluate
 import numpy as np
+import torch
 
 
 def train_model(
@@ -57,11 +58,24 @@ def train_model(
         batched=True,
     )
 
-    source_to_target_data = source_to_target_data.remove_columns("AAVE").remove_columns("SAE")
-    target_to_source_data = target_to_source_data.remove_columns("AAVE").remove_columns("SAE")
+    source_to_target_data = source_to_target_data.remove_columns(source_lang).remove_columns(target_lang)
+    target_to_source_data = target_to_source_data.remove_columns(source_lang).remove_columns(target_lang)
 
-    source_to_target_data = source_to_target_data.train_test_split(test_size=0.1)
-    target_to_source_data = target_to_source_data.train_test_split(test_size=0.1)
+    # prepare monolingual data
+    source_data = source_data.map(lambda x: {source_lang: source_to_target_prefix + x[source_lang]})
+    target_data = target_data.map(lambda x: {target_lang: target_to_source_prefix + x[target_lang]})
+
+    source_data = source_data.map(
+        preprocess_source_function,
+        batched=True
+    )
+    target_data = target_data.map(
+        preprocess_target_function,
+        batched=True
+    )
+
+    source_data = source_data.remove_columns(source_lang)
+    target_data = target_data.remove_columns(target_lang)
 
     data_collator = DataCollatorForSeq2Seq(tokenizer, model=source_to_target_model)
 
@@ -75,7 +89,7 @@ def train_model(
         logging_dir="./logs",
         logging_steps=500,
         predict_with_generate=True,
-        fp16=True,
+        # fp16=True,
     )
 
     target_to_source_training_args = Seq2SeqTrainingArguments(
@@ -88,16 +102,17 @@ def train_model(
         logging_dir="./logs",
         logging_steps=500,
         predict_with_generate=True,
-        fp16=True,
+        # fp16=True,
     )
 
+    combined_target_to_source_data = target_to_source_data.train_test_split(test_size=0.1)
 
     for _ in range(iterations):
         target_to_source_trainer = Seq2SeqTrainer(
             model=target_to_source_model,
             args=target_to_source_training_args,
-            train_dataset=target_to_source_data["train"],
-            eval_dataset=target_to_source_data["test"],
+            train_dataset=combined_target_to_source_data["train"],
+            eval_dataset=combined_target_to_source_data["test"],
             data_collator=data_collator,
             tokenizer=tokenizer,
             compute_metrics=compute_metrics,
@@ -105,19 +120,16 @@ def train_model(
 
         target_to_source_trainer.train()
 
-        synthetic_source_data = translate(
-            target_to_source_model, target_data, tokenizer, source_lang, target_lang
-        )
+        synthetic_source_to_target_data = source_data.add_column("labels", target_to_source_trainer.predict(target_data)["predictions"].tolist())
+        combined_source_to_target_data = concatenate_datasets([source_to_target_data, synthetic_source_to_target_data])
 
-        source_to_target_data = combine(
-            synthetic_source_data, target_data, parallel_data, source_lang, target_lang
-        )
+        combined_source_to_target_data = combined_source_to_target_data.train_test_split(test_size=0.1)
 
         source_to_target_trainer = Seq2SeqTrainer(
             model=source_to_target_model,
             args=source_to_target_training_args,
-            train_dataset=source_to_target_data["train"],
-            eval_dataset=source_to_target_data["test"],
+            train_dataset=combined_source_to_target_data["train"],
+            eval_dataset=combined_source_to_target_data["test"],
             data_collator=data_collator,
             tokenizer=tokenizer,
             compute_metrics=compute_metrics,
@@ -125,13 +137,10 @@ def train_model(
 
         source_to_target_trainer.train()
 
-        synthetic_target_data = translate(
-            target_to_source_model, target_data, tokenizer, source_lang, target_lang
-        )
+        synthetic_target_to_source_data = target_data.add_column("labels", source_to_target_trainer.predict(source_data)["predictions"].tolist())
+        combined_source_to_target_data = concatenate_datasets([source_to_target_data, synthetic_target_to_source_data])
 
-        target_to_source_data = combine(
-            source_data, synthetic_target_data, parallel_data, source_lang, target_lang
-        )
+        combined_source_to_target_data = combined_target_to_source_data.train_test_split(test_size=0.1)
 
     return source_to_target_model, target_to_source_model
 
@@ -152,6 +161,20 @@ def preprocess_target_to_source_function(examples, max_length=200):
     )
     return model_inputs
 
+def preprocess_target_function(examples, max_length=200):
+    inputs = examples[tgt_lang] 
+    model_inputs = tokenizer(
+        inputs, max_length=max_length, truncation=True
+    )
+    return model_inputs
+
+def preprocess_source_function(examples, max_length=200):
+    inputs = examples[src_lang] 
+    model_inputs = tokenizer(
+        inputs, max_length=max_length, truncation=True
+    )
+    return model_inputs
+
 def yield_paired_lines(source_path, target_path, source_lang, target_lang):
     with open(source_path, "r", encoding="utf-8") as source_text_file, open(
         target_path, "r", encoding="utf-8"
@@ -166,7 +189,7 @@ def yield_mono_lines(path, lang):
             yield {lang: line}
 
 
-def translate(translation_model, monolingual_data, tokenizer, source_lang, target_lang):
+def translate(translation_model, monolingual_data, tokenizer):
     """
     Creates synthetic data using a translation model and monolingual dataset
 
@@ -195,24 +218,15 @@ def translate(translation_model, monolingual_data, tokenizer, source_lang, targe
     # assume the data does not have translation prompt prefix
     # what data type is the monolingual data, dictionary? list? HuggingFace Dataset?
 
-    prompt = f'translate {source_lang} to {target_lang}: '
-    new_mono_data = [prompt + source_dict[source_lang] for source_dict in monolingual_data]
-    synthetic_lines = []
-    
-    for text in new_mono_data:
-        # tokenizer just takes in the lines from the language
-        input_token = tokenizer(text, return_tensors="pt").input_ids
-
-        # translates the tokens from the source language to tokens in the target language
-        # top 5 tokens retained
-        output_token = translation_model.generate(
-            input_token, max_new_tokens=40, top_k=5, top_p=0.95
-        )
-        # decode the generated token ids back into text from the target language
-        # not sure if I should only index first element, might change this code later once we get data
-        synthetic_line = tokenizer.decode(output_token[0], skip_special_tokens=True)
-        synthetic_lines.append(synthetic_line)
-    synthetic_data = Dataset.from_dict({target_lang: synthetic_lines})
+    # translates the tokens from the source language to tokens in the target language
+    # top 5 tokens retained
+    input_ids = torch.Tensor(monolingual_data["input_ids"])
+    output_tokens = translation_model.generate(
+        input_ids, max_new_tokens=40, top_k=5, top_p=0.95
+    )
+    # decode the generated token ids back into text from the target language
+    # not sure if I should only index first element, might change this code later once we get data
+    synthetic_data = tokenizer.decode(output_tokens[0], skip_special_tokens=True)
 
     return synthetic_data
 
@@ -319,3 +333,4 @@ if __name__ == "__main__":
     metric = evaluate.load("sacrebleu")
 
     train_model(raw_paired_dataset, source_to_target_model, target_to_source_model, tokenizer, raw_monolingual_src_data, raw_monolingual_tgt_data, 1, src_lang, tgt_lang)
+
