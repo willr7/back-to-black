@@ -3,60 +3,93 @@ from openai import OpenAI
 import openAI_call
 import os
 import pandas as pd
+import glob
+import re
 
-# gets the api key environment variable to be able to access the OpenAI API
-# openai.api_key = os.environ.get("OPENAI_API", "")
-# need to set the OPENAI_API_KEY first
-    # run this in terminal Mac/Linux
-        # export OPENAI_API_KEY="your_api_key_here"
-    # run this in terminal Windows
-        # setx OPENAI_API_KEY "your_api_key_here"
-
-api_key = open("openAI_api_key.txt", "r").read()
-os.environ["OPENAI_API_KEY"] = api_key
+api_key = os.getenv("OPENAI_API_KEY")
 
 client = OpenAI(
-    api_key=os.environ["OPENAI_API_KEY"]
+    api_key=api_key
 )
 
-text = ""
-target_lang = "Standard Academic English"
-source_lang = "African American Vernacular"
-website_url = "https://genius.com/Travis-scott-sicko-mode-lyrics"
-prompt = f"Translate the {source_lang} rap lyrics from this website to {target_lang}: {website_url}"
+def yield_source_data_lines(source_data_folder_path):
+    source_data_file_paths = glob.glob(os.path.join(source_data_folder_path, '*.txt'))
 
-# # chat_translation = openai.Completion.create(
-# chat_translation = client.completions.create(
-#     model="gpt-40-mini",
-#     # model="text-davinci-003",
-#     prompt=prompt,
-#     max_tokens=500
-# )
-
-# print(chat_translation.choices[0].text)
-
-# client = OpenAI()
-
-try:
-    completion = client.chat.completions.create(
-        model="gpt-40-mini",
-        # model="gpt-3.5-turbo",
-        # model="text-embedding-3-large", # free model that allows 1,000,000 tokens per min
-        messages=[
-            {"role":"system", "content": "You are a helpful African American Vernacular English(AAVE) to Standard Academic English(SAE) translator"},
-            {"role":"user", "content": prompt}
-            #  "Translate the following AAVE lyrics where each line is separated by a semicolon to SAE lyrics: "}
-        ]
-    )
-    print(completion.choices[0].message)
-
-    translated_chat = pd.DataFrame({"translated_text": list(completion.choices[0].message)})
-    translated_chat.to_csv("translated_travis_scott_song.csv")
-
-except openai.RateLimitError as e:
-    print("Oh no you exceeded the rate limit because you broke :(")
-    print(f"Error message: {e}")
+    for file_path in source_data_file_paths:
+        with open(file_path, 'r') as f:
+            for line in f.readlines():
+                yield line
 
 
-# need to pay for all the requests to the openai api 
-# will look into perplexity api 
+def load_source_data(source_data_folder_path, destination_path):
+    source_data = []
+
+    patterns_to_exclude = [
+        r"^Title:.*",       # Lines starting with 'Title:'
+        r"^Artist:.*",      # Lines starting with 'Artist:'
+        r"^Album:.*",       # Lines starting with 'Album:'
+        r"^Lyrics:.*",      # Lines starting with 'Lyrics:'
+        r"^Song Genius Url:.*",  # Lines starting with 'Song Genius Url:'
+        r"^Song Date:.*",   # Lines starting with 'Song Date:'
+        r"^\[.*\]$",        # Lines enclosed in brackets (e.g., [Intro: Adrian Marcel])
+    ]
+    
+    combined_pattern = re.compile("|".join(patterns_to_exclude))
+
+    for line in yield_source_data_lines(source_data_folder_path):
+        if not combined_pattern.match(line) and len(line.split()) >=4:
+            print(line)
+            source_data.append(line)
+
+    with open(destination_path, 'a') as f:
+        f.writelines(source_data)
+    
+def generate_translations(source_data_lines, destination_path):
+    translated_lines = []
+
+    for i in range(0, len(source_data_lines), 20):
+        lines = "".join(source_data_lines[i:i+20])
+        target_lang = "Standard Academic English"
+        source_lang = "African American Vernacular"
+        prompt = f"Translate the following {source_lang} sample to {target_lang}:\n{lines}"
+        try:
+            completion = client.chat.completions.create(
+                model="gpt-4o-mini",
+                messages=[
+                    {"role":"system", "content": "You are an African American Vernacular English to Standard Academic English translator. Translate each line individually and separate them with a new line character, but don't add punctuation if it is not already there."},
+                    {"role":"user", "content": prompt}
+                ]
+            )
+
+            print(prompt)
+            print(completion.choices[0].message.content)
+            print()
+
+            translated_lines.append(completion.choices[0].message.content)
+
+
+        except openai.RateLimitError as e:
+            print("Oh no you exceeded the rate limit because you broke :(")
+            print(f"Error message: {e}")
+
+    print(len(translated_lines))
+    # with open(destination_path, 'w') as f:
+    #     f.writelines(translated_lines)
+
+
+if __name__ == "__main__":
+
+    # source_data_folder_path = "/Users/willreed/Downloads/Boosie Song Lyrics"
+    # this file currently includes Common and Boosie
+    source_data_destination_path = "/Users/willreed/nlp-final-project/AAVE Lyrics.txt"
+    #
+    # load_source_data(source_data_folder_path, source_data_destination_path)
+
+    source_data_lines = []
+
+    with open(source_data_destination_path, 'r') as f:
+        source_data_lines = f.readlines()
+
+    generate_translations(source_data_lines[:20], ".")
+    
+
