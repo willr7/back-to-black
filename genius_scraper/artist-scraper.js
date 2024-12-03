@@ -4,12 +4,37 @@ console.log("scraping page:", document.URL);
 //  and uses AI to determine if they speak in AAVE or not
 // then parses the ones that are
 
+const ENVIRONMENT = "development";
 async function scrape() {
-  await scrollAllSongs();
-  await scrapeAndDownloadAllSongs();
+  try {
+    await scrollAllSongs();
+    await scrapeAndDownloadAllSongs();
 
-  // communicate to extension to move on to next artist
-  window.opener.postMessage("done", "*");
+    console.log("sending artistDone message...");
+
+    // Try multiple communication methods
+    try {
+      // Method 1: Try window.opener
+      if (window.opener) {
+        window.opener.postMessage("artistDone", "*");
+      }
+      // Method 2: Try parent window
+      else if (window.parent !== window) {
+        window.parent.postMessage("artistDone", "*");
+      }
+      // Method 3: Try chrome runtime messaging
+      else {
+        chrome.runtime.sendMessage({ type: "artistDone" });
+      }
+
+      // Close this tab after sending the message
+      window.close();
+    } catch (error) {
+      console.log("Communication error:", error);
+    }
+  } catch (error) {
+    console.error("Error during scraping:", error);
+  }
 }
 
 function getNumSongs() {
@@ -39,17 +64,18 @@ function getAllSongs() {
 
 async function scrapeAndDownloadAllSongs() {
   const songs = getAllSongs();
-  for (let i = 0; i < 1; i++) {
-    // for (let i = 0; i < songs.length; i++) {
+
+  const numSongsToScrape = ENVIRONMENT === "development" ? 1 : songs.length;
+  for (let i = 0; i < numSongsToScrape; i++) {
     console.log(
       `scraping song ${i + 1} out of ${songs.length}: "${songs[i].songName}"...`
     );
-    const newWindow = window.open(songs[i].songUrl);
+    const songWindow = window.open(songs[i].songUrl);
 
     // Wait for the new page to load and finish executing
     await new Promise((resolve) => {
       window.addEventListener("message", function onMessage(event) {
-        if (event.origin === newWindow.location.origin) {
+        if (event.origin === songWindow.location.origin) {
           // Ensure the message is from the correct origin
           if (event.data === "done") {
             // Check for a specific message indicating completion
@@ -61,15 +87,10 @@ async function scrapeAndDownloadAllSongs() {
     });
 
     console.log(`finished scraping song "${songs[i].songName}"`);
-    newWindow.close();
+    songWindow.close();
   }
 
   console.log("finishing scraping all songs");
-
-  const { downloadAllSongs } = await import(
-    chrome.runtime.getURL("./song-scraper.js")
-  );
-  await downloadAllSongs();
 }
 
 async function scrollAllSongs() {
@@ -79,7 +100,7 @@ async function scrollAllSongs() {
 
   let previousSongCount = -1;
   let sameSongCount = 0;
-  while (sameSongCount <= 3 && false) {
+  while (sameSongCount <= 3 && ENVIRONMENT !== "development") {
     console.log(
       `${getNumSongs()} songs loaded. scrolling more songs into view...`
     );

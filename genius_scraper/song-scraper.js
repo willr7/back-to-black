@@ -13,36 +13,27 @@ function downloadSong(
   songUrl
 ) {
   const songData = `Title: ${songTitle}\nArtist: ${artistName}\nAlbum: ${albumName}\nLyrics:\n${songLyrics}\nSong Genius Url:${songUrl}\nSong Date: ${songDate}`;
-  const blob = new Blob([songData], { type: "text/plain" });
-  const url = URL.createObjectURL(blob);
 
-  // Create a link element and trigger a download
+  downloadText(songData, songTitle);
+}
+
+function downloadText(text, fileName) {
+  const blob = new Blob([text], { type: "text/plain" });
+  const url = URL.createObjectURL(blob);
   const a = document.createElement("a");
   a.href = url;
-  a.download = `${songTitle}.txt`;
+  a.download = `${fileName}.txt`;
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);
   URL.revokeObjectURL(url);
 }
 
-export async function downloadAllSongs() {
-  const zip = new JSZip(); // Create a new JSZip instance
-
-  allSongsData.forEach((songData) => {
-    zip.file(`${songData.songTitle}.txt`, songData.content); // Add each song data to the zip
-  });
+function downloadAllSongs(artistName) {
+  const massiveString = allSongsData.join("\n");
 
   // Generate the zip file and trigger download
-  const content = await zip.generateAsync({ type: "blob" }); // Await the zip generation
-  const url = URL.createObjectURL(content);
-  const a = document.createElement("a");
-  a.href = url;
-  a.download = "songs.zip"; // Download as a zip file
-  document.body.appendChild(a);
-  a.click();
-  document.body.removeChild(a);
-  URL.revokeObjectURL(url);
+  downloadText(massiveString, artistName);
 }
 
 function saveSongData(
@@ -63,7 +54,7 @@ function saveSongData(
 async function scrapeSong() {
   if (document.URL.includes("/artists/") && document.URL.includes("/songs")) {
     console.log("Scraping is not allowed on artist songs page.");
-    return; // Exit the function if on the artist songs page
+    return;
   }
 
   console.log(`scraping song at url "${document.URL}"...`);
@@ -97,12 +88,11 @@ async function scrapeSong() {
     ".MetadataStats__Container-sc-1t7d8ac-0"
   ).childNodes[0].textContent;
 
-  saveSongData(songTitle, artistName, albumName, songLyrics, songDate, songUrl);
+  downloadSong(songTitle, artistName, albumName, songLyrics, songDate, songUrl);
 
   // let artist page know we have finished scraping
   console.log("finished scraping song, sending message to artist page");
   window.opener.postMessage("done", "*");
 }
 
-// window.downloadAllSongs = downloadAllSongs;
 scrapeSong();
