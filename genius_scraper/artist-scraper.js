@@ -8,37 +8,34 @@ console.log("scraping page:", document.URL);
 const ENVIRONMENT = "production";
 async function scrape() {
   try {
-    try {
-      await scrollAllSongs();
-      await scrapeAndDownloadAllSongs();
-    } catch (error) {
-      console.error("Error during song scraping:", error);
-    }
+    await scrollAllSongs();
 
-    console.log("sending artistDone message...");
-
-    // Try multiple communication methods
-    try {
-      // Method 1: Try window.opener
-      if (window.opener) {
-        window.opener.postMessage("artistDone", "*");
-      }
-      // Method 2: Try parent window
-      else if (window.parent !== window) {
-        window.parent.postMessage("artistDone", "*");
-      }
-      // Method 3: Try chrome runtime messaging
-      else {
-        chrome.runtime.sendMessage({ type: "artistDone" });
-      }
-
-      // Close this tab after sending the message
-      window.close();
-    } catch (error) {
-      console.log("Communication error:", error);
-    }
+    await scrapeAndDownloadAllSongs();
   } catch (error) {
-    console.error("Error during scraping:", error);
+    console.error("Error during song scraping:", error);
+  }
+
+  console.log("sending artistDone message...");
+
+  // Try multiple communication methods
+  try {
+    // Method 1: Try window.opener
+    if (window.opener) {
+      window.opener.postMessage("artistDone", "*");
+    }
+    // Method 2: Try parent window
+    else if (window.parent !== window) {
+      window.parent.postMessage("artistDone", "*");
+    }
+    // Method 3: Try chrome runtime messaging
+    else {
+      chrome.runtime.sendMessage({ type: "artistDone" });
+    }
+
+    // Close this tab after sending the message
+    window.close();
+  } catch (error) {
+    console.log("Communication error:", error);
   }
 }
 
@@ -71,7 +68,7 @@ async function scrapeAndDownloadAllSongs() {
   const songs = getAllSongs();
 
   const numSongsToScrape = ENVIRONMENT === "development" ? 3 : songs.length;
-  for (let i = 0; i < numSongsToScrape; i++) {
+  for (let i = 1220; i < numSongsToScrape; i++) {
     console.log(
       `scraping song ${i + 1} out of ${songs.length}: "${songs[i].songName}"...`
     );
@@ -91,8 +88,15 @@ async function scrapeAndDownloadAllSongs() {
       );
     });
 
+    const timeoutPromise = new Promise((resolve) =>
+      setTimeout(() => {
+        console.log("Scraping song timed out, continuing...");
+        resolve();
+      }, 10000)
+    );
+
     // Wait for the song to be scraped
-    await new Promise((resolve) => {
+    const scrapePromise = new Promise((resolve) => {
       const messageListener = function (message) {
         if (message.type === "songDone") {
           chrome.runtime.onMessage.removeListener(messageListener);
@@ -106,6 +110,8 @@ async function scrapeAndDownloadAllSongs() {
       };
       chrome.runtime.onMessage.addListener(messageListener);
     });
+
+    await Promise.race([scrapePromise, timeoutPromise]);
 
     console.log(`finished scraping song "${songs[i].songName}"`);
   }

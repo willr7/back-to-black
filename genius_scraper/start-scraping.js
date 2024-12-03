@@ -1,7 +1,7 @@
 const artistsSongsPage = [
-  { artistName: "Drake", artistPath: "Drake" },
+  // { artistName: "Drake", artistPath: "Drake" },
+  // { artistName: "Tyler, The Creator", artistPath: "Tyler-the-creator" },
   { artistName: "Lil Wayne", artistPath: "Lil-wayne" },
-  { artistName: "Tyler, The Creator", artistPath: "Tyler-the-creator" },
   { artistName: "Future", artistPath: "Future" },
   { artistName: "21 Savage", artistPath: "21-savage" },
   { artistName: "J Cole", artistPath: "J-cole" },
