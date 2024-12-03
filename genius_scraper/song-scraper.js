@@ -51,6 +51,20 @@ function saveSongData(
   allSongsData.push(songData); // Save song data to the array
 }
 
+function extractTextWithNewlines(node) {
+  let text = "";
+  node.childNodes.forEach((child) => {
+    if (child.nodeName === "BR") {
+      text += "\n";
+    } else if (child.nodeType === Node.TEXT_NODE) {
+      text += child.textContent;
+    } else {
+      text += extractTextWithNewlines(child);
+    }
+  });
+  return text;
+}
+
 async function scrapeSong() {
   if (document.URL.includes("/artists/") && document.URL.includes("/songs")) {
     console.log("Scraping is not allowed on artist songs page.");
@@ -61,32 +75,29 @@ async function scrapeSong() {
 
   const songTitle = document.querySelector(
     ".SongHeaderdesktop__HiddenMask-sc-1effuo1-11.iMpFIj"
-  ).textContent;
+  )?.textContent;
 
   const songLyricsContainer = document.querySelector(
     ".Lyrics__Container-sc-1ynbvzw-1.kUgSbL"
   );
 
-  const songLyrics = Array.from(songLyricsContainer.childNodes)
-    .map((child) => child.textContent)
-    .filter((txt) => txt)
-    .join("\n");
+  const songLyrics = extractTextWithNewlines(songLyricsContainer);
 
   const songUrl = document.URL;
 
   const artistName = document.querySelector(
     ".HeaderArtistAndTracklistdesktop__ListArtists-sc-4vdeb8-1"
-  ).textContent;
+  )?.textContent;
 
   const albumName = (
     document.querySelector(
       ".HeaderArtistAndTracklistdesktop__Tracklist-sc-4vdeb8-2 a"
     ) ?? {}
-  ).textContent;
+  )?.textContent;
 
   const songDate = document.querySelector(
     ".MetadataStats__Container-sc-1t7d8ac-0"
-  ).childNodes[0].textContent;
+  )?.childNodes[0]?.textContent;
 
   // saveSongData(songTitle, artistName, albumName, songLyrics, songDate, songUrl);
   downloadSong(songTitle, artistName, albumName, songLyrics, songDate, songUrl);

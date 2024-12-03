@@ -4,11 +4,16 @@ console.log("scraping page:", document.URL);
 //  and uses AI to determine if they speak in AAVE or not
 // then parses the ones that are
 
-const ENVIRONMENT = "development";
+// const ENVIRONMENT = "development";
+const ENVIRONMENT = "production";
 async function scrape() {
   try {
-    await scrollAllSongs();
-    await scrapeAndDownloadAllSongs();
+    try {
+      await scrollAllSongs();
+      await scrapeAndDownloadAllSongs();
+    } catch (error) {
+      console.error("Error during song scraping:", error);
+    }
 
     console.log("sending artistDone message...");
 
@@ -54,9 +59,9 @@ function getAllSongs() {
   );
   const songs = artistSongs.map((ele) => {
     return {
-      songUrl: ele.href,
-      songName: ele.querySelector("h3").textContent,
-      numStreams: ele.querySelector("span").textContent,
+      songUrl: ele?.href,
+      songName: ele?.querySelector("h3")?.textContent,
+      numStreams: ele?.querySelector("span")?.textContent,
     };
   });
   return songs;

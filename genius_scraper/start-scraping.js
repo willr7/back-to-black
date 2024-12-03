@@ -31,7 +31,8 @@ const artistsSongsPage = [
   { artistName: "City Girls", artistPath: "City-girls" },
 ];
 
-const ENVIRONMENT = "development";
+const ENVIRONMENT = "production";
+// const ENVIRONMENT = "development";
 
 // Create a connection to the background script to keep popup alive
 const port = chrome.runtime.connect({ name: "popup" });
