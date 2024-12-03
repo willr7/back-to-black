@@ -36,18 +36,64 @@ const ENVIRONMENT = "development";
 // Create a connection to the background script to keep popup alive
 const port = chrome.runtime.connect({ name: "popup" });
 
-// Function to update status in popup and background
-function updateStatus(message) {
+// Function to update status and artist list in UI
+function updateStatus(message, artistUpdate = null) {
   const statusDiv = document.getElementById("status");
   if (statusDiv) {
     statusDiv.textContent = message;
   }
-  // Also send status to background script
+
+  // Update artist list if provided
+  if (artistUpdate) {
+    updateArtistList(artistUpdate);
+  }
+
+  // Send status to background script
   chrome.runtime.sendMessage({
     type: "updateStatus",
     message: message,
   });
   console.log(message);
+}
+
+// Function to update the artist list UI
+function updateArtistList(update) {
+  const artistList = document.getElementById("artist-list");
+  const totalCount = document.getElementById("total-count");
+  const completedCount = document.getElementById("completed-count");
+  const inProgressCount = document.getElementById("in-progress-count");
+
+  if (!artistList) return;
+
+  const { artistName, status, index, total } = update;
+
+  // Update or create artist item
+  let artistItem = document.getElementById(`artist-${index}`);
+  if (!artistItem) {
+    artistItem = document.createElement("div");
+    artistItem.id = `artist-${index}`;
+    artistItem.className = "artist-item";
+    artistList.appendChild(artistItem);
+  }
+
+  artistItem.innerHTML = `
+    <span class="artist-name">${artistName}</span>
+    <span class="artist-status ${
+      status === "completed" ? "status-completed" : "status-in-progress"
+    }">
+      ${status === "completed" ? "Completed" : "In Progress"}
+    </span>
+  `;
+
+  // Update summary counts
+  if (totalCount) totalCount.textContent = total;
+  if (completedCount)
+    completedCount.textContent =
+      document.querySelectorAll(".status-completed").length;
+  if (inProgressCount)
+    inProgressCount.textContent = document.querySelectorAll(
+      ".status-in-progress"
+    ).length;
 }
 
 // Initialize scraping process
@@ -61,16 +107,26 @@ async function initializeScraping() {
   updateStatus("Starting scraping process...");
 
   const numArtistsToScrape =
-    ENVIRONMENT === "development" ? 5 : artistsSongsPage.length;
+    ENVIRONMENT === "development" ? 3 : artistsSongsPage.length;
 
   try {
     for (let i = 0; i < numArtistsToScrape; i++) {
       const { artistPath, artistName } = artistsSongsPage[i];
       const artistSongsUrl = `https://genius.com/artists/${artistPath}/songs`;
 
+      // Update status with artist starting
       updateStatus(
-        `Scraping ${artistName}'s lyrics (${i + 1}/${numArtistsToScrape})...`
+        `Scraping ${artistName}'s lyrics (${i + 1}/${numArtistsToScrape})...`,
+        {
+          artistName,
+          status: "in-progress",
+          index: i,
+          total: numArtistsToScrape,
+        }
       );
+
+      // Reduced delay to 1 second
+      await new Promise((resolve) => setTimeout(resolve, 1000)); // 1 second delay between artists
 
       // Wait for artist scraping to complete
       await new Promise((resolve) => {
@@ -116,7 +172,13 @@ async function initializeScraping() {
         );
       });
 
-      updateStatus(`Finished scraping ${artistName}'s songs`);
+      // Update status with artist completion
+      updateStatus(`Finished scraping ${artistName}'s songs`, {
+        artistName,
+        status: "completed",
+        index: i,
+        total: numArtistsToScrape,
+      });
     }
 
     updateStatus("Finished scraping all artists!");

@@ -13,6 +13,22 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
   //   console.log("Background received message:", message);
 
   switch (message.type) {
+    case "createSongTab":
+      chrome.tabs.create(
+        {
+          url: message.url,
+          active: false,
+        },
+        (tab) => {
+          sendResponse({ tab: tab });
+        }
+      );
+      return true; // Will respond asynchronously
+
+    case "closeSongTab":
+      chrome.tabs.remove(message.tabId);
+      break;
+
     case "setCurrentArtist":
       state.currentArtist = message.artist;
       break;
@@ -32,6 +48,15 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
 
     case "updateStatus":
       state.status = message.message;
+      break;
+
+    case "songDone":
+      // Forward the song completion message to all tabs
+      chrome.tabs.query({}, function (tabs) {
+        tabs.forEach(function (tab) {
+          chrome.tabs.sendMessage(tab.id, message);
+        });
+      });
       break;
   }
 

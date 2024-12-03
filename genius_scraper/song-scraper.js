@@ -14,7 +14,7 @@ function downloadSong(
 ) {
   const songData = `Title: ${songTitle}\nArtist: ${artistName}\nAlbum: ${albumName}\nLyrics:\n${songLyrics}\nSong Genius Url:${songUrl}\nSong Date: ${songDate}`;
 
-  downloadText(songData, songTitle);
+  downloadText(songData, `${artistName} - ${songTitle}`);
 }
 
 function downloadText(text, fileName) {
@@ -88,11 +88,12 @@ async function scrapeSong() {
     ".MetadataStats__Container-sc-1t7d8ac-0"
   ).childNodes[0].textContent;
 
+  // saveSongData(songTitle, artistName, albumName, songLyrics, songDate, songUrl);
   downloadSong(songTitle, artistName, albumName, songLyrics, songDate, songUrl);
 
-  // let artist page know we have finished scraping
-  console.log("finished scraping song, sending message to artist page");
-  window.opener.postMessage("done", "*");
+  // Send completion message through chrome runtime
+  console.log("finished downloading song, sending message");
+  chrome.runtime.sendMessage({ type: "songDone" });
 }
 
 scrapeSong();

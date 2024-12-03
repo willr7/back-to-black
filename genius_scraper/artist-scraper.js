@@ -44,8 +44,8 @@ function getNumSongs() {
   return Array.from(artistSongs).length;
 }
 
-async function pause() {
-  await new Promise((resolve) => setTimeout(resolve, 1000));
+async function pause(ms = 1000) {
+  await new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 function getAllSongs() {
@@ -65,29 +65,44 @@ function getAllSongs() {
 async function scrapeAndDownloadAllSongs() {
   const songs = getAllSongs();
 
-  const numSongsToScrape = ENVIRONMENT === "development" ? 1 : songs.length;
+  const numSongsToScrape = ENVIRONMENT === "development" ? 3 : songs.length;
   for (let i = 0; i < numSongsToScrape; i++) {
     console.log(
       `scraping song ${i + 1} out of ${songs.length}: "${songs[i].songName}"...`
     );
-    const songWindow = window.open(songs[i].songUrl);
 
-    // Wait for the new page to load and finish executing
-    await new Promise((resolve) => {
-      window.addEventListener("message", function onMessage(event) {
-        if (event.origin === songWindow.location.origin) {
-          // Ensure the message is from the correct origin
-          if (event.data === "done") {
-            // Check for a specific message indicating completion
-            window.removeEventListener("message", onMessage);
-            resolve();
-          }
+    await pause(1000);
+
+    // Request background script to create tab
+    const songTab = await new Promise((resolve) => {
+      chrome.runtime.sendMessage(
+        {
+          type: "createSongTab",
+          url: songs[i].songUrl,
+        },
+        (response) => {
+          resolve(response.tab);
         }
-      });
+      );
+    });
+
+    // Wait for the song to be scraped
+    await new Promise((resolve) => {
+      const messageListener = function (message) {
+        if (message.type === "songDone") {
+          chrome.runtime.onMessage.removeListener(messageListener);
+          // Request background script to close the tab
+          chrome.runtime.sendMessage({
+            type: "closeSongTab",
+            tabId: songTab.id,
+          });
+          resolve();
+        }
+      };
+      chrome.runtime.onMessage.addListener(messageListener);
     });
 
     console.log(`finished scraping song "${songs[i].songName}"`);
-    songWindow.close();
   }
 
   console.log("finishing scraping all songs");
