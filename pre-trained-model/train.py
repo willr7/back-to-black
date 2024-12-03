@@ -1,10 +1,11 @@
-from datasets import Dataset, concatenate_datasets
+from datasets import Dataset, concatenate_datasets, Value, Sequence
 from transformers import (AutoModelForSeq2SeqLM, AutoTokenizer, Seq2SeqTrainer,
                           Seq2SeqTrainingArguments)
 from transformers import DataCollatorForSeq2Seq
 import evaluate
 import numpy as np
 import torch
+import random
 
 
 def train_model(
@@ -81,28 +82,26 @@ def train_model(
 
     source_to_target_training_args = Seq2SeqTrainingArguments(
         output_dir="./source_to_target_models",
-        eval_strategy="epoch",
         learning_rate=1e-4,
         per_device_train_batch_size=8,
-        num_train_epochs=5,
+        num_train_epochs=1,
         save_strategy="epoch",
         logging_dir="./logs",
         logging_steps=500,
         predict_with_generate=True,
-        # fp16=True,
+        fp16=True,
     )
 
     target_to_source_training_args = Seq2SeqTrainingArguments(
         output_dir="./target_to_source_models",
-        eval_strategy="epoch",
         learning_rate=1e-4,
         per_device_train_batch_size=8,
-        num_train_epochs=5,
+        num_train_epochs=1,
         save_strategy="epoch",
         logging_dir="./logs",
         logging_steps=500,
         predict_with_generate=True,
-        # fp16=True,
+        fp16=True,
     )
 
     combined_target_to_source_data = target_to_source_data.train_test_split(test_size=0.1)
@@ -114,27 +113,50 @@ def train_model(
             train_dataset=combined_target_to_source_data["train"],
             eval_dataset=combined_target_to_source_data["test"],
             data_collator=data_collator,
-            tokenizer=tokenizer,
+            processing_class=tokenizer,
             compute_metrics=compute_metrics,
         )
 
         target_to_source_trainer.train()
 
-        synthetic_source_data = target_to_source_trainer.predict(target_data).predictions.astype(np.int64).tolist()
+        synthetic_source_data = target_to_source_trainer.predict(target_data, max_length=60).predictions.tolist()
+
+        num_samples = 5 
+
+        random_indices = random.sample(range(len(synthetic_source_data)), num_samples)
+
+        random_pairs = [
+            (synthetic_source_data[idx], target_data["input_ids"][idx]) for idx in random_indices
+        ]
+
+        for i, (synthetic, target) in enumerate(random_pairs):
+            synthetic = [synthetic_token for synthetic_token in synthetic if synthetic_token != -100]
+            synthetic_tokens = tokenizer.decode(synthetic)
+            target_tokens = tokenizer.decode(target)
+            synthetic_sequence = "".join(synthetic_tokens)
+            target_sequence = "".join(target_tokens)
+            print(f"Pair {i + 1}:")
+            print(f"Synthetic Source: {synthetic_sequence}")
+            print(f"Target: {target_sequence}")
+            print("-" * 50)
 
         synthetic_source_to_target_data = target_data.rename_column("input_ids", "labels")
         synthetic_source_to_target_data = synthetic_source_to_target_data.add_column("input_ids", synthetic_source_data)
-        
+
+        synthetic_source_to_target_data = synthetic_source_to_target_data.cast_column("labels", Sequence(Value("int64")))
+        synthetic_source_to_target_data = synthetic_source_to_target_data.cast_column("input_ids", Sequence(Value("int32")))
+
         combined_source_to_target_data = concatenate_datasets([source_to_target_data, synthetic_source_to_target_data])
         
         combined_source_to_target_data = combined_source_to_target_data.train_test_split(test_size=0.1)
+        
         source_to_target_trainer = Seq2SeqTrainer(
             model=source_to_target_model,
             args=source_to_target_training_args,
             train_dataset=combined_source_to_target_data["train"],
             eval_dataset=combined_source_to_target_data["test"],
             data_collator=data_collator,
-            tokenizer=tokenizer,
+            processing_class=tokenizer,
             compute_metrics=compute_metrics,
         )
 
@@ -310,8 +332,8 @@ if __name__ == "__main__":
     src_lang = "AAVE"
     tgt_lang = "SAE"
 
-    paired_src_data_path = f"nlp-final-project/src/data/{src_lang}_samples.txt"
-    paired_tgt_data_path = f"nlp-final-project/src/data/{tgt_lang}_samples.txt"
+    paired_src_data_path = f"/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/{src_lang}_samples.txt"
+    paired_tgt_data_path = f"/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/{tgt_lang}_samples.txt"
 
     raw_paired_dataset = Dataset.from_generator(
         yield_paired_lines,
@@ -323,8 +345,8 @@ if __name__ == "__main__":
         },
     )
 
-    monolingual_src_data_path = "coraal_dataset.txt"
-    monolingual_tgt_data_path = "cleaned_BAWE.txt"
+    monolingual_src_data_path = "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/coraal_dataset.txt"
+    monolingual_tgt_data_path = "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/cleaned_BAWE.txt"
 
     raw_monolingual_src_data = Dataset.from_generator(
         yield_mono_lines,
