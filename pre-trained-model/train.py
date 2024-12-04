@@ -195,7 +195,7 @@ def train_model(
         )
 
         print(combined_source_to_target_data["input_ids"][:10])
-        print(combined_source_to_target_data["attnetion_mask"][:10])
+        print(combined_source_to_target_data["attention_mask"][:10])
         print(combined_source_to_target_data["labels"][:10])
         print(combined_source_to_target_data)
 
@@ -313,9 +313,10 @@ def yield_paired_lines(source_path, target_path, source_lang, target_lang):
 
 def yield_mono_lines(path, lang):
     with open(path, "r", encoding="utf-8") as file:
-        for line in file:
-            if len(line) == 20:
-                yield {lang: line}
+        for i, line in enumerate(file):
+            if i >= 100:
+                break
+            yield {lang: line.strip()}
 
 
 def compute_metrics(eval_preds):
