@@ -5,4 +5,4 @@ tokenizers
 tqdm
 evaluate
 sacrebleu
-transformers
+transformers==4.45.2

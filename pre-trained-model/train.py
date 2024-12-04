@@ -147,6 +147,13 @@ def train_model(
         synthetic_source_to_target_data = synthetic_source_to_target_data.cast_column("input_ids", Sequence(Value("int32")))
 
         combined_source_to_target_data = concatenate_datasets([source_to_target_data, synthetic_source_to_target_data])
+
+        for datapoint in combined_source_to_target_data:
+            if len(datapoint["input_ids"]) != len(datapoint["attention_mask"]):
+                print("mismatched sizes between attention mask and input ids")
+        #
+        # print(combined_source_to_target_data["input_ids"])
+        # print(combined_source_to_target_data["attention_mask"])
         
         combined_source_to_target_data = combined_source_to_target_data.train_test_split(test_size=0.1)
         
