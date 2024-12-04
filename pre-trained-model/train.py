@@ -134,50 +134,22 @@ def train_model(
             compute_metrics=compute_metrics,
         )
 
+
         target_to_source_trainer.train()
 
+        # Generate synthetic source data
         synthetic_source_data = target_to_source_trainer.predict(
-            test_dataset=target_data, max_length=20
+            test_dataset=target_data, max_length=40
         ).predictions.tolist()
 
-        num_samples = 5
 
-        random_indices = random.sample(range(len(synthetic_source_data)), num_samples)
-
-        random_pairs = [
-            (synthetic_source_data[idx], target_data["input_ids"][idx])
-            for idx in random_indices
-        ]
-
-        for i, (synthetic, target) in enumerate(random_pairs):
-            synthetic = [
-                synthetic_token
-                for synthetic_token in synthetic
-                if synthetic_token != -100 and synthetic_token != 0 and synthetic_token != 1
-            ]
-
-            synthetic_tokens = tokenizer.decode(synthetic)
-            target_tokens = tokenizer.decode(target)
-
-            synthetic_sequence = "".join(synthetic_tokens)
-            target_sequence = "".join(target_tokens)
-
-            print(f"Pair {i + 1}:")
-            print(f"Synthetic Source: {synthetic_sequence}")
-            print(f"Target: {target_sequence}")
-            print("-" * 50)
-
+        # combine datasets
         synthetic_source_to_target_data = target_data.rename_column(
             "input_ids", "labels"
         )
         synthetic_source_to_target_data = synthetic_source_to_target_data.add_column(
             "input_ids",
             synthetic_source_data,
-        )
-
-        synthetic_source_to_target_data.map(
-            fix_attention_mask,
-            batched=True,
         )
 
         synthetic_source_to_target_data = synthetic_source_to_target_data.cast_column(
@@ -191,12 +163,13 @@ def train_model(
             [source_to_target_data, synthetic_source_to_target_data]
         )
 
-        for entry in combined_source_to_target_data:
-          print()
-          print(entry["input_ids"])
-          print(entry["attention_mask"])
-          print(entry["labels"])
+        combined_source_to_target_data = combined_source_to_target_data.map(
+          fix_attention_mask,
+          batched=True
+        )
 
+
+        # generate train/test split and start training
         combined_source_to_target_data = (
             combined_source_to_target_data.train_test_split(test_size=0.1)
         )
@@ -213,11 +186,11 @@ def train_model(
 
         source_to_target_trainer.train()
 
-        synthetic_target_data = (
-            source_to_target_trainer.predict(source_data)
-            .predictions.astype(np.int64)
-            .tolist()
-        )
+
+        # generate synthetic target data and combine datasets
+        synthetic_target_data = source_to_target_trainer.predict(
+            test_dataset=source_data, max_length=40
+        ).predictions.tolist()
 
         synthetic_target_to_source_data = source_data.rename_column(
             "input_ids", "labels"
@@ -226,8 +199,20 @@ def train_model(
             "input_ids", synthetic_target_data
         )
 
+        synthetic_target_to_source_data = synthetic_target_to_source_data.cast_column(
+            "labels", Sequence(Value("int64"))
+        )
+        synthetic_target_to_source_data = synthetic_target_to_source_data.cast_column(
+            "input_ids", Sequence(Value("int32"))
+        )
+
         combined_target_to_source_data = concatenate_datasets(
             [target_to_source_data, synthetic_target_to_source_data]
+        )
+
+        combined_target_to_source_data = combined_target_to_source_data.map(
+          fix_attention_mask,
+          batched=True
         )
 
         combined_source_to_target_data = (
@@ -238,12 +223,9 @@ def train_model(
 
 
 def fix_attention_mask(examples):
-    new_attention_mask = [1 if x != -100 else 0 for x in examples["input_ids"]]
-
-    examples["attention_mask"] = new_attention_mask
-
-    print(examples["attention_mask"])
-    print(examples["input_ids"])
+    # filter padding tokens
+    examples["input_ids"] = [[x for x in input_ids if x != 0] for input_ids in examples["input_ids"]]
+    examples["attention_mask"] = [[1 for x in input_ids] for input_ids in examples["input_ids"]]
 
     return examples
 
@@ -396,7 +378,7 @@ if __name__ == "__main__":
         tokenizer,
         raw_monolingual_src_data,
         raw_monolingual_tgt_data,
-        1,
+        3,
         src_lang,
         tgt_lang,
     )
