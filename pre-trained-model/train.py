@@ -74,9 +74,6 @@ def train_model(
         },
     )
 
-    print(target_to_source_data)
-    print(source_to_target_data)
-
     # source_to_target_data = source_to_target_data.remove_columns(
     #     source_lang
     # ).remove_columns(target_lang)
@@ -91,6 +88,7 @@ def train_model(
 
     source_data = source_data.map(preprocess_source_function, batched=True)
     target_data = target_data.map(preprocess_target_function, batched=True)
+
 
     # source_data = source_data.remove_columns(source_lang)
     # target_data = target_data.remove_columns(target_lang)
@@ -138,9 +136,8 @@ def train_model(
 
         target_to_source_trainer.train()
 
-        print(target_data)
         synthetic_source_data = target_to_source_trainer.predict(
-            test_dataset=target_data, max_length=40
+            test_dataset=target_data, max_length=20
         ).predictions.tolist()
 
         num_samples = 5
@@ -156,7 +153,7 @@ def train_model(
             synthetic = [
                 synthetic_token
                 for synthetic_token in synthetic
-                if synthetic_token != -100
+                if synthetic_token != -100 and synthetic_token != 0 and synthetic_token != 1
             ]
 
             synthetic_tokens = tokenizer.decode(synthetic)
@@ -194,17 +191,11 @@ def train_model(
             [source_to_target_data, synthetic_source_to_target_data]
         )
 
-        print(combined_source_to_target_data["input_ids"][:10])
-        print(combined_source_to_target_data["attention_mask"][:10])
-        print(combined_source_to_target_data["labels"][:10])
-        print(combined_source_to_target_data)
-
-        for datapoint in combined_source_to_target_data:
-            if len(datapoint["input_ids"]) != len(datapoint["attention_mask"]):
-                print("mismatched sizes between attention mask and input ids")
-        #
-        # print(combined_source_to_target_data["input_ids"])
-        # print(combined_source_to_target_data["attention_mask"])
+        for entry in combined_source_to_target_data:
+          print()
+          print(entry["input_ids"])
+          print(entry["attention_mask"])
+          print(entry["labels"])
 
         combined_source_to_target_data = (
             combined_source_to_target_data.train_test_split(test_size=0.1)
@@ -247,9 +238,12 @@ def train_model(
 
 
 def fix_attention_mask(examples):
-    new_attention_mask = [1 for x in examples["input_ids"] if x != -100]
+    new_attention_mask = [1 if x != -100 else 0 for x in examples["input_ids"]]
 
     examples["attention_mask"] = new_attention_mask
+
+    print(examples["attention_mask"])
+    print(examples["input_ids"])
 
     return examples
 
@@ -317,6 +311,7 @@ def yield_mono_lines(path, lang):
             if i >= 100:
                 break
             yield {lang: line.strip()}
+
 
 
 def compute_metrics(eval_preds):
@@ -392,10 +387,6 @@ if __name__ == "__main__":
         gen_kwargs={"path": monolingual_tgt_data_path, "lang": tgt_lang},
     )
 
-    raw_monolingual_tgt_data = raw_monolingual_tgt_data.filter(
-        lambda x: len(x["SAE"]) > 50 and len(x["SAE"]) < 65
-    )
-
     metric = evaluate.load("sacrebleu")
 
     train_model(
@@ -409,3 +400,4 @@ if __name__ == "__main__":
         src_lang,
         tgt_lang,
     )
+
