@@ -314,7 +314,8 @@ def yield_paired_lines(source_path, target_path, source_lang, target_lang):
 def yield_mono_lines(path, lang):
     with open(path, "r", encoding="utf-8") as file:
         for line in file:
-            yield {lang: line}
+            if len(line) == 20:
+                yield {lang: line}
 
 
 def compute_metrics(eval_preds):
