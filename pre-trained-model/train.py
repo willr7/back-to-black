@@ -124,7 +124,7 @@ def train_model(
         test_size=0.1
     )
 
-    for _ in range(iterations):
+    for iteration in range(iterations):
         target_to_source_trainer = Seq2SeqTrainer(
             model=target_to_source_model,
             args=target_to_source_training_args,
@@ -135,7 +135,13 @@ def train_model(
             compute_metrics=compute_metrics,
         )
 
+        print(f"Iteration: {iteration}")
+        print(f"Training {target_lang} to {source_lang} model")
+
         target_to_source_trainer.train()
+
+        print(f"Iteration: {iteration}")
+        print(f"Generating synthetic {source_lang} data from monolingual {target_lang} data")
 
         # Generate synthetic source data
         synthetic_source_data = target_to_source_trainer.predict(
@@ -183,7 +189,13 @@ def train_model(
             compute_metrics=compute_metrics,
         )
 
+        print(f"Iteration: {iteration}")
+        print(f"Training {source_lang} to {target_lang} model")
+
         source_to_target_trainer.train()
+
+        print(f"Iteration: {iteration}")
+        print(f"Generating synthetic {target_lang} data from monolingual {source_lang} data")
 
         # generate synthetic target data and combine datasets
         synthetic_target_data = source_to_target_trainer.predict(
