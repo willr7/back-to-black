@@ -97,12 +97,12 @@ def train_model(
     source_to_target_training_args = Seq2SeqTrainingArguments(
         output_dir="./source_to_target_models",
         learning_rate=1e-4,
-        per_device_train_batch_size=8,
+        per_device_train_batch_size=16,
         num_train_epochs=5,
         eval_strategy="epoch",
         save_strategy="epoch",
         logging_dir="./logs",
-        logging_steps=1000,
+        logging_steps=500,
         predict_with_generate=True,
         fp16=True,
     )
@@ -115,7 +115,7 @@ def train_model(
         eval_strategy="epoch",
         save_strategy="epoch",
         logging_dir="./logs",
-        logging_steps=1000,
+        logging_steps=500,
         predict_with_generate=True,
         fp16=True,
     )
