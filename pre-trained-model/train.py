@@ -187,7 +187,7 @@ def train_model(
 
         # generate synthetic target data and combine datasets
         synthetic_target_data = source_to_target_trainer.predict(
-            test_dataset=source_data, max_length=30
+            test_dataset=source_data, max_length=20
         ).predictions.tolist()
 
         synthetic_target_to_source_data = source_data.rename_column(
@@ -370,6 +370,7 @@ if __name__ == "__main__":
             "csv_dataset_path": paired_csv_data_path,
             "source_lang": src_lang,
             "target_lang": tgt_lang,
+            "n": 1000,
         },
     )
 
@@ -384,11 +385,11 @@ if __name__ == "__main__":
 
     raw_monolingual_src_data = Dataset.from_generator(
         yield_mono_lines,
-        gen_kwargs={"path": monolingual_src_data_path, "lang": src_lang},
+        gen_kwargs={"path": monolingual_src_data_path, "lang": src_lang, "n": 1000},
     )
     raw_monolingual_tgt_data = Dataset.from_generator(
         yield_mono_lines,
-        gen_kwargs={"path": monolingual_tgt_data_path, "lang": tgt_lang},
+        gen_kwargs={"path": monolingual_tgt_data_path, "lang": tgt_lang, "n": 1000},
     )
 
     metric = evaluate.load("sacrebleu")
