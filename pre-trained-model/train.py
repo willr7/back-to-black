@@ -98,7 +98,7 @@ def train_model(
         output_dir="./source_to_target_models",
         learning_rate=1e-4,
         per_device_train_batch_size=8,
-        num_train_epochs=5,
+        num_train_epochs=1,
         eval_strategy="epoch",
         save_strategy="epoch",
         logging_dir="./logs",
@@ -111,7 +111,7 @@ def train_model(
         output_dir="./target_to_source_models",
         learning_rate=1e-4,
         per_device_train_batch_size=8,
-        num_train_epochs=5,
+        num_train_epochs=1,
         eval_strategy="epoch",
         save_strategy="epoch",
         logging_dir="./logs",
@@ -239,6 +239,7 @@ def print_random_decoded_entries(dataset, tokenizer, num_rows=5):
         input_ids = dataset[idx]["input_ids"]
         labels = dataset[idx]["labels"]
         
+        print(input_ids)
         decoded_input_ids = tokenizer.decode(input_ids, skip_special_tokens=True)
         decoded_labels = tokenizer.decode(labels, skip_special_tokens=True)
         
@@ -308,7 +309,7 @@ def yield_csv_lines(csv_dataset_path, source_lang, target_lang, n=1_000_000):
             if i >= n:
                 break
 
-            if line[0].strip() != "" or line[1].strip() != "":
+            if line[0].strip() != "" and line[1].strip() != "":
                 yield {source_lang: line[0], target_lang: line[1]}
             else:
                 print("empty string found")
