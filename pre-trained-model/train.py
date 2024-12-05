@@ -258,7 +258,7 @@ def print_random_decoded_entries(dataset, tokenizer, num_rows=5):
 def fix_attention_mask(examples):
     # filter padding tokens
     examples["input_ids"] = [
-        [x for x in input_ids if x != 0 or x != -100] for input_ids in examples["input_ids"]
+        [x for x in input_ids if x != 0 and x != -100] for input_ids in examples["input_ids"]
     ]
     examples["attention_mask"] = [
         [1 for x in input_ids] for input_ids in examples["input_ids"]
