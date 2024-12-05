@@ -158,6 +158,8 @@ def train_model(
             "input_ids", Sequence(Value("int32"))
         )
 
+        print_random_decoded_entries(synthetic_source_to_target_data, tokenizer)
+
         combined_source_to_target_data = concatenate_datasets(
             [source_to_target_data, synthetic_source_to_target_data]
         )
@@ -202,6 +204,8 @@ def train_model(
             "input_ids", Sequence(Value("int32"))
         )
 
+        print_random_decoded_entries(synthetic_target_to_source_data, tokenizer)
+
         combined_target_to_source_data = concatenate_datasets(
             [target_to_source_data, synthetic_target_to_source_data]
         )
@@ -215,6 +219,21 @@ def train_model(
         )
 
     return source_to_target_model, target_to_source_model
+
+
+def print_random_decoded_entries(dataset, tokenizer, num_rows=5):
+    random_indices = random.sample(range(len(dataset)), num_rows)
+    for idx in random_indices:
+        input_ids = dataset[idx]["input_ids"]
+        labels = dataset[idx]["labels"]
+        
+        decoded_input_ids = tokenizer.decode(input_ids, skip_special_tokens=True)
+        decoded_labels = tokenizer.decode(labels, skip_special_tokens=True)
+        
+        print(f"Row {idx}:")
+        print(f"  Predicted: {decoded_input_ids}")
+        print(f"  Ground Truth: {decoded_labels}")
+        print()  # For readability
 
 
 def fix_attention_mask(examples):
