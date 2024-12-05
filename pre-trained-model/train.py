@@ -179,12 +179,6 @@ def train_model(
             combined_source_to_target_data.train_test_split(test_size=0.1)
         )
 
-        for entry in combined_source_to_target_data["train"]:
-            print()
-            print(entry["input_ids"])
-            print(entry["attention_mask"])
-            print(entry["labels"])
-
         source_to_target_trainer = Seq2SeqTrainer(
             model=source_to_target_model,
             args=source_to_target_training_args,
