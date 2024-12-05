@@ -89,7 +89,6 @@ def train_model(
     source_data = source_data.map(preprocess_source_function, batched=True)
     target_data = target_data.map(preprocess_target_function, batched=True)
 
-
     # source_data = source_data.remove_columns(source_lang)
     # target_data = target_data.remove_columns(target_lang)
 
@@ -103,7 +102,7 @@ def train_model(
         eval_strategy="epoch",
         save_strategy="epoch",
         logging_dir="./logs",
-        logging_steps=500,
+        logging_steps=1000,
         predict_with_generate=True,
         fp16=True,
     )
@@ -116,7 +115,7 @@ def train_model(
         eval_strategy="epoch",
         save_strategy="epoch",
         logging_dir="./logs",
-        logging_steps=500,
+        logging_steps=1000,
         predict_with_generate=True,
         fp16=True,
     )
@@ -136,14 +135,12 @@ def train_model(
             compute_metrics=compute_metrics,
         )
 
-
         target_to_source_trainer.train()
 
         # Generate synthetic source data
         synthetic_source_data = target_to_source_trainer.predict(
-            test_dataset=target_data, max_length=30
+            test_dataset=target_data, max_length=20
         ).predictions.tolist()
-
 
         # combine datasets
         synthetic_source_to_target_data = target_data.rename_column(
@@ -166,10 +163,8 @@ def train_model(
         )
 
         combined_source_to_target_data = combined_source_to_target_data.map(
-          fix_attention_mask,
-          batched=True
+            fix_attention_mask, batched=True
         )
-
 
         # generate train/test split and start training
         combined_source_to_target_data = (
@@ -187,7 +182,6 @@ def train_model(
         )
 
         source_to_target_trainer.train()
-
 
         # generate synthetic target data and combine datasets
         synthetic_target_data = source_to_target_trainer.predict(
@@ -213,8 +207,7 @@ def train_model(
         )
 
         combined_target_to_source_data = combined_target_to_source_data.map(
-          fix_attention_mask,
-          batched=True
+            fix_attention_mask, batched=True
         )
 
         combined_target_to_source_data = (
@@ -226,8 +219,12 @@ def train_model(
 
 def fix_attention_mask(examples):
     # filter padding tokens
-    examples["input_ids"] = [[x for x in input_ids if x != 0] for input_ids in examples["input_ids"]]
-    examples["attention_mask"] = [[1 for x in input_ids] for input_ids in examples["input_ids"]]
+    examples["input_ids"] = [
+        [x for x in input_ids if x != 0] for input_ids in examples["input_ids"]
+    ]
+    examples["attention_mask"] = [
+        [1 for x in input_ids] for input_ids in examples["input_ids"]
+    ]
 
     return examples
 
@@ -298,7 +295,6 @@ def yield_mono_lines(path, lang, n=1_000_000):
             yield {lang: line.strip()}
 
 
-
 def compute_metrics(eval_preds):
     preds, labels = eval_preds
     # In case the model returns more than the prediction logits
@@ -358,8 +354,12 @@ if __name__ == "__main__":
         },
     )
 
-    monolingual_src_data_path = "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/coraal_dataset.txt"
-    monolingual_tgt_data_path = "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/cleaned_BAWE.txt"
+    monolingual_src_data_path = (
+        "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/combined_AAVE_data.txt"
+    )
+    monolingual_tgt_data_path = (
+        "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/cleaned_BAWE.txt"
+    )
     # monolingual_src_data_path = "/Users/willreed/nlp-final-project/coraal_dataset.txt"
     # monolingual_tgt_data_path = "/Users/willreed/nlp-final-project/cleaned_BAWE.txt"
 
@@ -369,7 +369,7 @@ if __name__ == "__main__":
     )
     raw_monolingual_tgt_data = Dataset.from_generator(
         yield_mono_lines,
-        gen_kwargs={"path": monolingual_tgt_data_path, "lang": tgt_lang, "n": 7000},
+        gen_kwargs={"path": monolingual_tgt_data_path, "lang": tgt_lang},
     )
 
     metric = evaluate.load("sacrebleu")
@@ -385,6 +385,3 @@ if __name__ == "__main__":
         src_lang,
         tgt_lang,
     )
-
-
-
