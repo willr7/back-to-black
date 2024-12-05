@@ -97,7 +97,7 @@ def train_model(
     source_to_target_training_args = Seq2SeqTrainingArguments(
         output_dir="./source_to_target_models",
         learning_rate=1e-4,
-        per_device_train_batch_size=16,
+        per_device_train_batch_size=8,
         num_train_epochs=5,
         eval_strategy="epoch",
         save_strategy="epoch",
@@ -139,7 +139,7 @@ def train_model(
 
         # Generate synthetic source data
         synthetic_source_data = target_to_source_trainer.predict(
-            test_dataset=target_data, max_length=20
+            test_dataset=target_data, max_length=40
         ).predictions.tolist()
 
         # combine datasets
@@ -187,7 +187,7 @@ def train_model(
 
         # generate synthetic target data and combine datasets
         synthetic_target_data = source_to_target_trainer.predict(
-            test_dataset=source_data, max_length=20
+            test_dataset=source_data, max_length=40
         ).predictions.tolist()
 
         synthetic_target_to_source_data = source_data.rename_column(
@@ -295,7 +295,11 @@ def yield_csv_lines(csv_dataset_path, source_lang, target_lang, n=1_000_000):
         for i, line in enumerate(filereader):
             if i >= n:
                 break
-            yield {source_lang: line[0], target_lang: line[1]}
+
+            if line[0].strip() != "" or line[1].strip() != "":
+                yield {source_lang: line[0], target_lang: line[1]}
+            else:
+                print("empty string found")
 
 
 def yield_paired_lines(source_path, target_path, source_lang, target_lang):
@@ -311,7 +315,11 @@ def yield_mono_lines(path, lang, n=1_000_000):
         for i, line in enumerate(file):
             if i >= n:
                 break
-            yield {lang: line.strip()}
+
+            if line.strip() != "":
+                yield {lang: line.strip()}
+            else:
+                print("empty string found")
 
 
 def compute_metrics(eval_preds):
