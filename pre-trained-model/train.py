@@ -239,7 +239,7 @@ def print_random_decoded_entries(dataset, tokenizer, num_rows=5):
         input_ids = dataset[idx]["input_ids"]
         labels = dataset[idx]["labels"]
         
-        print(input_ids)
+        input_ids = [input_id for input_id in input_ids if input_id != -100]
         decoded_input_ids = tokenizer.decode(input_ids, skip_special_tokens=True)
         decoded_labels = tokenizer.decode(labels, skip_special_tokens=True)
         
