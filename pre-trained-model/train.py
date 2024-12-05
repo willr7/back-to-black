@@ -99,7 +99,8 @@ def train_model(
         output_dir="./source_to_target_models",
         learning_rate=1e-4,
         per_device_train_batch_size=8,
-        num_train_epochs=1,
+        num_train_epochs=5,
+        eval_strategy="epoch",
         save_strategy="epoch",
         logging_dir="./logs",
         logging_steps=500,
@@ -111,7 +112,8 @@ def train_model(
         output_dir="./target_to_source_models",
         learning_rate=1e-4,
         per_device_train_batch_size=8,
-        num_train_epochs=1,
+        num_train_epochs=5,
+        eval_strategy="epoch",
         save_strategy="epoch",
         logging_dir="./logs",
         logging_steps=500,
@@ -271,11 +273,11 @@ def preprocess_source_function(examples, max_length=200):
     return model_inputs
 
 
-def yield_csv_lines(csv_dataset_path, source_lang, target_lang):
+def yield_csv_lines(csv_dataset_path, source_lang, target_lang, n=1_000_000):
     with open(csv_dataset_path, "r") as csv_file:
         filereader = csv.reader(csv_file)
         for i, line in enumerate(filereader):
-            if i >= 100:
+            if i >= n:
                 break
             yield {source_lang: line[0], target_lang: line[1]}
 
@@ -288,10 +290,10 @@ def yield_paired_lines(source_path, target_path, source_lang, target_lang):
             yield {source_lang: source_line, target_lang: target_line}
 
 
-def yield_mono_lines(path, lang):
+def yield_mono_lines(path, lang, n=1_000_000):
     with open(path, "r", encoding="utf-8") as file:
         for i, line in enumerate(file):
-            if i >= 100:
+            if i >= n:
                 break
             yield {lang: line.strip()}
 
@@ -367,7 +369,7 @@ if __name__ == "__main__":
     )
     raw_monolingual_tgt_data = Dataset.from_generator(
         yield_mono_lines,
-        gen_kwargs={"path": monolingual_tgt_data_path, "lang": tgt_lang},
+        gen_kwargs={"path": monolingual_tgt_data_path, "lang": tgt_lang, "n": 7000},
     )
 
     metric = evaluate.load("sacrebleu")
@@ -379,9 +381,10 @@ if __name__ == "__main__":
         tokenizer,
         raw_monolingual_src_data,
         raw_monolingual_tgt_data,
-        3,
+        5,
         src_lang,
         tgt_lang,
     )
+
 
 
