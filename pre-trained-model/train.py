@@ -139,7 +139,7 @@ def train_model(
 
         # Generate synthetic source data
         synthetic_source_data = target_to_source_trainer.predict(
-            test_dataset=target_data, max_length=40
+            test_dataset=target_data, max_length=20
         ).predictions.tolist()
 
 
@@ -168,6 +168,12 @@ def train_model(
           batched=True
         )
 
+        for i, entry in enumerate(combined_source_to_target_data):
+            print()
+            print(entry["input_ids"])
+            print(entry["attention_mask"])
+            print(entry["labels"])
+
 
         # generate train/test split and start training
         combined_source_to_target_data = (
@@ -189,7 +195,7 @@ def train_model(
 
         # generate synthetic target data and combine datasets
         synthetic_target_data = source_to_target_trainer.predict(
-            test_dataset=source_data, max_length=40
+            test_dataset=source_data, max_length=20
         ).predictions.tolist()
 
         synthetic_target_to_source_data = source_data.rename_column(
@@ -215,7 +221,7 @@ def train_model(
           batched=True
         )
 
-        combined_source_to_target_data = (
+        combined_target_to_source_data = (
             combined_target_to_source_data.train_test_split(test_size=0.1)
         )
 
@@ -274,9 +280,10 @@ def preprocess_source_function(examples, max_length=200):
 def yield_csv_lines(csv_dataset_path, source_lang, target_lang):
     with open(csv_dataset_path, "r") as csv_file:
         filereader = csv.reader(csv_file)
-        for line in filereader:
-            if len(line[0]) == 30:
-                yield {source_lang: line[0], target_lang: line[1]}
+        for i, line in enumerate(filereader):
+            if i >= 100:
+                break
+            yield {source_lang: line[0], target_lang: line[1]}
 
 
 def yield_paired_lines(source_path, target_path, source_lang, target_lang):
@@ -382,4 +389,5 @@ if __name__ == "__main__":
         src_lang,
         tgt_lang,
     )
+
 
