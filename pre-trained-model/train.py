@@ -406,8 +406,13 @@ def compute_metrics(eval_preds):
     decoded_labels = [[label.strip()] for label in decoded_labels]
 
     result = metric.compute(predictions=decoded_preds, references=decoded_labels)
-    return {"bleu": result["score"]}
+    result = {"bleu": result["score"]}
 
+    prediction_lens = [np.count_nonzero(pred != tokenizer.pad_token_id) for pred in preds]
+    result["gen_len"] = np.mean(prediction_lens)
+    result = {k: round(v, 4) for k, v in result.items()}
+
+    return result
 
 
 if __name__ == "__main__":
