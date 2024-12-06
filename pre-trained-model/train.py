@@ -9,6 +9,7 @@ from datasets import (Dataset, Sequence, Value, concatenate_datasets,
 from transformers import (AutoModelForSeq2SeqLM, AutoTokenizer,
                           DataCollatorForSeq2Seq, Seq2SeqTrainer,
                           Seq2SeqTrainingArguments)
+from dataclasses import replace
 
 
 def train_model(
@@ -21,6 +22,8 @@ def train_model(
     iterations: int,
     source_lang: str,
     target_lang: str,
+    num_epochs: int,
+    log_dir: str,
 ):
     """
     Trains the source_to_target_model and the target_to_source_model using iterative back translation
@@ -93,28 +96,20 @@ def train_model(
     # target_data = target_data.remove_columns(target_lang)
 
     data_collator = DataCollatorForSeq2Seq(tokenizer, model=source_to_target_model)
+    
 
-    source_to_target_training_args = Seq2SeqTrainingArguments(
-        output_dir="./source_to_target_models",
-        learning_rate=1e-4,
-        per_device_train_batch_size=8,
-        num_train_epochs=1,
-        eval_strategy="epoch",
-        save_strategy="epoch",
-        logging_dir="./logs",
-        logging_steps=500,
-        predict_with_generate=True,
-        fp16=True,
-    )
+    target_to_source_output_dir = log_dir + "target_to_source_models/iteration 0"
+    target_to_source_log_dir = log_dir + "target_to_source/iteration 0"
 
     target_to_source_training_args = Seq2SeqTrainingArguments(
-        output_dir="./target_to_source_models",
+        output_dir=target_to_source_output_dir,
         learning_rate=1e-4,
         per_device_train_batch_size=8,
-        num_train_epochs=1,
+        # keep at 10 for initial training
+        num_train_epochs=10,
         eval_strategy="epoch",
         save_strategy="epoch",
-        logging_dir="./logs",
+        logging_dir=target_to_source_log_dir,
         logging_steps=500,
         predict_with_generate=True,
         fp16=True,
@@ -123,24 +118,24 @@ def train_model(
     combined_target_to_source_data = target_to_source_data.train_test_split(
         test_size=0.1
     )
+    
+    target_to_source_trainer = Seq2SeqTrainer(
+        model=target_to_source_model,
+        args=target_to_source_training_args,
+        train_dataset=combined_target_to_source_data["train"],
+        eval_dataset=combined_target_to_source_data["test"],
+        data_collator=data_collator,
+        tokenizer=tokenizer,
+        compute_metrics=compute_metrics,
+    )
 
-    for iteration in range(iterations):
-        target_to_source_trainer = Seq2SeqTrainer(
-            model=target_to_source_model,
-            args=target_to_source_training_args,
-            train_dataset=combined_target_to_source_data["train"],
-            eval_dataset=combined_target_to_source_data["test"],
-            data_collator=data_collator,
-            tokenizer=tokenizer,
-            compute_metrics=compute_metrics,
-        )
+    print(f"Iteration: 0")
+    print(f"Training {target_lang} to {source_lang} model")
 
-        print(f"Iteration: {iteration}")
-        print(f"Training {target_lang} to {source_lang} model")
+    target_to_source_trainer.train()
 
-        target_to_source_trainer.train()
-
-        print(f"Iteration: {iteration}")
+    for iteration in range(1, iterations + 1):
+        print(f"Starting iteration: {iteration}")
         print(f"Generating synthetic {source_lang} data from monolingual {target_lang} data")
 
         # Generate synthetic source data
@@ -164,7 +159,7 @@ def train_model(
             "input_ids", Sequence(Value("int32"))
         )
 
-        print_random_decoded_entries(synthetic_source_to_target_data, tokenizer, iteration, source_lang, target_lang)
+        print_random_decoded_entries(synthetic_source_to_target_data, tokenizer, iteration, source_lang, target_lang, target_to_source_log_dir)
 
         combined_source_to_target_data = concatenate_datasets(
             [source_to_target_data, synthetic_source_to_target_data]
@@ -177,6 +172,22 @@ def train_model(
         # generate train/test split and start training
         combined_source_to_target_data = (
             combined_source_to_target_data.train_test_split(test_size=0.1)
+        )
+
+        source_to_target_output_dir = log_dir + f"source_to_target_models/iteration {iteration}"
+        source_to_target_log_dir = log_dir + f"source_to_target/iteration {iteration}"
+
+        source_to_target_training_args = Seq2SeqTrainingArguments(
+            output_dir=source_to_target_output_dir,
+            learning_rate=1e-4,
+            per_device_train_batch_size=8,
+            num_train_epochs=num_epochs,
+            eval_strategy="epoch",
+            save_strategy="epoch",
+            logging_dir=source_to_target_log_dir,
+            logging_steps=500,
+            predict_with_generate=True,
+            fp16=True,
         )
 
         source_to_target_trainer = Seq2SeqTrainer(
@@ -216,7 +227,7 @@ def train_model(
             "input_ids", Sequence(Value("int32"))
         )
 
-        print_random_decoded_entries(synthetic_target_to_source_data, tokenizer, iteration, target_lang, source_lang)
+        print_random_decoded_entries(synthetic_target_to_source_data, tokenizer, iteration, target_lang, source_lang, source_to_target_log_dir)
 
         combined_target_to_source_data = concatenate_datasets(
             [target_to_source_data, synthetic_target_to_source_data]
@@ -230,10 +241,41 @@ def train_model(
             combined_target_to_source_data.train_test_split(test_size=0.1)
         )
 
+        target_to_source_output_dir = log_dir + f"target_to_source_models/iteration {iterations}"
+        target_to_source_log_dir = log_dir + f"target_to_source/iteration {iterations}"
+
+        target_to_source_training_args = Seq2SeqTrainingArguments(
+            output_dir=target_to_source_output_dir,
+            learning_rate=1e-4,
+            per_device_train_batch_size=8,
+            num_train_epochs=num_epochs,
+            eval_strategy="epoch",
+            save_strategy="epoch",
+            logging_dir=target_to_source_log_dir,
+            logging_steps=500,
+            predict_with_generate=True,
+            fp16=True,
+        )
+
+        target_to_source_trainer = Seq2SeqTrainer(
+            model=target_to_source_model,
+            args=target_to_source_training_args,
+            train_dataset=combined_target_to_source_data["train"],
+            eval_dataset=combined_target_to_source_data["test"],
+            data_collator=data_collator,
+            tokenizer=tokenizer,
+            compute_metrics=compute_metrics,
+        )
+
+        print(f"Iteration: {iterations}")
+        print(f"Training {target_lang} to {source_lang} model")
+
+        target_to_source_trainer.train()
+
     return source_to_target_model, target_to_source_model
 
 
-def print_random_decoded_entries(dataset, tokenizer, iteration, source_lang, target_lang, log_predictions=True, num_rows=5):
+def print_random_decoded_entries(dataset, tokenizer, iteration, source_lang, target_lang, log_dir, log_predictions=True, num_rows=10):
     random_indices = random.sample(range(len(dataset)), num_rows)
     output_str = f"Iteration: {iteration}\n"
 
@@ -256,7 +298,7 @@ def print_random_decoded_entries(dataset, tokenizer, iteration, source_lang, tar
     print(output_str)
 
     if log_predictions:
-        with open("logs/predictions.txt", "a") as f:
+        with open(log_dir, "a") as f:
             f.writelines(output_str)
 
 
@@ -366,6 +408,7 @@ def compute_metrics(eval_preds):
     return {"bleu": result["score"]}
 
 
+
 if __name__ == "__main__":
     tokenizer = AutoTokenizer.from_pretrained("google-t5/t5-small")
     source_to_target_model = AutoModelForSeq2SeqLM.from_pretrained("google-t5/t5-small")
@@ -406,6 +449,8 @@ if __name__ == "__main__":
         },
     )
 
+    size_paired_dataset = len(raw_paired_dataset)
+
     monolingual_src_data_path = (
         "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/combined_AAVE_data.txt"
     )
@@ -415,16 +460,25 @@ if __name__ == "__main__":
     # monolingual_src_data_path = "/Users/willreed/nlp-final-project/coraal_dataset.txt"
     # monolingual_tgt_data_path = "/Users/willreed/nlp-final-project/cleaned_BAWE.txt"
 
+    # This is where to set ratio for experiments
+    ratio = 1
+
     raw_monolingual_src_data = Dataset.from_generator(
         yield_mono_lines,
-        gen_kwargs={"path": monolingual_src_data_path, "lang": src_lang, "n": 1000},
+        gen_kwargs={"path": monolingual_src_data_path, "lang": src_lang, "n": ratio * size_paired_dataset},
     )
     raw_monolingual_tgt_data = Dataset.from_generator(
         yield_mono_lines,
-        gen_kwargs={"path": monolingual_tgt_data_path, "lang": tgt_lang, "n": 1000},
+        gen_kwargs={"path": monolingual_tgt_data_path, "lang": tgt_lang, "n": ratio * size_paired_dataset},
     )
 
     metric = evaluate.load("sacrebleu")
+
+    # for the experiment name
+    # 1_to_n ratio represents the ratio of paired data to each of the monolingual datasets
+    # n_iterations represents the number of iterations of back translation
+    experiment = "test/"
+    log_dir = f"/content/gdrive/MyDrive/6.861 Project/Experiments/logs/{experiment}"
 
     train_model(
         raw_paired_dataset,
@@ -433,7 +487,11 @@ if __name__ == "__main__":
         tokenizer,
         raw_monolingual_src_data,
         raw_monolingual_tgt_data,
-        5,
+        2,
         src_lang,
         tgt_lang,
+        # set epochs to 3 for 1:3 ratio
+        # set to 5 for 1:1
+        3,
+        log_dir,
     )
