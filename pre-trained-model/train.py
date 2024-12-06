@@ -241,8 +241,8 @@ def train_model(
             combined_target_to_source_data.train_test_split(test_size=0.1)
         )
 
-        target_to_source_output_dir = log_dir + f"target_to_source_models/iteration {iterations}"
-        target_to_source_log_dir = log_dir + f"target_to_source/iteration {iterations}"
+        target_to_source_output_dir = log_dir + f"target_to_source_models/iteration {iteration}"
+        target_to_source_log_dir = log_dir + f"target_to_source/iteration {iteration}"
 
         target_to_source_training_args = Seq2SeqTrainingArguments(
             output_dir=target_to_source_output_dir,
@@ -298,7 +298,8 @@ def print_random_decoded_entries(dataset, tokenizer, iteration, source_lang, tar
     print(output_str)
 
     if log_predictions:
-        with open(log_dir, "a") as f:
+        prediction_file_path = log_dir + "/predictions.txt"
+        with open(prediction_file_path, "a") as f:
             f.writelines(output_str)
 
 
@@ -445,7 +446,9 @@ if __name__ == "__main__":
             "csv_dataset_path": paired_csv_data_path,
             "source_lang": src_lang,
             "target_lang": tgt_lang,
-            "n": 1000,
+            # use n for debugging
+            # only loads n samples
+            # "n": 1000,
         },
     )
 
@@ -477,7 +480,9 @@ if __name__ == "__main__":
     # for the experiment name
     # 1_to_n ratio represents the ratio of paired data to each of the monolingual datasets
     # n_iterations represents the number of iterations of back translation
-    experiment = "test/"
+    # ex.
+    # 1_to_1__2_iterations
+    experiment = "0 iterations (no IBT)/"
     log_dir = f"/content/gdrive/MyDrive/6.861 Project/Experiments/logs/{experiment}"
 
     train_model(
@@ -487,7 +492,7 @@ if __name__ == "__main__":
         tokenizer,
         raw_monolingual_src_data,
         raw_monolingual_tgt_data,
-        2,
+        0,
         src_lang,
         tgt_lang,
         # set epochs to 3 for 1:3 ratio
