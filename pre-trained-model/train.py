@@ -235,7 +235,8 @@ def train_model(
 
 def print_random_decoded_entries(dataset, tokenizer, iteration, source_lang, target_lang, log_predictions=True, num_rows=5):
     random_indices = random.sample(range(len(dataset)), num_rows)
-    output_str = ""
+    output_str = f"Iteration: {iteration}\n"
+
     for idx in random_indices:
 
         input_ids = dataset[idx]["input_ids"]
@@ -247,12 +248,12 @@ def print_random_decoded_entries(dataset, tokenizer, iteration, source_lang, tar
         
         output_str += "\n"
         output_str += f"Row {idx}:\n"
-        output_str += f"Iteration: {iteration}\n"
         output_str += f"  Predicted {source_lang}: {decoded_input_ids}\n"
         output_str += f"  Ground Truth {target_lang}: {decoded_labels}\n"
 
-        print(output_str)
-        print()
+    output_str += "\n"
+
+    print(output_str)
 
     if log_predictions:
         with open("logs/predictions.txt", "a") as f:
