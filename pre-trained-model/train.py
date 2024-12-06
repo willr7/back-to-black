@@ -164,7 +164,7 @@ def train_model(
             "input_ids", Sequence(Value("int32"))
         )
 
-        print_random_decoded_entries(synthetic_source_to_target_data, tokenizer)
+        print_random_decoded_entries(synthetic_source_to_target_data, tokenizer, iteration, source_lang, target_lang)
 
         combined_source_to_target_data = concatenate_datasets(
             [source_to_target_data, synthetic_source_to_target_data]
@@ -216,7 +216,7 @@ def train_model(
             "input_ids", Sequence(Value("int32"))
         )
 
-        print_random_decoded_entries(synthetic_target_to_source_data, tokenizer)
+        print_random_decoded_entries(synthetic_target_to_source_data, tokenizer, iteration, target_lang, source_lang)
 
         combined_target_to_source_data = concatenate_datasets(
             [target_to_source_data, synthetic_target_to_source_data]
@@ -233,9 +233,11 @@ def train_model(
     return source_to_target_model, target_to_source_model
 
 
-def print_random_decoded_entries(dataset, tokenizer, num_rows=5):
+def print_random_decoded_entries(dataset, tokenizer, iteration, source_lang, target_lang, log_predictions=True, num_rows=5):
     random_indices = random.sample(range(len(dataset)), num_rows)
+    output_str = ""
     for idx in random_indices:
+
         input_ids = dataset[idx]["input_ids"]
         labels = dataset[idx]["labels"]
         
@@ -243,10 +245,18 @@ def print_random_decoded_entries(dataset, tokenizer, num_rows=5):
         decoded_input_ids = tokenizer.decode(input_ids, skip_special_tokens=True)
         decoded_labels = tokenizer.decode(labels, skip_special_tokens=True)
         
-        print(f"Row {idx}:")
-        print(f"  Predicted: {decoded_input_ids}")
-        print(f"  Ground Truth: {decoded_labels}")
-        print()  # For readability
+        output_str += "\n"
+        output_str += f"Row {idx}:\n"
+        output_str += f"Iteration: {iteration}\n"
+        output_str += f"  Predicted {source_lang}: {decoded_input_ids}\n"
+        output_str += f"  Ground Truth {target_lang}: {decoded_labels}\n"
+
+        print(output_str)
+        print()
+
+    if log_predictions:
+        with open("logs/predictions.txt", "a") as f:
+            f.writelines(output_str)
 
 
 def fix_attention_mask(examples):
