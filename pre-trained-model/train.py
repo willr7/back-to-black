@@ -129,7 +129,7 @@ def train_model(
         compute_metrics=compute_metrics,
     )
 
-    print(f"Iteration: 0")
+    print("Iteration: 0")
     print(f"Training {target_lang} to {source_lang} model")
 
     target_to_source_trainer.train()
