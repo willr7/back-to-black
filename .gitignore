@@ -6,3 +6,7 @@ __pycache__
 .DS_Store
 coraal_data
 openAI_api_key
+logs
+pre-trained-model/openAI_call.py
+target_to_source_models
+pre-trained-model/logs/

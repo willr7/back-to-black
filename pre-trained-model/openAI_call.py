@@ -81,11 +81,12 @@ def generate_translations(source_data_lines, destination_path):
             print(prediction)
             print()
 
-            prediction_lines = prediction.split("\n")
+            if prediction is not None:
+                prediction_lines = prediction.split("\n")
 
-            if len(prediction_lines) == batch_lines:
-                translated_pairs[source_lang] += (input_lines)
-                translated_pairs[target_lang] += (prediction_lines)
+                if len(prediction_lines) == batch_lines:
+                    translated_pairs[source_lang] += (input_lines)
+                    translated_pairs[target_lang] += (prediction_lines)
 
         except openai.RateLimitError as e:
             print("Oh no you exceeded the rate limit because you broke :(")
@@ -94,18 +95,19 @@ def generate_translations(source_data_lines, destination_path):
 
     pd.DataFrame(translated_pairs).to_csv(destination_path, index=False)
 
+
 if __name__ == "__main__":
 
-    # source_data_folder_path = "/Users/willreed/Downloads/Boosie Song Lyrics"
+    source_data_folder_path = "/Users/willreed/Downloads/More rap lyrics"
     # this file currently includes Common and Boosie
-    source_data_destination_path = "/Users/willreed/nlp-final-project/AAVE Lyrics.txt"
+    source_data_destination_path = "/Users/willreed/nlp-final-project/Dan AAVE Lyrics.txt"
+    
+    load_source_data(source_data_folder_path, source_data_destination_path)
+    # synthetic_target_destination_path = "/Users/willreed/nlp-final-project/GPT Translated AAVE Lyrics.csv"
+
+    # source_data_lines = []
     #
-    # load_source_data(source_data_folder_path, source_data_destination_path)
-    synthetic_target_destination_path = "/Users/willreed/nlp-final-project/GPT Translated AAVE Lyrics.csv"
-
-    source_data_lines = []
-
-    with open(source_data_destination_path, "r") as f:
-        source_data_lines = f.readlines()
-
-    generate_translations(source_data_lines, synthetic_target_destination_path)
+    # with open(source_data_destination_path, "r") as f:
+    #     source_data_lines = f.readlines()
+    #
+    # generate_translations(source_data_lines, synthetic_target_destination_path)

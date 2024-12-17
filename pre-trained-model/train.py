@@ -3,13 +3,14 @@ import random
 
 import evaluate
 import numpy as np
-import torch
-from datasets import (Dataset, Sequence, Value, concatenate_datasets,
-                      load_dataset)
-from transformers import (AutoModelForSeq2SeqLM, AutoTokenizer,
-                          DataCollatorForSeq2Seq, Seq2SeqTrainer,
-                          Seq2SeqTrainingArguments)
-from dataclasses import replace
+from datasets import Dataset, Sequence, Value, concatenate_datasets
+from transformers import (
+    AutoModelForSeq2SeqLM,
+    AutoTokenizer,
+    DataCollatorForSeq2Seq,
+    Seq2SeqTrainer,
+    Seq2SeqTrainingArguments,
+)
 
 
 def train_model(
@@ -96,7 +97,6 @@ def train_model(
     # target_data = target_data.remove_columns(target_lang)
 
     data_collator = DataCollatorForSeq2Seq(tokenizer, model=source_to_target_model)
-    
 
     target_to_source_output_dir = log_dir + "target_to_source_models/iteration 0"
     target_to_source_log_dir = log_dir + "target_to_source/iteration 0"
@@ -118,7 +118,7 @@ def train_model(
     combined_target_to_source_data = target_to_source_data.train_test_split(
         test_size=0.1
     )
-    
+
     target_to_source_trainer = Seq2SeqTrainer(
         model=target_to_source_model,
         args=target_to_source_training_args,
@@ -136,7 +136,9 @@ def train_model(
 
     for iteration in range(1, iterations + 1):
         print(f"Starting iteration: {iteration}")
-        print(f"Generating synthetic {source_lang} data from monolingual {target_lang} data")
+        print(
+            f"Generating synthetic {source_lang} data from monolingual {target_lang} data"
+        )
 
         # Generate synthetic source data
         synthetic_source_data = target_to_source_trainer.predict(
@@ -159,7 +161,14 @@ def train_model(
             "input_ids", Sequence(Value("int32"))
         )
 
-        print_random_decoded_entries(synthetic_source_to_target_data, tokenizer, iteration, source_lang, target_lang, target_to_source_log_dir)
+        print_random_decoded_entries(
+            synthetic_source_to_target_data,
+            tokenizer,
+            iteration,
+            source_lang,
+            target_lang,
+            target_to_source_log_dir,
+        )
 
         combined_source_to_target_data = concatenate_datasets(
             [source_to_target_data, synthetic_source_to_target_data]
@@ -174,7 +183,9 @@ def train_model(
             combined_source_to_target_data.train_test_split(test_size=0.1)
         )
 
-        source_to_target_output_dir = log_dir + f"source_to_target_models/iteration {iteration}"
+        source_to_target_output_dir = (
+            log_dir + f"source_to_target_models/iteration {iteration}"
+        )
         source_to_target_log_dir = log_dir + f"source_to_target/iteration {iteration}"
 
         source_to_target_training_args = Seq2SeqTrainingArguments(
@@ -206,7 +217,9 @@ def train_model(
         source_to_target_trainer.train()
 
         print(f"Iteration: {iteration}")
-        print(f"Generating synthetic {target_lang} data from monolingual {source_lang} data")
+        print(
+            f"Generating synthetic {target_lang} data from monolingual {source_lang} data"
+        )
 
         # generate synthetic target data and combine datasets
         synthetic_target_data = source_to_target_trainer.predict(
@@ -227,7 +240,14 @@ def train_model(
             "input_ids", Sequence(Value("int32"))
         )
 
-        print_random_decoded_entries(synthetic_target_to_source_data, tokenizer, iteration, target_lang, source_lang, source_to_target_log_dir)
+        print_random_decoded_entries(
+            synthetic_target_to_source_data,
+            tokenizer,
+            iteration,
+            target_lang,
+            source_lang,
+            source_to_target_log_dir,
+        )
 
         combined_target_to_source_data = concatenate_datasets(
             [target_to_source_data, synthetic_target_to_source_data]
@@ -241,7 +261,9 @@ def train_model(
             combined_target_to_source_data.train_test_split(test_size=0.1)
         )
 
-        target_to_source_output_dir = log_dir + f"target_to_source_models/iteration {iteration}"
+        target_to_source_output_dir = (
+            log_dir + f"target_to_source_models/iteration {iteration}"
+        )
         target_to_source_log_dir = log_dir + f"target_to_source/iteration {iteration}"
 
         target_to_source_training_args = Seq2SeqTrainingArguments(
@@ -275,19 +297,27 @@ def train_model(
     return source_to_target_model, target_to_source_model
 
 
-def print_random_decoded_entries(dataset, tokenizer, iteration, source_lang, target_lang, log_dir, log_predictions=True, num_rows=10):
+def print_random_decoded_entries(
+    dataset,
+    tokenizer,
+    iteration,
+    source_lang,
+    target_lang,
+    log_dir,
+    log_predictions=True,
+    num_rows=10,
+):
     random_indices = random.sample(range(len(dataset)), num_rows)
     output_str = f"Iteration: {iteration}\n"
 
     for idx in random_indices:
-
         input_ids = dataset[idx]["input_ids"]
         labels = dataset[idx]["labels"]
-        
+
         input_ids = [input_id for input_id in input_ids if input_id != -100]
         decoded_input_ids = tokenizer.decode(input_ids, skip_special_tokens=True)
         decoded_labels = tokenizer.decode(labels, skip_special_tokens=True)
-        
+
         output_str += "\n"
         output_str += f"Row {idx}:\n"
         output_str += f"  Predicted {source_lang}: {decoded_input_ids}\n"
@@ -306,7 +336,8 @@ def print_random_decoded_entries(dataset, tokenizer, iteration, source_lang, tar
 def fix_attention_mask(examples):
     # filter padding tokens
     examples["input_ids"] = [
-        [x for x in input_ids if x != 0 and x != -100] for input_ids in examples["input_ids"]
+        [x for x in input_ids if x != 0 and x != -100]
+        for input_ids in examples["input_ids"]
     ]
     examples["attention_mask"] = [
         [1 for x in input_ids] for input_ids in examples["input_ids"]
@@ -370,9 +401,10 @@ def yield_csv_lines(csv_dataset_path, source_lang, target_lang, n=1_000_000):
 
 
 def yield_paired_lines(source_path, target_path, source_lang, target_lang):
-    with open(source_path, "r", encoding="utf-8") as source_text_file, open(
-        target_path, "r", encoding="utf-8"
-    ) as target_text_file:
+    with (
+        open(source_path, "r", encoding="utf-8") as source_text_file,
+        open(target_path, "r", encoding="utf-8") as target_text_file,
+    ):
         for source_line, target_line in zip(source_text_file, target_text_file):
             yield {source_lang: source_line, target_lang: target_line}
 
@@ -408,7 +440,9 @@ def compute_metrics(eval_preds):
     result = metric.compute(predictions=decoded_preds, references=decoded_labels)
     result = {"bleu": result["score"]}
 
-    prediction_lens = [np.count_nonzero(pred != tokenizer.pad_token_id) for pred in preds]
+    prediction_lens = [
+        np.count_nonzero(pred != tokenizer.pad_token_id) for pred in preds
+    ]
     result["gen_len"] = np.mean(prediction_lens)
     result = {k: round(v, 4) for k, v in result.items()}
 
@@ -459,9 +493,7 @@ if __name__ == "__main__":
 
     size_paired_dataset = len(raw_paired_dataset)
 
-    monolingual_src_data_path = (
-        "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/combined_AAVE_data.txt"
-    )
+    monolingual_src_data_path = "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/combined_AAVE_data.txt"
     monolingual_tgt_data_path = (
         "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/cleaned_BAWE.txt"
     )
@@ -473,11 +505,19 @@ if __name__ == "__main__":
 
     raw_monolingual_src_data = Dataset.from_generator(
         yield_mono_lines,
-        gen_kwargs={"path": monolingual_src_data_path, "lang": src_lang, "n": ratio * size_paired_dataset},
+        gen_kwargs={
+            "path": monolingual_src_data_path,
+            "lang": src_lang,
+            "n": ratio * size_paired_dataset,
+        },
     )
     raw_monolingual_tgt_data = Dataset.from_generator(
         yield_mono_lines,
-        gen_kwargs={"path": monolingual_tgt_data_path, "lang": tgt_lang, "n": ratio * size_paired_dataset},
+        gen_kwargs={
+            "path": monolingual_tgt_data_path,
+            "lang": tgt_lang,
+            "n": ratio * size_paired_dataset,
+        },
     )
 
     metric = evaluate.load("sacrebleu")
