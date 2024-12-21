@@ -340,7 +340,7 @@ def fix_attention_mask(examples):
         for input_ids in examples["input_ids"]
     ]
     examples["attention_mask"] = [
-        [1 for x in input_ids] for input_ids in examples["input_ids"]
+        [1 for _ in input_ids] for input_ids in examples["input_ids"]
     ]
 
     return examples
