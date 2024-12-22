@@ -6,8 +6,25 @@ from transformers import (
     DataCollatorForSeq2Seq,
     Seq2SeqTrainer,
     Seq2SeqTrainingArguments,
+    pytorch_utils,
 )
 from utils import *
+
+
+def patched_isin_mps_friendly(elements, test_elements):
+    print("test")
+    if test_elements.ndim == 0:
+        test_elements = test_elements.unsqueeze(0)
+    return (
+        elements.tile(test_elements.shape[0], 1)
+        .eq(test_elements.unsqueeze(1))
+        .sum(dim=0)
+        .bool()
+        .squeeze()
+    )
+
+
+pytorch_utils.isin_mps_friendly = patched_isin_mps_friendly
 
 
 def train_model(
