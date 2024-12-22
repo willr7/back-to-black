@@ -129,6 +129,7 @@ def yield_mono_lines(path, lang, n=1_000_000):
 
 
 def compute_metrics(eval_preds, tokenizer, metric):
+    print("test")
     preds, labels = eval_preds
     # In case the model returns more than the prediction logits
     if isinstance(preds, tuple):

@@ -64,6 +64,7 @@ def train_model(
         fn_kwargs={
             "source_lang": source_lang,
             "target_lang": target_lang,
+            "tokenizer": tokenizer,
         },
     )
     target_to_source_data = source_to_target_data.map(
@@ -72,6 +73,7 @@ def train_model(
         fn_kwargs={
             "source_lang": target_lang,
             "target_lang": source_lang,
+            "tokenizer": tokenizer,
         },
     )
 
@@ -88,10 +90,14 @@ def train_model(
     # prepare monolingual data
 
     source_data = source_data.map(
-        preprocess_lang_function, batched=True, fn_kwargs={"src_lang": source_lang}
+        preprocess_lang_function,
+        batched=True,
+        fn_kwargs={"src_lang": source_lang, "tokenizer": tokenizer},
     )
     target_data = target_data.map(
-        preprocess_lang_function, batched=True, fn_kwargs={"tgt_lang": source_lang}
+        preprocess_lang_function,
+        batched=True,
+        fn_kwargs={"src_lang": target_lang, "tokenizer": tokenizer},
     )
 
     # source_data = source_data.remove_columns(source_lang)
@@ -113,7 +119,7 @@ def train_model(
         logging_dir=target_to_source_log_dir,
         logging_steps=500,
         predict_with_generate=True,
-        fp16=True,
+        # fp16=True,
     )
 
     combined_target_to_source_data = target_to_source_data.train_test_split(
@@ -132,6 +138,12 @@ def train_model(
 
     print("Iteration: 0")
     print(f"Training {target_lang} to {source_lang} model")
+
+    for entry in combined_target_to_source_data["test"]:
+        print(entry["input_ids"])
+        print(entry["labels"])
+        print(entry["attention_mask"])
+        print()
 
     target_to_source_trainer.train()
 
@@ -199,7 +211,7 @@ def train_model(
             logging_dir=source_to_target_log_dir,
             logging_steps=500,
             predict_with_generate=True,
-            fp16=True,
+            # fp16=True,
         )
 
         source_to_target_trainer = Seq2SeqTrainer(
@@ -277,7 +289,7 @@ def train_model(
             logging_dir=target_to_source_log_dir,
             logging_steps=500,
             predict_with_generate=True,
-            fp16=True,
+            # fp16=True,
         )
 
         target_to_source_trainer = Seq2SeqTrainer(
@@ -321,10 +333,8 @@ if __name__ == "__main__":
     #     },
     # )
 
-    paired_csv_data_path = "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/GPT Translated AAVE Lyrics.csv"
-    # paired_csv_data_path = (
-    #     "/Users/willreed/nlp-final-project/GPT-Translated-AAVE-Lyrics.csv"
-    # )
+    # paired_csv_data_path = "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/GPT Translated AAVE Lyrics.csv"
+    paired_csv_data_path = "/Users/willreed/projects/classes/nlp-final-project/GPT-Translated-AAVE-Lyrics.csv"
 
     raw_paired_dataset = Dataset.from_generator(
         yield_csv_lines,
@@ -334,18 +344,22 @@ if __name__ == "__main__":
             "target_lang": tgt_lang,
             # use n for debugging
             # only loads n samples
-            # "n": 1000,
+            "n": 1000,
         },
     )
 
     size_paired_dataset = len(raw_paired_dataset)
 
-    monolingual_src_data_path = "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/combined_AAVE_data.txt"
-    monolingual_tgt_data_path = (
-        "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/cleaned_BAWE.txt"
+    # monolingual_src_data_path = "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/combined_AAVE_data.txt"
+    # monolingual_tgt_data_path = (
+    #     "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/cleaned_BAWE.txt"
+    # )
+    monolingual_src_data_path = (
+        "/Users/willreed/projects/classes/nlp-final-project/coraal_dataset.txt"
     )
-    # monolingual_src_data_path = "/Users/willreed/nlp-final-project/coraal_dataset.txt"
-    # monolingual_tgt_data_path = "/Users/willreed/nlp-final-project/cleaned_BAWE.txt"
+    monolingual_tgt_data_path = (
+        "/Users/willreed/projects/classes/nlp-final-project/cleaned_BAWE.txt"
+    )
 
     ratio = 1
 
@@ -369,7 +383,7 @@ if __name__ == "__main__":
     metric = evaluate.load("sacrebleu")
 
     experiment = "0 iterations (no IBT)/"
-    log_dir = f"/content/gdrive/MyDrive/6.861 Project/Experiments/logs/{experiment}"
+    log_dir = f"./logs/{experiment}"
 
     train_model(
         parallel_data=raw_paired_dataset,
