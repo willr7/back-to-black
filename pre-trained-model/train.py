@@ -20,8 +20,10 @@ TGT_LANG = "SAE"
 
 METRIC = evaluate.load("sacrebleu")
 
+DATA_COLLATOR = DataCollatorForSeq2Seq(TOKENIZER, model=SOURCE_TO_TARGET_MODEL)
 
-def train_model(
+
+def iterative_back_translation(
     parallel_data: Dataset,
     source_to_target_model: AutoModelForSeq2SeqLM,
     target_to_source_model: AutoModelForSeq2SeqLM,
@@ -33,6 +35,8 @@ def train_model(
     target_lang: str,
     num_epochs: int,
     log_dir: str,
+    from_pretrained: bool = False,
+    initial_training_epochs: int = 5,
 ):
     """
     Trains the source_to_target_model and the target_to_source_model using iterative back translation
@@ -51,24 +55,19 @@ def train_model(
 
     source_lang and target_lang are the source and target languages
 
+    num_epochs is the number of epochs to train both models in each step of back translation. Does not include initial model training
+
+    from_pretrained indicates whether you are loading a pretrained dialect to dialect model (as opposed to the default t5 model)
+
     Returns
     =======
         the two models, trained
     """
-    # prepare data, consider putting this in a function
+    # TODO: put data loading in a function
     source_to_target_data = parallel_data
     target_to_source_data = parallel_data
 
-    # source_to_target_prefix = f"Translate {source_lang} to {target_lang}: "
-    # target_to_source_prefix = f"Translate {target_lang} to {source_lang}: "
-
-    # don't include prefixes
-    # when training, the model will predict the prefix
-    # huggingface probably has a way to fix this
-
-    # source_to_target_data = source_to_target_data.map(lambda x: {source_lang: source_to_target_prefix + x[source_lang]})
-    # target_to_source_data = target_to_source_data.map(lambda x: {target_lang: target_to_source_prefix + x[target_lang]})
-
+    # TODO: add a max_sequence_length variable to use for setting max_new_tokens
     source_to_target_data = source_to_target_data.map(
         preprocess_source_to_target,
         batched=True,
@@ -88,16 +87,6 @@ def train_model(
         },
     )
 
-    # source_to_target_data = source_to_target_data.remove_columns(
-    #     source_lang
-    # ).remove_columns(target_lang)
-    # target_to_source_data = target_to_source_data.remove_columns(
-    #     source_lang
-    # ).remove_columns(target_lang)
-
-    # source_data = source_data.map(lambda x: {source_lang: source_to_target_prefix + x[source_lang]})
-    # target_data = target_data.map(lambda x: {target_lang: target_to_source_prefix + x[target_lang]})
-
     # prepare monolingual data
 
     source_data = source_data.map(
@@ -111,47 +100,56 @@ def train_model(
         fn_kwargs={"src_lang": target_lang, "tokenizer": tokenizer},
     )
 
-    # source_data = source_data.remove_columns(source_lang)
-    # target_data = target_data.remove_columns(target_lang)
-
-    data_collator = DataCollatorForSeq2Seq(tokenizer, model=source_to_target_model)
-
     target_to_source_output_dir = log_dir + "target_to_source_models/iteration 0"
     target_to_source_log_dir = log_dir + "target_to_source/iteration 0"
 
-    target_to_source_training_args = Seq2SeqTrainingArguments(
-        output_dir=target_to_source_output_dir,
-        learning_rate=1e-4,
-        per_device_train_batch_size=8,
-        # keep at 10 for initial training
-        num_train_epochs=5,
-        eval_strategy="epoch",
-        save_strategy="epoch",
-        logging_dir=target_to_source_log_dir,
-        logging_steps=500,
-        predict_with_generate=True,
-        # fp16=True,
-    )
-
-    combined_target_to_source_data = target_to_source_data.train_test_split(
-        test_size=0.1
-    )
-
-    target_to_source_trainer = Seq2SeqTrainer(
-        model=target_to_source_model,
-        args=target_to_source_training_args,
-        train_dataset=combined_target_to_source_data["train"],
-        eval_dataset=combined_target_to_source_data["test"],
-        data_collator=data_collator,
-        tokenizer=tokenizer,
-        compute_metrics=compute_metrics,
-    )
-
-    print("Iteration: 0")
-    print(f"Training {target_lang} to {source_lang} model")
-
-    # TODO: log predicted sequences in eval loop
-    target_to_source_trainer.train()
+    if not from_pretrained:
+        # target_to_source_training_args = Seq2SeqTrainingArguments(
+        #     output_dir=target_to_source_output_dir,
+        #     learning_rate=1e-4,
+        #     per_device_train_batch_size=8,
+        #     num_train_epochs=initial_training_epochs,
+        #     eval_strategy="epoch",
+        #     save_strategy="epoch",
+        #     logging_dir=target_to_source_log_dir,
+        #     logging_steps=500,
+        #     predict_with_generate=True,
+        #     # fp16=True,
+        # )
+        #
+        # combined_target_to_source_data = target_to_source_data.train_test_split(
+        #     test_size=0.1
+        # )
+        #
+        # target_to_source_trainer = Seq2SeqTrainer(
+        #     model=target_to_source_model,
+        #     args=target_to_source_training_args,
+        #     train_dataset=combined_target_to_source_data["train"],
+        #     eval_dataset=combined_target_to_source_data["test"],
+        #     data_collator=DATA_COLLATOR,
+        #     tokenizer=tokenizer,
+        #     compute_metrics=compute_metrics,
+        # )
+        #
+        # print("Iteration: 0")
+        # print(f"Training {target_lang} to {source_lang} model")
+        #
+        # # TODO: log predicted sequences in eval loop
+        # # TODO: add max_new_tokens for eval loop
+        # target_to_source_trainer.train()
+        combined_target_to_source_data = target_to_source_data.train_test_split(
+            test_size=0.1
+        )
+        target_to_source_model, target_to_source_trainer = train_model(
+            model=target_to_source_model,
+            data=combined_target_to_source_data,
+            source_lang=target_lang,
+            target_lang=source_lang,
+            num_epochs=initial_training_epochs,
+            log_dir=target_to_source_log_dir,
+            output_dir=target_to_source_output_dir,
+            iteration=0,
+        )
 
     for iteration in range(1, iterations + 1):
         print(f"Starting iteration: {iteration}")
@@ -225,7 +223,7 @@ def train_model(
             args=source_to_target_training_args,
             train_dataset=combined_source_to_target_data["train"],
             eval_dataset=combined_source_to_target_data["test"],
-            data_collator=data_collator,
+            data_collator=DATA_COLLATOR,
             tokenizer=tokenizer,
             compute_metrics=compute_metrics,
         )
@@ -304,7 +302,7 @@ def train_model(
             args=target_to_source_training_args,
             train_dataset=combined_target_to_source_data["train"],
             eval_dataset=combined_target_to_source_data["test"],
-            data_collator=data_collator,
+            data_collator=DATA_COLLATOR,
             tokenizer=tokenizer,
             compute_metrics=compute_metrics,
         )
@@ -316,6 +314,49 @@ def train_model(
         target_to_source_trainer.train()
 
     return source_to_target_model, target_to_source_model
+
+
+def train_model(
+    model: AutoModelForSeq2SeqLM,
+    data: Dataset,
+    source_lang: str,
+    target_lang: str,
+    num_epochs: int,
+    log_dir: str,
+    output_dir: str,
+    iteration: int,
+) -> tuple[AutoModelForSeq2SeqLM, Seq2SeqTrainer]:
+    target_to_source_training_args = Seq2SeqTrainingArguments(
+        output_dir=output_dir,
+        learning_rate=1e-4,
+        per_device_train_batch_size=8,
+        num_train_epochs=num_epochs,
+        eval_strategy="epoch",
+        save_strategy="epoch",
+        logging_dir=log_dir,
+        logging_steps=500,
+        predict_with_generate=True,
+        # fp16=True,
+    )
+
+    source_to_target_trainer = Seq2SeqTrainer(
+        model=model,
+        args=target_to_source_training_args,
+        train_dataset=data["train"],
+        eval_dataset=data["test"],
+        data_collator=DATA_COLLATOR,
+        tokenizer=TOKENIZER,
+        compute_metrics=compute_metrics,
+    )
+
+    print(f"Iteration: {iteration}")
+    print(f"Training {target_lang} to {source_lang} model")
+
+    # TODO: log predicted sequences in eval loop
+    # TODO: add max_new_tokens for eval loop
+    source_to_target_trainer.train()
+
+    return model, source_to_target_trainer
 
 
 def compute_metrics(eval_preds):
@@ -412,7 +453,7 @@ def main():
     experiment = "0 iterations (no IBT)/"
     log_dir = f"./logs/{experiment}"
 
-    train_model(
+    iterative_back_translation(
         parallel_data=raw_paired_dataset,
         source_to_target_model=SOURCE_TO_TARGET_MODEL,
         target_to_source_model=TARGET_TO_SOURCE_MODEL,

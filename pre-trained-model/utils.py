@@ -27,8 +27,8 @@ def print_random_decoded_entries(
 
         output_str += "\n"
         output_str += f"Row {idx}:\n"
-        output_str += f"  Predicted {source_lang}: {decoded_input_ids}\n"
         output_str += f"  Ground Truth {target_lang}: {decoded_labels}\n"
+        output_str += f"  Predicted {source_lang}: {decoded_input_ids}\n"
 
     output_str += "\n"
 
