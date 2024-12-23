@@ -6,25 +6,19 @@ from transformers import (
     DataCollatorForSeq2Seq,
     Seq2SeqTrainer,
     Seq2SeqTrainingArguments,
-    pytorch_utils,
 )
+import numpy as np
 from utils import *
 
 
-def patched_isin_mps_friendly(elements, test_elements):
-    print("test")
-    if test_elements.ndim == 0:
-        test_elements = test_elements.unsqueeze(0)
-    return (
-        elements.tile(test_elements.shape[0], 1)
-        .eq(test_elements.unsqueeze(1))
-        .sum(dim=0)
-        .bool()
-        .squeeze()
-    )
+TOKENIZER = AutoTokenizer.from_pretrained("google-t5/t5-small")
+SOURCE_TO_TARGET_MODEL = AutoModelForSeq2SeqLM.from_pretrained("google-t5/t5-small")
+TARGET_TO_SOURCE_MODEL = AutoModelForSeq2SeqLM.from_pretrained("google-t5/t5-small")
 
+SRC_LANG = "AAVE"
+TGT_LANG = "SAE"
 
-pytorch_utils.isin_mps_friendly = patched_isin_mps_friendly
+METRIC = evaluate.load("sacrebleu")
 
 
 def train_model(
@@ -130,7 +124,7 @@ def train_model(
         learning_rate=1e-4,
         per_device_train_batch_size=8,
         # keep at 10 for initial training
-        num_train_epochs=10,
+        num_train_epochs=5,
         eval_strategy="epoch",
         save_strategy="epoch",
         logging_dir=target_to_source_log_dir,
@@ -156,12 +150,7 @@ def train_model(
     print("Iteration: 0")
     print(f"Training {target_lang} to {source_lang} model")
 
-    for entry in combined_target_to_source_data["test"]:
-        print(entry["input_ids"])
-        print(entry["labels"])
-        print(entry["attention_mask"])
-        print()
-
+    # TODO: log predicted sequences in eval loop
     target_to_source_trainer.train()
 
     for iteration in range(1, iterations + 1):
@@ -244,6 +233,7 @@ def train_model(
         print(f"Iteration: {iteration}")
         print(f"Training {source_lang} to {target_lang} model")
 
+        # TODO: log predicted sequences in eval loop
         source_to_target_trainer.train()
 
         print(f"Iteration: {iteration}")
@@ -322,19 +312,41 @@ def train_model(
         print(f"Iteration: {iterations}")
         print(f"Training {target_lang} to {source_lang} model")
 
+        # TODO: log predicted sequences in eval loop
         target_to_source_trainer.train()
 
     return source_to_target_model, target_to_source_model
 
 
-if __name__ == "__main__":
-    tokenizer = AutoTokenizer.from_pretrained("google-t5/t5-small")
-    source_to_target_model = AutoModelForSeq2SeqLM.from_pretrained("google-t5/t5-small")
-    target_to_source_model = AutoModelForSeq2SeqLM.from_pretrained("google-t5/t5-small")
+def compute_metrics(eval_preds):
+    preds, labels = eval_preds
+    # In case the model returns more than the prediction logits
+    if isinstance(preds, tuple):
+        preds = preds[0]
 
-    src_lang = "AAVE"
-    tgt_lang = "SAE"
+    decoded_preds = TOKENIZER.batch_decode(preds, skip_special_tokens=True)
 
+    # Replace -100s in the labels as we can't decode them
+    labels = np.where(labels != -100, labels, TOKENIZER.pad_token_id)
+    decoded_labels = TOKENIZER.batch_decode(labels, skip_special_tokens=True)
+
+    # Some simple post-processing
+    decoded_preds = [pred.strip() for pred in decoded_preds]
+    decoded_labels = [[label.strip()] for label in decoded_labels]
+
+    result = METRIC.compute(predictions=decoded_preds, references=decoded_labels)
+    result = {"bleu": result["score"]}
+
+    prediction_lens = [
+        np.count_nonzero(pred != TOKENIZER.pad_token_id) for pred in preds
+    ]
+    result["gen_len"] = np.mean(prediction_lens)
+    result = {k: round(v, 4) for k, v in result.items()}
+
+    return result
+
+
+def main():
     # used for paired txt files
     #
     # paired_src_data_path = f"/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/{src_lang}_samples.txt"
@@ -357,8 +369,8 @@ if __name__ == "__main__":
         yield_csv_lines,
         gen_kwargs={
             "csv_dataset_path": paired_csv_data_path,
-            "source_lang": src_lang,
-            "target_lang": tgt_lang,
+            "source_lang": SRC_LANG,
+            "target_lang": TGT_LANG,
             # use n for debugging
             # only loads n samples
             "n": 1000,
@@ -384,7 +396,7 @@ if __name__ == "__main__":
         yield_mono_lines,
         gen_kwargs={
             "path": monolingual_src_data_path,
-            "lang": src_lang,
+            "lang": SRC_LANG,
             "n": ratio * size_paired_dataset,
         },
     )
@@ -392,26 +404,28 @@ if __name__ == "__main__":
         yield_mono_lines,
         gen_kwargs={
             "path": monolingual_tgt_data_path,
-            "lang": tgt_lang,
+            "lang": TGT_LANG,
             "n": ratio * size_paired_dataset,
         },
     )
-
-    metric = evaluate.load("sacrebleu")
 
     experiment = "0 iterations (no IBT)/"
     log_dir = f"./logs/{experiment}"
 
     train_model(
         parallel_data=raw_paired_dataset,
-        source_to_target_model=source_to_target_model,
-        target_to_source_model=target_to_source_model,
-        tokenizer=tokenizer,
+        source_to_target_model=SOURCE_TO_TARGET_MODEL,
+        target_to_source_model=TARGET_TO_SOURCE_MODEL,
+        tokenizer=TOKENIZER,
         source_data=raw_monolingual_src_data,
         target_data=raw_monolingual_tgt_data,
-        iterations=0,
-        source_lang=src_lang,
-        target_lang=tgt_lang,
+        iterations=3,
+        source_lang=SRC_LANG,
+        target_lang=TGT_LANG,
         num_epochs=3,
         log_dir=log_dir,
     )
+
+
+if __name__ == "__main__":
+    main()
