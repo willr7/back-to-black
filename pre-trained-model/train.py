@@ -15,12 +15,18 @@ TOKENIZER = AutoTokenizer.from_pretrained("google-t5/t5-small")
 SOURCE_TO_TARGET_MODEL = AutoModelForSeq2SeqLM.from_pretrained("google-t5/t5-small")
 TARGET_TO_SOURCE_MODEL = AutoModelForSeq2SeqLM.from_pretrained("google-t5/t5-small")
 
+EXPERIMENT = "0 iterations (no IBT)/"
+LOG_DIR = f"./logs/{EXPERIMENT}"
+
 SRC_LANG = "AAVE"
 TGT_LANG = "SAE"
 
 METRIC = evaluate.load("sacrebleu")
 
 DATA_COLLATOR = DataCollatorForSeq2Seq(TOKENIZER, model=SOURCE_TO_TARGET_MODEL)
+
+# SOURCE_TO_TARGET_MODEL.generation_config.max_new_tokens = 30
+# TARGET_TO_SOURCE_MODEL.generation_config.max_new_tokens = 30
 
 
 def iterative_back_translation(
@@ -100,54 +106,14 @@ def iterative_back_translation(
         fn_kwargs={"src_lang": target_lang, "tokenizer": tokenizer},
     )
 
-    target_to_source_output_dir = log_dir + "target_to_source_models/iteration 0"
-    target_to_source_log_dir = log_dir + "target_to_source/iteration 0"
-
     if not from_pretrained:
-        # target_to_source_training_args = Seq2SeqTrainingArguments(
-        #     output_dir=target_to_source_output_dir,
-        #     learning_rate=1e-4,
-        #     per_device_train_batch_size=8,
-        #     num_train_epochs=initial_training_epochs,
-        #     eval_strategy="epoch",
-        #     save_strategy="epoch",
-        #     logging_dir=target_to_source_log_dir,
-        #     logging_steps=500,
-        #     predict_with_generate=True,
-        #     # fp16=True,
-        # )
-        #
-        # combined_target_to_source_data = target_to_source_data.train_test_split(
-        #     test_size=0.1
-        # )
-        #
-        # target_to_source_trainer = Seq2SeqTrainer(
-        #     model=target_to_source_model,
-        #     args=target_to_source_training_args,
-        #     train_dataset=combined_target_to_source_data["train"],
-        #     eval_dataset=combined_target_to_source_data["test"],
-        #     data_collator=DATA_COLLATOR,
-        #     tokenizer=tokenizer,
-        #     compute_metrics=compute_metrics,
-        # )
-        #
-        # print("Iteration: 0")
-        # print(f"Training {target_lang} to {source_lang} model")
-        #
-        # # TODO: log predicted sequences in eval loop
-        # # TODO: add max_new_tokens for eval loop
-        # target_to_source_trainer.train()
-        combined_target_to_source_data = target_to_source_data.train_test_split(
-            test_size=0.1
-        )
         target_to_source_model, target_to_source_trainer = train_model(
             model=target_to_source_model,
-            data=combined_target_to_source_data,
+            data=target_to_source_data,
             source_lang=target_lang,
             target_lang=source_lang,
             num_epochs=initial_training_epochs,
-            log_dir=target_to_source_log_dir,
-            output_dir=target_to_source_output_dir,
+            root_log_dir=log_dir,
             iteration=0,
         )
 
@@ -178,15 +144,6 @@ def iterative_back_translation(
             "input_ids", Sequence(Value("int32"))
         )
 
-        print_random_decoded_entries(
-            dataset=synthetic_source_to_target_data,
-            tokenizer=tokenizer,
-            iteration=iteration,
-            source_lang=source_lang,
-            target_lang=target_lang,
-            log_dir=target_to_source_log_dir,
-        )
-
         combined_source_to_target_data = concatenate_datasets(
             [source_to_target_data, synthetic_source_to_target_data]
         )
@@ -195,44 +152,15 @@ def iterative_back_translation(
             fix_attention_mask, batched=True
         )
 
-        # generate train/test split and start training
-        combined_source_to_target_data = (
-            combined_source_to_target_data.train_test_split(test_size=0.1)
-        )
-
-        source_to_target_output_dir = (
-            log_dir + f"source_to_target_models/iteration {iteration}"
-        )
-        source_to_target_log_dir = log_dir + f"source_to_target/iteration {iteration}"
-
-        source_to_target_training_args = Seq2SeqTrainingArguments(
-            output_dir=source_to_target_output_dir,
-            learning_rate=1e-4,
-            per_device_train_batch_size=8,
-            num_train_epochs=num_epochs,
-            eval_strategy="epoch",
-            save_strategy="epoch",
-            logging_dir=source_to_target_log_dir,
-            logging_steps=500,
-            predict_with_generate=True,
-            # fp16=True,
-        )
-
-        source_to_target_trainer = Seq2SeqTrainer(
+        source_to_target_model, source_to_target_trainer = train_model(
             model=source_to_target_model,
-            args=source_to_target_training_args,
-            train_dataset=combined_source_to_target_data["train"],
-            eval_dataset=combined_source_to_target_data["test"],
-            data_collator=DATA_COLLATOR,
-            tokenizer=tokenizer,
-            compute_metrics=compute_metrics,
+            data=combined_source_to_target_data,
+            source_lang=source_lang,
+            target_lang=target_lang,
+            num_epochs=num_epochs,
+            root_log_dir=log_dir,
+            iteration=iteration,
         )
-
-        print(f"Iteration: {iteration}")
-        print(f"Training {source_lang} to {target_lang} model")
-
-        # TODO: log predicted sequences in eval loop
-        source_to_target_trainer.train()
 
         print(f"Iteration: {iteration}")
         print(
@@ -258,15 +186,6 @@ def iterative_back_translation(
             "input_ids", Sequence(Value("int32"))
         )
 
-        print_random_decoded_entries(
-            dataset=synthetic_target_to_source_data,
-            tokenizer=tokenizer,
-            iteration=iteration,
-            source_lang=target_lang,
-            target_lang=source_lang,
-            log_dir=source_to_target_log_dir,
-        )
-
         combined_target_to_source_data = concatenate_datasets(
             [target_to_source_data, synthetic_target_to_source_data]
         )
@@ -275,43 +194,15 @@ def iterative_back_translation(
             fix_attention_mask, batched=True
         )
 
-        combined_target_to_source_data = (
-            combined_target_to_source_data.train_test_split(test_size=0.1)
-        )
-
-        target_to_source_output_dir = (
-            log_dir + f"target_to_source_models/iteration {iteration}"
-        )
-        target_to_source_log_dir = log_dir + f"target_to_source/iteration {iteration}"
-
-        target_to_source_training_args = Seq2SeqTrainingArguments(
-            output_dir=target_to_source_output_dir,
-            learning_rate=1e-4,
-            per_device_train_batch_size=8,
-            num_train_epochs=num_epochs,
-            eval_strategy="epoch",
-            save_strategy="epoch",
-            logging_dir=target_to_source_log_dir,
-            logging_steps=500,
-            predict_with_generate=True,
-            # fp16=True,
-        )
-
-        target_to_source_trainer = Seq2SeqTrainer(
+        target_to_source_model, target_to_source_trainer = train_model(
             model=target_to_source_model,
-            args=target_to_source_training_args,
-            train_dataset=combined_target_to_source_data["train"],
-            eval_dataset=combined_target_to_source_data["test"],
-            data_collator=DATA_COLLATOR,
-            tokenizer=tokenizer,
-            compute_metrics=compute_metrics,
+            data=combined_target_to_source_data,
+            source_lang=target_lang,
+            target_lang=source_lang,
+            num_epochs=num_epochs,
+            root_log_dir=log_dir,
+            iteration=iteration,
         )
-
-        print(f"Iteration: {iterations}")
-        print(f"Training {target_lang} to {source_lang} model")
-
-        # TODO: log predicted sequences in eval loop
-        target_to_source_trainer.train()
 
     return source_to_target_model, target_to_source_model
 
@@ -322,11 +213,17 @@ def train_model(
     source_lang: str,
     target_lang: str,
     num_epochs: int,
-    log_dir: str,
-    output_dir: str,
+    root_log_dir: str,
     iteration: int,
 ) -> tuple[AutoModelForSeq2SeqLM, Seq2SeqTrainer]:
-    target_to_source_training_args = Seq2SeqTrainingArguments(
+    log_dir = root_log_dir + f"{source_lang}_to_{target_lang}/iteration {iteration}"
+    output_dir = (
+        root_log_dir + f"{source_lang}_to_{target_lang}_models/iteration {iteration}"
+    )
+
+    data = data.train_test_split(test_size=0.1)
+
+    training_args = Seq2SeqTrainingArguments(
         output_dir=output_dir,
         learning_rate=1e-4,
         per_device_train_batch_size=8,
@@ -339,9 +236,9 @@ def train_model(
         # fp16=True,
     )
 
-    source_to_target_trainer = Seq2SeqTrainer(
+    trainer = Seq2SeqTrainer(
         model=model,
-        args=target_to_source_training_args,
+        args=training_args,
         train_dataset=data["train"],
         eval_dataset=data["test"],
         data_collator=DATA_COLLATOR,
@@ -354,9 +251,21 @@ def train_model(
 
     # TODO: log predicted sequences in eval loop
     # TODO: add max_new_tokens for eval loop
-    source_to_target_trainer.train()
+    trainer.train()
 
-    return model, source_to_target_trainer
+    save_test_predictions(
+        trainer=trainer,
+        dataset=data["test"],
+        tokenizer=TOKENIZER,
+        source_lang=source_lang,
+        target_lang=target_lang,
+        iteration=iteration,
+        log_dir=log_dir,
+        top_k=10,
+        bottom_k=10,
+    )
+
+    return model, trainer
 
 
 def compute_metrics(eval_preds):
@@ -414,7 +323,7 @@ def main():
             "target_lang": TGT_LANG,
             # use n for debugging
             # only loads n samples
-            "n": 1000,
+            # "n": 1000,
         },
     )
 
@@ -450,9 +359,6 @@ def main():
         },
     )
 
-    experiment = "0 iterations (no IBT)/"
-    log_dir = f"./logs/{experiment}"
-
     iterative_back_translation(
         parallel_data=raw_paired_dataset,
         source_to_target_model=SOURCE_TO_TARGET_MODEL,
@@ -464,7 +370,7 @@ def main():
         source_lang=SRC_LANG,
         target_lang=TGT_LANG,
         num_epochs=3,
-        log_dir=log_dir,
+        log_dir=LOG_DIR,
     )
 
 
