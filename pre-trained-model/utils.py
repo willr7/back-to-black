@@ -1,5 +1,4 @@
 import csv
-import random
 import os
 
 from typing import List, Dict, Any
@@ -7,18 +6,6 @@ from typing import List, Dict, Any
 import evaluate
 from transformers import Seq2SeqTrainer, AutoTokenizer
 from datasets import Dataset
-
-
-def compute_sentence_bleu(
-    prediction: str, reference: str, metric: evaluate.EvaluationModule
-) -> float:
-    """
-    Computes a sentence-level BLEU score using sacrebleu.
-    Returns a float (the BLEU score).
-    """
-    # sacrebleu expects list of predictions and list of lists of references
-    result = metric.compute(predictions=[prediction], references=[[reference]])
-    return result["score"]
 
 
 def compute_bleu_scores(
@@ -49,13 +36,6 @@ def save_test_predictions(
     bottom_k: int = 10,
 ) -> None:
     """
-    1) Uses the given trainer to predict on the dataset (test set).
-    2) Decodes and saves ALL predictions to all_test_predictions.txt
-       (including source, reference, and predicted text).
-    3) Computes a per-sample BLEU score, sorts the samples by BLEU.
-    4) Saves the highest BLEU samples to highest_bleu_samples.txt
-       and the lowest BLEU samples to lowest_bleu_samples.txt.
-
     :param trainer: Your Seq2SeqTrainer
     :param dataset: The dataset split you want to predict on (e.g., data["test"])
     :param tokenizer: The tokenizer to decode input_ids/labels/predictions
@@ -69,7 +49,6 @@ def save_test_predictions(
     label_ids = dataset["labels"]
     input_ids = dataset["input_ids"]
 
-    # 1. Run inference
     predictions_output = trainer.predict(
         test_dataset=dataset.remove_columns("labels"), max_length=40
     )
@@ -80,7 +59,6 @@ def save_test_predictions(
         for predicted_id_sequence in predicted_ids
     ]
 
-    # 2. Decode all predictions
     decoded_predictions = tokenizer.batch_decode(
         predicted_ids, skip_special_tokens=True
     )
@@ -89,13 +67,8 @@ def save_test_predictions(
     decoded_input_ids = tokenizer.batch_decode(input_ids, skip_special_tokens=True)
 
     metric = evaluate.load("sacrebleu")
-    # bleu_scores = metric.compute(
-    #     predictions=decoded_predictions, references=decoded_labels
-    # )
     bleu_scores = compute_bleu_scores(decoded_predictions, decoded_labels, metric)
 
-    # We'll collect a list of dicts with relevant info:
-    # label, prediction, BLEU score, etc.
     results: List[Dict[str, Any]] = []
 
     for idx in range(len(dataset)):
@@ -112,64 +85,30 @@ def save_test_predictions(
             }
         )
 
-    # for idx in range(len(dataset)):
-    #     # 2a. Decode the source text from input_ids
-    #     #     (some tasks only have 'input_ids' as the input)
-    #     #     If your dataset has a separate 'input_text' field, adjust accordingly.
-    #     input_ids = dataset[idx]["input_ids"]
-    #     # filter out any special padding like -100 if it exists
-    #     input_ids = [token_id for token_id in input_ids if token_id != -100]
-    #     source_text = tokenizer.decode(input_ids, skip_special_tokens=True)
-    #
-    #     # 2b. Decode the reference text (labels)
-    #     labels = dataset[idx]["labels"]
-    #     labels = [token_id for token_id in labels if token_id != -100]
-    #     reference_text = tokenizer.decode(labels, skip_special_tokens=True)
-    #
-    #     # 2c. Get the predicted text
-    #     predicted_text = decoded_predictions[idx]
-    #
-    #     # 3. Compute sentence-level BLEU
-    #     # metric = evaluate.load("sacrebleu")
-    #     # bleu_score = compute_sentence_bleu(predicted_text, reference_text, metric)
-    #
-    #
-    #     results.append(
-    #         {
-    #             "source_text": source_text,
-    #             "label": reference_text,
-    #             "prediction": predicted_text,
-    #             "bleu": bleu_score,
-    #         }
-    #     )
-
-    # 4. Save all predictions to a single file
     all_preds_file_path = os.path.join(log_dir, "all_test_predictions.txt")
     with open(all_preds_file_path, "w", encoding="utf-8") as f:
-        header = f"Iteration: {iteration} - All Test Predictions\n\n"
+        avg_bleu_score = sum(bleu_scores) / len(bleu_scores)
+        header = f"Iteration: {iteration} - All Test Predictions\n\nBleu Score: {avg_bleu_score:.2f}\n\n"
         f.write(header)
         for i, entry in enumerate(results):
             f.write(f"Row {i}:\n")
             f.write(f"  Source ({source_lang}):     {entry['source']}\n")
-            f.write(f"  Label ({target_lang}):      {entry['label']}\n")
+            f.write(f"  Label ({target_lang}):     {entry['label']}\n")
             f.write(f"  Prediction ({source_lang}): {entry['prediction']}\n")
             f.write(f"  BLEU: {entry['bleu']:.2f}\n\n")
 
-    # 5. Sort the results by BLEU (descending = highest BLEU first)
     sorted_by_bleu = sorted(results, key=lambda x: x["bleu"], reverse=True)
 
-    # 6. Save the top_k highest BLEU samples
     highest_bleu_samples_path = os.path.join(log_dir, "highest_bleu_samples.txt")
     with open(highest_bleu_samples_path, "w", encoding="utf-8") as f:
         header = f"Iteration: {iteration} - Top {top_k} Highest BLEU Samples\n\n"
         f.write(header)
         for i, entry in enumerate(sorted_by_bleu[:top_k]):
             f.write(f"Rank {i+1} (BLEU: {entry['bleu']:.2f})\n")
-            f.write(f"  Source ({source_lang}):    {entry['source']}\n")
-            f.write(f"  Label ({target_lang}): {entry['label']}\n")
+            f.write(f"  Source ({source_lang}):     {entry['source']}\n")
+            f.write(f"  Label ({target_lang}):     {entry['label']}\n")
             f.write(f"  Prediction ({source_lang}): {entry['prediction']}\n\n")
 
-    # 7. Save the bottom_k lowest BLEU samples
     lowest_bleu_samples_path = os.path.join(log_dir, "lowest_bleu_samples.txt")
     with open(lowest_bleu_samples_path, "w", encoding="utf-8") as f:
         header = f"Iteration: {iteration} - Bottom {bottom_k} Lowest BLEU Samples\n\n"
@@ -178,8 +117,8 @@ def save_test_predictions(
             f.write(
                 f"Rank {len(sorted_by_bleu) - bottom_k + i + 1} (BLEU: {entry['bleu']:.2f})\n"
             )
-            f.write(f"  Source ({source_lang}):    {entry['source']}\n")
-            f.write(f"  Label ({target_lang}): {entry['label']}\n")
+            f.write(f"  Source ({source_lang}):     {entry['source']}\n")
+            f.write(f"  Label ({target_lang}):     {entry['label']}\n")
             f.write(f"  Prediction ({source_lang}): {entry['prediction']}\n\n")
 
     print(
@@ -187,42 +126,6 @@ def save_test_predictions(
         f"Highest BLEU samples saved to: {highest_bleu_samples_path}\n"
         f"Lowest BLEU samples saved to:  {lowest_bleu_samples_path}\n"
     )
-
-
-def print_random_decoded_entries(
-    dataset,
-    tokenizer,
-    iteration,
-    source_lang,
-    target_lang,
-    log_dir,
-    log_predictions=True,
-    num_rows=10,
-):
-    random_indices = random.sample(range(len(dataset)), num_rows)
-    output_str = f"Iteration: {iteration}\n"
-
-    for idx in random_indices:
-        input_ids = dataset[idx]["input_ids"]
-        labels = dataset[idx]["labels"]
-
-        input_ids = [input_id for input_id in input_ids if input_id != -100]
-        decoded_input_ids = tokenizer.decode(input_ids, skip_special_tokens=True)
-        decoded_labels = tokenizer.decode(labels, skip_special_tokens=True)
-
-        output_str += "\n"
-        output_str += f"Row {idx}:\n"
-        output_str += f"  Ground Truth {target_lang}: {decoded_labels}\n"
-        output_str += f"  Predicted {source_lang}: {decoded_input_ids}\n"
-
-    output_str += "\n"
-
-    print(output_str)
-
-    if log_predictions:
-        prediction_file_path = log_dir + "/predictions.txt"
-        with open(prediction_file_path, "a") as f:
-            f.writelines(output_str)
 
 
 def fix_attention_mask(examples):

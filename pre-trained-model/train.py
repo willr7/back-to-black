@@ -15,6 +15,24 @@ TOKENIZER = AutoTokenizer.from_pretrained("google-t5/t5-small")
 SOURCE_TO_TARGET_MODEL = AutoModelForSeq2SeqLM.from_pretrained("google-t5/t5-small")
 TARGET_TO_SOURCE_MODEL = AutoModelForSeq2SeqLM.from_pretrained("google-t5/t5-small")
 
+# MONOLINGUAL_SRC_DATA_PATH = "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/combined_AAVE_data.txt"
+# MONOLINGUAL_TGT_DATA_PATH = (
+#     "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/cleaned_BAWE.txt"
+# )
+MONOLINGUAL_SRC_DATA_PATH = (
+    "/Users/willreed/projects/classes/nlp-final-project/coraal_dataset.txt"
+)
+MONOLINGUAL_TGT_DATA_PATH = (
+    "/Users/willreed/projects/classes/nlp-final-project/cleaned_BAWE.txt"
+)
+
+# PAIRED_CSV_DATA_PATH = "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/GPT Translated AAVE Lyrics.csv"
+PAIRED_CSV_DATA_PATH = (
+    "/Users/willreed/projects/classes/nlp-final-project/GPT-Translated-AAVE-Lyrics.csv"
+)
+
+RATIO = 1
+
 EXPERIMENT = "0 iterations (no IBT)/"
 LOG_DIR = f"./logs/{EXPERIMENT}"
 
@@ -249,8 +267,6 @@ def train_model(
     print(f"Iteration: {iteration}")
     print(f"Training {target_lang} to {source_lang} model")
 
-    # TODO: log predicted sequences in eval loop
-    # TODO: add max_new_tokens for eval loop
     trainer.train()
 
     save_test_predictions(
@@ -312,50 +328,34 @@ def main():
     #     },
     # )
 
-    # paired_csv_data_path = "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/GPT Translated AAVE Lyrics.csv"
-    paired_csv_data_path = "/Users/willreed/projects/classes/nlp-final-project/GPT-Translated-AAVE-Lyrics.csv"
-
     raw_paired_dataset = Dataset.from_generator(
         yield_csv_lines,
         gen_kwargs={
-            "csv_dataset_path": paired_csv_data_path,
+            "csv_dataset_path": PAIRED_CSV_DATA_PATH,
             "source_lang": SRC_LANG,
             "target_lang": TGT_LANG,
             # use n for debugging
             # only loads n samples
-            # "n": 1000,
+            "n": 1000,
         },
     )
 
     size_paired_dataset = len(raw_paired_dataset)
 
-    # monolingual_src_data_path = "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/combined_AAVE_data.txt"
-    # monolingual_tgt_data_path = (
-    #     "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/cleaned_BAWE.txt"
-    # )
-    monolingual_src_data_path = (
-        "/Users/willreed/projects/classes/nlp-final-project/coraal_dataset.txt"
-    )
-    monolingual_tgt_data_path = (
-        "/Users/willreed/projects/classes/nlp-final-project/cleaned_BAWE.txt"
-    )
-
-    ratio = 1
-
     raw_monolingual_src_data = Dataset.from_generator(
         yield_mono_lines,
         gen_kwargs={
-            "path": monolingual_src_data_path,
+            "path": MONOLINGUAL_SRC_DATA_PATH,
             "lang": SRC_LANG,
-            "n": ratio * size_paired_dataset,
+            "n": RATIO * size_paired_dataset,
         },
     )
     raw_monolingual_tgt_data = Dataset.from_generator(
         yield_mono_lines,
         gen_kwargs={
-            "path": monolingual_tgt_data_path,
+            "path": MONOLINGUAL_TGT_DATA_PATH,
             "lang": TGT_LANG,
-            "n": ratio * size_paired_dataset,
+            "n": RATIO * size_paired_dataset,
         },
     )
 
