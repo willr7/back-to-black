@@ -86,15 +86,24 @@ def save_test_predictions(
         )
 
     all_preds_file_path = os.path.join(log_dir, "all_test_predictions.txt")
+
+    # Determine the maximum length of the prefixes
+    source_prefix = f"  Source ({source_lang}):"
+    label_prefix = f"  Label ({target_lang}):"
+    prediction_prefix = f"  Prediction ({target_lang}):"
+    max_prefix_width = max(
+        len(source_prefix), len(label_prefix), len(prediction_prefix)
+    )
+
     with open(all_preds_file_path, "w", encoding="utf-8") as f:
         avg_bleu_score = sum(bleu_scores) / len(bleu_scores)
         header = f"Iteration: {iteration} - All Test Predictions\n\nBleu Score: {avg_bleu_score:.2f}\n\n"
         f.write(header)
         for i, entry in enumerate(results):
             f.write(f"Row {i}:\n")
-            f.write(f"  Source ({source_lang}):     {entry['source']}\n")
-            f.write(f"  Label ({target_lang}):     {entry['label']}\n")
-            f.write(f"  Prediction ({source_lang}): {entry['prediction']}\n")
+            f.write(f"{source_prefix:<{max_prefix_width}} {entry['source']}\n")
+            f.write(f"{label_prefix:<{max_prefix_width}} {entry['label']}\n")
+            f.write(f"{prediction_prefix:<{max_prefix_width}} {entry['prediction']}\n")
             f.write(f"  BLEU: {entry['bleu']:.2f}\n\n")
 
     sorted_by_bleu = sorted(results, key=lambda x: x["bleu"], reverse=True)
@@ -105,9 +114,11 @@ def save_test_predictions(
         f.write(header)
         for i, entry in enumerate(sorted_by_bleu[:top_k]):
             f.write(f"Rank {i+1} (BLEU: {entry['bleu']:.2f})\n")
-            f.write(f"  Source ({source_lang}):     {entry['source']}\n")
-            f.write(f"  Label ({target_lang}):     {entry['label']}\n")
-            f.write(f"  Prediction ({source_lang}): {entry['prediction']}\n\n")
+            f.write(f"{source_prefix:<{max_prefix_width}} {entry['source']}\n")
+            f.write(f"{label_prefix:<{max_prefix_width}} {entry['label']}\n")
+            f.write(
+                f"{prediction_prefix:<{max_prefix_width}} {entry['prediction']}\n\n"
+            )
 
     lowest_bleu_samples_path = os.path.join(log_dir, "lowest_bleu_samples.txt")
     with open(lowest_bleu_samples_path, "w", encoding="utf-8") as f:
@@ -117,10 +128,11 @@ def save_test_predictions(
             f.write(
                 f"Rank {len(sorted_by_bleu) - bottom_k + i + 1} (BLEU: {entry['bleu']:.2f})\n"
             )
-            f.write(f"  Source ({source_lang}):     {entry['source']}\n")
-            f.write(f"  Label ({target_lang}):     {entry['label']}\n")
-            f.write(f"  Prediction ({source_lang}): {entry['prediction']}\n\n")
-
+            f.write(f"{source_prefix:<{max_prefix_width}} {entry['source']}\n")
+            f.write(f"{label_prefix:<{max_prefix_width}} {entry['label']}\n")
+            f.write(
+                f"{prediction_prefix:<{max_prefix_width}} {entry['prediction']}\n\n"
+            )
     print(
         f"\nAll test predictions saved to: {all_preds_file_path}\n"
         f"Highest BLEU samples saved to: {highest_bleu_samples_path}\n"
@@ -185,12 +197,21 @@ def preprocess_lang_function(examples, src_lang, tokenizer, max_length=200):
 def yield_csv_lines(csv_dataset_path, source_lang, target_lang, n=1_000_000):
     with open(csv_dataset_path, "r") as csv_file:
         filereader = csv.reader(csv_file)
+        header = next(filereader)
         for i, line in enumerate(filereader):
             if i >= n:
                 break
 
+            try:
+                source_index = header.index(source_lang)
+                target_index = header.index(target_lang)
+            except ValueError:
+                raise ValueError(
+                    f"Source language '{source_lang}' or target language '{target_lang}' not found in header: {header}"
+                )
+
             if line[0].strip() != "" and line[1].strip() != "":
-                yield {source_lang: line[0], target_lang: line[1]}
+                yield {source_lang: line[source_index], target_lang: line[target_index]}
             else:
                 print("empty string found")
 

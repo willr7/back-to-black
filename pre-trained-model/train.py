@@ -9,42 +9,144 @@ from transformers import (
 )
 import numpy as np
 from utils import *
+import os
+import argparse
 
 
-TOKENIZER = AutoTokenizer.from_pretrained("google-t5/t5-small")
-SOURCE_TO_TARGET_MODEL = AutoModelForSeq2SeqLM.from_pretrained("google-t5/t5-small")
-TARGET_TO_SOURCE_MODEL = AutoModelForSeq2SeqLM.from_pretrained("google-t5/t5-small")
+def get_args():
+    parser = argparse.ArgumentParser(
+        description="Train translation models with iterative back-translation"
+    )
 
-# MONOLINGUAL_SRC_DATA_PATH = "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/combined_AAVE_data.txt"
-# MONOLINGUAL_TGT_DATA_PATH = (
-#     "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/cleaned_BAWE.txt"
-# )
-MONOLINGUAL_SRC_DATA_PATH = (
-    "/Users/willreed/projects/classes/nlp-final-project/coraal_dataset.txt"
+    # Model paths
+    parser.add_argument(
+        "--tokenizer_name",
+        type=str,
+        default="google-t5/t5-small",
+        help="Name or path of the tokenizer to use",
+    )
+    parser.add_argument(
+        "--source_to_target_model_name",
+        type=str,
+        default="google-t5/t5-small",
+        help="Name or path of the base model to use",
+    )
+    parser.add_argument(
+        "--target_to_source_model_name",
+        type=str,
+        default="google-t5/t5-small",
+        help="Name or path of the base model to use",
+    )
+
+    # Data paths
+    parser.add_argument(
+        "--monolingual_src_path",
+        type=str,
+        default="/Users/willreed/projects/classes/nlp-final-project/cleaned_BAWE.txt",
+        help="Path to source monolingual data",
+    )
+    parser.add_argument(
+        "--monolingual_tgt_path",
+        type=str,
+        default="/Users/willreed/projects/classes/nlp-final-project/coraal_dataset.txt",
+        help="Path to target monolingual data",
+    )
+    parser.add_argument(
+        "--paired_csv_path",
+        type=str,
+        default="/Users/willreed/projects/classes/nlp-final-project/GPT-Translated-AAVE-Lyrics.csv",
+        help="Path to paired CSV data",
+    )
+
+    # Experiment settings
+    parser.add_argument(
+        "--source_lang",
+        type=str,
+        default="SAE",
+        help="Source language for translation",
+    )
+    parser.add_argument(
+        "--target_lang",
+        type=str,
+        default="AAVE",
+        help="Target language for translation",
+    )
+    parser.add_argument(
+        "--iterations",
+        type=int,
+        default=3,
+        help="Number of back-translation iterations",
+    )
+    parser.add_argument(
+        "--experiment_name",
+        type=str,
+        default=None,
+        help="Name of the experiment (default: {iterations} iterations/)",
+    )
+    parser.add_argument(
+        "--log_dir",
+        type=str,
+        default=None,
+        help="Directory for logs (default: ./logs/{experiment_name})",
+    )
+    parser.add_argument(
+        "--num_epochs",
+        type=int,
+        default=3,
+        help="Number of epochs to train in each iteration",
+    )
+    parser.add_argument(
+        "--ratio", type=float, default=1, help="Ratio of synthetic data to real data"
+    )
+
+    args = parser.parse_args()
+
+    # Set default experiment name if not provided
+    if args.experiment_name is None:
+        args.experiment_name = f"{args.iterations} iterations"
+
+        os.makedirs("logs", exist_ok=True)
+        if args.experiment_name in os.listdir("./logs/"):
+            n = 1
+            args.experiment_name += f" {n}"
+            while args.experiment_name in os.listdir("./logs/"):
+                n += 1
+                args.experiment_name = args.experiment_name[:-1] + str(n)
+        print(args.experiment_name)
+
+    # Set default log directory if not provided
+    if args.log_dir is None:
+        args.log_dir = f"./logs/{args.experiment_name}/"
+
+    return args
+
+
+args = get_args()
+
+TOKENIZER = AutoTokenizer.from_pretrained(args.tokenizer_name)
+SOURCE_TO_TARGET_MODEL = AutoModelForSeq2SeqLM.from_pretrained(
+    args.source_to_target_model_name
 )
-MONOLINGUAL_TGT_DATA_PATH = (
-    "/Users/willreed/projects/classes/nlp-final-project/cleaned_BAWE.txt"
+TARGET_TO_SOURCE_MODEL = AutoModelForSeq2SeqLM.from_pretrained(
+    args.target_to_source_model_name
 )
 
-# PAIRED_CSV_DATA_PATH = "/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/GPT Translated AAVE Lyrics.csv"
-PAIRED_CSV_DATA_PATH = (
-    "/Users/willreed/projects/classes/nlp-final-project/GPT-Translated-AAVE-Lyrics.csv"
-)
+MONOLINGUAL_SRC_DATA_PATH = args.monolingual_src_path
+MONOLINGUAL_TGT_DATA_PATH = args.monolingual_tgt_path
+PAIRED_CSV_DATA_PATH = args.paired_csv_path
 
-RATIO = 1
+RATIO = args.ratio
+NUM_EPOCHS = args.num_epochs
+ITERATIONS = args.iterations
 
-EXPERIMENT = "0 iterations (no IBT)/"
-LOG_DIR = f"./logs/{EXPERIMENT}"
+LOG_DIR = args.log_dir
 
-SRC_LANG = "AAVE"
-TGT_LANG = "SAE"
+SRC_LANG = args.source_lang
+TGT_LANG = args.target_lang
 
 METRIC = evaluate.load("sacrebleu")
 
 DATA_COLLATOR = DataCollatorForSeq2Seq(TOKENIZER, model=SOURCE_TO_TARGET_MODEL)
-
-# SOURCE_TO_TARGET_MODEL.generation_config.max_new_tokens = 30
-# TARGET_TO_SOURCE_MODEL.generation_config.max_new_tokens = 30
 
 
 def iterative_back_translation(
@@ -87,11 +189,9 @@ def iterative_back_translation(
     =======
         the two models, trained
     """
-    # TODO: put data loading in a function
     source_to_target_data = parallel_data
     target_to_source_data = parallel_data
 
-    # TODO: add a max_sequence_length variable to use for setting max_new_tokens
     source_to_target_data = source_to_target_data.map(
         preprocess_source_to_target,
         batched=True,
@@ -110,8 +210,6 @@ def iterative_back_translation(
             "tokenizer": tokenizer,
         },
     )
-
-    # prepare monolingual data
 
     source_data = source_data.map(
         preprocess_lang_function,
@@ -265,7 +363,7 @@ def train_model(
     )
 
     print(f"Iteration: {iteration}")
-    print(f"Training {target_lang} to {source_lang} model")
+    print(f"Training {source_lang} to {target_lang} model")
 
     trainer.train()
 
@@ -286,17 +384,14 @@ def train_model(
 
 def compute_metrics(eval_preds):
     preds, labels = eval_preds
-    # In case the model returns more than the prediction logits
     if isinstance(preds, tuple):
         preds = preds[0]
 
     decoded_preds = TOKENIZER.batch_decode(preds, skip_special_tokens=True)
 
-    # Replace -100s in the labels as we can't decode them
     labels = np.where(labels != -100, labels, TOKENIZER.pad_token_id)
     decoded_labels = TOKENIZER.batch_decode(labels, skip_special_tokens=True)
 
-    # Some simple post-processing
     decoded_preds = [pred.strip() for pred in decoded_preds]
     decoded_labels = [[label.strip()] for label in decoded_labels]
 
@@ -313,21 +408,6 @@ def compute_metrics(eval_preds):
 
 
 def main():
-    # used for paired txt files
-    #
-    # paired_src_data_path = f"/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/{src_lang}_samples.txt"
-    # paired_tgt_data_path = f"/content/gdrive/MyDrive/6.861 Project/data/AAVE-SAE-data/{tgt_lang}_samples.txt"
-    #
-    # raw_paired_dataset = Dataset.from_generator(
-    #     yield_paired_lines,
-    #     gen_kwargs={
-    #         "source_path": paired_src_data_path,
-    #         "target_path": paired_tgt_data_path,
-    #         "source_lang": src_lang,
-    #         "target_lang": tgt_lang,
-    #     },
-    # )
-
     raw_paired_dataset = Dataset.from_generator(
         yield_csv_lines,
         gen_kwargs={
@@ -347,7 +427,7 @@ def main():
         gen_kwargs={
             "path": MONOLINGUAL_SRC_DATA_PATH,
             "lang": SRC_LANG,
-            "n": RATIO * size_paired_dataset,
+            # "n": RATIO * size_paired_dataset,
         },
     )
     raw_monolingual_tgt_data = Dataset.from_generator(
@@ -355,8 +435,15 @@ def main():
         gen_kwargs={
             "path": MONOLINGUAL_TGT_DATA_PATH,
             "lang": TGT_LANG,
-            "n": RATIO * size_paired_dataset,
+            # "n": RATIO * size_paired_dataset,
         },
+    )
+
+    raw_monolingual_src_data = raw_monolingual_src_data.shuffle().select(
+        range(max(len(raw_monolingual_src_data), RATIO * size_paired_dataset))
+    )
+    raw_monolingual_tgt_data = raw_monolingual_tgt_data.shuffle().select(
+        range(max(len(raw_monolingual_tgt_data), RATIO * size_paired_dataset))
     )
 
     iterative_back_translation(
@@ -366,10 +453,10 @@ def main():
         tokenizer=TOKENIZER,
         source_data=raw_monolingual_src_data,
         target_data=raw_monolingual_tgt_data,
-        iterations=3,
+        iterations=ITERATIONS,
         source_lang=SRC_LANG,
         target_lang=TGT_LANG,
-        num_epochs=3,
+        num_epochs=NUM_EPOCHS,
         log_dir=LOG_DIR,
     )
 
