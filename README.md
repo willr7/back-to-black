@@ -1,4 +1,1 @@
-NLP Final Project
-
-Step 1: Click the extension in the extension window
-Step 2: Click "Click this to scrape lyrics"
+Initially a final project for 6.8611, Quantitative Methods for Natural Language Processing
