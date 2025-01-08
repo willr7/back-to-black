@@ -1,8 +1,0 @@
-torch
-torchmetrics
-datasets
-tokenizers
-tqdm
-evaluate
-sacrebleu
-transformers==4.45.2
