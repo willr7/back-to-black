@@ -42,19 +42,19 @@ def get_args():
     parser.add_argument(
         "--monolingual_src_path",
         type=str,
-        default="~/nlp-final-project/nlp-data/cleaned_BAWE.txt",
+        default="/home/willr343/nlp-final-project/nlp-data/cleaned_BAWE.txt",
         help="Path to source monolingual data",
     )
     parser.add_argument(
         "--monolingual_tgt_path",
         type=str,
-        default="~/nlp-final-project/nlp-data/coraal_dataset.txt",
+        default="/home/willr343/nlp-final-project/nlp-data/combined_AAVE_data.txt",
         help="Path to target monolingual data",
     )
     parser.add_argument(
         "--paired_csv_path",
         type=str,
-        default="~/nlp-final-project/nlp-data/GPT-Translated-AAVE-Lyrics.csv",
+        default="/home/willr343/nlp-final-project/nlp-data/GPT-Translated-AAVE-Lyrics.csv",
         help="Path to paired CSV data",
     )
 
@@ -105,17 +105,17 @@ def get_args():
     if args.experiment_name is None:
         args.experiment_name = f"{args.iterations} iterations"
 
-        os.makedirs("logs", exist_ok=True)
-        if args.experiment_name in os.listdir("~/nlp-final-project/logs/"):
+        os.makedirs("/home/willr343/nlp-final-project/logs/", exist_ok=True)
+        if args.experiment_name in os.listdir("/home/willr343/nlp-final-project/logs/"):
             n = 1
             args.experiment_name += f" {n}"
-            while args.experiment_name in os.listdir("~/nlp-final-project/logs/"):
+            while args.experiment_name in os.listdir("/home/willr343/nlp-final-project/logs/"):
                 n += 1
                 args.experiment_name = args.experiment_name[:-1] + str(n)
 
     # Set default log directory if not provided
     if args.log_dir is None:
-        args.log_dir = f"~/nlp-final-project/logs/{args.experiment_name}/"
+        args.log_dir = f"/home/willr343/nlp-final-project/logs/{args.experiment_name}/"
 
     return args
 
@@ -348,7 +348,7 @@ def train_model(
         logging_dir=log_dir,
         logging_steps=500,
         predict_with_generate=True,
-        # fp16=True,
+        fp16=True,
     )
 
     trainer = Seq2SeqTrainer(

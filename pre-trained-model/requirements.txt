@@ -1,0 +1,6 @@
+evaluate
+datasets
+transformers
+numpy
+sacrebleu
+accelerate>=0.26.0
